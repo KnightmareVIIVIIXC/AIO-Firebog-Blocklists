@@ -11,7 +11,7 @@
 
 ---
 
-<strong>Sources excluded from the AIO lists</strong>
+<strong>Sources excluded from the AIO lists
   
   [✓] https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser [/✓]
 
@@ -37,4 +37,4 @@
 
   [X] <s>https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt</s> [/X]
 
-  [X] <s>https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt</s> [/X]
+  [X] <s>https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt</s> [/X]</strong>
