@@ -1,6 +1,5 @@
 # AIO-Firebog-Blocklists
-
-![LXXVII_Knightmare_fire_frog_aedc03f7-0df0-479b-b39a-1ec911574163](https://user-images.githubusercontent.com/114373431/227695490-718782ed-2720-4d31-92af-4843ac803530.png)
+![LXXVII_Knightmare_fire_frog_f96e24a6-a174-464c-a259-7ff7978c70ea](https://user-images.githubusercontent.com/114373431/227695631-da747d72-339c-47d6-aaca-0dbefed8afaa.png)
 
 All in one versions for lists found at https://firebog.net/
 
