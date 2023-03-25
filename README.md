@@ -2,18 +2,11 @@
   <img src="https://user-images.githubusercontent.com/114373431/227697996-2207642e-3c66-4c1b-99bb-a1b2f6aca5c3.png" />
 </p>
 
-<h3 align="center">  All in one versions of lists found at <a href="https://firebog.net/" title="Firebog">Firebog</a>
-</h3>
+<h2 align="center">  All in one versions of lists found at <a href="https://firebog.net/" title="Firebog">Firebog</a>
+<br><br></h2>
 
----
-
-<h3 align="center"><em>NOTE</em></h3>
-
-<h3 align="center">Lists on the site in <em>green</em> are least likely to interfere with browsing</h3>
-  
-<h3 align="center">Lists on the site that have a <em>strike</em> through them are not recommended for use</h3>
-  
---- 
+<h2 align="center"><em>NOTE</em><br><br>Lists on the site in <em>green</em> are least likely to interfere with browsing<br><br>Lists on the site that have a <em>strike</em> through them are not recommended for use<br><br></h2>
+    
 <h3 align="center">Sources excluded from the AIO lists</h3>
   
   <p align="center"><s>https://hostsfile.mine.nu/hosts0.txt</s>
