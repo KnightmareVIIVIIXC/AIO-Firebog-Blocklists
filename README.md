@@ -1,9 +1,18 @@
-# Firebog AIO Blocklists
-![LXXVII_Knightmare_fire_frog_8258021d-ef03-431a-8ee3-9ff640d98ed7](https://user-images.githubusercontent.com/114373431/227697996-2207642e-3c66-4c1b-99bb-a1b2f6aca5c3.png)
+<h1 align="center"> Firebog AIO Blocklists </h1>
 
-All in one versions for lists found at https://firebog.net/
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114373431/227697996-2207642e-3c66-4c1b-99bb-a1b2f6aca5c3.png" />
+</p>
 
-Sources excluded from all lists:
+<h3 align="center">  All in one versions of lists found at <a href="https://firebog.net/" title="Firebog">Firebog</a>
+</h3>
+
+<p align="center"><strong>Lists on the site in <em><strong>green</strong></em> are least likely to interfere with browsing</strong></p>
+  
+<p align="center"><strong>Lists on the site that have a <em>strike</em> through them are not recommended for use</strong></p>
+  
+--- 
+### Sources excluded from all lists
 - <s>https://hostsfile.mine.nu/hosts0.txt</s>
 - <s>https://hostsfile.org/Downloads/hosts.txt</s>
 - <s>https://www.joewein.net/dl/bl/dom-bl-base.txt</s>
