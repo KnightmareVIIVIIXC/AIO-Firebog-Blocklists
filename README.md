@@ -5,7 +5,7 @@
 <h2 align="center">  All in one versions of lists found at <a href="https://firebog.net/" title="Firebog">Firebog</a>
 <br><br></h2>
 
-<h2 align="center"><em>~ NOTE ~</em><br><br>[ ✓ ] Lists on the site in <em>green</em> are least likely to interfere with browsing<br><br>[ ! ] Lists on the site in <em>blue</em> could cause potential problems<br><br>[ X ] Lists on the site that have a <em>strike</em> through them are not recommended for use<br><br></h2>
+<h2 align="center"><em>~ NOTE ~</em><br><br>[ ✓ ] Lists on the site in <em>green</em> are least likely to interfere with browsing<br><br>[ ! ] Lists on the site in <em>blue</em> could cause some sites to break<br><br>[ X ] Lists on the site that have a <em>strike</em> through them are not recommended for use<br><br></h2>
     
 <h3 align="center">Sources excluded from the AIO lists</h3>
   
