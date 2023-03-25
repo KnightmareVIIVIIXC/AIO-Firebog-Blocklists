@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="center"><em>~ NOTE ~</em></h3><p align="center"><strong>[✓] Lists on the site in <em>green</em> are least likely to interfere with browsing [/✓]<br><br>[!] Lists on the site in <em>blue</em> could cause some sites to break [/!]<br><br>[X] Lists on the site that have a <em>strike</em> through them are not recommended for use [/X]</strong></p>
+<h3 align="center"><em>~ NOTE ~</em></h3><p align="center"><strong>[✓] Lists on the site in <em>green</em> are least likely to interfere with browsing [/✓]<br><br>[!] Lists on the site in <em>blue</em> could cause some sites to break [/!]<br><br>[X] Lists on the site with a <em>strike</em> through them are not recommended for use [/X]</strong></p>
 
 ---
 
