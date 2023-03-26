@@ -20,6 +20,8 @@ Excluded Sources | Type | Category
 |https://www.joewein.net/dl/bl/dom-bl-base.txt|Strike|Suspicious|
 |https://v.firebog.net/hosts/Kowabit.txt|Strike|Suspicious|
 |https://adblock.mahakala.is/|Strike|Suspicious|
+|https://v.firebog.net/hosts/Easylist.txt|Green|Advertising|
+|https://v.firebog.net/hosts/Easyprivacy.txt|Green|Tracking|
 |https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt|Strike|Tracking|
 |https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_HOST|Strike|Tracking|
 |https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt|Strike|Malicious|
