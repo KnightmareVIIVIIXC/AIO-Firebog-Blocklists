@@ -1,4 +1,4 @@
-<h1 align="center">The Firebog: The Big Blocklist Collection AIO</h1>
+<h1 align="center">⚠ The Firebog: The Big Blocklist Collection AIO ⚠</h1>
 <p align="center"><strong>Compilations of sources found at <a href="https://firebog.net/" title="">Firebog</a> in adblock formatted lists.</strong></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/114373431/227712062-5b7a9059-08d7-48dd-b6d9-7e8b4eb47b96.png" /></p>
 
