@@ -10,7 +10,7 @@
 ---
 
 Excluded Sources | Type | Category
---- | --- | ---
+:--- | --- | ---
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser|Green|Other|
 https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list|Blue|Other|
 https://v.firebog.net/hosts/Prigent-Adult.txt|Blue|Other|
