@@ -1,5 +1,5 @@
 Used Sources | Type | Category
---- | --- | ---
+:--- | --- | ---
 |https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt|Green|Suspicious|
 |https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts|Green|Suspicious|
 |https://v.firebog.net/hosts/static/w3kbl.txt|Green|Suspicious|
