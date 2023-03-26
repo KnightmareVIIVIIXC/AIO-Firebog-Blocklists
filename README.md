@@ -11,16 +11,16 @@
 
 Excluded Sources | Type | Category
 :--- | --- | ---
-https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser|Green|Other|
-https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list|Blue|Other|
-https://v.firebog.net/hosts/Prigent-Adult.txt|Blue|Other|
-https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt|Blue|Other|
-https://hostsfile.mine.nu/hosts0.txt|Strike|Suspicious|
-https://hostsfile.org/Downloads/hosts.txt|Strike|Suspicious|
-https://www.joewein.net/dl/bl/dom-bl-base.txt|Strike|Suspicious|
-https://v.firebog.net/hosts/Kowabit.txt|Strike|Suspicious|
-https://adblock.mahakala.is/|Strike|Suspicious|
-https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt|Strike|Tracking|
-https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_HOST|Strike|Tracking|
-https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt|Strike|Malicious|
-https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt|Strike|Malicious|
+|https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser|Green|Other|
+|https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list|Blue|Other|
+|https://v.firebog.net/hosts/Prigent-Adult.txt|Blue|Other|
+|https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt|Blue|Other|
+|https://hostsfile.mine.nu/hosts0.txt|Strike|Suspicious|
+|https://hostsfile.org/Downloads/hosts.txt|Strike|Suspicious|
+|https://www.joewein.net/dl/bl/dom-bl-base.txt|Strike|Suspicious|
+|https://v.firebog.net/hosts/Kowabit.txt|Strike|Suspicious|
+|https://adblock.mahakala.is/|Strike|Suspicious|
+|https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt|Strike|Tracking|
+|https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_HOST|Strike|Tracking|
+|https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt|Strike|Malicious|
+|https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt|Strike|Malicious|
