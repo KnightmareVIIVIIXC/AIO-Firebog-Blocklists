@@ -4,7 +4,15 @@
 
 ---
 
-<h3 align="center"><em>~ NOTE ~</em></h3><p align="center"><strong>The <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">AIO list</a> combines both the green and the blue lists<br><br>Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofireboggreen.txt" title="">green list</a> are least likely to interfere with browsing<br><br>Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebogblue.txt" title="">blue list</a> could cause some sites to break<br><br>Sources on the site with a <em>strike</em> through them are not recommended for use</strong></p>
+<h3 align="center"><em>~ NOTE ~</em></h3><p align="center"><strong>
+<ul>
+	<li>The <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">AIO list</a> combines both the green and the blue lists</li>
+	<br><br>
+	<li>Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofireboggreen.txt" title="">green list</a> are least likely to interfere with browsing</li>
+	<br><br>
+	<li>Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebogblue.txt" title="">blue list</a> could cause some sites to break</li>
+	<br><br>
+	<li>Sources on the site with a <em>strike</em> through them are not recommended for use</li></strong></p>
 
 ---
 
