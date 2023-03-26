@@ -1,4 +1,4 @@
-Used Source | Type | Category
+Used Sources | Type | Category
 --- | --- | ---
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt|Green|Suspicious|
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts|Green|Suspicious|
