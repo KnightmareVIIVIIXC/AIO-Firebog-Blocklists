@@ -10,7 +10,7 @@
 
 ---
 
-<h4>Sources excluded from the AIO lists</h5>
+<h4 align="center">Sources excluded from the AIO lists</h5>
   
   <strong>[✓]</strong> https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser <strong>[/✓]</strong>
 
