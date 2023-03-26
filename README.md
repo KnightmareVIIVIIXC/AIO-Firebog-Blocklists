@@ -9,8 +9,8 @@
 	
 ---
 
-Type | Category | Excluded Source
---- | --- | :---
+| Type | Category | Excluded Source |
+| --- | --- | :--- |
 |✔️|Other|https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser|
 |⚠️|Other|https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list|
 |⚠️|Other|https://v.firebog.net/hosts/Prigent-Adult.txt|
