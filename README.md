@@ -1,6 +1,6 @@
 <h1 align="center">🔥 The All-In-One Big Blocklist Collection 🔥</h1>
 <p align="center"><strong>💼 Compilations of <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/Sources.md" title="">sources</a> from The Firebog in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">adblock-style</a> lists 💼</strong></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/114373431/227712062-5b7a9059-08d7-48dd-b6d9-7e8b4eb47b96.png" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/114373431/227886138-519758e7-b16e-4adf-938c-2dd6babea3d5.png" /></p>
 
 ---
 
