@@ -1,6 +1,6 @@
 <h1 align="center">📖 The All-In-One Big Blocklist Collection 📖</h1>
 <p align="center"><strong>📊 Compilations of sources from The Firebog in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">adblock-style</a> lists 📊</strong></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/114373431/228053613-942aad39-0b70-42f2-bafa-022e56f11234.png" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/114373431/228078818-de7fe002-fb1e-4384-b197-b415c99046ad.png" /></p>
 
 ---
 
