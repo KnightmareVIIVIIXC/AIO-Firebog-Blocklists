@@ -1,5 +1,5 @@
-<h1 align="center">🔥 The All-In-One Big Blocklist Collection 🔥</h1>
-<p align="center"><strong>💼 Compilations of sources from The Firebog in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">adblock-style</a> lists 💼</strong></p>
+<h1 align="center">📊 The All-In-One Big Blocklist Collection 📊</h1>
+<p align="center"><strong>📖 Compilations of sources from The Firebog in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">adblock-style</a> lists 📖</strong></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/114373431/227908170-7646df5e-2c9e-4306-924a-db589dda4411.png" /></p>
 
 ---
