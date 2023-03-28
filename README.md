@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![LXXVII_Knightmare_fire_frog_reading_a_book_bog_898ca164-fdfb-487a-b0d1-7f4a739d98a2](https://user-images.githubusercontent.com/114373431/228214969-d9d02093-7f99-4181-be12-98d36e51e1cb.png)
+![](https://user-images.githubusercontent.com/114373431/228214969-d9d02093-7f99-4181-be12-98d36e51e1cb.png)
 
 </div>
 
