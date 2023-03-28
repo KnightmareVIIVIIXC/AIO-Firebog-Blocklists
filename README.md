@@ -15,7 +15,7 @@
 <div align="center">
 
 | 📝 | <em>NOTE</em> |
-|:---:|:---|
+| :---: | :--- |
 | 📚 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">all-in-one list</a> are from the green list and the blue list |
 | 📗 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofireboggreen.txt" title="">green list</a> are less likely to interfere with browsing |
 | 📘 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebogblue.txt" title="">blue list</a> are more likely to interfere with browsing |
@@ -28,7 +28,7 @@
 <div align="center">
   
 | Class | List | Included Source |
-| :---: | :---: | :---
+| --- | :---: | :---
 |Suspicious|📗|https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt|
 |Suspicious|📗|https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 |Suspicious|📗|https://v.firebog.net/hosts/static/w3kbl.txt
@@ -80,7 +80,7 @@
 <div align="center">
 
 | Class | List | Excluded Source |
-| :---: | :---: | :--- |
+| --- | --- | :--- |
 |Suspicious|📕|https://hostsfile.mine.nu/hosts0.txt|
 |Suspicious|📕|https://hostsfile.org/Downloads/hosts.txt|
 |Suspicious|📕|https://www.joewein.net/dl/bl/dom-bl-base.txt|
