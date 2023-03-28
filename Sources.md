@@ -1,4 +1,4 @@
-| Category | Type | Included Source |
+| Class | List | Included Source |
 | :---: | :---: | :---
 |Suspicious|📗|https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt|
 |Suspicious|📗|https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
@@ -46,7 +46,7 @@
 
 ---
 
-| Category | Type | Excluded Source |
+| Class | List | Excluded Source |
 | :---: | :---: | :--- |
 |Suspicious|📕|https://hostsfile.mine.nu/hosts0.txt|
 |Suspicious|📕|https://hostsfile.org/Downloads/hosts.txt|
