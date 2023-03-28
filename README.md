@@ -4,9 +4,15 @@
 
 ---
 
-<h3 align="center"><em>📝 NOTE 📝</em></h3><p align="center">
-<p align="center"><strong>📚 The <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">AIO list</a> combines the green list and the blue list 📚<br><br>📗 Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofireboggreen.txt" title="">green list</a> are least likely to interfere with browsing 📗<br><br>📘 Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebogblue.txt" title="">blue list</a> could cause some sites to break 📘<br><br>📕 Sources on <a href="https://firebog.net/" title="">The Firebog</a> with a strike through them are not recommended for use 📕</strong></p>
-	
+<div align="center">
+
+| 📝 | NOTE |
+|:---:|:---|
+| 📚 | The <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">AIO list</a> combines the green list and the blue list |
+| 📗 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofireboggreen.txt" title="">green list</a> are least likely to interfere with browsing |
+| 📘 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebogblue.txt" title="">blue list</a> could cause some sites to break |
+| 📕 | Sources on <a href="https://firebog.net/" title="">The Firebog</a> with a strike through them are not recommended for use |
+
 ---
 
 | Class | List | Included Source |
@@ -74,3 +80,5 @@
 |Other|📘|https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list|
 |Other|📘|https://v.firebog.net/hosts/Prigent-Adult.txt|
 |Other|📘|https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt|
+
+</div>
