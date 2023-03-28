@@ -15,7 +15,7 @@
 |:---:|:---|
 | 📚 | The <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">AIO list</a> combines the green list and the blue list |
 | 📗 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofireboggreen.txt" title="">green list</a> are less likely to interfere with browsing |
-| 📘 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebogblue.txt" title="">blue list</a> could cause some sites to break |
+| 📘 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebogblue.txt" title="">blue list</a> are more likely to interfere with browsing |
 | 📕 | Sources on <a href="https://firebog.net/" title="">The Firebog</a> with a strike through them are not recommended for use |
 
 </div>
