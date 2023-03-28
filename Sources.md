@@ -1,3 +1,5 @@
+<div align="center">
+
 | Class | List | Included Source |
 | :---: | :---: | :---
 |Suspicious|📗|https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt|
@@ -44,7 +46,11 @@
 |Malicious|📘|https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt|
 |Malicious|📘|https://v.firebog.net/hosts/Prigent-Malware.txt|
 
+</div>
+
 ---
+
+<div align="center">
 
 | Class | List | Excluded Source |
 | :---: | :---: | :--- |
@@ -63,3 +69,5 @@
 |Other|📘|https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list|
 |Other|📘|https://v.firebog.net/hosts/Prigent-Adult.txt|
 |Other|📘|https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt|
+
+</div>
