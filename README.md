@@ -80,7 +80,7 @@
 <div align="center">
 
 | Class | List | Excluded Source |
-| --- | --- | :--- |
+| --- | :---: | :--- |
 |Suspicious|📕|https://hostsfile.mine.nu/hosts0.txt|
 |Suspicious|📕|https://hostsfile.org/Downloads/hosts.txt|
 |Suspicious|📕|https://www.joewein.net/dl/bl/dom-bl-base.txt|
