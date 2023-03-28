@@ -11,7 +11,7 @@
 
 <div align="center">
 
-| 📝 | NOTE |
+| 📝 | <em>NOTE</em> |
 |:---:|:---|
 | 📚 | The <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">AIO list</a> combines the green list and the blue list |
 | 📗 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofireboggreen.txt" title="">green list</a> are least likely to interfere with browsing |
