@@ -1,6 +1,6 @@
-<h1 align="center">📊 The All-In-One Big Blocklist Collection 📊</h1>
-<p align="center"><strong>📖 Compilations of sources from The Firebog in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">adblock-style</a> lists 📖</strong></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/114373431/228053613-942aad39-0b70-42f2-bafa-022e56f11234.png" /></p>
+<h1 align="center">📖 The All-In-One Big Blocklist Collection 📖</h1>
+<p align="center"><strong>📊 Compilations of sources from The Firebog in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">adblock-style</a> lists 📊</strong></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/114373431/228088190-2a249613-4033-4886-a60c-edae938a37f7.png" /></p>
 
 ---
 
