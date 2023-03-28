@@ -1,14 +1,16 @@
 <h1 align="center">📖 The Big All-In-One Ad-Blocklist Collection 📖</h1>
-<p align="center">📊<strong> Compilation of sources from The Firebog in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">Adblock-style syntax</a> lists </strong>📊</p>
+<h4 align="center">📊 Compilation of sources from The Firebog in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">Adblock-style syntax</a> lists 📊</h4>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/114373431/228129289-9da79bce-5e41-4a28-aa8b-58227b5979a1.png" /></p>
+![LXXVII_Knightmare_fire_frog_reading_a_book_bog_898ca164-fdfb-487a-b0d1-7f4a739d98a2](https://user-images.githubusercontent.com/114373431/228214969-d9d02093-7f99-4181-be12-98d36e51e1cb.png)
 
 </div>
 
 ---
 
+<h4 align="center">
+  
 <div align="center">
 
 | 📝 | <em>NOTE</em> |
@@ -20,10 +22,14 @@
 
 </div>
   
+</h4>
+  
 ---
 
+<h4 align="center">
+  
 <div align="center">
-
+  
 | Class | List | Included Source |
 | :---: | :---: | :---
 |Suspicious|📗|https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt|
@@ -72,7 +78,11 @@
 
 </div>
 
+</h4>  
+  
 ---
+
+<h4 align="center">
 
 <div align="center">
 
@@ -95,3 +105,5 @@
 |Other|📘|https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt|
 
 </div>
+
+</h4>
