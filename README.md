@@ -22,12 +22,8 @@
 
 </div>
   
-</h4>
-  
 ---
 
-<h4 align="center">
-  
 <div align="center">
   
 | Class | List | Included Source |
@@ -78,11 +74,7 @@
 
 </div>
 
-</h4>  
-  
 ---
-
-<h4 align="center">
 
 <div align="center">
 
