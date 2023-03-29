@@ -54,6 +54,7 @@
 |Tracking|📘|https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt|
 |Tracking|📘|https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt|
 |Tracking|📘|https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt|
+|Tracking|📘|https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt|
 |Malicious|📗|https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt|
 |Malicious|📗|https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt|
 |Malicious|📗|https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt|
@@ -61,6 +62,7 @@
 |Malicious|📗|https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts|
 |Malicious|📗|https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt|
 |Malicious|📗|https://phishing.army/download/phishing_army_blocklist_extended.txt|
+|Malicious|📗|https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt|
 |Malicious|📗|https://v.firebog.net/hosts/RPiList-Malware.txt|
 |Malicious|📗|https://v.firebog.net/hosts/RPiList-Phishing.txt|
 |Malicious|📗|https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt|
@@ -84,10 +86,8 @@
 |Suspicious|📕|https://adblock.mahakala.is/|
 |Advertising|📗|https://v.firebog.net/hosts/Easylist.txt|
 |Tracking|📗|https://v.firebog.net/hosts/Easyprivacy.txt|
-|Tracking|📘|https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt|
 |Tracking|📕|https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt|
 |Tracking|📕|https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_HOST|
-|Malicious|📗|https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt|
 |Malicious|📕|https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt|
 |Malicious|📕|https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt|
 |Other|📗|https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser|
