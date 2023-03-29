@@ -1,4 +1,6 @@
-<h2 align="center">📊 The Big All-In-One Ad-Blocklist Collection 📊</h2>
+<h3 align="center">📊 The Big All-In-One Ad-Blocklist Collection 📊</h3>
+
+---
 
 <p align="center">📖 Compilation of sources from The Firebog in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">Adblock-style syntax</a> lists 📖</p>
 
