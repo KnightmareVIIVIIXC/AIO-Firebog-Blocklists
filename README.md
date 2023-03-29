@@ -1,6 +1,6 @@
 <h2 align="center">📊 The Big All-In-One Ad-Blocklist Collection 📊</h2>
 
-<h4 align="center">📖 Compilation of sources from The Firebog in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">Adblock-style syntax</a> lists 📖</h4>
+<p align="center">📖 Compilation of sources from The Firebog in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">Adblock-style syntax</a> lists 📖</p>
 
 <div align="center">
 
@@ -10,8 +10,6 @@
 
 ---
 
-<h4 align="center">
-  
 <div align="center">
 
 | 📝 | <em>NOTE</em> |
@@ -22,7 +20,7 @@
 | 📕 | Sources on <a href="https://firebog.net/" title="">The Firebog</a> with a strike through them are not recommended for use |
 
 </div>
-  
+
 ---
 
 <div align="center">
@@ -98,5 +96,3 @@
 |Other|📘|https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt|
 
 </div>
-
-</h4>
