@@ -41,7 +41,6 @@
 |Advertising|📗|https://v.firebog.net/hosts/AdguardDNS.txt|
 |Advertising|📗|https://v.firebog.net/hosts/Admiral.txt|
 |Advertising|📗|https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt|
-|Advertising|📗|https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt|
 |Advertising|📗|https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext|
 |Advertising|📗|https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts|
 |Advertising|📗|https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts|
@@ -84,6 +83,7 @@
 |Suspicious|📕|https://www.joewein.net/dl/bl/dom-bl-base.txt|
 |Suspicious|📕|https://v.firebog.net/hosts/Kowabit.txt|
 |Suspicious|📕|https://adblock.mahakala.is/|
+|Advertising|📗|https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt|
 |Advertising|📗|https://v.firebog.net/hosts/Easylist.txt|
 |Tracking|📗|https://v.firebog.net/hosts/Easyprivacy.txt|
 |Tracking|📕|https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt|
