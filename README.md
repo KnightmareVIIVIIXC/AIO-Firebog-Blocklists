@@ -14,10 +14,10 @@
 
 | 📝 | <em>NOTE</em> |
 | :---: | :--- |
-| 📕 | Sources on <a href="https://firebog.net/" title="">The Firebog</a> with a strike through them are not recommended for use |
+| 📕 | Strikethrough sources at <a href="https://firebog.net/" title=""><s>The Firebog</s></a> either contain many false postives or are deprecated |
 | 📗 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofireboggreen.txt" title="">green list</a> are less likely to interfere with browsing |
 | 📘 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebogblue.txt" title="">blue list</a> are more likely to interfere with browsing |
-| 📚 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">all-in-one list</a> are the green list sources merged with the blue list sources and extra tracking rules |
+| 📚 | The <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">all-in-one list</a> merges the green list sources with the blue list sources and adds rules from strikethrough sources |
 
 </div>
 
