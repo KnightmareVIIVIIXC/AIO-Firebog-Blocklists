@@ -69,6 +69,7 @@
 |Malicious|📗|https://urlhaus.abuse.ch/downloads/hostfile/|
 |Malicious|📘|https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt|
 |Malicious|📘|https://v.firebog.net/hosts/Prigent-Malware.txt|
+|Other|📗|https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser|
 
 </div>
 
@@ -90,7 +91,6 @@
 |Tracking|📕|https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_HOST|
 |Malicious|📕|https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt|
 |Malicious|📕|https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt|
-|Other|📗|https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser|
 |Other|📘|https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list|
 |Other|📘|https://v.firebog.net/hosts/Prigent-Adult.txt|
 |Other|📘|https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt|
