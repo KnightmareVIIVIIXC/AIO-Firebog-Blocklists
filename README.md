@@ -14,7 +14,7 @@
 
 | 📝 | <em>NOTE</em> |
 | :---: | :--- |
-| 📚 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">all-in-one list</a> are from the green list and the blue list |
+| 📚 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">all-in-one list</a> are from the green list, the blue list, and adds extra tracking rules |
 | 📗 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofireboggreen.txt" title="">green list</a> are less likely to interfere with browsing |
 | 📘 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebogblue.txt" title="">blue list</a> are more likely to interfere with browsing |
 | 📕 | Sources on <a href="https://firebog.net/" title="">The Firebog</a> with a strike through them are not recommended for use |
@@ -54,6 +54,7 @@
 |Tracking|📘|https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt|
 |Tracking|📘|https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt|
 |Tracking|📘|https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt|
+|Tracking|📕|https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt|
 |Malicious|📗|https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt|
 |Malicious|📗|https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt|
 |Malicious|📗|https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt|
@@ -87,7 +88,6 @@
 |Advertising|📗|https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt|
 |Advertising|📗|https://v.firebog.net/hosts/Easylist.txt|
 |Tracking|📗|https://v.firebog.net/hosts/Easyprivacy.txt|
-|Tracking|📕|https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt|
 |Tracking|📕|https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_HOST|
 |Malicious|📕|https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt|
 |Malicious|📕|https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt|

@@ -29,6 +29,7 @@
 |Tracking|📘|https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt|
 |Tracking|📘|https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt|
 |Tracking|📘|https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt|
+|Tracking|📕|https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt|
 |Malicious|📗|https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt|
 |Malicious|📗|https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt|
 |Malicious|📗|https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt|
@@ -62,7 +63,6 @@
 |Advertising|📗|https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt|
 |Advertising|📗|https://v.firebog.net/hosts/Easylist.txt|
 |Tracking|📗|https://v.firebog.net/hosts/Easyprivacy.txt|
-|Tracking|📕|https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt|
 |Tracking|📕|https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_HOST|
 |Malicious|📕|https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt|
 |Malicious|📕|https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt|
