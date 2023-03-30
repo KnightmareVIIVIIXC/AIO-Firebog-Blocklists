@@ -54,7 +54,7 @@
 |Tracking|📘|https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt|
 |Tracking|📘|https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt|
 |Tracking|📘|https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt|
-|Tracking|📕|https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt|
+|Tracking|📚|https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt|
 |Malicious|📗|https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt|
 |Malicious|📗|https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt|
 |Malicious|📗|https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt|
