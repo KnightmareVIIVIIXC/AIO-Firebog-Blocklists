@@ -28,8 +28,8 @@
 | Class | List | Included Source |
 | --- | :---: | :---
 |Suspicious|📗|https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt|
-|Suspicious|📗|https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
-|Suspicious|📗|https://v.firebog.net/hosts/static/w3kbl.txt
+|Suspicious|📗|https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts|
+|Suspicious|📗|https://v.firebog.net/hosts/static/w3kbl.txt|
 |Suspicious|📘|https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt|
 |Suspicious|📘|https://someonewhocares.org/hosts/zero/hosts|
 |Suspicious|📘|https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts|
