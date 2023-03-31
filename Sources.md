@@ -64,7 +64,7 @@
 |Advertising|📗|`https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt`|
 |Advertising|📗|`https://v.firebog.net/hosts/Easylist.txt`|
 |Tracking|📗|`https://v.firebog.net/hosts/Easyprivacy.txt`|
-|Tracking|📕|`https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_block-list/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_HOST`|
+|Tracking|📕|`https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_HOST`|
 |Malicious|📕|`https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt`|
 |Other|📘|`https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list`|
 |Other|📘|`https://v.firebog.net/hosts/Prigent-Adult.txt`|
