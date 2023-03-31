@@ -1,6 +1,6 @@
 <h2 align="center">📊 The Big All-In-One Ad-Blocklist Collection 📊</h2>
 
-<p align="center">📖 Compilation of sources from The Firebog in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">Adblock-style syntax</a> lists 📖</p>
+<p align="center">📖 <strong>Compilation of sources from The Firebog in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">Adblock-style syntax</a> lists</strong> 📖</p>
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 ---
 
-<div align="center">
+<h4 align="center">
 
 | 📝 | <em>NOTE</em> |
 | :---: | :--- |
@@ -19,7 +19,7 @@
 | 📘 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebogblue.txt" title="">blue list</a> are more likely to interfere with browsing |
 | 📚 | The <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">all-in-one list</a> merges the green list sources with the blue list sources and adds rules from strikethrough sources |
 
-</div>
+</h4>
 
 ---
 
