@@ -10,7 +10,7 @@
 
 ---
 
-<h4 align="center">
+<div align="center">
 
 | 📝 | <em>NOTE</em> |
 | :---: | :--- |
@@ -19,7 +19,7 @@
 | 📘 | Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebogblue.txt" title="">blue list</a> are more likely to interfere with browsing |
 | 📚 | The <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">all-in-one list</a> merges the green list with the blue list and adds strikethrough sources that are being updated |
 
-</h4>
+</div>
 
 ---
 
