@@ -12,7 +12,7 @@
 
 <div align="center">
 
-|📝|<em>NOTE</em>|
+|📝|<em>LEGEND</em>|
 | :---: | :--- |
 |📕|Strikethrough Source: contains many false postives and/or is deprecated|
 |📗|<a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofireboggreen.txt" title="">Green List</a> Source: less likely to interfere with browsing, included in the AIO list|
