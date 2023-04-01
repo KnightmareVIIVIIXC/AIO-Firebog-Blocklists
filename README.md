@@ -17,7 +17,7 @@
 |📕|Strikethrough Source: contains many false postives and/or is deprecated|
 |📗|<a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofireboggreen.txt" title="">Green List</a> Source: less likely to interfere with browsing|
 |📘|<a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebogblue.txt" title="">Blue List</a> Source: more likely to interfere with browsing|
-|📚|<a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">All-In-One List</a> Source: included in the AIO list along with the green list and the blue list|
+|📚|<a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">All-In-One List</a> Source: included in the AIO list along with the green and blue sources|
 
 </div>
 
