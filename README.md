@@ -2,7 +2,7 @@
 
 <div align="center">
 
-📖 <strong>Compilation of sources from <a href="https://firebog.net/" title="">The Firebog</a> in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">Adblock-style syntax</a> lists</strong> 📖
+📁 <strong>Compilation of sources from <a href="https://firebog.net/" title="">The Firebog</a> in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">Adblock-style syntax</a> lists</strong> 📁
   
 ![](https://user-images.githubusercontent.com/114373431/229015997-958c6df4-daeb-44f3-9b1f-c7a416f77759.png)
 
@@ -12,25 +12,23 @@
 
 <div align="center">
 
-| 📝 | <em>LEGEND</em> |
+| 📍 | <em>LEGEND</em> |
 |:---:|:---|
-| 📕 |Strikethrough Source: contains many false postives and/or is deprecated|
-| 📗 |Green Sources/Lists: less likely to interfere with browsing, included in the AIO list and other green lists|
-| 📘 |Blue Source/Lists: more likely to interfere with browsing, included in the AIO list and other blue lists|
-| 📚 |All-In-One Source/List: included in the AIO list, excluded from the other lists|
+| 📕 |Strikethrough: contains many false postives and/or is deprecated|
+| 📗 |Green: less likely to interfere with browsing, included in the AIO list and other green lists|
+| 📘 |Blue: more likely to interfere with browsing, included in the AIO list and other blue lists|
+| 📚 |All-In-One: included in the AIO list only|
 
 ---
 
-| 📃 | The Lists |
+| 📖 | The Lists |
 |---|:---:|
 | 📚 | <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/lists/aiofirebog.txt" title="">All-In-One List</a> |
 | 📘 | <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/lists/aiofirebogblue.txt" title="">All-In-One Blue List</a> |
 | 📗 | <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a> |
-| 📘 | <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/lists/firebogbluesusmal.txt" title="">Blue Suspicious + Malicious List</a> |
-| 📗 | <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/lists/fireboggreensusmal.txt" title="">Green Suspicious + Malicious List</a> |
-| 📗 | <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/lists/fireboggreenadtrack.txt" title="">Green Advertising + Tracking</a> |
-
----
+| 📘 | <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/lists/firebogbluesusmal.txt" title="">Suspicious + Malicious Blue List</a> |
+| 📗 | <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/lists/fireboggreensusmal.txt" title="">Suspicious + Malicious Green List</a> |
+| 📗 | <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/lists/fireboggreenadtrack.txt" title="">Advertising + Tracking Green List</a> |
 
 </div>
 
