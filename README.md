@@ -36,6 +36,7 @@
 |Suspicious|📘|`https://winhelp2002.mvps.org/hosts.txt`|
 |Suspicious|📘|`https://v.firebog.net/hosts/neohostsbasic.txt`|
 |Suspicious|📘|`https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt`|
+|Suspicious|📘|`https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt`|
 |Suspicious|📚|`https://hostsfile.mine.nu/hosts0.txt`|
 |Advertising|📗|`https://adaway.org/hosts.txt`|
 |Advertising|📗|`https://v.firebog.net/hosts/AdguardDNS.txt`|
@@ -80,7 +81,6 @@
 
 | Class | List | Excluded Source |
 | --- | :---: | :--- |
-|Suspicious|📘|`https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt`|
 |Suspicious|📕|`https://hostsfile.org/Downloads/hosts.txt`|
 |Suspicious|📕|`https://www.joewein.net/dl/bl/dom-bl-base.txt`|
 |Suspicious|📕|`https://v.firebog.net/hosts/Kowabit.txt`|
