@@ -2,7 +2,7 @@
 
 <div align="center">
 
-📖 <strong>Compilation of sources from The Firebog in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">Adblock-style syntax</a> lists</strong> 📖
+📖 <strong>Compilation of sources from <a href="https://firebog.net/" title="">The Firebog</a> in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">Adblock-style syntax</a> lists</strong> 📖
   
 ![](https://user-images.githubusercontent.com/114373431/229015997-958c6df4-daeb-44f3-9b1f-c7a416f77759.png)
 
@@ -14,10 +14,10 @@
 
 |📝|<em>NOTE</em>|
 | :---: | :--- |
-|📕|A strikethrough <s>source</s> on <a href="https://firebog.net/" title="">The Firebog</a> contains many false postives and/or is deprecated|
-|📗|Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofireboggreen.txt" title="">green list</a> are less likely to interfere with browsing|
-|📘|Sources in the <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebogblue.txt" title="">blue list</a> are more likely to interfere with browsing|
-|📚|The <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">all-in-one list</a> merges the green list with the blue list and includes up-to-date strikethrough sources|
+|📕|Strikethrough Source: contains many false postives and/or is deprecated|
+|📗|<a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofireboggreen.txt" title="">Green List</a> Source: less likely to interfere with browsing|
+|📘|<a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebogblue.txt" title="">Blue List</a> Source: more likely to interfere with browsing|
+|📚|<a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/aiofirebog.txt" title="">All-In-One List</a> Source: included in the AIO list along with the green list and the blue list|
 
 </div>
 
