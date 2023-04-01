@@ -15,8 +15,8 @@
 |📝|<em>LEGEND</em>|
 | :---: | :--- |
 |📕|Strikethrough Source: contains many false postives and/or is deprecated|
-|📗|Green Source: less likely to interfere with browsing, included in the AIO list and all other green lists|
-|📘|Blue Source: more likely to interfere with browsing, included in the AIO list and all other blue lists|
+|📗|Green Source: less likely to interfere with browsing, included in the AIO list and other green lists|
+|📘|Blue Source: more likely to interfere with browsing, included in the AIO list and other blue lists|
 |📚|All-In-One Source: included in the AIO list, excluded from the other lists|
 
 </div>
