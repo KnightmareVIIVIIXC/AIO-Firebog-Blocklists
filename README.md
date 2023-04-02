@@ -1,8 +1,8 @@
-<h2 align="center">📊 The Big All-In-One Ad-Blocklist Collection 📊</h2>
+<h2 align="center">📖 The Big All-In-One Ad-Blocklist Collection 📖</h2>
 
 <div align="center">
 
-📖 <strong>Compilation of sources from <a href="https://firebog.net/" title="">The Firebog</a> in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">Adblock-style syntax</a> lists</strong> 📖
+📊 <strong>Compilation of sources from <a href="https://firebog.net/" title="">The Firebog</a> in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/?clid=rcIhDm--xyMQaE--RDWWqB--tYsI80--RQyi1J--urr1K8--SkJIAU--BWMiWE--g4zsiU--0IuQ7i--phcWN5--MP1DNM--AD7FvT--9RkwfB--392abn--fpDNHE--SdAVoU#adblock-style-syntax" title="">Adblock-style syntax</a> lists</strong> 📊
   
 ![](https://user-images.githubusercontent.com/114373431/229015997-958c6df4-daeb-44f3-9b1f-c7a416f77759.png)
 
