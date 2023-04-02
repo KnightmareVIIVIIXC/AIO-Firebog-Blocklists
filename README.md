@@ -27,8 +27,9 @@
 | 📗 | <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a> |
 | 📘 | <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/lists/aiofirebogblue.txt" title="">All-In-One Blue List</a> |
 | 📗 | <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/lists/fireboggreenadtrack.txt" title="">Advertising + Tracking Green List</a> |
-| 📘 | <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/lists/firebogbluesusmal.txt" title="">Suspicious + Malicious Blue List</a> |
+| 📗 | <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/lists/fireboggblueadtrack.txt" title="">Advertising + Tracking Blue List</a> |
 | 📗 | <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/lists/fireboggreensusmal.txt" title="">Suspicious + Malicious Green List</a> |
+| 📘 | <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/lists/firebogbluesusmal.txt" title="">Suspicious + Malicious Blue List</a> |
 
 </div>
 
