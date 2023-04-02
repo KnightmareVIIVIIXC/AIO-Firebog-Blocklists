@@ -14,10 +14,10 @@
 
 | 📍 | <em>LEGEND</em> |
 |:---:|:---|
-| 📕 |Strikethrough: contains many false postives and/or is deprecated|
-| 📗 |Green: less likely to interfere with browsing, included in the AIO list and other green lists|
-| 📘 |Blue: more likely to interfere with browsing, included in the AIO list and other blue lists|
-| 📚 |All-In-One: included in the AIO list only|
+| 📚 |Included in the All-In-One (AIO) list only|
+| 📗 |Less likely to interfere with browsing, included in the AIO list and other green lists|
+| 📘 |More likely to interfere with browsing, included in the AIO list and other blue lists|
+| 📕 |Contains many false postives and/or is deprecated|
 
 ---
 
