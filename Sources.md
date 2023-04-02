@@ -1,7 +1,7 @@
 <div align="center">
   
 | Class | List | Included Source |
-|---|:---:|:---
+|:---:|:---:|:---
 | Suspicious | 📗 | `https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt` |
 | Suspicious | 📗 | `https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts` |
 | Suspicious | 📗 | `https://v.firebog.net/hosts/static/w3kbl.txt` |
@@ -55,7 +55,7 @@
 <div align="center">
 
 | Class | List | Excluded Source |
-|---|:---:|:---|
+|:---:|:---:|:---|
 | Suspicious | 📕 | `https://hostsfile.org/Downloads/hosts.txt` |
 | Suspicious | 📕 | `https://www.joewein.net/dl/bl/dom-bl-base.txt` |
 | Suspicious | 📕 | `https://v.firebog.net/hosts/Kowabit.txt` |
