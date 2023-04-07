@@ -35,6 +35,10 @@
 
 ---
 
+</div>
+
+---
+
 <div align="center">
   
 | Class | List | Included Source |
@@ -50,7 +54,7 @@
 | Suspicious | 📘 | `https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt` |
 | Suspicious | 📘 | `https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt` |
 | Advertising | 📗 | `https://adaway.org/hosts.txt` |
-| Advertising | 📗 | `https://v.firebog.net/hosts/AdguardDNS.txt` |
+| Advertising | 📗 | `https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt` |
 | Advertising | 📗 | `https://v.firebog.net/hosts/Admiral.txt` |
 | Advertising | 📗 | `https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt` |
 | Advertising | 📗 | `https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt` |
