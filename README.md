@@ -35,10 +35,6 @@
 
 ---
 
-</div>
-
----
-
 <div align="center">
   
 | Class | List | Included Source |
