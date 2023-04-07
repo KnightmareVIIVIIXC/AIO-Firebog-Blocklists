@@ -1,3 +1,7 @@
+</div>
+
+---
+
 <div align="center">
   
 | Class | List | Included Source |
@@ -9,7 +13,7 @@
 | Suspicious | 📘 | `https://someonewhocares.org/hosts/zero/hosts` |
 | Suspicious | 📘 | `https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts` |
 | Suspicious | 📘 | `https://winhelp2002.mvps.org/hosts.txt` |
-| Suspicious | 📘 | `https://v.firebog.net/hosts/neohostsbasic.txt` |
+| Suspicious | 📘 | `https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/127.0.0.1/basic/hosts` |
 | Suspicious | 📘 | `https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt` |
 | Suspicious | 📘 | `https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt` |
 | Advertising | 📗 | `https://adaway.org/hosts.txt` |
