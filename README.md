@@ -2,7 +2,7 @@
 
 <div align="center">
 
-📊 <strong>Compilation of sources from <a href="https://firebog.net/" title="">The Firebog</a> in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">Adblock-style syntax</a> lists</strong> 📊
+📁 <strong>Compilation of sources from <a href="https://firebog.net/" title="">The Firebog</a> in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">Adblock-style syntax</a> lists</strong> 📁
   
 ![](https://user-images.githubusercontent.com/114373431/229015997-958c6df4-daeb-44f3-9b1f-c7a416f77759.png)
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-| 📍 | <em>LEGEND</em> |
+| 📊 | <em>LEGEND</em> |
 |:---:|:---|
 | 📚 |Included in the All-In-One (AIO) list only|
 | 📗 |Less likely to interfere with browsing, included in the AIO list and green lists|
