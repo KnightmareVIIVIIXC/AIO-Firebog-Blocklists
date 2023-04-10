@@ -3,7 +3,7 @@
 ! Description: All the green advertising and tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: MIT
-! Last modified: 2023-04-10T10:56:51.439Z
+! Last modified: 2023-04-10T16:43:59.528Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -27335,7 +27335,6 @@ vkcdnservice.appspot.com^
 ||log.qvb.qcloud.com^
 ||log.tpns.gz2.tencent.com^
 ||trace.zhiyan.tencent-cloud.net^
-||norma-external-collect.meizu.com^
 ||log.iflytek.com^
 ||log.voicecloud.cn^
 ||aads.shuzilm.cn^
@@ -31717,15 +31716,6 @@ vkcdnservice.appspot.com^
 ||ws-goguardian.pusher.com^
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^
-||sp1.baidu.com^
-||sp2.baidu.com^
-||sp3.baidu.com^
-||als.baidu.com^
-||afd.baidu.com^
-||wkctj.baidu.com^
-||jpaasne.e.shifen.com^
-||caclick.baidu.com^
-||wkclick.baidu.com^
 ||keyade.net^
 ||keyade.com^
 ||storetail.io^
@@ -33706,6 +33696,15 @@ vkcdnservice.appspot.com^
 ||zion-telemetry.api.cnn.io^
 ||zion.qbo.intuit.com^
 charlestownwyllie.oaklawnnonantum.com^
+||sp1.baidu.com^
+||sp2.baidu.com^
+||sp3.baidu.com^
+||als.baidu.com^
+||afd.baidu.com^
+||wkctj.baidu.com^
+||jpaasne.e.shifen.com^
+||caclick.baidu.com^
+||wkclick.baidu.com^
 ||frontier.musical.ly^
 ||log.musical.ly^
 ||log2.musical.ly^
@@ -35404,6 +35403,7 @@ inapps.appsflyersdk.com^
 ||earthquakeend.com^
 ||encourageshock.com^
 ||encouragingvase.com^
+||engineertrick.com^
 ||enormousearth.com^
 ||enthusiasticring.com^
 ||faintflag.com^
@@ -42999,10 +42999,6 @@ inapps.appsflyersdk.com^
 ||zlog.mp3.zing.vn^
 ||zlog.zingmp3.vn^
 ||zminer.zaloapp.com^
-||zpsocial-f50-org.zadn.vn^
-||zpsocial-f51-org.zadn.vn^
-||zpsocial-f52-org.zadn.vn^
-||zpsocial-f53-org.zadn.vn^
 ||zt.me.zing.vn^
 ||zt1.me.zing.vn^
 ||12signup.com^
@@ -43580,6 +43576,9 @@ inapps.appsflyersdk.com^
 ||52qd.club^
 ||39nw.com^
 ||vel7.xyz^
+||nqyz.tw^
+||tc911.vip^
+||aaaaa699.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -54577,6 +54576,7 @@ analytics-*.aasaam.com
 ||hopemobi.net^
 ||connatix.com^
 ||liveclicker.net^
+||norma-external-collect.meizu.com^
 ||collect.content.intl.miui.com^
 ||sync.content.intl.miui.com^
 ||protect.dev.sec.intl.miui.com^
