@@ -39,8 +39,8 @@
 | Malicious | 📗 | `https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt` |
 | Malicious | 📗 | `https://phishing.army/download/phishing_army_blocklist_extended.txt` |
 | Malicious | 📗 | `https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt` |
-| Malicious | 📗 | `https://v.firebog.net/hosts/RPiList-Malware.txt` |
-| Malicious | 📗 | `https://v.firebog.net/hosts/RPiList-Phishing.txt` |
+| Malicious | 📗 | `https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware` |
+| Malicious | 📗 | `https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe` |
 | Malicious | 📗 | `https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt` |
 | Malicious | 📗 | `https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts` |
 | Malicious | 📗 | `https://urlhaus.abuse.ch/downloads/hostfile/` |
