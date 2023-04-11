@@ -12,7 +12,7 @@
 
 <div align="center">
 
-| 📊 | <em>LEGEND</em> |
+| 📊 | Legend |
 |:---:|:---|
 | 📚 |Included in the All-In-One (AIO) list only|
 | 📗 |Less likely to interfere with browsing, included in the AIO list and green lists|
@@ -30,6 +30,13 @@
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrack.txt" title="">Advertising + Tracking Blue List</a> |
 | 📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreensusmal.txt" title="">Suspicious + Malicious Green List</a> |
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusmal.txt" title="">Suspicious + Malicious Blue List</a> |
+
+---
+
+| ✄ | Whitelist Suggestions |
+|:---:|:---|
+| ✁ | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi Whitelist</a> |
+| ✃ | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/whitelist.txt" title="">hl2guide Whitelist</a> |
 
 </div>
 
