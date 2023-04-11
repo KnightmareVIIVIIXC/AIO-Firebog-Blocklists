@@ -35,8 +35,8 @@
 
 | ✄ | Whitelist Suggestions |
 |:---:|:---|
-| ✁ | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi Adblock Whitelist</a> |
-| ✃ | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/whitelist.txt" title="">hl2guide AdGuard-Home-Whitelist</a> |
+| ✁ | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi Whitelist</a> |
+| ✃ | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/whitelist.txt" title="">hl2guide Whitelist</a> |
 
 </div>
 
