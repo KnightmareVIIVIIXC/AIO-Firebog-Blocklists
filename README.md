@@ -2,7 +2,7 @@
 
 <div align="center">
 
-📁 <strong>Compilation of sources from <a href="https://firebog.net/" title="">The Firebog</a> in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">Adblock-style syntax</a> lists</strong> 📁
+📁 <strong>Compilation of sources from <a href="https://firebog.net/" title="">The Firebog</a> in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">Adblock-style</a> blocklists for ad blockers or DNS services</strong> 📁
   
 ![](https://user-images.githubusercontent.com/114373431/229015997-958c6df4-daeb-44f3-9b1f-c7a416f77759.png)
 
@@ -30,13 +30,6 @@
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrack.txt" title="">Advertising-Tracking Blue List</a> |
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusmal.txt" title="">Suspicious-Malicious Blue List</a> |
 | 📚 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The All-In-One List</a> |
-
----
-
-| ✄ | Whitelist Suggestions |
-|:---:|:---|
-| ✁ | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi Whitelist</a> |
-| ✃ | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/whitelist.txt" title="">hl2guide Whitelist</a> |
 
 </div>
 
