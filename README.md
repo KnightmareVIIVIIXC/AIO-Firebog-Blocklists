@@ -31,13 +31,6 @@
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusmal.txt" title="">Suspicious-Malicious Blue List</a> |
 | 📚 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The All-In-One List</a> |
 
----
-
-| ✄ | Whitelist Suggestions |
-|:---:|:---|
-| ✁ | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi Whitelist</a> |
-| ✃ | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/whitelist.txt" title="">hl2guide Whitelist</a> |
-
 </div>
 
 ---
