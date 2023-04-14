@@ -14,10 +14,10 @@
 
 | 📂 | Lists |
 |:---:|:---|
-| 📚 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a> |
+| 📙 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a> |
 | 📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrack.txt" title="">Advertising-Tracking Green List</a> |
 | 📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreensusmal.txt" title="">Suspicious-Malicious Green List</a> |
-| 📚 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">All-In-One Blue List</a> |
+| 📙 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">All-In-One Blue List</a> |
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrack.txt" title="">Advertising-Tracking Blue List</a> |
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusmal.txt" title="">Suspicious-Malicious Blue List</a> |
 | 📚 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Big All-In-One List</a> |
@@ -30,7 +30,7 @@
 
 | 📊 | Legend |
 |:---:|:---|
-| 📚 |Included in the Big All-In-One (AIO) list only|
+| 📙 |Included in the Big All-In-One (AIO) list only|
 | 📗 |Less likely to interfere with browsing, included in the Big AIO list and AIO green list|
 | 📘 |More likely to interfere with browsing, included in the Big AIO list and AIO blue list|
 | 📕 |Contains many false postives and/or is deprecated, excluded from all lists|
@@ -67,7 +67,7 @@
 | Tracking | 📘 | `https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt` |
 | Tracking | 📘 | `https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt` |
 | Tracking | 📘 | `https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt` |
-| Tracking | 📚 | `https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt` |
+| Tracking | 📙 | `https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt` |
 | Malicious | 📗 | `https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt` |
 | Malicious | 📗 | `https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt` |
 | Malicious | 📗 | `https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt` |
