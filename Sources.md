@@ -1,4 +1,17 @@
 <div align="center">
+
+| 📊 | Legend |
+|:---:|:---|
+| 📚 |Included in the Big All-In-One (AIO) list only|
+| 📗 |Less likely to interfere with browsing, included in the Big AIO list and AIO green list|
+| 📘 |More likely to interfere with browsing, included in the Big AIO list and AIO blue list|
+| 📕 |Contains many false postives and/or is deprecated, excluded from all lists|
+
+</div>
+
+---
+
+<div align="center">
   
 | Class | List | Included Source |
 |:---:|:---:|:---
