@@ -7,11 +7,7 @@
 | 📘 |More likely to interfere with browsing, included in the Big AIO list and AIO blue list|
 | 📕 |Contains many false postives and/or is deprecated, excluded from all lists|
 
-</div>
-
 ---
-
-<div align="center">
   
 | Class | List | Included Source |
 |:---:|:---:|:---
@@ -62,11 +58,7 @@
 | Other | 📗 | `https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser` |
 | Other | 📘 | `https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list` |
 
-</div>
-
 ---
-
-<div align="center">
 
 | Class | List | Excluded Source |
 |:---:|:---:|:---|
