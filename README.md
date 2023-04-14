@@ -17,7 +17,7 @@
 | 📚 |Included in the Big All-In-One (AIO) list only|
 | 📗 |Less likely to interfere with browsing, included in the Big AIO list and AIO green list|
 | 📘 |More likely to interfere with browsing, included in the Big AIO list and AIO blue list|
-| 📕 |Contains many false postives and/or is deprecated, not recommended|
+| 📕 |Contains many false postives and/or is deprecated, excluded from all lists|
 
 ---
 
