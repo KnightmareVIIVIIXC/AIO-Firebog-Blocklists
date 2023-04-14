@@ -14,7 +14,7 @@
 
 | 📊 | Legend |
 |:---:|:---|
-| 📚 |Included in the All-In-One (AIO) list only|
+| 📚 |Included in the Big All-In-One (AIO) list only|
 | 📗 |Less likely to interfere with browsing, included in the AIO list and AIO green list|
 | 📘 |More likely to interfere with browsing, included in the AIO list and AIO blue list|
 | 📕 |Contains many false postives and/or is deprecated, not recommended|
@@ -29,7 +29,7 @@
 | 📚 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">All-In-One Blue List</a> |
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrack.txt" title="">Advertising-Tracking Blue List</a> |
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusmal.txt" title="">Suspicious-Malicious Blue List</a> |
-| 📚 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The All-In-One List</a> |
+| 📚 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Big All-In-One List</a> |
 
 </div>
 
