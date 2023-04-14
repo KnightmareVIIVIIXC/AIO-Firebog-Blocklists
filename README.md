@@ -12,15 +12,6 @@
 
 <div align="center">
 
-| 📊 | Legend |
-|:---:|:---|
-| 📚 |Included in the Big All-In-One (AIO) list only|
-| 📗 |Less likely to interfere with browsing, included in the Big AIO list and AIO green list|
-| 📘 |More likely to interfere with browsing, included in the Big AIO list and AIO blue list|
-| 📕 |Contains many false postives and/or is deprecated, excluded from all lists|
-
----
-
 | 📂 | Lists |
 |:---:|:---|
 | 📚 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a> |
@@ -36,6 +27,15 @@
 ---
 
 <div align="center">
+
+| 📊 | Legend |
+|:---:|:---|
+| 📚 |Included in the Big All-In-One (AIO) list only|
+| 📗 |Less likely to interfere with browsing, included in the Big AIO list and AIO green list|
+| 📘 |More likely to interfere with browsing, included in the Big AIO list and AIO blue list|
+| 📕 |Contains many false postives and/or is deprecated, excluded from all lists|
+
+---
   
 | Class | List | Included Source |
 |:---:|:---:|:---
@@ -86,11 +86,7 @@
 | Other | 📗 | `https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser` |
 | Other | 📘 | `https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list` |
 
-</div>
-
 ---
-
-<div align="center">
 
 | Class | List | Excluded Source |
 |:---:|:---:|:---|
