@@ -5,7 +5,7 @@
 | 📙 |Included in the Big All-In-One (AIO) list only|
 | 📗 |Less likely to interfere with browsing, included in the Big AIO list and AIO green list|
 | 📘 |More likely to interfere with browsing, included in the Big AIO list and AIO blue list|
-| 📕 |Contains many false postives and/or is deprecated, excluded from all lists|
+| 📓 |Contains many false postives and/or is deprecated, excluded from all lists|
 
 ---
   
@@ -62,16 +62,16 @@
 
 | Class | List | Excluded Source |
 |:---:|:---:|:---|
-| Suspicious | 📕 | `https://hostsfile.mine.nu/hosts0.txt` |
-| Suspicious | 📕 | `https://hostsfile.org/Downloads/hosts.txt` |
-| Suspicious | 📕 | `https://www.joewein.net/dl/bl/dom-bl-base.txt` |
-| Suspicious | 📕 | `https://v.firebog.net/hosts/Kowabit.txt` |
-| Suspicious | 📕 | `https://adblock.mahakala.is/` |
+| Suspicious | 📓 | `https://hostsfile.mine.nu/hosts0.txt` |
+| Suspicious | 📓 | `https://hostsfile.org/Downloads/hosts.txt` |
+| Suspicious | 📓 | `https://www.joewein.net/dl/bl/dom-bl-base.txt` |
+| Suspicious | 📓 | `https://v.firebog.net/hosts/Kowabit.txt` |
+| Suspicious | 📓 | `https://adblock.mahakala.is/` |
 | Advertising | 📗 | `https://v.firebog.net/hosts/Easylist.txt` |
 | Tracking | 📗 | `https://v.firebog.net/hosts/Easyprivacy.txt` |
-| Tracking | 📕 | `https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_HOST` |
-| Malicious | 📕 | `https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt` |
-| Malicious | 📕 | `https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt` |
+| Tracking | 📓 | `https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_HOST` |
+| Malicious | 📓 | `https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt` |
+| Malicious | 📓 | `https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt` |
 | Other | 📘 | `https://v.firebog.net/hosts/Prigent-Adult.txt` |
 | Other | 📘 | `https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt` |
 
