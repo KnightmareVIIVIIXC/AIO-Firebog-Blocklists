@@ -31,9 +31,9 @@
 | 📊 | Legend |
 |:---:|:---|
 | 📙 |Included in The Big All-In-One (AIO) list only|
-| 📗 |Less likely to interfere with browsing, included in the Big AIO list and AIO green list|
-| 📘 |More likely to interfere with browsing, included in the Big AIO list and AIO blue list|
-| 📕 |Contains many false postives and/or is deprecated, excluded from all lists|
+| 📗 |Included in the Big AIO list and AIO green list, less likely to interfere with browsing|
+| 📘 |Included in the Big AIO list and AIO blue list, more likely to interfere with browsing|
+| 📕 |Excluded from all lists, contains many false postives and/or is deprecated|
 
 ---
   
