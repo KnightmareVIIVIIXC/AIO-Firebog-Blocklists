@@ -12,7 +12,7 @@
 
 <div align="center">
 
-| Block Level | Blocklists |
+| Intensity | Blocklists |
 |:---:|:---:|
 | 💊 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a> |
 | 💊 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrack.txt" title="">Advertising-Tracking Green List</a> |
