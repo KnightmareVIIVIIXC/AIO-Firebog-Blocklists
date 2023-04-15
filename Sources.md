@@ -1,6 +1,6 @@
 <div align="center">
 
-| 📊 | Legend |
+| List | Description |
 |:---:|:---|
 | 📕 |Included in The Big All-In-One (AIO) list only|
 | 📗 |Included in The Big AIO list and AIO green list, less likely to interfere with browsing|
