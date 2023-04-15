@@ -14,10 +14,10 @@
 
 | 📂 | Lists |
 |:---:|:---|
-| 📙 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a> |
+| 📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a> |
 | 📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrack.txt" title="">Advertising-Tracking Green List</a> |
 | 📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreensusmal.txt" title="">Suspicious-Malicious Green List</a> |
-| 📙 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">All-In-One Blue List</a> |
+| 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">All-In-One Blue List</a> |
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrack.txt" title="">Advertising-Tracking Blue List</a> |
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusmal.txt" title="">Suspicious-Malicious Blue List</a> |
 | 📚 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Big All-In-One List</a> |
