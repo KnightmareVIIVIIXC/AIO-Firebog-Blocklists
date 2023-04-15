@@ -56,7 +56,7 @@
 | Malicious | 📗 | `https://urlhaus.abuse.ch/downloads/hostfile/` |
 | Malicious | 📘 | `https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt` |
 | Malicious | 📘 | `https://v.firebog.net/hosts/Prigent-Malware.txt` |
-| Other | 📗 | `https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser` |
+| Other | 📗 | `https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts` |
 | Other | 📘 | `https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list` |
 
 </div>
