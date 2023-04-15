@@ -20,7 +20,7 @@
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">All-In-One Blue List</a> |
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrack.txt" title="">Advertising-Tracking Blue List</a> |
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusmal.txt" title="">Suspicious-Malicious Blue List</a> |
-| 📙 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Big All-In-One List</a> |
+| 📕 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Big All-In-One List</a> |
 
 </div>
 
@@ -30,7 +30,7 @@
 
 | 📊 | Legend |
 |:---:|:---|
-| 📙 |Included in The Big All-In-One (AIO) list only|
+| 📕 |Included in The Big All-In-One (AIO) list only|
 | 📗 |Included in The Big AIO list and AIO green list, less likely to interfere with browsing|
 | 📘 |Included in The Big AIO list and AIO blue list, more likely to interfere with browsing|
 | 📓 |Excluded from all lists, contains many false postives and/or is deprecated|
@@ -67,7 +67,7 @@
 | Tracking | 📘 | `https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt` |
 | Tracking | 📘 | `https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt` |
 | Tracking | 📘 | `https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt` |
-| Tracking | 📙 | `https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt` |
+| Tracking | 📕 | `https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt` |
 | Malicious | 📗 | `https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt` |
 | Malicious | 📗 | `https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt` |
 | Malicious | 📗 | `https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt` |
