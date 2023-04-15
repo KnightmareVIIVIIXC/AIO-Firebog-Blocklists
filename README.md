@@ -10,6 +10,8 @@
 
 ---
 
+<h4>
+
 <div align="center">
 
 | All-In-One Lists |
@@ -35,6 +37,8 @@
 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/whitelist.txt" title="">anudeepND's Whitelist</a> |
 
 </div>
+
+</h4>
 
 ---
 
