@@ -48,7 +48,6 @@
 | Suspicious | 📘 | `https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/127.0.0.1/basic/hosts` |
 | Suspicious | 📘 | `https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt` |
 | Suspicious | 📘 | `https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt` |
-| Suspicious | 📕 | `https://adblock.mahakala.is/` |
 | Advertising | 📗 | `https://adaway.org/hosts.txt` |
 | Advertising | 📗 | `https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt` |
 | Advertising | 📗 | `https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt` |
