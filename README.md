@@ -1,20 +1,20 @@
 <h2 align="center">📚 The Big All-In-One Ad-Blocklist Collection 📚</h2>
 
 <div align="center">
-
-📖 <strong>Compilation of sources from <a href="https://firebog.net/" title="">The Firebog</a> in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">Adblock-style</a> blocklists for ad blockers and DNS services</strong> 📖
   
-![](https://user-images.githubusercontent.com/114373431/229015997-958c6df4-daeb-44f3-9b1f-c7a416f77759.png)
-
+<strong>Compilation of <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/Sources.md" title="">sources</a> from <a href="https://firebog.net/" title="">The Firebog</a> in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">Adblock-style</a> blocklists for ad blockers and DNS services</strong>
+<br>
+  
+![](https://user-images.githubusercontent.com/114373431/232286794-2262cd8e-31c0-467b-9509-bc90a2272cd2.png)
 </div>
 
 ---
 
-<h4>
-
+<h3 align="center">📖 The Lists 📖</h3>
+<br>
 <div align="center">
 
-| All-In-One Lists (Green+Blue and/or >2 Classes) |
+| All-In-One Blocklists (Green+Blue and/or >2 Classes) |
 |:---:|
 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Big All-In-One List</a> |
 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a> |
@@ -27,7 +27,7 @@
 
 <br>
 
-| Lite Lists (2 Classes) |
+| Lite Blocklists (2 Classes) |
 |:---:|
 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrack.txt" title="">Advertising-Tracking Green List</a> |
 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreensusmal.txt" title="">Suspicious-Malicious Green List</a> |
@@ -36,16 +36,18 @@
 
 <br>  
 
-| Whitelist (includes referral-sites) |
+| Whitelists |
 |:---:|
-| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/whitelist.txt" title="">All-In-One anudeepND's Whitelist</a> |
+| <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's Whitelist</a> |
+| <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's Whitelist</a> |
+| <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's Whitelist</a> |
 
 </div>
 
-</h4>
-
 ---
 
+<h3 align="center">📊 The Sources 📊</h3>
+<br>
 <div align="center">
 
 | List | Description |
@@ -54,10 +56,10 @@
 | 📗 |Included in The Big AIO list and AIO green list, less likely to interfere with browsing|
 | 📘 |Included in The Big AIO list and AIO blue list, more likely to interfere with browsing|
 
----
+<br>
   
 | Class | List | Source |
-|:---:|:---:|:---
+|:---:|:---:|:---|
 | Suspicious | 📗 | `https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt` |
 | Suspicious | 📗 | `https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts` |
 | Suspicious | 📗 | `https://v.firebog.net/hosts/static/w3kbl.txt` |

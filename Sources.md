@@ -1,3 +1,5 @@
+<h2 align="center">📊 The Sources 📊</h2>
+
 <div align="center">
 
 | List | Description |
@@ -6,10 +8,10 @@
 | 📗 |Included in The Big AIO list and AIO green list, less likely to interfere with browsing|
 | 📘 |Included in The Big AIO list and AIO blue list, more likely to interfere with browsing|
 
----
+<br>
   
 | Class | List | Source |
-|:---:|:---:|:---
+|:---:|:---:|:---|
 | Suspicious | 📗 | `https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt` |
 | Suspicious | 📗 | `https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts` |
 | Suspicious | 📗 | `https://v.firebog.net/hosts/static/w3kbl.txt` |
