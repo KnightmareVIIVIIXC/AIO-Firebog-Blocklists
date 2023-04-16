@@ -1,8 +1,8 @@
-<h2 align="center">📚 The Big All-In-One Ad-Blocklist Collection 📚</h2>
+<h1 align="center">📚 The Big All-In-One Ad-Blocklist Collection 📚</h1>
 
 <div align="center">
 
-📖 <strong>Compilation of sources from <a href="https://firebog.net/" title="">The Firebog</a> in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">Adblock-style</a> blocklists for ad blockers and DNS services</strong> 📖
+📁 <strong>Compilation of sources from <a href="https://firebog.net/" title="">The Firebog</a> in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">Adblock-style</a> blocklists for ad blockers and DNS services</strong> 📂
   
 ![](https://user-images.githubusercontent.com/114373431/232286794-2262cd8e-31c0-467b-9509-bc90a2272cd2.png)
 
@@ -10,7 +10,7 @@
 
 ---
 
-<h4>
+<h2 align="center">📖 The Lists 📖</h2>
 
 <div align="center">
 
@@ -44,9 +44,8 @@
 
 </div>
 
-</h4>
-
 ---
+<h2 align="center">✍ The Sources ✍</h2>
 
 <div align="center">
 
