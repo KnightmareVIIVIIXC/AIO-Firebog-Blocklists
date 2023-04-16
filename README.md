@@ -56,7 +56,7 @@
 | 📗 |Included in The Big AIO list and AIO green list, less likely to interfere with browsing|
 | 📘 |Included in The Big AIO list and AIO blue list, more likely to interfere with browsing|
 
----
+<br>
   
 | Class | List | Source |
 |:---:|:---:|:---
