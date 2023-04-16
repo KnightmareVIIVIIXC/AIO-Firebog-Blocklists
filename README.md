@@ -36,7 +36,7 @@
 
 <br>  
 
-| Whitelist (includes optional-list) |
+| Whitelist (includes referral-sites) |
 |:---:|
 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/whitelist.txt" title="">All-In-One anudeepND's Whitelist</a> |
 
