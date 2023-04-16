@@ -14,7 +14,7 @@
 
 <div align="center">
 
-| All-In-One Lists (Green+Blue and/or >2 Classes) |
+| All-In-One Lists (Green+Blue and ≥2 Classes) |
 |:---:|
 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Big All-In-One List</a> |
 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a> |
