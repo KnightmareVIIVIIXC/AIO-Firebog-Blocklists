@@ -36,9 +36,9 @@
 
 <br>  
 
-| Whitelist (includes referral-sites) |
+| Whitelist |
 |:---:|
-| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/whitelist.txt" title="">All-In-One anudeepND's Whitelist</a> |
+| <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's Whitelist</a> |
 
 </div>
 
