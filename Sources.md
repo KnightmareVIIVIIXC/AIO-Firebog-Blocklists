@@ -1,6 +1,8 @@
-<h3 align="center">📊 The Sources 📊</h3>
-<br>
+<h2 align="center">📊 The Sources 📊</h2>
+
 <div align="center">
+
+<strong>All sources are from <a href="https://firebog.net/" title="">The Firebog</a></strong>
 
 | Color | List | Description |
 |:---:|:---:|:---|
