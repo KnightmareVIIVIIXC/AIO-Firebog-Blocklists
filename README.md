@@ -1,4 +1,4 @@
-<h2 align="center">📚 The Big All-In-One Ad-Blocklist Collection 📚</h2>
+<h1 align="center">📚 The Big All-In-One Ad-Blocklist Collection 📚</h1>
 
 <div align="center">
   
@@ -10,8 +10,8 @@
 
 ---
 
-<h3 align="center">📖 The Lists 📖</h3>
-<br>
+<h2 align="center">📖 The Lists 📖</h2>
+
 <div align="center">
 
 | All-In-One Blocklists |
@@ -46,8 +46,8 @@
 
 ---
 
-<h3 align="center">📊 The Sources 📊</h3>
-<br>
+<h2 align="center">📊 The Sources 📊</h2>
+
 <div align="center">
 
 | Color | List | Description |
