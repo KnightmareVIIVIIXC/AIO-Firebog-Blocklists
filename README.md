@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<strong>Compilation of <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/Sources.md" title="">sources</a> to minimize advertising, prevent tracking, and block malicious content <br> All sources are from <a href="https://firebog.net/" title="">The Firebog</a> and compiled into <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">Adblock-style</a> blocklists for ad blockers and DNS services</strong>
+<strong>Compilation of <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/Sources.md" title="">sources</a> to minimize advertising, prevent tracking, and block malicious content</strong>
 <br>
   
 ![](https://user-images.githubusercontent.com/114373431/232286794-2262cd8e-31c0-467b-9509-bc90a2272cd2.png)
@@ -13,6 +13,8 @@
 <h2 align="center">📖 The Lists 📖</h2>
 
 <div align="center">
+
+<strong><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">Adblock-style</a> blocklists for ad blockers and DNS services</strong>
 
 | All-In-One Blocklists |
 |:---:|
@@ -49,6 +51,8 @@
 <h2 align="center">📊 The Sources 📊</h2>
 
 <div align="center">
+
+<strong>All sources are from <a href="https://firebog.net/" title="">The Firebog</a></strong>
 
 | Color | List | Description |
 |:---:|:---:|:---|
