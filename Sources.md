@@ -1,12 +1,12 @@
-<h2 align="center">📊 The Sources 📊</h2>
-
+<h3 align="center">📊 The Sources 📊</h3>
+<br>
 <div align="center">
 
-| List | Description |
-|:---:|:---|
-| 📕 |Included in The Big All-In-One (AIO) list only|
-| 📗 |Included in The Big AIO list and AIO green list, less likely to interfere with browsing|
-| 📘 |Included in The Big AIO list and AIO blue list, more likely to interfere with browsing|
+| Color | List | Description |
+|:---:|:---:|:---|
+|Red| 📕 |Included in The Big All-In-One (AIO) list only|
+|Green| 📗 |Included in The Big AIO list and AIO green list, less likely to interfere with browsing|
+|Blue| 📘 |Included in The Big AIO list and AIO blue list, more likely to interfere with browsing|
 
 <br>
   

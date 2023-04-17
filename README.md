@@ -14,7 +14,7 @@
 <br>
 <div align="center">
 
-| All-In-One Blocklists (Green+Blue and/or >2 Classes) |
+| All-In-One Blocklists |
 |:---:|
 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Big All-In-One List</a> |
 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a> |
@@ -27,7 +27,7 @@
 
 <br>
 
-| Lite Blocklists (2 Classes) |
+| Lite Blocklists |
 |:---:|
 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrack.txt" title="">Advertising-Tracking Green List</a> |
 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreensusmal.txt" title="">Suspicious-Malicious Green List</a> |
@@ -50,11 +50,11 @@
 <br>
 <div align="center">
 
-| List | Description |
-|:---:|:---|
-| 📕 |Included in The Big All-In-One (AIO) list only|
-| 📗 |Included in The Big AIO list and AIO green list, less likely to interfere with browsing|
-| 📘 |Included in The Big AIO list and AIO blue list, more likely to interfere with browsing|
+| Color | List | Description |
+|:---:|:---:|:---|
+|Red| 📕 |Included in The Big All-In-One (AIO) list only|
+|Green| 📗 |Included in The Big AIO list and AIO green list, less likely to interfere with browsing|
+|Blue| 📘 |Included in The Big AIO list and AIO blue list, more likely to interfere with browsing|
 
 <br>
   
