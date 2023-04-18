@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<strong><em><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">Adblock-style</a> blocklists for ad blockers and DNS services</em></strong>
+<strong><em><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">AdBlock-style</a> blocklists for ad blockers and DNS services</em></strong>
 
 | All-In-One Blocklists |
 |:---:|
@@ -45,6 +45,22 @@
 | <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's Whitelist</a> |
 | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's Whitelist</a> |
 | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's Whitelist</a> |
+
+</div>
+
+---
+
+<h2 align="center">📈 AdBlock Tests 📉</h2>
+
+<div align="center">
+
+<strong><em>Tests to help you identify what formats of advertisements are blocked or unblocked</em></strong>
+
+| Testing Tools |
+|:---:|
+| <a href="https://d3ward.github.io/toolz/adblock" title="">d3ward's AdBlock Test</a> |
+| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |
+| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |
 
 </div>
 
