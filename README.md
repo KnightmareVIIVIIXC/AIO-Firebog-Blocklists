@@ -50,11 +50,11 @@
 
 ---
 
-<h2 align="center">📈 AdBlock Tests 📉</h2>
+<h2 align="center">📈 The Tests 📉</h2>
 
 <div align="center">
 
-<strong><em>Tests to help you identify what formats of advertisements are blocked or unblocked</em></strong>
+<strong><em>Tools to help you identify what is blocked or unblocked</em></strong>
 
 | Testing Tools |
 |:---:|
