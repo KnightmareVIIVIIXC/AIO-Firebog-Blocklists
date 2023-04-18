@@ -40,7 +40,7 @@
 
 <br>  
 
-| Whitelists |
+| Whitelist Suggestions |
 |:---:|
 | <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's Whitelist</a> |
 | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's Whitelist</a> |
