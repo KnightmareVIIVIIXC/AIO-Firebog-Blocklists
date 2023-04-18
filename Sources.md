@@ -3,6 +3,8 @@
 <div align="center">
 
 <strong><em>All sources are from <a href="https://firebog.net/" title="">The Firebog</a></em></strong>
+  
+<br>
 
 | Type | List | Description |
 |:---:|:---:|:---|
