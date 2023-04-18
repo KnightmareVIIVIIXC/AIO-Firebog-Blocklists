@@ -72,7 +72,7 @@
 
 <strong><em>All sources are from <a href="https://firebog.net/" title="">The Firebog</a></em></strong>
 
-| Name | List | Description |
+| Type | List | Description |
 |:---:|:---:|:---|
 |All-In-One| 📕 |Included in The Big All-In-One (AIO) list only, consider using a whitelist|
 |Green| 📗 |Included in The Big AIO list and AIO green list, less likely to interfere with browsing|
