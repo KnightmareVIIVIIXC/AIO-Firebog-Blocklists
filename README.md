@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<strong>Compilation of <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/Sources.md" title="">sources</a> to minimize advertising, prevent tracking, and block malicious content <br> All sources are from <a href="https://firebog.net/" title="">The Firebog</a> and compiled into <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">Adblock-style</a> blocklists for ad blockers and DNS services</strong>
+<strong><em>Compilation of <a href="https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/Sources.md" title="">sources</a> to minimize advertising, prevent tracking, and block malicious content</em></strong>
 <br>
   
 ![](https://user-images.githubusercontent.com/114373431/232286794-2262cd8e-31c0-467b-9509-bc90a2272cd2.png)
@@ -13,6 +13,8 @@
 <h2 align="center">📖 The Lists 📖</h2>
 
 <div align="center">
+
+<strong><em><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">Adblock-style</a> blocklists for ad blockers and DNS services</em></strong>
 
 | All-In-One Blocklists |
 |:---:|
@@ -50,6 +52,8 @@
 
 <div align="center">
 
+<strong><em>All sources are from <a href="https://firebog.net/" title="">The Firebog</a></em></strong>
+
 | Color | List | Description |
 |:---:|:---:|:---|
 |Red| 📕 |Included in The Big All-In-One (AIO) list only|
@@ -73,7 +77,7 @@
 | Suspicious | 📕 | `https://hostsfile.mine.nu/hosts0.txt` |
 | Suspicious | 📕 | `https://adblock.mahakala.is/` |
 | Advertising | 📗 | `https://adaway.org/hosts.txt` |
-| Advertising | 📗 | `https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt` |
+| Advertising | 📗 | `https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt` |
 | Advertising | 📗 | `https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt` |
 | Advertising | 📗 | `https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt` |
 | Advertising | 📗 | `https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt` |

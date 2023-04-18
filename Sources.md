@@ -1,6 +1,8 @@
-<h3 align="center">📊 The Sources 📊</h3>
-<br>
+<h2 align="center">📊 The Sources 📊</h2>
+
 <div align="center">
+
+<strong><em>All sources are from <a href="https://firebog.net/" title="">The Firebog</a></em></strong>
 
 | Color | List | Description |
 |:---:|:---:|:---|
@@ -25,7 +27,7 @@
 | Suspicious | 📕 | `https://hostsfile.mine.nu/hosts0.txt` |
 | Suspicious | 📕 | `https://adblock.mahakala.is/` |
 | Advertising | 📗 | `https://adaway.org/hosts.txt` |
-| Advertising | 📗 | `https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt` |
+| Advertising | 📗 | `https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt` |
 | Advertising | 📗 | `https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt` |
 | Advertising | 📗 | `https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt` |
 | Advertising | 📗 | `https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt` |
