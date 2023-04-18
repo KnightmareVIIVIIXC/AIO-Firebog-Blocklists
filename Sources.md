@@ -6,7 +6,7 @@
 
 | Color | List | Description |
 |:---:|:---:|:---|
-|Red| 📕 |Included in The Big All-In-One (AIO) list only|
+|Red| 📕 |Included in The Big All-In-One (AIO) list only (this is why we have Whitelists)|
 |Green| 📗 |Included in The Big AIO list and AIO green list, less likely to interfere with browsing|
 |Blue| 📘 |Included in The Big AIO list and AIO blue list, more likely to interfere with browsing|
 
