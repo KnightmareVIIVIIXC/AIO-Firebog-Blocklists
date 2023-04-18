@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<strong><em>Compilation of sources to minimize advertising, prevent tracking, and block malicious content</em></strong>
+<strong><em>Compilation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/README.md#-the-sources-) to minimize advertising, prevent tracking, and block malicious content</em></strong>
 <br>
   
 ![](https://user-images.githubusercontent.com/114373431/232286794-2262cd8e-31c0-467b-9509-bc90a2272cd2.png)
