@@ -18,7 +18,7 @@
 
 | All-In-One Blocklists |
 |:---:|
-| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Big All-In-One List (this is why we have Whitelists)</a> |
+| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Big All-In-One List</a> |
 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a> |
 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">All-In-One Blue List</a> |
 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrackmal.txt" title="">All-In-One Advertising-Tracking-Malicious List</a> |
@@ -74,7 +74,7 @@
 
 | Color | List | Description |
 |:---:|:---:|:---|
-|Red| 📕 |Included in The Big All-In-One (AIO) list only|
+|Red| 📕 |Included in The Big All-In-One (AIO) list only (this is why we have Whitelists)|
 |Green| 📗 |Included in The Big AIO list and AIO green list, less likely to interfere with browsing|
 |Blue| 📘 |Included in The Big AIO list and AIO blue list, more likely to interfere with browsing|
 
