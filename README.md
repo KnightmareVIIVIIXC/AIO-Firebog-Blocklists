@@ -16,6 +16,8 @@
 
 <strong><em><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">AdBlock-style</a> blocklists for ad blockers and DNS services</em></strong>
 
+<br>
+
 | All-In-One Blocklists |
 |:---:|
 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Big All-In-One List</a> |
@@ -56,6 +58,8 @@
 
 <strong><em>Tools to help identify what is blocked or unblocked</em></strong>
 
+<br>
+
 | Testing Tools |
 |:---:|
 | <a href="https://d3ward.github.io/toolz/adblock" title="">d3ward's AdBlock Test</a> |
@@ -71,6 +75,8 @@
 <div align="center">
 
 <strong><em>All sources are from <a href="https://firebog.net/" title="">The Firebog</a></em></strong>
+
+<br>
 
 | Type | List | Description |
 |:---:|:---:|:---|
