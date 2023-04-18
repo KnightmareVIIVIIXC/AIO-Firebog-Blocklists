@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<strong><em>Tools to help you identify what is blocked or unblocked</em></strong>
+<strong><em>Tools to help identify what is blocked or unblocked</em></strong>
 
 | Testing Tools |
 |:---:|
