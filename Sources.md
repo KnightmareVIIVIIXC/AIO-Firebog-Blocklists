@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<strong>All sources are from <a href="https://firebog.net/" title="">The Firebog</a></strong>
+<strong><em>All sources are from <a href="https://firebog.net/" title="">The Firebog</a></em></strong>
 
 | Color | List | Description |
 |:---:|:---:|:---|
