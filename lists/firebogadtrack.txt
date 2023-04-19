@@ -3,7 +3,7 @@
 ! Description: All the advertising and tracking sources from the Sources.md
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-04-19T10:36:46.439Z
+! Last modified: 2023-04-19T17:11:11.933Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -32085,6 +32085,7 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||btrace.qq.com^
 ||l.francetvinfo.fr^
 ||counter.any.run^
 ||cllctr.any.run^
@@ -34411,6 +34412,7 @@ inapps.appsflyersdk.com^
 ||briskeagle.io^
 ||briskpelican.io^
 ||brontops.com^
+||bx-cloud.com^
 ||bydst.com^
 ||cadsuta.net^
 ||cdnhst.xyz^
@@ -43890,6 +43892,9 @@ inapps.appsflyersdk.com^
 ||fssxyiq.cn^
 ||pithjpf.cn^
 ||piaochong.co^
+||evmnlpv.cn^
+||18so.vip^
+||aniqgsz.cc^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -57879,7 +57884,6 @@ analytics-*.aasaam.com
 ||sworkitads.herokuapp.com^
 ||sharethis.com^
 ||ad.qq.com^
-||btrace.qq.com^
 ||btrace.video.qq.com^
 ||mtt.eve.mdt.qq.com^
 ||oth.eve.mdt.qq.com^
