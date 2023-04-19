@@ -32,7 +32,7 @@
 | Advertising | 📗 | `https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt` |
 | Advertising | 📗 | `https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt` |
 | Advertising | 📗 | `https://easylist.to/easylist/easylist.txt` |
-| Advertising | 📗 | `https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext` |
+| Advertising | 📗 | `https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml` |
 | Advertising | 📗 | `https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts` |
 | Advertising | 📗 | `https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts` |
 | Advertising | 📘 | `https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts` |
