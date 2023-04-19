@@ -72,7 +72,7 @@
 <div align="center">
 
 <strong><em>All sources are from <a href="https://firebog.net/" title="">The Firebog</a></em></strong>
-
+  
 <br>
 
 | Type | List | Description |
@@ -100,10 +100,12 @@
 | Advertising | 📗 | `https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt` |
 | Advertising | 📗 | `https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt` |
 | Advertising | 📗 | `https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt` |
-| Advertising | 📗 | `https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext` |
+| Advertising | 📗 | `https://easylist.to/easylist/easylist.txt` |
+| Advertising | 📗 | `https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml` |
 | Advertising | 📗 | `https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts` |
 | Advertising | 📗 | `https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts` |
 | Advertising | 📘 | `https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts` |
+| Tracking | 📗 | `https://easylist.to/easylist/easyprivacy.txt` |
 | Tracking | 📗 | `https://v.firebog.net/hosts/Prigent-Ads.txt` |
 | Tracking | 📗 | `https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts` |
 | Tracking | 📗 | `https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt` |
