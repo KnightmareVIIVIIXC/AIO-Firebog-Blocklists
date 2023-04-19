@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<strong><em>Compilation of different [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/README.md#-the-sources-) in various [lists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/README.md#-the-lists-) to minimize advertising, prevent tracking, and block malicious content</em></strong>
+<strong><em>Compilation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/README.md#-the-sources-) in various [lists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/README.md#-the-lists-) to minimize advertising, prevent tracking, and block malicious content</em></strong>
 
 <br>
   
