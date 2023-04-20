@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<strong><em>All sources are from <a href="https://firebog.net/" title="">The Firebog</a></em></strong>
+<strong><em>All sources are from <a href="https://firebog.net/" title="">The Firebog</a> created by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a></em></strong>
   
 <br>
 
