@@ -3,7 +3,7 @@
 ! Description: All the advertising and tracking sources from the Sources.md
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-04-20T10:40:19.195Z
+! Last modified: 2023-04-20T17:08:16.350Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1793,6 +1793,7 @@
 ||track.zorkanetwork.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||ctsdwm.com^
 ||whoodseb.com^
 ||fbmedia-dhs.com^
 ||forjoiyvidspics.online^
@@ -26415,6 +26416,7 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||sgtm.handyhuellen.de^
 ||measure.chase.com^
 ||btrace.qq.com^
 ||l.francetvinfo.fr^
