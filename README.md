@@ -19,34 +19,34 @@
 
 <br>
 
-|📊 All-In-One Blocklists 📊|
-|:---:|
-|📕 <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Big All-In-One List</a> 📕|
-|📗 <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a> 📗|
-|📘 <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">All-In-One Blue List</a> 📘|
+|📊| All-In-One Blocklists |📊|
+|:---:|:---:|:---:|
+|📕| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Big All-In-One List</a> |📕|
+|📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a> |📗|
+|📘| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">All-In-One Blue List</a> |📘|
 
-|📊 All-In-One Class Blocklists 📊|
-|:---:|
-|📗 <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrackmal.txt" title="">All-In-One Advertising-Tracking-Malicious List</a> 📘|
-|📗 <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrack.txt" title="">All-In-One Advertising-Tracking List</a> 📘|
-|📗 <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsusmal.txt" title="">All-In-One Suspicious-Malicious List</a> 📘|
-|📗 <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogad.txt" title="">All-In-One Advertising List</a> 📘|
-|📗 <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogtrack.txt" title="">All-In-One Tracking List</a> 📘|
-|📗 <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsus.txt" title="">All-In-One Suspicious List</a> 📘|
-|📗 <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogmal.txt" title="">All-In-One Malicious List</a> 📘|
+|📊| All-In-One Class Blocklists |📊|
+|:---:|:---:|:---:|
+|📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrackmal.txt" title="">All-In-One Advertising-Tracking-Malicious List</a> |📘|
+|📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrack.txt" title="">All-In-One Advertising-Tracking List</a> |📘|
+|📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsusmal.txt" title="">All-In-One Suspicious-Malicious List</a> |📘|
+|📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogad.txt" title="">All-In-One Advertising List</a> |📘|
+|📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogtrack.txt" title="">All-In-One Tracking List</a> |📘|
+|📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsus.txt" title="">All-In-One Suspicious List</a> |📘|
+|📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogmal.txt" title="">All-In-One Malicious List</a> |📘|
 
-|📊 Lighter Blocklists 📊|
-|:---:|
-|📗 <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrack.txt" title="">Advertising-Tracking Green List</a> 📗|
-|📗 <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreensusmal.txt" title="">Suspicious-Malicious Green List</a> 📗|
-|📘 <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrack.txt" title="">Advertising-Tracking Blue List</a> 📘|
-|📘 <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusmal.txt" title="">Suspicious-Malicious Blue List</a> 📘|
+|📊| Lighter Blocklists |📊|
+|:---:|:---:|:---:|
+|📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrack.txt" title="">Advertising-Tracking Green List</a> |📗|
+|📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreensusmal.txt" title="">Suspicious-Malicious Green List</a> |📗|
+|📘| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrack.txt" title="">Advertising-Tracking Blue List</a> |📘|
+|📘| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusmal.txt" title="">Suspicious-Malicious Blue List</a> |📘|
 
-|✄ Whitelist Suggestions ✄|
-|:---:|
-|✂ <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's Whitelist</a> ✂|
-|✂ <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's Whitelist</a> ✂|
-|✂ <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's Whitelist</a> ✂|
+|✄| Whitelist Suggestions |✄|
+|:---:|:---:|:---:|
+|✂| <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's Whitelist</a> |✂|
+|✂| <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's Whitelist</a> |✂|
+|✂| <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's Whitelist</a> |✂|
 
 </div>
 
@@ -60,11 +60,11 @@
 
 <br>
 
-|📝 Testing Tools 📝|
-|:---:|
-|📄 <a href="https://d3ward.github.io/toolz/adblock" title="">d3ward's AdBlock Test</a> 📄|
-|📄 <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> 📄|
-|📄 <a href="https://canyoublockit.com/" title="">Can You Block It</a> 📄|
+|📝| Testing Tools |📝|
+|:---:|:---:|:---:|
+|📄| <a href="https://d3ward.github.io/toolz/adblock" title="">d3ward's AdBlock Test</a> |📄|
+|📄| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |📄|
+|📄| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |📄|
 
 </div>
 
