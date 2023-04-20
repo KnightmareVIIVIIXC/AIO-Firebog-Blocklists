@@ -3,7 +3,7 @@
 ! Description: All the advertising and tracking sources from the Sources.md
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-04-20T07:06:30.921Z
+! Last modified: 2023-04-20T10:40:19.195Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -983,10 +983,6 @@
 ||tracking.listhub.net^
 ||appnext.hs.llnwd.net^
 ||tealium.hs.llnwd.net^
-||analytics.locallogic.co^
-||api.locallogic.co^
-||cdn.locallogic.co^
-||static.locallogic.co^
 ||merciless.localstars.com^
 ||api.locately.com^
 ||sparkle.locationlabs.com^
@@ -1554,6 +1550,7 @@
 ||analytics.twitter.com^
 ||lightstep-collector.api.ua.com^
 ||uberads.com^
+||local-analytics.uberinternal.com^
 ||applog.uc.cn^
 ||applogios.uc.cn^
 ||gjapplog.uc.cn^
@@ -24876,6 +24873,7 @@ vkcdnservice.appspot.com^
 ||tracking.gpm-rtv.ru^
 ||ad-spire.net^
 ||i.moshimo.com^
+||r.moshimo.com^
 ||counter.monkeybanana3.com^
 ||analytic-client.playful-fairies.com^
 ||tk.promit.ru^
@@ -26417,6 +26415,7 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||measure.chase.com^
 ||btrace.qq.com^
 ||l.francetvinfo.fr^
 ||counter.any.run^
@@ -36819,6 +36818,8 @@ inapps.appsflyersdk.com^
 ||adbtwyxl96.fun^
 ||hzoijcm.cn^
 ||shangyuan.ltd^
+||skluff.com^
+||fthqzxq.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -97258,6 +97259,7 @@ analytics-*.aasaam.com
 ||livenetlife.com^
 ||liveperson.net^
 ||livepromotools.com^
+||locallogic.co^
 ||log-collector.shopee.co.id^
 ||log-collector.shopee.co.th^
 ||log-collector.shopee.com.br^

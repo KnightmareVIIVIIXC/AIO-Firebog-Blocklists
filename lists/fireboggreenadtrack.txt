@@ -3,7 +3,7 @@
 ! Description: All the green advertising and tracking sources from the Sources.md
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-04-20T07:03:19.756Z
+! Last modified: 2023-04-20T10:37:08.010Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1882,6 +1882,7 @@
 ||analytics.twitter.com^
 ||lightstep-collector.api.ua.com^
 ||uberads.com^
+||local-analytics.uberinternal.com^
 ||reports.ubimo.com^
 ||applog.uc.cn^
 ||applogios.uc.cn^
@@ -25322,6 +25323,7 @@ vkcdnservice.appspot.com^
 ||tracking.gpm-rtv.ru^
 ||ad-spire.net^
 ||i.moshimo.com^
+||r.moshimo.com^
 ||counter.monkeybanana3.com^
 ||analytic-client.playful-fairies.com^
 ||tk.promit.ru^
@@ -26886,6 +26888,7 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||measure.chase.com^
 ||btrace.qq.com^
 ||l.francetvinfo.fr^
 ||counter.any.run^
@@ -37498,6 +37501,8 @@ inapps.appsflyersdk.com^
 ||adbtwyxl96.fun^
 ||hzoijcm.cn^
 ||shangyuan.ltd^
+||skluff.com^
+||fthqzxq.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
