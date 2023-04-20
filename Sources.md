@@ -6,12 +6,6 @@
   
 <br>
 
-| Type | List | Description |
-|:---:|:---:|:---|
-|All-In-One| 📕 |Included in The Big All-In-One (AIO) list only, consider using a whitelist|
-|Green| 📗 |Included in The Big AIO list and AIO green list, less likely to interfere with browsing|
-|Blue| 📘 |Included in The Big AIO list and AIO blue list, more likely to interfere with browsing|
-
 | Class | List | Source |
 |:---:|:---:|:---|
 | Suspicious | 📗 | `https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt` |
