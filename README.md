@@ -7,6 +7,15 @@
 <br>
   
 ![](https://user-images.githubusercontent.com/114373431/232286794-2262cd8e-31c0-467b-9509-bc90a2272cd2.png)
+
+---
+
+| Type | List | Description |
+|:---:|:---:|:---|
+|All-In-One| 📕 |Included in The Big All-In-One (AIO) list only, consider using a whitelist|
+|Green| 📗 |Included in The Big AIO list and AIO green list, less likely to interfere with browsing|
+|Blue| 📘 |Included in The Big AIO list and AIO blue list, more likely to interfere with browsing|
+
 </div>
 
 ---
@@ -77,12 +86,6 @@
 <strong><em>All sources are from <a href="https://firebog.net/" title="">The Firebog</a></em></strong>
   
 <br>
-
-| Type | List | Description |
-|:---:|:---:|:---|
-|All-In-One| 📕 |Included in The Big All-In-One (AIO) list only, consider using a whitelist|
-|Green| 📗 |Included in The Big AIO list and AIO green list, less likely to interfere with browsing|
-|Blue| 📘 |Included in The Big AIO list and AIO blue list, more likely to interfere with browsing|
 
 | Class | List | Source |
 |:---:|:---:|:---|
