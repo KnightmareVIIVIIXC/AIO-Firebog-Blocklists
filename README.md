@@ -6,7 +6,7 @@
 
 <br>
   
-![https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/tree/main/lists](https://user-images.githubusercontent.com/114373431/232286794-2262cd8e-31c0-467b-9509-bc90a2272cd2.png)
+![](https://user-images.githubusercontent.com/114373431/232286794-2262cd8e-31c0-467b-9509-bc90a2272cd2.png)
 
 ---
 
