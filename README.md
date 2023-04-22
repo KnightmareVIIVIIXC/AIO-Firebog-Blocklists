@@ -110,6 +110,7 @@
 | Advertising | 📗 | `https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts` |
 | Advertising | 📗 | `https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts` |
 | Advertising | 📘 | `https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts` |
+| Tracking | 📗 | `https://v.firebog.net/hosts/Easyprivacy.txt` |
 | Tracking | 📗 | `https://v.firebog.net/hosts/Prigent-Ads.txt` |
 | Tracking | 📗 | `https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts` |
 | Tracking | 📗 | `https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt` |
