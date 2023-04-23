@@ -41,7 +41,7 @@
 | Tracking | 📘 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt" title="">Perflyst's Amazon FireTV Domains</a> |
 | Tracking | 📘 | <a href="https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt" title="">Quidsup NoTrack Tracker Blocklist</a> |
 | Tracking | 📕 | <a href="https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt" title="">Geoffrey Frogeye's Multi-Party Trackers</a> |
-| Malicious | 📗 | <a href="https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt" title="">DandelionSprout's Anti Malware Filter</a> |
+| Malicious | 📗 | <a href="https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt" title="">DandelionSprout's Anti-Malware Filter</a> |
 | Malicious | 📗 | <a href="https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt" title="">DigitalSide Threat-Intel</a> |
 | Malicious | 📗 | <a href="https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt" title="">Disconnect Malvertising</a> |
 | Malicious | 📗 | <a href="https://v.firebog.net/hosts/Prigent-Crypto.txt" title="">Fabrice Prigent's Cryptojacking</a> |
@@ -52,7 +52,7 @@
 | Malicious | 📗 | <a href="https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware" title="">RPiList Malware</a> |
 | Malicious | 📗 | <a href="https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe" title="">RPiList Phishing</a> |
 | Malicious | 📗 | <a href="https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt" title="">Spam404</a> |
-| Malicious | 📗 | <a href="https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts" title="">Echap's Stalkerware Indicators</a> |
+| Malicious | 📗 | <a href="https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts" title="">AssoEchap's Stalkerware Indicators</a> |
 | Malicious | 📗 | <a href="https://urlhaus.abuse.ch/downloads/hostfile/" title="">URLhaus Malicious URL blocklist</a> |
 | Malicious | 📘 | <a href="https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt" title="">Curbengh's Phishing filter</a> |
 | Malicious | 📘 | <a href="https://v.firebog.net/hosts/Prigent-Malware.txt" title="">Fabrice Prigent's Malware</a> |
