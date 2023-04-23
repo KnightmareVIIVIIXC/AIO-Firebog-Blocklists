@@ -99,6 +99,7 @@
 | Suspicious | 📘 | <a href="https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/127.0.0.1/basic/hosts" title="">neoFelhz's neoHosts</a> |
 | Suspicious | 📘 | <a href="https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt" title="">RooneyMcNibNug's SNAFU list</a> |
 | Suspicious | 📘 | <a href="https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt" title="">paulgb's BarbBlock</a> |
+| Suspicious | 📕 | <a href="https://hostsfile.mine.nu/hosts0.txt" title="">Andy Short</a> |
 | Suspicious | 📕 | <a href="https://hostsfile.mine.nu/hosts0.txt" title="">The Hosts File Project by Andy Short</a> |
 | Suspicious | 📕 | <a href="https://adblock.mahakala.is/" title="">Mahakala</a> |
 | Advertising | 📗 | <a href="https://adaway.org/hosts.txt" title="">AdAway</a> |
@@ -119,7 +120,7 @@
 | Tracking | 📘 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt" title="">Perflyst's Android Trackers</a> |
 | Tracking | 📘 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt" title="">Perflyst's SmartTV Domains</a> |
 | Tracking | 📘 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt" title="">Perflyst's Amazon FireTV Domains</a> |
-| Tracking | 📘 | <a href="https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt" title="">Quidsup Trackers</a> |
+| Tracking | 📘 | <a href="https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt" title="">Quidsup NoTrack Tracker Blocklist</a> |
 | Tracking | 📕 | <a href="https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt" title="">Geoffrey Frogeye's Multi-Party Trackers</a> |
 | Malicious | 📗 | <a href="https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt" title="">DandelionSprout's Anti Malware Filter</a> |
 | Malicious | 📗 | <a href="https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt" title="">DigitalSide Threat-Intel</a> |
@@ -128,7 +129,7 @@
 | Malicious | 📗 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts" title="">Fademind's Risky Hosts</a> |
 | Malicious | 📗 | <a href="https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt" title="">Mandiant APT1 Report</a> |
 | Malicious | 📗 | <a href="https://phishing.army/download/phishing_army_blocklist_extended.txt" title="">Phishing Army's Extended Blocklist</a> |
-| Malicious | 📗 | <a href="https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt" title="">Quidsup Malicious</a> |
+| Malicious | 📗 | <a href="https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt" title="">Quidsup NoTrack Malware Blocklist</a> |
 | Malicious | 📗 | <a href="https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware" title="">RPiList Malware</a> |
 | Malicious | 📗 | <a href="https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe" title="">RPiList Phishing</a> |
 | Malicious | 📗 | <a href="https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt" title="">Spam404</a> |
