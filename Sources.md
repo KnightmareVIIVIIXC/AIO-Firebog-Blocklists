@@ -53,7 +53,7 @@
 | Malicious | 📗 | <a href="https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe" title="">RPiList Phishing</a> |
 | Malicious | 📗 | <a href="https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt" title="">Spam404</a> |
 | Malicious | 📗 | <a href="https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts" title="">AssoEchap's Stalkerware Indicators</a> |
-| Malicious | 📗 | <a href="https://urlhaus.abuse.ch/downloads/hostfile/" title="">URLhaus Malicious URL blocklist</a> |
+| Malicious | 📗 | <a href="https://urlhaus.abuse.ch/downloads/hostfile/" title="">URLhaus Malware URL blocklist</a> |
 | Malicious | 📘 | <a href="https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt" title="">Curbengh's Phishing filter</a> |
 | Malicious | 📘 | <a href="https://v.firebog.net/hosts/Prigent-Malware.txt" title="">Fabrice Prigent's Malware</a> |
 | Other | 📗 | <a href="https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts" title="">ZeroDot1 CoinBlockerLists</a> |
