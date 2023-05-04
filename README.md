@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<strong><em>Compilation of sources in various lists to minimize advertising, prevent tracking, and block malicious content</em></strong>
+<strong><em>Compilation of sources from The Firebog in various lists to minimize advertising, prevent tracking, and block malicious content</em></strong>
 
 <br>
   
