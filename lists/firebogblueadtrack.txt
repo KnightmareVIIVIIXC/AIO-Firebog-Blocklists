@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-05-04T22:23:46.025Z
+! Last modified: 2023-05-05T10:46:46.141Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1383,6 +1383,7 @@
 ||abcdirectshop.com^
 ||abclivestream.com^
 ||abcoster.com^
+||abcyoutube.com^
 ||abdlnk.com^
 ||abdumusic.com^
 ||abeautifulpool.com^
@@ -3619,6 +3620,7 @@
 ||elfontheself.com^
 ||elfsight.com^
 ||elianca.com^
+||elitecaliscorts.com^
 ||elizabeth-il.com^
 ||elizabethmattress.com^
 ||ellierio.com^
@@ -4290,12 +4292,7 @@
 ||glooogl.com^
 ||gm-advertising.com^
 ||gmail-signup.com^
-||m.admin.gmailaa.com^
-||new.admin.gmailaa.com^
-||old.admin.gmailaa.com^
-||shop.admin.gmailaa.com^
-||www2.admin.gmailaa.com^
-||ww1.gmailaa.com^
+||gmailaa.com^
 ||gmailf.com^
 ||gmaille.com^
 ||gmailmaps.com^
@@ -4977,14 +4974,7 @@
 ||measure.invisionapp.com^
 ||invitemedia.com^
 ||js.iodo.com^
-||b.iogous.com^
-||dr.iogous.com^
-||e.iogous.com^
-||hd.iogous.com^
-||t.iogous.com^
-||tk.iogous.com^
-||web.iogous.com^
-||www.iogous.com^
+||iogous.com^
 ||ios-protection.com^
 ||ip-api.com^
 ||ip2ulocation.com^
@@ -5028,8 +5018,7 @@
 ||ittunes.com^
 ||iubenda.com^
 ||iueast.com^
-||assets.ividplayer.com^
-||www.ividplayer.com^
+||ividplayer.com^
 ||americansforprosperity.ivolunteers.com^
 ||ixiaa.com^
 ||iyyotube.com^
@@ -6614,7 +6603,6 @@
 ||preorderdotco.com^
 ||prepaidinternetbroadband.com^
 ||analytics.preprodchart.com^
-||analytics.preprodpress.com^
 ||api.presspage.com^
 ||manager.presspage.com^
 ||presstechis.com^
@@ -8480,7 +8468,9 @@
 ||vcsa.vmware.com^
 ||vnradionet.com^
 ||vntsm.com^
-||vogtlandsuspension.com^
+||cpcalendars.vogtlandsuspension.com^
+||mail.vogtlandsuspension.com^
+||webdisk.vogtlandsuspension.com^
 ||voicefive.com^
 ||volument.com^
 ||voluumdsp.com^
@@ -9556,36 +9546,11 @@
 ||game.8591.info^
 ||ww38.8591.info^
 ||www.8591.info^
-||z1004.8591.info^
-||z1007.8591.info^
 ||z1008.8591.info^
 ||z1012.8591.info^
 ||z1016.8591.info^
 ||z1020.8591.info^
-||z1021.8591.info^
-||z1022.8591.info^
 ||z1023.8591.info^
-||z1024.8591.info^
-||z1025.8591.info^
-||z1026.8591.info^
-||z1027.8591.info^
-||z1028.8591.info^
-||z1029.8591.info^
-||z1031.8591.info^
-||z1032.8591.info^
-||z1033.8591.info^
-||z1034.8591.info^
-||z1035.8591.info^
-||z1036.8591.info^
-||z1037.8591.info^
-||z1038.8591.info^
-||z1039.8591.info^
-||z1040.8591.info^
-||z1041.8591.info^
-||z1042.8591.info^
-||z1043.8591.info^
-||z1044.8591.info^
-||z1045.8591.info^
 ||91girl5.info^
 ||91gxfl.info^
 ||98hy.info^
@@ -9627,7 +9592,6 @@
 ||authsmtp.ainu.info^
 ||comune.ainu.info^
 ||email.ainu.info^
-||gw.ainu.info^
 ||imap1.ainu.info^
 ||mail.ainu.info^
 ||mail1.ainu.info^
@@ -9637,16 +9601,12 @@
 ||mailrelay.ainu.info^
 ||mailserver.ainu.info^
 ||mailx.ainu.info^
-||mta.ainu.info^
-||mvideo.ainu.info^
+||ww16.mvideo.ainu.info^
 ||mx.ainu.info^
 ||mx2.ainu.info^
-||mx3.ainu.info^
-||mx5.ainu.info^
 ||ns.ainu.info^
 ||ns1.ainu.info^
 ||ns2.ainu.info^
-||out.ainu.info^
 ||pop.ainu.info^
 ||post.ainu.info^
 ||postmaster.ainu.info^
@@ -9657,7 +9617,6 @@
 ||smtps.ainu.info^
 ||ww1.ainu.info^
 ||ww16.ainu.info^
-||ww25.ainu.info^
 ||www.ainu.info^
 ||www2.ainu.info^
 ||akiba-pr.info^
@@ -9837,7 +9796,6 @@
 ||email.borenje.info^
 ||imap1.borenje.info^
 ||m.borenje.info^
-||mail.borenje.info^
 ||mail1.borenje.info^
 ||mail12.borenje.info^
 ||mailgate.borenje.info^
@@ -9853,7 +9811,6 @@
 ||sistema.borenje.info^
 ||smtpauth.borenje.info^
 ||tv.borenje.info^
-||ww17.borenje.info^
 ||ww25.borenje.info^
 ||www.borenje.info^
 ||www1.borenje.info^
@@ -10320,6 +10277,7 @@
 ||hothome.info^
 ||hothot.info^
 ||ww1.hotxtube.info^
+||ww25.hotxtube.info^
 ||hounslow.info^
 ||househunt.info^
 ||how-to-loose-weight.info^
@@ -10361,7 +10319,6 @@
 ||inglesonlinegratis.info^
 ||injured.info^
 ||int-news.info^
-||interactiveebooks.info^
 ||interlin.info^
 ||internetmarketingideas.info^
 ||interwork.info^
@@ -10665,9 +10622,14 @@
 ||navzdy.info^
 ||nbareplay.info^
 ||neko299.info^
+||mail.neptoons.info^
 ||mx7.neptoons.info^
+||po.neptoons.info^
 ||ww1.neptoons.info^
 ||ww16.neptoons.info^
+||ww2.neptoons.info^
+||ww25.neptoons.info^
+||ww38.neptoons.info^
 ||www.neptoons.info^
 ||ner-de-mi-nis-6.info^
 ||nervositaet.info^
@@ -10795,7 +10757,6 @@
 ||periscopeporn.info^
 ||petrolbusiness.info^
 ||petsupply.info^
-||ww38.pfl6.info^
 ||pfshop.info^
 ||phanri.info^
 ||phaze.info^
@@ -11301,7 +11262,13 @@
 ||worldsportsmemorabilia.info^
 ||wowchar.info^
 ||wowsource.info^
-||wtftds.info^
+||cf.wtftds.info^
+||dw.wtftds.info^
+||jl.wtftds.info^
+||ww16.slfw.wtftds.info^
+||ww16.winx.wtftds.info^
+||ww16.wtftds.info^
+||ww38.wtftds.info^
 ||wurzen.info^
 ||wwpc.info^
 ||wxyd.info^
@@ -12169,7 +12136,6 @@
 ||escapicon.net^
 ||esm1.net^
 ||espaebook.net^
-||espeedteste.net^
 ||estrenodorama.net^
 ||estudiaenlinea.net^
 ||ad.ettoday.net^
@@ -13950,7 +13916,6 @@
 ||adserver.radiomediagroup.org^
 ||radiowymsey.org^
 ||radyotiyatrosu.org^
-||www.raftmaster.org^
 ||raiin.org^
 ||railroadcu.org^
 ||randomlist.org^
@@ -14213,7 +14178,6 @@
 ||thecorecu.org^
 ||theepiratebay.org^
 ||thefamilyplace.org^
-||thefinancialanalyst.org^
 ||thegreenspace.org^
 ||thehomeplanet.org^
 ||theisa.org^
@@ -14298,6 +14262,7 @@
 ||uasb.org^
 ||ubersugest.org^
 ||uchibadan.org^
+||www.ufolep-auvergne.org^
 ||uinv.org^
 ||ukmt.org^
 ||uml-diagram.org^
