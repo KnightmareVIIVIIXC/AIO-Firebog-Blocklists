@@ -1,4 +1,4 @@
-<h1 align="center">📚 The Big All-In-One Ad-Blocklist Collection 📚</h1>
+<h1 align="center">📚 The Bog All-In-One Ad-Blocklist Collection 📚</h1>
 
 <div align="center">
   
@@ -10,9 +10,9 @@
 
 | Type | List | Description |
 |:---:|:---:|:---|
-|Big| 📕 |Included in The Big All-In-One (AIO) list only, consider using a whitelist|
-|Green| 📗 |Included in The Big AIO list and AIO green list, less likely to interfere with browsing|
-|Blue| 📘 |Included in The Big AIO list and AIO blue list, more likely to interfere with browsing|
+|Bog| 📕 |Included in The Bog All-In-One (AIO) list only, consider using a whitelist|
+|Green| 📗 |Included in The Bog AIO list and AIO green list, less likely to interfere with browsing|
+|Blue| 📘 |Included in The Bog AIO list and AIO blue list, more likely to interfere with browsing|
 
 </div>
 
@@ -28,7 +28,7 @@
 
 |📊| All-In-One Blocklists |📊|
 |:---:|:---:|:---:|
-|📕| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Big All-In-One List</a> |📕|
+|📕| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Bog All-In-One List</a> |📕|
 |📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a> |📗|
 |📘| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">All-In-One Blue List</a> |📘|
 
@@ -48,6 +48,8 @@
 |📘| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusmal.txt" title="">Suspicious-Malicious Blue List</a> |📘|
 |📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrack.txt" title="">Advertising-Tracking Green List</a> |📗|
 |📘| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrack.txt" title="">Advertising-Tracking Blue List</a> |📘|
+
+---
 
 |✄| Whitelist Suggestions |✄|
 |:---:|:---:|:---:|
