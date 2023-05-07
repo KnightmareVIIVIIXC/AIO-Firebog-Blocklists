@@ -3,7 +3,7 @@
 ! Description: All the advertising and tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-05-07T00:29:15.814Z
+! Last modified: 2023-05-07T10:16:52.044Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -36767,6 +36767,7 @@ inapps.appsflyersdk.com^
 ||alleyskin.com^
 ||alpineactor.com^
 ||ambiguousanger.com^
+||ambiguousdinosaurs.com^
 ||ambiguousincome.com^
 ||amusinggirls.com^
 ||aspiringattempt.com^
@@ -45368,6 +45369,10 @@ inapps.appsflyersdk.com^
 ||wx001.online^
 ||hoiea.xyz^
 ||dkcwnsu.xyz^
+||dszhqww.cn^
+||guzhimian.fun^
+||pvjlfjz.cn^
+||chenze1.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -80122,9 +80127,6 @@ analytics-*.aasaam.com
 ||vmgood.com^
 ||vcsa.vmware.com^
 ||vnradionet.com^
-||cpcalendars.vogtlandsuspension.com^
-||mail.vogtlandsuspension.com^
-||webdisk.vogtlandsuspension.com^
 ||voluumdsp.com^
 ||vosteran.com^
 ||votecma.com^
@@ -81028,8 +81030,6 @@ analytics-*.aasaam.com
 ||7494568.info^
 ||7hari.info^
 ||7zip.info^
-||game.8591.info^
-||ww38.8591.info^
 ||z1008.8591.info^
 ||z1023.8591.info^
 ||91girl5.info^
@@ -81069,35 +81069,7 @@ analytics-*.aasaam.com
 ||aguu.info^
 ||ahhadesigns.info^
 ||ahmetcan.info^
-||authsmtp.ainu.info^
-||comune.ainu.info^
-||email.ainu.info^
-||imap1.ainu.info^
-||mail.ainu.info^
-||mail1.ainu.info^
-||mail5.ainu.info^
-||mailhost.ainu.info^
-||mailout.ainu.info^
-||mailrelay.ainu.info^
-||mailserver.ainu.info^
-||mailx.ainu.info^
-||mx.ainu.info^
-||mx2.ainu.info^
-||ns.ainu.info^
-||ns1.ainu.info^
-||ns2.ainu.info^
-||pop.ainu.info^
-||post.ainu.info^
-||postmaster.ainu.info^
-||relay.ainu.info^
-||secure.ainu.info^
-||server.ainu.info^
-||smtpauth.ainu.info^
-||smtps.ainu.info^
 ||ww1.ainu.info^
-||ww16.ainu.info^
-||www.ainu.info^
-||www2.ainu.info^
 ||akiba-pr.info^
 ||alcea.info^
 ||alder.info^
@@ -81277,7 +81249,6 @@ analytics-*.aasaam.com
 ||mailgate.borenje.info^
 ||mailout.borenje.info^
 ||mta-sts.borenje.info^
-||mvideo.borenje.info^
 ||mx.borenje.info^
 ||ns.borenje.info^
 ||ns1.borenje.info^
@@ -81415,7 +81386,6 @@ analytics-*.aasaam.com
 ||czmms.info^
 ||daarija.info^
 ||ww1.dailymp3.info^
-||ww25.dailymp3.info^
 ||damdam.info^
 ||danjeh.info^
 ||darkbb.info^
@@ -81550,7 +81520,6 @@ analytics-*.aasaam.com
 ||exabyte.info^
 ||examroom.info^
 ||ww16.eyep.info^
-||ww25.eyep.info^
 ||eyesurgery.info^
 ||ezmethod.info^
 ||faiznet.info^
@@ -81745,7 +81714,10 @@ analytics-*.aasaam.com
 ||hothome.info^
 ||hothot.info^
 ||hotmusic.info^
+||ww1.nyerd-meg-iphone.hotxtube.info^
+||ww38.nyerd-meg-iphone.hotxtube.info^
 ||ww1.hotxtube.info^
+||ww17.hotxtube.info^
 ||ww25.hotxtube.info^
 ||hounslow.info^
 ||househunt.info^
@@ -82392,18 +82364,14 @@ analytics-*.aasaam.com
 ||semmering.info^
 ||seo-mix.info^
 ||seo03.info^
-||ww16.seodesk.info^
 ||seolinkek.info^
 ||seosos.info^
 ||seotaolao.info^
 ||seouldl.info^
 ||ww16.sepalo3.info^
-||ww17.sepalo3.info^
 ||ww25.sepalo3.info^
-||ww3.sepalo3.info^
 ||ww38.sepalo3.info^
 ||ww4.sepalo3.info^
-||www.sepalo3.info^
 ||sere.info^
 ||serenade.info^
 ||sergamer.info^
@@ -82681,7 +82649,6 @@ analytics-*.aasaam.com
 ||waploft.info^
 ||waptrik.info^
 ||warface.info^
-||ww1.watchjavstream.info^
 ||www.watchjavstream.info^
 ||watchmovie.info^
 ||watchpinoymovieonline.info^
@@ -84298,6 +84265,7 @@ analytics-*.aasaam.com
 ||freedomdeliverance.org^
 ||freeesound.org^
 ||freefilm.org^
+||freegen.org^
 ||freemp3x.org^
 ||freephonemn.org^
 ||freesoud.org^
@@ -84747,9 +84715,6 @@ analytics-*.aasaam.com
 ||carebot.nprapps.org^
 ||nra2016.org^
 ||ads.nsnews.org^
-||cpcontacts.nsnews.org^
-||mail.nsnews.org^
-||webdisk.nsnews.org^
 ||www.nsnews.org^
 ||nspstutter.org^
 ||nsula.org^
@@ -85419,7 +85384,7 @@ analytics-*.aasaam.com
 ||wwwmcso.org^
 ||wwwnationalmssociety.org^
 ||wwwopers.org^
-||wwwpiercecountywa.org^
+||ww2.wwwpiercecountywa.org^
 ||wwwpwcgov.org^
 ||wwwscscourt.org^
 ||wwwsfefcu.org^
