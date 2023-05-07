@@ -4,7 +4,7 @@
   
 <strong><em>Compilation of sources in a variety of lists to help<br>minimize advertising, prevent tracking, and block malicious content</em></strong>
 
-![](https://user-images.githubusercontent.com/114373431/236640113-cc81539d-3ff9-4ebb-85e7-8f76e50dbc37.png)
+![](https://user-images.githubusercontent.com/114373431/236657162-4bfb7111-de83-4522-8882-683b38117dee.png)
 
 ---
 
