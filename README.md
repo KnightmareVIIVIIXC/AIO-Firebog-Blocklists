@@ -97,7 +97,7 @@
 | Tracking | 📗 | <a href="https://v.firebog.net/hosts/Easyprivacy.txt" title="">EasyPrivacy</a> |
 | Tracking | 📗 | <a href="https://v.firebog.net/hosts/Prigent-Ads.txt" title="">Fabrice Prigent's Ads</a> |
 | Tracking | 📗 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts" title="">Fademind's 2o7 Network Trackers</a> |
-| Tracking | 📗 | <a href="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" title="">Crazy Max's Microsoft Telemetry</a> |
+| Tracking | 📕 | <a href="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" title="">Crazy Max's Microsoft Telemetry</a> |
 | Tracking | 📗 | <a href="https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt" title="">Geoffrey Frogeye's First-Party Trackers</a> |
 | Tracking | 📘 | <a href="https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt" title="">Lightswitch05's Ads & Tracking</a> |
 | Tracking | 📘 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt" title="">Perflyst's Android Trackers</a> |
