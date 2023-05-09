@@ -10,7 +10,7 @@
 
 | Type | 📊 | Description |
 |:---:|:---:|:---|
-|Bog| 📕 |Included in The All-In-One (AIO) Bog list only, consider using a whitelist|
+|Bog| 📙 |Included in The All-In-One (AIO) Bog list only, consider using a whitelist|
 |Blue| 📘 |Included in The AIO Bog list and AIO blue list, more likely to interfere with browsing|
 |Green| 📗 |Included in The AIO Bog list and AIO green list, less likely to interfere with browsing|
 
@@ -28,7 +28,7 @@
 
 |📊| All-In-One Blocklists
 |:---:|:---|
-|📕| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The All-In-One Bog List</a>
+|📙| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The All-In-One Bog List</a>
 |📘| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">All-In-One Blue List</a>
 |📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a>
 
@@ -83,8 +83,8 @@
 | Suspicious | 📘 | <a href="https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/127.0.0.1/basic/hosts" title="">neoFelhz's neoHosts</a> |
 | Suspicious | 📘 | <a href="https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt" title="">RooneyMcNibNug's SNAFU list</a> |
 | Suspicious | 📘 | <a href="https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt" title="">paulgb's BarbBlock</a> |
-| Suspicious | 📕 | <a href="https://hostsfile.mine.nu/hosts0.txt" title="">The Hosts File Project by Andy Short</a> |
-| Suspicious | 📕 | <a href="https://adblock.mahakala.is/" title="">Mahakala</a> |
+| Suspicious | 📙 | <a href="https://hostsfile.mine.nu/hosts0.txt" title="">The Hosts File Project by Andy Short</a> |
+| Suspicious | 📙 | <a href="https://adblock.mahakala.is/" title="">Mahakala</a> |
 | Advertising | 📗 | <a href="https://adaway.org/hosts.txt" title="">AdAway</a> |
 | Advertising | 📗 | <a href="https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt" title="">Adguard DNS Filter</a> |
 | Advertising | 📗 | <a href="https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt" title="">LanikSJ's Admiral Anti-Adblock</a> |
@@ -97,14 +97,14 @@
 | Tracking | 📗 | <a href="https://v.firebog.net/hosts/Easyprivacy.txt" title="">EasyPrivacy</a> |
 | Tracking | 📗 | <a href="https://v.firebog.net/hosts/Prigent-Ads.txt" title="">Fabrice Prigent's Ads</a> |
 | Tracking | 📗 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts" title="">Fademind's 2o7 Network Trackers</a> |
-| Tracking | 📕 | <a href="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" title="">Crazy Max's Microsoft Telemetry</a> |
+| Tracking | 📙 | <a href="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" title="">Crazy Max's Microsoft Telemetry</a> |
 | Tracking | 📗 | <a href="https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt" title="">Geoffrey Frogeye's First-Party Trackers</a> |
 | Tracking | 📘 | <a href="https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt" title="">Lightswitch05's Ads & Tracking</a> |
 | Tracking | 📘 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt" title="">Perflyst's Android Trackers</a> |
 | Tracking | 📘 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt" title="">Perflyst's SmartTV Domains</a> |
 | Tracking | 📘 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt" title="">Perflyst's Amazon FireTV Domains</a> |
 | Tracking | 📘 | <a href="https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt" title="">Quidsup NoTrack Tracker Blocklist</a> |
-| Tracking | 📕 | <a href="https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt" title="">Geoffrey Frogeye's Multi-Party Trackers</a> |
+| Tracking | 📙 | <a href="https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt" title="">Geoffrey Frogeye's Multi-Party Trackers</a> |
 | Malicious | 📗 | <a href="https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt" title="">DandelionSprout's Anti-Malware Filter</a> |
 | Malicious | 📗 | <a href="https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt" title="">DigitalSide Threat-Intel</a> |
 | Malicious | 📗 | <a href="https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt" title="">Disconnect Malvertising</a> |
