@@ -26,20 +26,20 @@
 
 <br>
 
-|📊| All-In-One Blocklists
+|📊| All-In-One Blocklists |
 |:---:|:---|
 |📙| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The All-In-One Bog List</a>
 |📘| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">All-In-One Blue List</a>
 |📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a>
 
-|📊| Type AIO Blocklists
+|📊| Type AIO Blocklists |
 |:---:|:---|
 |📘📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsus.txt" title="">All-In-One Suspicious List</a>
 |📘📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogad.txt" title="">All-In-One Advertising List</a> 
 |📘📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogtrack.txt" title="">All-In-One Tracking List</a> 
 |📘📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogmal.txt" title="">All-In-One Malicious List</a> 
 
-|📊| Class AIO Blocklists
+|📊| Class AIO Blocklists |
 |:---:|:---|
 |📘📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsusmal.txt" title="">All-In-One Suspicious-Malicious List</a> 
 |📘📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrack.txt" title="">All-In-One Advertising-Tracking List</a> 
@@ -53,7 +53,7 @@
 
 ---
 
-|✄| Whitelist Suggestions
+|✄| Whitelist Suggestions |
 |:---:|:---|
 |✂| <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's Whitelist</a> 
 |✂| <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's Whitelist</a> 
@@ -135,10 +135,10 @@
 
 <br>
 
-|📝| Testing Tools |📝|
-|:---:|:---:|:---:|
-|📄| <a href="https://d3ward.github.io/toolz/adblock" title="">d3ward's AdBlock Test</a> |📄|
-|📄| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |📄|
-|📄| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |📄|
+|📝| Testing Tools |
+|:---:|:---:|
+|📄| <a href="https://d3ward.github.io/toolz/adblock" title="">d3ward's AdBlock Test</a> |
+|📄| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |
+|📄| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |
 
 </div>
