@@ -8,7 +8,7 @@
 
 ---
 
-| Type | List | Description |
+| Type | 📊 | Description |
 |:---:|:---:|:---|
 |Bog| 📕 |Included in The All-In-One (AIO) Bog list only, consider using a whitelist|
 |Blue| 📘 |Included in The AIO Bog list and AIO blue list, more likely to interfere with browsing|
