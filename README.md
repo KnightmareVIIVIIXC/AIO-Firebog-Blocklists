@@ -1,4 +1,4 @@
-<h1 align="center">📚 The Bog All-In-One Ad-Blocklist Collection 📚</h1>
+<h1 align="center">📚 The All-In-One Bog Ad-Blocklist Collection 📚</h1>
 
 <div align="center">
   
