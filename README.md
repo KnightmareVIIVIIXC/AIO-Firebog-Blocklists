@@ -10,9 +10,9 @@
 
 | Type | List | Description |
 |:---:|:---:|:---|
-|Bog| 📕 |Included in The Bog All-In-One (AIO) list only, consider using a whitelist|
-|Blue| 📘 |Included in The Bog AIO list and AIO blue list, more likely to interfere with browsing|
-|Green| 📗 |Included in The Bog AIO list and AIO green list, less likely to interfere with browsing|
+|Bog| 📕 |Included in The All-In-One (AIO) Bog list only, consider using a whitelist|
+|Blue| 📘 |Included in The AIO Bog list and AIO blue list, more likely to interfere with browsing|
+|Green| 📗 |Included in The AIO Bog list and AIO green list, less likely to interfere with browsing|
 
 </div>
 
@@ -28,7 +28,7 @@
 
 |📊| All-In-One Blocklists |📊|
 |:---:|:---:|:---:|
-|📕| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Bog All-In-One List</a> |📕|
+|📕| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The All-In-One Bog List</a> |📕|
 |📘| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">All-In-One Blue List</a> |📘|
 |📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">All-In-One Green List</a> |📗|
 
