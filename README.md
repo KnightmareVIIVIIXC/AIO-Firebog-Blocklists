@@ -71,7 +71,7 @@
   
 <br>
 
-| Class | List | Source |
+| Class | 📊 | Source |
 |:---:|:---:|:---|
 | Suspicious | 📗 | <a href="https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt" title="">PolishFiltersTeam KADhosts</a> |
 | Suspicious | 📗 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts" title="">Fademind's Spammers</a> |
