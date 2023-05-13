@@ -136,8 +136,8 @@
 
 |📝| Testing Tools |
 |:---:|:---|
-|📄| <a href="https://d3ward.github.io/toolz/adblock" title="">d3ward's AdBlock Test</a> |
-|📄| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |
-|📄| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |
+| 📃 | <a href="https://d3ward.github.io/toolz/adblock" title="">d3ward's AdBlock Test</a> |
+| 📃 | <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |
+| 📃 | <a href="https://canyoublockit.com/" title="">Can You Block It</a> |
 
 </div>
