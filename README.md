@@ -51,8 +51,6 @@
 |📘| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrackmal.txt" title="">Advertising-Tracking-Malicious Blue List</a> 
 |📗| <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrackmal.txt" title="">Advertising-Tracking-Malicious Green List</a> 
 
----
-
 |📊| Whitelist Suggestions |
 |:---:|:---|
 |📒| <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's Whitelist</a> 
