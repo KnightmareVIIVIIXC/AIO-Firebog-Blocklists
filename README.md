@@ -53,11 +53,11 @@
 
 ---
 
-|✄| Whitelist Suggestions |
+|📊| Whitelist Suggestions |
 |:---:|:---|
-|✂| <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's Whitelist</a> 
-|✂| <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's Whitelist</a> 
-|✂| <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's Whitelist</a> 
+|📒| <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's Whitelist</a> 
+|📒| <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's Whitelist</a> 
+|📒| <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's Whitelist</a> 
 
 </div>
 
