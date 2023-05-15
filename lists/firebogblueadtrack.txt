@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-05-14T10:33:41.315Z
+! Last modified: 2023-05-15T18:15:15.456Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -4294,6 +4294,7 @@
 ||googlessites.com^
 ||googletagservice.com^
 ||googletrad.com^
+||googlevedio.com^
 ||googlrearth.com^
 ||googlyoutube.com^
 ||googm.com^
@@ -5441,7 +5442,10 @@
 ||prof.manuelnovais.com^
 ||events.mapbox.com^
 ||maplesims.com^
-||maps-icloud.com^
+||api.maps-icloud.com^
+||mail.maps-icloud.com^
+||sync.maps-icloud.com^
+||webdisk.maps-icloud.com^
 ||mapsfrontier.com^
 ||mapsofficial.com^
 ||mapspilot.com^
@@ -5963,7 +5967,6 @@
 ||ninjapd.com^
 ||nintendo16.com^
 ||ninthdecimal.com^
-||nippellady.com^
 ||nirmalbangsecurities.com^
 ||nishilandwaterpark.com^
 ||nisko-projectsusa.com^
@@ -8261,7 +8264,6 @@
 ||visafoservices.com^
 ||visibleconsumerinsight.com^
 ||visitcumberlandfalls.com^
-||visitdisneyparks.com^
 ||visitkingpenis.com^
 ||visitorqueue.com^
 ||retargeting.vistaprint.com^
@@ -9359,12 +9361,12 @@
 ||aaaaaz.info^
 ||abbottandcostello.info^
 ||mail.abc1234.info^
-||mvideo.abc1234.info^
-||online.abc1234.info^
+||ww1.dlzloee.online.abc1234.info^
+||ww16.dlzloee.online.abc1234.info^
+||ww25.dlzloee.online.abc1234.info^
+||ww25.uwgfeb.online.abc1234.info^
 ||root.abc1234.info^
 ||ww1.abc1234.info^
-||ww25.abc1234.info^
-||ww38.abc1234.info^
 ||www.abc1234.info^
 ||abono.info^
 ||abportal.info^
@@ -9458,9 +9460,7 @@
 ||authorne.info^
 ||autodialer.info^
 ||autopaintrepairs.info^
-||ww25.autorejestratory.info^
 ||ww3.autorejestratory.info^
-||ww38.autorejestratory.info^
 ||www.autorejestratory.info^
 ||av18.info^
 ||av815.info^
@@ -9518,15 +9518,12 @@
 ||watch.bet-shop.info^
 ||webdisk.bet-shop.info^
 ||ww1.bet-shop.info^
-||ww25.bet-shop.info^
-||ww38.bet-shop.info^
 ||www.bet-shop.info^
 ||autodiscover.betafotokonkurs.info^
 ||mail.betafotokonkurs.info^
 ||webdisk.betafotokonkurs.info^
 ||ww11.betafotokonkurs.info^
 ||ww25.betafotokonkurs.info^
-||www.ww38.betafotokonkurs.info^
 ||www.betafotokonkurs.info^
 ||betamax.info^
 ||bettersalud.info^
@@ -9553,7 +9550,6 @@
 ||biotopia.info^
 ||mvideo.birbalo.info^
 ||ww1.birbalo.info^
-||ww25.birbalo.info^
 ||ww31.birbalo.info^
 ||www.birbalo.info^
 ||birdwindowcollisions.info^
@@ -10113,14 +10109,10 @@
 ||jayrigby.info^
 ||jebar.info^
 ||19109.jetztodernie.info^
-||92706.jetztodernie.info^
-||avoca.jetztodernie.info^
 ||dorn.jetztodernie.info^
-||lawn.jetztodernie.info^
 ||leela.jetztodernie.info^
 ||mail.jetztodernie.info^
 ||signed.jetztodernie.info^
-||strata.jetztodernie.info^
 ||webdisk.jetztodernie.info^
 ||ww1.jetztodernie.info^
 ||ww17.jetztodernie.info^
@@ -10134,7 +10126,6 @@
 ||ww1.jinseikenko.info^
 ||ww16.jinseikenko.info^
 ||ww25.jinseikenko.info^
-||ww38.jinseikenko.info^
 ||www.jinseikenko.info^
 ||jinsoku.info^
 ||jitely.info^
@@ -10427,7 +10418,6 @@
 ||newstar-jimmy.info^
 ||newstar-sunshine.info^
 ||mail.nextbux.info^
-||ww1.nextbux.info^
 ||ww38.nextbux.info^
 ||neyture.info^
 ||nicosia.info^
@@ -10511,7 +10501,6 @@
 ||phigolf.info^
 ||ww16.phimconheo.info^
 ||ww25.phimconheo.info^
-||ww38.phimconheo.info^
 ||www.phimconheo.info^
 ||phimhay.info^
 ||photosex.info^
@@ -10584,8 +10573,6 @@
 ||pusat-bahasa.info^
 ||putana.info^
 ||pword.info^
-||ww11.python-os.info^
-||ww17.python-os.info^
 ||que-significa-mi-nombre.info^
 ||quepaso.info^
 ||quicktime-download.info^
@@ -10688,7 +10675,6 @@
 ||seo-mix.info^
 ||seo03.info^
 ||seolinkek.info^
-||katalog.seosos.info^
 ||pozycjonowanie.seosos.info^
 ||prezentdlaniego.seosos.info^
 ||ww16.prezentdlaniej.seosos.info^
@@ -10820,7 +10806,6 @@
 ||takipcisiteleri.info^
 ||tamil-rockers.info^
 ||taoy999.info^
-||img3.taoyimg.info^
 ||ww11.taoyimg.info^
 ||tap7500.info^
 ||taraftarium24hd.info^
@@ -10898,8 +10883,6 @@
 ||trinhcongson.info^
 ||trustfund.info^
 ||truyengay.info^
-||mail.truyentinhyeu.info^
-||webdisk.truyentinhyeu.info^
 ||www.truyentinhyeu.info^
 ||tsuki-subs.info^
 ||tugaflix.info^
@@ -11018,7 +11001,6 @@
 ||wowsource.info^
 ||wurzen.info^
 ||wwpc.info^
-||wxyd.info^
 ||xav11.info^
 ||xeal.info^
 ||xiaohuangren.info^
@@ -13939,7 +13921,10 @@
 ||trueachievements.org^
 ||trustonline.org^
 ||trustx.org^
-||tsabcc.org^
+||mail.tsabcc.org^
+||ww1.tsabcc.org^
+||ww17.tsabcc.org^
+||ww38.tsabcc.org^
 ||tshwane.org^
 ||ttdonline.org^
 ||tthome.org^
@@ -13982,11 +13967,7 @@
 ||usalerans.org^
 ||usalerns.org^
 ||usalr.org^
-||mail.usamnesty.org^
-||ns2.usamnesty.org^
-||ww1.usamnesty.org^
-||ww25.usamnesty.org^
-||www.usamnesty.org^
+||usamnesty.org^
 ||usarchives.org^
 ||usaredcross.org^
 ||usclimateplan.org^
@@ -15195,9 +15176,7 @@
 ||azalead.com^
 ||b3kyo0de1fr0.com^
 ||b42rracj.com^
-||b58ncoa1c07f.com^
 ||b73uszzq3g9h.com^
-||backstagedeputy.com^
 ||backstory.ebay.ca^
 ||backstory.ebay.co.uk^
 ||backstory.ebay.com.au^
