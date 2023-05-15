@@ -83,7 +83,6 @@
 | Suspicious | 📘 | <a href="https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt" title="">RooneyMcNibNug's SNAFU list</a> |
 | Suspicious | 📘 | <a href="https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt" title="">paulgb's BarbBlock</a> |
 | Suspicious | 📙 | <a href="https://hostsfile.mine.nu/hosts0.txt" title="">The Hosts File Project by Andy Short</a> |
-| Suspicious | 📙 | <a href="https://adblock.mahakala.is/" title="">Mahakala</a> |
 | Advertising | 📗 | <a href="https://adaway.org/hosts.txt" title="">AdAway</a> |
 | Advertising | 📗 | <a href="https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt" title="">Adguard DNS Filter</a> |
 | Advertising | 📗 | <a href="https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt" title="">LanikSJ's Admiral Anti-Adblock</a> |
