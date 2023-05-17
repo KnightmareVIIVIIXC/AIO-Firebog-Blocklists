@@ -62,6 +62,24 @@
 
 ---
 
+<h2 align="center">📈 The Tests 📉</h2>
+
+<div align="center">
+
+<strong><em>Tools to help identify what is blocked or unblocked</em></strong>
+
+<br>
+
+|📝| Testing Tools |
+|:---:|:---|
+| 📃 | <a href="https://d3ward.github.io/toolz/adblock" title="">d3ward's AdBlock Test</a> |
+| 📃 | <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |
+| 📃 | <a href="https://canyoublockit.com/" title="">Can You Block It</a> |
+
+</div>
+
+---
+
 <h2 align="center">📊 The Sources 📊</h2>
 
 <div align="center">
@@ -120,23 +138,5 @@
 | Malicious | 📘 | <a href="https://v.firebog.net/hosts/Prigent-Malware.txt" title="">Fabrice Prigent's Malware</a> |
 | Other | 📗 | <a href="https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts" title="">ZeroDot1 CoinBlockerLists</a> |
 | Other | 📘 | <a href="https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list" title="">Chad Mayfield (Top 1M)</a> |
-
-</div>
-
----
-
-<h2 align="center">📈 The Tests 📉</h2>
-
-<div align="center">
-
-<strong><em>Tools to help identify what is blocked or unblocked</em></strong>
-
-<br>
-
-|📝| Testing Tools |
-|:---:|:---|
-| 📃 | <a href="https://d3ward.github.io/toolz/adblock" title="">d3ward's AdBlock Test</a> |
-| 📃 | <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |
-| 📃 | <a href="https://canyoublockit.com/" title="">Can You Block It</a> |
 
 </div>
