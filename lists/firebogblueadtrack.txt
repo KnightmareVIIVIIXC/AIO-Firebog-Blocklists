@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-05-19T22:17:11.858Z
+! Last modified: 2023-05-20T10:25:16.111Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1888,7 +1888,9 @@
 ||amgvgt.com^
 ||amicalis.com^
 ||amidaz.com^
-||amiibox.com^
+||ww1.amiibox.com^
+||ww38.amiibox.com^
+||www.amiibox.com^
 ||amillionads.com^
 ||amirpirani.com^
 ||amishfurnaces.com^
@@ -5439,8 +5441,6 @@
 ||prof.manuelnovais.com^
 ||events.mapbox.com^
 ||maplesims.com^
-||mail.maps-icloud.com^
-||sync.maps-icloud.com^
 ||webdisk.maps-icloud.com^
 ||mapsfrontier.com^
 ||mapsofficial.com^
@@ -7543,7 +7543,7 @@
 ||svntrk.com^
 ||svtrd.com^
 ||swallosingsluts.com^
-||swandvr.com^
+||test.bad.dns.swandvr.com^
 ||swansonviatmins.com^
 ||sweetbaypharmacy.com^
 ||sweetestcouture.com^
@@ -7738,7 +7738,7 @@
 ||thedoctopdf.com^
 ||thedogfleas.com^
 ||theearlyshowcbsnews.com^
-||theerotivreview.com^
+||www.theerotivreview.com^
 ||thegreatorder.com^
 ||thehatsite.com^
 ||thehearingaidscenter.com^
@@ -9351,6 +9351,7 @@
 ||ww17.8591.info^
 ||ww25.8591.info^
 ||ww7.8591.info^
+||z1030.8591.info^
 ||91girl5.info^
 ||91gxfl.info^
 ||98hy.info^
@@ -9414,9 +9415,7 @@
 ||angren.info^
 ||ani-ban.info^
 ||anime-shinden.info^
-||ww16.mvideo.anime3kage.info^
-||ww2.anime3kage.info^
-||ww3.anime3kage.info^
+||anime3kage.info^
 ||annanicole.info^
 ||ansatsu.info^
 ||answkey.info^
@@ -9818,6 +9817,7 @@
 ||farace.info^
 ||dev.fasan.info^
 ||staging.fasan.info^
+||ww25.fasan.info^
 ||www.fasan.info^
 ||fatorfiction.info^
 ||fazu.info^
@@ -9852,20 +9852,7 @@
 ||formadv.info^
 ||formenterazen.info^
 ||forthewomen.info^
-||auth.forumwarez.info^
-||authsmtp.forumwarez.info^
-||imap2.forumwarez.info^
-||mailgate.forumwarez.info^
-||mailout.forumwarez.info^
-||mailx.forumwarez.info^
-||mx2.forumwarez.info^
-||ns2.forumwarez.info^
-||pop.forumwarez.info^
-||relay.forumwarez.info^
-||smtpauth.forumwarez.info^
 ||ww12.forumwarez.info^
-||www1.forumwarez.info^
-||www2.forumwarez.info^
 ||fotomodelle.info^
 ||fotomodels.info^
 ||fotoway.info^
@@ -9945,6 +9932,7 @@
 ||green-beauty.info^
 ||greenfleet.info^
 ||greenschool.info^
+||ww1.groc.info^
 ||groednertal.info^
 ||groenehartmedia.info^
 ||grossglockner.info^
@@ -10085,10 +10073,6 @@
 ||jayrigby.info^
 ||jebar.info^
 ||jezdeckaskola.info^
-||dedaoip.jiani.info^
-||ww17.work.jiani.info^
-||ww25.work.jiani.info^
-||ww38.work.jiani.info^
 ||ww1.jiani.info^
 ||ww3.jiani.info^
 ||ww38.jiani.info^
@@ -10510,9 +10494,7 @@
 ||server1.portailwebecoles.info^
 ||smtpauth.portailwebecoles.info^
 ||ww11.portailwebecoles.info^
-||ww16.portailwebecoles.info^
 ||ww17.portailwebecoles.info^
-||ww25.portailwebecoles.info^
 ||ww38.portailwebecoles.info^
 ||www.portailwebecoles.info^
 ||www1.portailwebecoles.info^
@@ -10736,7 +10718,7 @@
 ||stroims.info^
 ||stroyclub.info^
 ||studnet.info^
-||submy.info^
+||ww17.submy.info^
 ||subsidios.info^
 ||subtitlepedia.info^
 ||suertetrabajos.info^
@@ -10860,7 +10842,8 @@
 ||twentyone.info^
 ||twzoa.info^
 ||txjails.info^
-||typolemag.info^
+||cpcontacts.typolemag.info^
+||webdisk.typolemag.info^
 ||u-jin.info^
 ||ukairshows.info^
 ||ukanbook.info^
@@ -10872,10 +10855,7 @@
 ||umon.info^
 ||unblockproxy.info^
 ||uncut.info^
-||mail.unebriquedanslemur.info^
-||webdisk.unebriquedanslemur.info^
-||ww1.unebriquedanslemur.info^
-||ww16.unebriquedanslemur.info^
+||unebriquedanslemur.info^
 ||unel.info^
 ||universalpizza.info^
 ||universitaet.info^
@@ -11875,6 +11855,7 @@
 ||gundam-eclipse.net^
 ||gutrfrage.net^
 ||ww17.gymnopedie-juridique.net^
+||ww38.gymnopedie-juridique.net^
 ||www.gymnopedie-juridique.net^
 ||h4ckerx.net^
 ||hacsktore.net^
@@ -11899,7 +11880,6 @@
 ||homeschoolingbenefits.net^
 ||hoota.net^
 ||houken.net^
-||mail.hozim.net^
 ||hs-analytics.net^
 ||hsadspixel.net^
 ||hscta.net^
@@ -12116,7 +12096,6 @@
 ||randyorton.net^
 ||ratds.net^
 ||realvu.net^
-||ns-pc41g20bm.redirectconnection.net^
 ||bmrg.reflected.net^
 ||glassmoni.researchgate.net^
 ||responsys.net^
@@ -13305,7 +13284,9 @@
 ||liveforextrading.org^
 ||livervox.org^
 ||lmba.org^
-||lndproxy.org^
+||ww1.eres.lndproxy.org^
+||ww17.eres.lndproxy.org^
+||www.lndproxy.org^
 ||logview.org^
 ||londonmint.org^
 ||loop-us.org^
