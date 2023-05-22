@@ -13,7 +13,7 @@
 |Bog| 📙 |Included in The Bog All-In-One (AIO) list only, consider using a whitelist|
 |Blue| 📘 |Included in The Bog AIO list and blue AIO list, more likely to interfere with browsing|
 |Green| 📗 |Included in The Bog AIO list and green AIO list, less likely to interfere with browsing|
-|Whitelist| 📒 |A list of things allowed when everything is denied by default|
+|Whitelist| 📃 |A list of things allowed when everything is denied by default|
 
 </div>
 
@@ -54,9 +54,9 @@
 
 |📊|Whitelist Suggestions|
 |:---:|:---|
-| 📒 | <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's Whitelist</a> 
-| 📒 | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's Whitelist</a> 
-| 📒 | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's Whitelist</a> 
+| 📃 | <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's Whitelist</a> 
+| 📃 | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's Whitelist</a> 
+| 📃 | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's Whitelist</a> 
 
 </div>
 
@@ -70,10 +70,10 @@
 
 <br>
 
-|📝| Testing Tools |
+| 📄 | Testing Tools |
 |:---:|:---|
-| 📃 | <a href="https://d3ward.github.io/toolz/adblock" title="">d3ward's AdBlock Test</a> |
-| 📃 | <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |
-| 📃 | <a href="https://canyoublockit.com/" title="">Can You Block It</a> |
+| 📝 | <a href="https://d3ward.github.io/toolz/adblock" title="">d3ward's AdBlock Test</a> |
+| 📝 | <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |
+| 📝 | <a href="https://canyoublockit.com/" title="">Can You Block It</a> |
 
 </div>
