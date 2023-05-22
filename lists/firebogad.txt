@@ -3,7 +3,7 @@
 ! Description: All the advertising sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-05-22T10:34:06.326Z
+! Last modified: 2023-05-22T22:07:14.623Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1732,7 +1732,6 @@
 ||spotxchange.com^
 ||springserve.com^
 ||spylog.com^
-||www.srmdata-us.com^
 ||cf.ssacdn.com^
 ||cx.ssacdn.com^
 ||images-demand.ssacdn.com^
@@ -2150,6 +2149,8 @@
 ||beacon.ztgame.com^
 ||zucks.net^
 ||log-collector.svctr.zynga.com^
+||dekkcewpqrep.com^
+||ugripaid.com^
 ||qctzwkrczwjw.com^
 ||diated.com^
 ||79c4215c89.com^
@@ -34206,6 +34207,8 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||d3-umami.up.railway.app^
+||snoop.minecraft.net^
 ||metrics.svc.conholdate.cloud^
 ||mywedding-beacon.team-rec.jp^
 ||metrics.onewegg.com^
@@ -36351,6 +36354,8 @@ inapps.appsflyersdk.com^
 ||int.akisinn.me^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
+||open.oneplus.net^
+||analytics-api.samsunghealthcn.com^
 ||sia.internet.apps.samsung.com^
 ||config-api.internet.apps.samsung.com^
 ||terms.internet.apps.samsung.com^
@@ -36385,6 +36390,7 @@ inapps.appsflyersdk.com^
 ||moa-upload-online.coloros.com^
 ||stat-in.dc.oppomobile.com^
 ||prod-analytics.royal.drmgms.com^
+||logservice1.hicloud.com^
 ||logservice.hicloud.com^
 ||logger.growstarry.com^
 ||adash.man.aliyuncs.com^
@@ -37511,6 +37517,7 @@ inapps.appsflyersdk.com^
 ||spycounter.net^
 ||sqate.io^
 ||squeezely.tech^
+||srmdata-us.com^
 ||ssm.codes^
 ||stackadapt.com^
 ||star-cntr-5.com^
@@ -38835,13 +38842,10 @@ inapps.appsflyersdk.com^
 ||wt.viagogo.net^
 ||x.weather.com^
 ||adsdk.yandex.ru^
-||analytics-api.samsunghealthcn.com^
 ||analytics.samsungknox.com^
 ||app.chat.xiaomi.net^
 ||extmaps-api.yandex.net^
-||logservice1.hicloud.com^
 ||metrics-dra.dt.hicloud.com^
-||open.oneplus.net^
 ||supportmetrics.apple.com^
 ||d10gj7yjsfriaj.cloudfront.net^
 ||d11a2fzhgzqe7i.cloudfront.net^
@@ -39704,6 +39708,7 @@ inapps.appsflyersdk.com^
 ||ver-pelis.net^
 ||xclk-integracion.com^
 ||yestorrents.org^
+||mediasystems.am^
 ||adtcodepink.com^
 ||knowens.com^
 ||m-setup.net^
@@ -43344,7 +43349,6 @@ inapps.appsflyersdk.com^
 ||yrstwbyl.xyz^
 ||dzypro.xyz^
 ://sportframe*.org^
-://sportframe*.cfd^
 ||storj.cloud^
 ||clbanners9.com^
 ||my.urdreama.cfd^
@@ -46334,6 +46338,7 @@ inapps.appsflyersdk.com^
 ||dcqs4.com^
 ||ddkep.xyz^
 ||ddlipf.xyz^
+||ddqkqq.com^
 ||denghaishan1.cn^
 ||dertyhsf.xyz^
 ||dgfqqq.com^
@@ -46362,6 +46367,7 @@ inapps.appsflyersdk.com^
 ||endio.xyz^
 ||eqknlsw.xyz^
 ||evmnlpv.cn^
+||ewandlw.top^
 ||excfig.xyz^
 ||exwxrfz.cn^
 ||exz1t.top^
@@ -46381,6 +46387,7 @@ inapps.appsflyersdk.com^
 ||fkading38.xyz^
 ||flpnnqe.xyz^
 ||flyinsky2009.ltd^
+||fmild.xyz^
 ||fnnzr.cn^
 ||fssxyiq.cn^
 ||fthqzxq.cn^
@@ -46478,6 +46485,7 @@ inapps.appsflyersdk.com^
 ||jrtwi.xyz^
 ||jrzaht.xyz^
 ||jstimiz.xyz^
+||junkao.club^
 ||justasimple.top^
 ||jvkckeg.cn^
 ||jvmxrug.xyz^
@@ -46561,9 +46569,11 @@ inapps.appsflyersdk.com^
 ||nekomasu.ltd^
 ||networkname.xyz^
 ||ningdebus.club^
+||nntsdp.xyz^
 ||nogff.top^
 ||npdkdb.xyz^
 ||nqyz.tw^
+||nuanqipian.pw^
 ||nurahf.xyz^
 ||nvchmkw.cn^
 ||nwandlc.top^
@@ -46574,8 +46584,10 @@ inapps.appsflyersdk.com^
 ||on-you.cn^
 ||onlystar.club^
 ||ooexkqj.cn^
+||oofyjik.xyz^
 ||opida.xyz^
 ||originate.ltd^
+||orsrmrx.cn^
 ||otwiss.xyz^
 ||oubqzcg.cn^
 ||p2oh1.xyz^
@@ -46619,6 +46631,7 @@ inapps.appsflyersdk.com^
 ||qnmtqq.com^
 ||qpoiwnelc.com^
 ||qqied.xyz^
+||quancuncq.xyz^
 ||qwahk.com^
 ||qwrdj.xyz^
 ||radish-cake.xyz^
@@ -46779,13 +46792,16 @@ inapps.appsflyersdk.com^
 ||xpynqq.com^
 ||xrkyqq.com^
 ||xsbdj6.com^
+||xtpwfb.xyz^
 ||xuanqi.ltd^
 ||xueyugaoyuan.xyz^
 ||xunjie.fun^
 ||xvrvgod.xyz^
 ||xyjcpcb.cn^
+||xyqmy.xyz^
 ||xyzyqq.com^
 ||xzlurd.xyz^
+||y3cdp.top^
 ||yanghetp.com^
 ||yangyuqing.xyz^
 ||yankuoyyds.com^
@@ -46834,14 +46850,6 @@ inapps.appsflyersdk.com^
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||ddqkqq.com^
-||nuanqipian.pw^
-||junkao.club^
-||oofyjik.xyz^
-||xtpwfb.xyz^
-||fmild.xyz^
-||ewandlw.top^
-||orsrmrx.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
