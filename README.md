@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<strong><em>A collection of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/Sources.md) compiled into a variety of lists to help<br>minimize advertising, prevent tracking, and block malicious content</em></strong>
+<strong><em>A collection of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/Sources.md) compiled into a variety of lists to<br>minimize advertising, prevent tracking, and block malicious content</em></strong>
 
 ![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/fe8ff9f6-2f95-4e1d-9bb6-41c9d0556eb1)
 
