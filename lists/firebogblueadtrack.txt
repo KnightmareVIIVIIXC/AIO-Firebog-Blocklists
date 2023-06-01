@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-05-31T22:32:02.899Z
+! Last modified: 2023-06-01T10:14:01.046Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1326,7 +1326,6 @@
 ||4pornhub.com^
 ||4zared.com^
 ||4jslg.5000coins.com^
-||www.5000coins.com^
 ||59fifty.com^
 ||5legeat.com^
 ||622lq.com^
@@ -2351,7 +2350,6 @@
 ||bilenor.com^
 ||bilizzard.com^
 ||billfilter.com^
-||billgatescrypto.com^
 ||billgateshelp.com^
 ||billigastelanet.com^
 ||billigastforsakring.com^
@@ -3314,7 +3312,6 @@
 ||deutztractor.com^
 ||dev-nano.com^
 ||developerapple.com^
-||developerchrome.com^
 ||deviceatlas.com^
 ||analytics.devicebits.com^
 ||devitube.com^
@@ -4336,9 +4333,6 @@
 ||griffball.com^
 ||grignot-nat.com^
 ||gringoadventure.com^
-||direct.grockster.com^
-||mta1.grockster.com^
-||ww25.grockster.com^
 ||groovieshark.com^
 ||groovinads.com^
 ||groproext.com^
@@ -6637,7 +6631,74 @@
 ||pixel.reddit.com^
 ||events.redditmedia.com^
 ||pixel.redditmedia.com^
-||reddmn.com^
+||antispam.reddmn.com^
+||auth.reddmn.com^
+||barracuda.reddmn.com^
+||box.reddmn.com^
+||comune.reddmn.com^
+||correo.reddmn.com^
+||email.reddmn.com^
+||gate.reddmn.com^
+||gw.reddmn.com^
+||hermes.reddmn.com^
+||home.reddmn.com^
+||host.reddmn.com^
+||links.reddmn.com^
+||m.reddmn.com^
+||mail01.reddmn.com^
+||mail02.reddmn.com^
+||mail1.reddmn.com^
+||mail10.reddmn.com^
+||mail12.reddmn.com^
+||mail2.reddmn.com^
+||mail3.reddmn.com^
+||mail4.reddmn.com^
+||mail5.reddmn.com^
+||mail6.reddmn.com^
+||mail7.reddmn.com^
+||mail9.reddmn.com^
+||mailer.reddmn.com^
+||mailgate.reddmn.com^
+||mailhost.reddmn.com^
+||mailin.reddmn.com^
+||mailout.reddmn.com^
+||mailrelay.reddmn.com^
+||mails.reddmn.com^
+||mailserver.reddmn.com^
+||mailsrv.reddmn.com^
+||mailx.reddmn.com^
+||mx0.reddmn.com^
+||mx01.reddmn.com^
+||mx02.reddmn.com^
+||mx1.reddmn.com^
+||mx2.reddmn.com^
+||mx20.reddmn.com^
+||mx3.reddmn.com^
+||mx4.reddmn.com^
+||mx5.reddmn.com^
+||mx7.reddmn.com^
+||newmail.reddmn.com^
+||ns.reddmn.com^
+||ns1.reddmn.com^
+||ns2.reddmn.com^
+||outmail.reddmn.com^
+||poczta.reddmn.com^
+||pop.reddmn.com^
+||post.reddmn.com^
+||postmaster.reddmn.com^
+||relay.reddmn.com^
+||relay1.reddmn.com^
+||root.reddmn.com^
+||server.reddmn.com^
+||smtpauth.reddmn.com^
+||smtps.reddmn.com^
+||smtpseguro.reddmn.com^
+||sniper.reddmn.com^
+||srv.reddmn.com^
+||vmail.reddmn.com^
+||ww9.reddmn.com^
+||www1.reddmn.com^
+||zimbra.reddmn.com^
 ||redetuby.com^
 ||metrics.redgifs.com^
 ||px.redgifs.com^
@@ -9306,6 +9367,7 @@
 ||kids-world.org.il^
 ||physicaplus.org.il^
 ||shin-tech.org.il^
+||3000.im^
 ||matomo.riot.im^
 ||adservice.google.co.in^
 ||com-sign.in^
@@ -10159,7 +10221,6 @@
 ||box.lecoindesmangas.info^
 ||comune.lecoindesmangas.info^
 ||correo.lecoindesmangas.info^
-||postmaster.cpanel.lecoindesmangas.info^
 ||direct.lecoindesmangas.info^
 ||gateway.lecoindesmangas.info^
 ||home.lecoindesmangas.info^
@@ -10167,13 +10228,11 @@
 ||ipe.lecoindesmangas.info^
 ||m.lecoindesmangas.info^
 ||mail.lecoindesmangas.info^
-||mail01.lecoindesmangas.info^
 ||mail02.lecoindesmangas.info^
 ||mail10.lecoindesmangas.info^
 ||mail12.lecoindesmangas.info^
 ||mail2.lecoindesmangas.info^
 ||mail4.lecoindesmangas.info^
-||mail6.lecoindesmangas.info^
 ||mail7.lecoindesmangas.info^
 ||mail8.lecoindesmangas.info^
 ||mail9.lecoindesmangas.info^
@@ -10220,13 +10279,11 @@
 ||thor.lecoindesmangas.info^
 ||vip.lecoindesmangas.info^
 ||webdisk.lecoindesmangas.info^
-||postmaster.webmail.lecoindesmangas.info^
 ||ww11.lecoindesmangas.info^
 ||ww16.lecoindesmangas.info^
 ||ww2.lecoindesmangas.info^
-||ww25.lecoindesmangas.info^
 ||ww31.lecoindesmangas.info^
-||www.lecoindesmangas.info^
+||postmaster.www.lecoindesmangas.info^
 ||zimbra.lecoindesmangas.info^
 ||legfrissebb.info^
 ||legislatives.info^
@@ -10353,8 +10410,6 @@
 ||movieeater.info^
 ||moviescounters.info^
 ||movietool.info^
-||files.mp3-4-all.info^
-||gbdfvzd.mp3-4-all.info^
 ||mp3-pesni.info^
 ||mp3sertanejo.info^
 ||mrxman.info^
@@ -10592,7 +10647,6 @@
 ||receptcity.info^
 ||recepti-i-ideje.info^
 ||reciclaje.info^
-||autodiscover.reconstruct-rep-of-mold.info^
 ||red-rose.info^
 ||redhotrealty.info^
 ||redup.info^
@@ -10678,7 +10732,9 @@
 ||sexplain.info^
 ||sexr.info^
 ||sexreise.info^
-||shadow93.info^
+||murmmisjylpn.shadow93.info^
+||utms.shadow93.info^
+||www.shadow93.info^
 ||sharedb.info^
 ||sharonziv.info^
 ||sheriff.info^
@@ -10809,7 +10865,13 @@
 ||telugusexstories.info^
 ||templotibidabo.info^
 ||tendance.info^
-||teresianas.info^
+||enriquedeossotelde.teresianas.info^
+||huelva.teresianas.info^
+||jesusmaestro.teresianas.info^
+||mail.teresianas.info^
+||teresianolaspalmas.teresianas.info^
+||ww17.teresianas.info^
+||www.teresianas.info^
 ||textvnz.info^
 ||tfp.info^
 ||tha3loub.info^
@@ -10850,6 +10912,9 @@
 ||torjacken.info^
 ||torrentgamesps2.info^
 ||torrentsave.info^
+||ww11.tosec.info^
+||ww25.tosec.info^
+||ww38.tosec.info^
 ||totoarena.info^
 ||touring24.info^
 ||touringaustralia.info^
@@ -10977,7 +11042,6 @@
 ||worldsportsmemorabilia.info^
 ||wowchar.info^
 ||wowsource.info^
-||wurzen.info^
 ||wwpc.info^
 ||xav11.info^
 ||xeal.info^
@@ -11269,6 +11333,7 @@
 ||xfin.me^
 ||cdn.admetrics.media^
 ||convrse.media^
+||gatescoin.media^
 ||m32.media^
 ||ads.nextday.media^
 ||nui.media^
@@ -11479,7 +11544,6 @@
 ||bhefry.net^
 ||bidswitch.net^
 ||billyjons.net^
-||binance-btc.net^
 ||binancefund.net^
 ||binanceteam.net^
 ||binancevent.net^
@@ -13765,7 +13829,6 @@
 ||statesymbols.org^
 ||stbernadettescatholicchurch.org^
 ||ww11.stevenavery.org^
-||ww17.stevenavery.org^
 ||ww35.stevenavery.org^
 ||www.stevenavery.org^
 ||stfrancisbaby.org^
@@ -13846,6 +13909,7 @@
 ||thepartyanimal.org^
 ||thepiratebayproxy.org^
 ||thepiratebayt.org^
+||thepiratsbay.org^
 ||thepiratwbay.org^
 ||thepirstebay.org^
 ||theplazamall.org^
