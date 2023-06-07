@@ -3,7 +3,7 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-06-06T11:10:48.403Z
+! Last modified: 2023-06-07T00:13:49.603Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -46,9 +46,9 @@
 .vsTracking.
 .web-vitals-reporting.
 ://a869.
+://internal-matomo.
 ://segment-api.
 ://segment-cdn.
-||internal-matomo.
 -coin-hive.js
 -monero-miner-
 -logabpstatus.
@@ -196,6 +196,7 @@
 ||g990421676.co^
 ||gbqofs.com^
 ||geoedge.be^
+||geotargetly-api-*.com^
 ||glimr.io^
 ||glookup.info^
 ||go-mpulse.net^
@@ -10771,7 +10772,6 @@
 ||go.wm.plantemoran.com^
 ||goto.benchmarkeducation.com^
 ||grow.business.xerox.com^
-||hfd.bridgetowermedia.com^
 ||hotel-marketing.hrs.com^
 ||hub.hubinternational.com^
 ||info-fsi.stanford.edu^

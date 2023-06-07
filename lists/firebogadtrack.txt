@@ -3,7 +3,7 @@
 ! Description: All the advertising and tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-06-06T11:13:13.751Z
+! Last modified: 2023-06-07T00:16:16.395Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -42597,9 +42597,9 @@
 .vsTracking.
 .web-vitals-reporting.
 ://a869.
+://internal-matomo.
 ://segment-api.
 ://segment-cdn.
-||internal-matomo.
 -coin-hive.js
 -monero-miner-
 -logabpstatus.
@@ -42715,6 +42715,7 @@
 ||g9706132415.co^
 ||g990421675.co^
 ||g990421676.co^
+||geotargetly-api-*.com^
 ||glimr.io^
 ||glookup.info^
 ||hubty.network^
@@ -52508,7 +52509,6 @@
 ||go.wm.plantemoran.com^
 ||goto.benchmarkeducation.com^
 ||grow.business.xerox.com^
-||hfd.bridgetowermedia.com^
 ||hotel-marketing.hrs.com^
 ||hub.hubinternational.com^
 ||info-fsi.stanford.edu^
