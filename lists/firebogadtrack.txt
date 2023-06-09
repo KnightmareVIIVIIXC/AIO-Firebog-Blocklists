@@ -3,7 +3,7 @@
 ! Description: All the advertising and tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-06-09T00:06:54.845Z
+! Last modified: 2023-06-09T11:13:19.401Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1648,6 +1648,9 @@
 ||ads-resources-legacy.waze.com^
 ||adsassets.waze.com^
 ||trk.wdacashtrk.com^
+||bcdn-god.we-stats.com^
+||cfr.us.v2.we-stats.com^
+||log-dbff2e04.us.v2.we-stats.com^
 ||airlytics.airlock.twcmobile.weather.com^
 ||and-ads.pulse.weatherbug.net^
 ||ios-ads.pulse.weatherbug.net^
@@ -74453,7 +74456,6 @@
 ||adsquare.com^
 ||adsrvs.com^
 ||adssets.com^
-||ww1.adssyscom.com^
 ||www.adssyscom.com^
 ||adstradata.com^
 ||insights.adsttc.com^
@@ -75966,7 +75968,9 @@
 ||dodownload.com^
 ||dofattv.com^
 ||dofloration.com^
-||dogeblack.com^
+||www.wp.dogeblack.com^
+||ww25.dogeblack.com^
+||ww38.dogeblack.com^
 ||doggiepot.com^
 ||dogmelon.com^
 ||dogwisperer.com^
@@ -76045,6 +76049,7 @@
 ||dvsfta.com^
 ||dvtps.com^
 ||commons.dw.com^
+||dwnyoutube.com^
 ||suggest.dxpapi.com^
 ||dynadmic.com^
 ||dynamic-tracking.com^
@@ -76156,6 +76161,7 @@
 ||englishseak.com^
 ||enterprizebank.com^
 ||entnews.com^
+||entraide-fibromyalgie-ouest.com^
 ||envirofine.com^
 ||envisonreports.com^
 ||enzajit.com^
@@ -76836,6 +76842,7 @@
 ||heisejinyao.com^
 ||hellospy.com^
 ||helmbanck.com^
+||helpinghandshomeimprovement.com^
 ||henrysheinrxsamples.com^
 ||herfirstpregnancy.com^
 ||anti-theft-web.herokuapp.com^
@@ -78415,6 +78422,7 @@
 ||plentyofosh.com^
 ||pncbankarts.com^
 ||pnstat.com^
+||pocketpcheaven.com^
 ||podersa.com^
 ||connect.podium.com^
 ||poduveli.com^
@@ -78860,7 +78868,6 @@
 ||schoolnpjs.com^
 ||schoolyoutube.com^
 ||scootertrap.com^
-||scottsbarlow.com^
 ||scr2prmmic.com^
 ||scraptu.com^
 ||scriload.com^
@@ -81093,7 +81100,6 @@
 ||bizbuildermastery.info^
 ||bkhcm.info^
 ||bled.info^
-||blindtech-list.info^
 ||blockchani.info^
 ||blogvlw.info^
 ||bluehippo.info^
@@ -81202,7 +81208,6 @@
 ||consolasportatiles.info^
 ||coolcashing.info^
 ||coolinc.info^
-||coonews.info^
 ||corewiki.info^
 ||corporategeek.info^
 ||corrientesya.info^
@@ -81394,7 +81399,6 @@
 ||firstnews.info^
 ||fishinginisrael.info^
 ||fisse.info^
-||fitblog.info^
 ||fkwv.info^
 ||flex-tech.info^
 ||flixzone.info^
@@ -81499,7 +81503,7 @@
 ||guesthouse.info^
 ||guineenews.info^
 ||gunxue.info^
-||gurusd.info^
+||ww25.my.gurusd.info^
 ||guter-punkt.info^
 ||gutteruncensored.info^
 ||gyaoh.info^
@@ -81750,7 +81754,6 @@
 ||lucario.info^
 ||lucypindergallery.info^
 ||luoli.info^
-||lupian.info^
 ||luvita.info^
 ||luxfilm.info^
 ||m4yfree.info^
@@ -81789,9 +81792,7 @@
 ||mcsa.info^
 ||mdcollege.info^
 ||mediamuslim.info^
-||ww25.mediapendidikan.info^
-||ww38.mediapendidikan.info^
-||www.mediapendidikan.info^
+||mediapendidikan.info^
 ||medicalequipments.info^
 ||medicalfacts.info^
 ||medicalinstruments.info^
@@ -82154,6 +82155,7 @@
 ||seolinkek.info^
 ||seotaolao.info^
 ||seouldl.info^
+||sepalo3.info^
 ||sere.info^
 ||serenade.info^
 ||sergamer.info^
@@ -82176,7 +82178,6 @@
 ||shlink.info^
 ||shop-shop.info^
 ||showroom.info^
-||shrinky.info^
 ||shturm.info^
 ||shuwo.info^
 ||sifangclub1.info^
@@ -82512,6 +82513,7 @@
 ||zins-radar.info^
 ||zipmangabk.info^
 ||zonacodot.info^
+||zooplaneta.info^
 ||zppp.info^
 ||zuckerkrankheit.info^
 ||zvarych.info^
@@ -83764,6 +83766,7 @@
 ||bipme.org^
 ||bitbacket.org^
 ||bitbuket.org^
+||bitcoindrop.org^
 ||bitcoinxl.org^
 ||blackplague.org^
 ||blendswap.org^
@@ -84204,6 +84207,7 @@
 ||hittai.org^
 ||hkhanacademy.org^
 ||hlcomission.org^
+||hngu.org^
 ||holyebooks.org^
 ||holyspirithemet.org^
 ||homescapes.org^
@@ -84770,7 +84774,7 @@
 ||ricksautosales.org^
 ||ricourts.org^
 ||rivermarcu.org^
-||ww1.rivinia.org^
+||rivinia.org^
 ||rkmtbs.org^
 ||metrics.robinhood.org^
 ||rocat.org^
@@ -84798,6 +84802,7 @@
 ||sarasquest.org^
 ||savasoyunlari.org^
 ||savetheartic.org^
+||savethechilden.org^
 ||sbunfied.org^
 ||sc-court.org^
 ||scend.org^
@@ -84909,6 +84914,7 @@
 ||ssnit.org^
 ||stamfordct.org^
 ||starrettcityboxing.org^
+||starscholarships.org^
 ||startisanat.org^
 ||statesales.org^
 ||statesymbols.org^
@@ -98893,7 +98899,6 @@
 ||waudit.cz^
 ||wayin.com^
 ||wbtrk.net^
-||we-stats.com^
 ||web-analytics-cn.huami.com^
 ||web-analytics.huami.com^
 ||web-metrica.yandex.ru^
