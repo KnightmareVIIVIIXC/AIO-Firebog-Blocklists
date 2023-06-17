@@ -3,7 +3,7 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-06-16T23:53:06.430Z
+! Last modified: 2023-06-17T11:07:06.022Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -12,7 +12,6 @@
 -analytics-events.
 -appanalytics-
 -click-tracker.
--datacollection.
 -didomi.js
 -ga-tracker.
 -gatracker.
@@ -509,7 +508,6 @@
 ||analyticschecker.com^
 ||analyticswizard.com^
 ||analytik.xyz^
-||analytk.com^
 ||analyzz.com^
 ||anametrix.com^
 ||anametrix.net^
@@ -767,7 +765,6 @@
 ||crosswalkmail.com^
 ||crowdscience.com^
 ||csdata1.com^
-||cttracking02.com^
 ||cuberoot.co^
 ||customerconversio.com^
 ||customerlabs.co^
@@ -1005,7 +1002,6 @@
 ||globel.co.uk^
 ||globetrackr.com^
 ||gnpge.com^
-||go2link.net^
 ||godhat.com^
 ||goingup.com^
 ||goneviral.com^
@@ -1699,7 +1695,6 @@
 ||siteapps.com^
 ||sitebro.com^
 ||sitebro.net^
-||sitebro.tw^
 ||sitecompass.com^
 ||sitereport.org^
 ||siteswithcontent.com^
@@ -1808,7 +1803,6 @@
 ||surfcounters.com^
 ||surveyscout.com^
 ||surveywriter.com^
-||swfstats.com^
 ||swiss-counter.com^
 ||synergy-e.com^
 ||synerise.com^
@@ -1864,7 +1858,6 @@
 ||trace.events^
 ||traceless.me^
 ||tracelytics.com^
-||tracer.jp^
 ||traceworks.com^
 ||track-re01.com^
 ||track-server-100.com^
@@ -2050,8 +2043,6 @@
 ||wpdstat.com^
 ||wpfc.ml^
 ||wrating.com^
-||wtastats.com^
-||wtastats.ro^
 ||wts.one^
 ||wts2.one^
 ||wtstats.com^
@@ -2306,7 +2297,6 @@
 ||lmiutil.com^
 ||machieved.com^
 ||mepirtedic.com^
-||mercy.ga^
 ||mi-de-ner-nis3.info^
 ||mine.nahnoji.cz^
 ||mine.torrent.pw^
@@ -3651,7 +3641,6 @@
 ||123-counter.de^
 ||3ng6p6m0.de^
 ||4stats.de^
-||actionallocator.com^
 ||active-tracking.de^
 ||adclear.net^
 ||adnz.co^
@@ -4275,7 +4264,6 @@
 ||profitshare.ro^
 ||statistics.ro^
 ||top-ro.ro^
-||trafix.ro^
 ||wtstats.ro^
 ||zontera.com^
 ||1dmp.io^
@@ -4960,7 +4948,6 @@
 ||ptsc.shoplocal.com^
 ||pub.sheknows.com^
 ||pubgw.yahoo.com^
-||pv.pjtsu.com^
 ||px.spiceworks.com^
 ||pylon.micstatic.com^
 ||qubitanalytics.appspot.com^
@@ -5113,7 +5100,6 @@
 ||tag.rmp.rakuten.com^
 ||tag.statshop.fr^
 ||tags.cdn.circlesix.co^
-||tags.creativille.co.uk^
 ||tags.fullcontact.com^
 ||tags.master-perf-tools.com^
 ||tagtracking.vibescm.com^
@@ -5722,7 +5708,6 @@
 ||bidder.mediams.mb.softbank.jp^
 ||bvr.ast.snva.jp^
 ||bvr.snva.jp^
-||cookie.codemarketing.cloud^
 ||cookie.sync.usonar.jp^
 ||counter2.blog.livedoor.com^
 ||crossees.com^
@@ -6391,7 +6376,6 @@
 ||substation.confection.io^
 ||cfa.fidelity.com^
 ||clear.wallapop.com^
-||content.id.elsevier.com^
 ||content22.bmoharris.com^
 ||content22.citibank.com.au^
 ||contents2.00110.citi.com^
@@ -37078,7 +37062,6 @@
 ||dodownload.com^
 ||dofattv.com^
 ||dofloration.com^
-||www.wp.dogeblack.com^
 ||doggiepot.com^
 ||dogmelon.com^
 ||dogwisperer.com^
@@ -37237,7 +37220,6 @@
 ||elfontheself.com^
 ||elfsight.com^
 ||elianca.com^
-||elitecaliscorts.com^
 ||elizabeth-il.com^
 ||elizabethmattress.com^
 ||ellierio.com^
@@ -40094,6 +40076,7 @@
 ||restaurant-olympe.com^
 ||resugence.com^
 ||resumendejinete.com^
+||retailmehot.com^
 ||retargetly.com^
 ||retdube.com^
 ||retentionscience.com^
@@ -40374,7 +40357,7 @@
 ||searchingteam.com^
 ||searchingtown.com^
 ||searchmanagerplus.com^
-||searchmanagertech.com^
+||static-v2.searchmanagertech.com^
 ||searchmangra.com^
 ||searchmgr.com^
 ||searchmgrc.com^
@@ -42611,6 +42594,7 @@
 ||amiro.info^
 ||amorous.info^
 ||amsterdamsightseeing.info^
+||anandgroup.info^
 ||anarsi.info^
 ||andreas-hofer.info^
 ||androiddevice.info^
@@ -43209,7 +43193,6 @@
 ||hookuponlineplussize.info^
 ||hothairypussy.info^
 ||hothome.info^
-||hothot.info^
 ||hotmusic.info^
 ||hotxtube.info^
 ||hounslow.info^
@@ -43472,8 +43455,7 @@
 ||mitzi.info^
 ||mladenovac.info^
 ||mmo24.info^
-||ww17.mnogosporta.info^
-||ww62.mnogosporta.info^
+||mnogosporta.info^
 ||mobile-damz.info^
 ||mobile-tech.info^
 ||mobilemovie.info^
@@ -43494,9 +43476,6 @@
 ||mouth-is-the-sun.info^
 ||move2012.info^
 ||movieeater.info^
-||pagalworld.moviescounters.info^
-||ww1.moviescounters.info^
-||ww11.moviescounters.info^
 ||movietool.info^
 ||mp3-pesni.info^
 ||mp3sertanejo.info^
@@ -43732,6 +43711,7 @@
 ||rawmangabk.info^
 ||raznesi.info^
 ||rc51.info^
+||rcia.info^
 ||rdks.info^
 ||re6.info^
 ||realitaeten.info^
@@ -43740,7 +43720,6 @@
 ||rearsets.info^
 ||receptcity.info^
 ||recepti-i-ideje.info^
-||reciclaje.info^
 ||red-rose.info^
 ||redhotrealty.info^
 ||redup.info^
@@ -45194,6 +45173,7 @@
 ||respottv.net^
 ||returnpath.net^
 ||brain.rtb.revcloud.net^
+||nb-us.wal.co.revdn.net^
 ||rfihub.net^
 ||rinconmedico.net^
 ||rtrk.rlcdn.net^
@@ -45435,6 +45415,7 @@
 ||22js.org^
 ||24tabs.org^
 ||2kmovie.org^
+||32nd.org^
 ||3qqq.org^
 ||49nct.org^
 ||4bilder1wort.org^
@@ -46489,6 +46470,7 @@
 ||ourladystarofthesears.org^
 ||ourworlddata.org^
 ||outbrain.org^
+||oxfarm.org^
 ||ozgurlukdergisi.org^
 ||ozilla.org^
 ||paceapp.org^
@@ -46821,7 +46803,6 @@
 ||summervillespca.org^
 ||sun-biz.org^
 ||sun-time.org^
-||sunsetclubs.org^
 ||super6.org^
 ||supergreatness.org^
 ||suttonyouth.org^
@@ -46980,7 +46961,6 @@
 ||usalr.org^
 ||usamnesty.org^
 ||usarchives.org^
-||usaredcross.org^
 ||usclimateplan.org^
 ||usdebtclick.org^
 ||api.userway.org^
@@ -46989,6 +46969,7 @@
 ||utsglobal.org^
 ||vadets.org^
 ||vanburencounty.org^
+||vanpool.org^
 ||vectorizacion.org^
 ||veditz.org^
 ||vedmo.org^
