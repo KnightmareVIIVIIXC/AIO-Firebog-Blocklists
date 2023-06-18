@@ -3,7 +3,7 @@
 ! Description: All the green advertising and tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-06-18T00:37:02.181Z
+! Last modified: 2023-06-18T11:17:45.495Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -11446,6 +11446,7 @@
 ||gobbinsantos.store^
 ||gobiaesker.uno^
 ||gobicyice.com^
+||gobitta.info^
 ||gobmodfoe.com^
 ||godating.pw^
 ||goddamnhowks.tech^
@@ -19909,7 +19910,6 @@
 ||shrinkmesh.com^
 ||shrinkstorey.com^
 ||shritebehinds.space^
-||shrtfly.com^
 ||shrugartisticelder.com^
 ||shrupsthan.life^
 ||shrust.com^
@@ -25168,6 +25168,7 @@
 ||shopzyapp.com^
 ||showyoursite.com^
 ||shrinkearn.com^
+||shrtfly.com^
 ||simpio.com^
 ||simpletraffic.co^
 ||simvinvo.com^
@@ -29114,7 +29115,6 @@
 ||d1aezk8tun0dhm.cloudfront.net^
 ||d1aqvw7cn4ydzo.cloudfront.net^
 ||d1ayv3a7nyno3a.cloudfront.net^
-||d1ayxb9ooonjts.cloudfront.net^
 ||d1az618or4kzj8.cloudfront.net^
 ||d1aznprfp4xena.cloudfront.net^
 ||d1azpphj80lavy.cloudfront.net^
@@ -29373,7 +29373,6 @@
 ||d2qn0djb6oujlt.cloudfront.net^
 ||d2qnx6y010m4rt.cloudfront.net^
 ||d2qz7ofajpstv5.cloudfront.net^
-||d2r1yp2w7bby2u.cloudfront.net^
 ||d2r2yqcp8sshc6.cloudfront.net^
 ||d2r3rw91i5z1w9.cloudfront.net^
 ||d2rsvcm1r8uvmf.cloudfront.net^
@@ -29399,7 +29398,6 @@
 ||d2vwl2vhlatm2f.cloudfront.net^
 ||d2w92zbcg4cwxr.cloudfront.net^
 ||d2werg7o2mztut.cloudfront.net^
-||d2wy8f7a9ursnm.cloudfront.net^
 ||d2x0u7rtw4p89p.cloudfront.net^
 ||d2x19ia47o8gwm.cloudfront.net^
 ||d2xng9e6gymuzr.cloudfront.net^
@@ -36827,6 +36825,7 @@
 ||linkury-services-stats.trafficmanager.net^
 ||stats.macapproduct.com^
 ||linkury.com^
+||d2r1yp2w7bby2u.cloudfront.net^
 ||clicks.beap.bc.yahoo.com^
 ||bifrost-api.hotstar.com^
 ||vs.hotstar.com^
@@ -44032,6 +44031,7 @@
 ||d1yu67rmchodpo.cloudfront.net^
 ||d21y75miwcfqoq.cloudfront.net^
 ||d24rtvkqjwgutp.cloudfront.net^
+||d2wy8f7a9ursnm.cloudfront.net^
 ||d2yyd1h5u9mauk.cloudfront.net^
 ||d38fey2d93vryi.cloudfront.net^
 ||d4n.platformd.com^
@@ -44296,7 +44296,6 @@
 -track-inview.
 -tracking-pixel.
 -trackingScript.
-.analytics.min.
 .beacon.min.js
 .eloqua.js
 .EventTracking.
@@ -47048,6 +47047,7 @@
 ||pushwize.com^
 ||pushwoosh.com^
 ||reprocautious.com^
+||sbi-push.com^
 ||shroughtened.com^
 ||sm-epsilon.com^
 ||snd.tc^
@@ -48260,6 +48260,7 @@
 ||adgocoo.com^
 ||admatrix.jp^
 ||adpon.jp^
+||adrange.net^
 ||af-z.jp^
 ||afi-b.com^
 ||aid-ad.jp^
@@ -48280,6 +48281,7 @@
 ||datasign.co^
 ||dbfocus.jp^
 ||deteql.net^
+||dmtag.jp^
 ||docomo-analytics.com^
 ||e-click.jp^
 ||e-kaiseki.com^
@@ -48903,6 +48905,7 @@
 ||events.matterport.com^
 ||events.missena.io^
 ||events.ocdn.eu^
+||events.qortex.ai^
 ||events.realgravity.com^
 ||events.shareably.net^
 ||events.splash-screen.net^
@@ -49400,7 +49403,6 @@
 ||d1clfvuu2240eh.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||d1gp8joe0evc8s.cloudfront.net^
-||d1igp3oop3iho5.cloudfront.net^
 ||d1k8sb4xbepqao.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1qpxk1wfeh8v1.cloudfront.net^
@@ -50045,7 +50047,6 @@
 ||cm.nordvpn.com^
 ||cnt.hd21.com^
 ||cnt.iceporn.com^
-||cnt.nuvid.com^
 ||cnt.viptube.com^
 ||cnt.vivatube.com^
 ||collect.alipay.com^
@@ -50123,13 +50124,13 @@
 ||geoip.boredpanda.com^
 ||geoip.hmageo.com^
 ||geoip.ifunny.co^
-||geoip.viamichelin.com^
 ||glassmoni.researchgate.net^
 ||go.pardot.com^
 ||gotie.tunein.com^
 ||gtm.wise.com^
 ||gtreus.aliexpress.com^
 ||gurgle.pcmag.com^
+||gurgle.spiceworks.com^
 ||health-metrics-api.setapp.com^
 ||heap.drop.com^
 ||hits.cyberdrop.me^
@@ -50137,6 +50138,7 @@
 ||iam-rum-intake.datadoghq.com^
 ||iedc.fitbit.com^
 ||ih.newegg.com^
+||ingest.make.rvohealth.com^
 ||ingress.linktr.ee^
 ||intent.cmo.com.au^
 ||intent.goodgearguide.com.au^
@@ -50171,7 +50173,7 @@
 ||metrics.bangbros.com^
 ||metrics.freemake.com^
 ||metrics.hackerrank.com^
-||metrics.newegg.com^
+||metrics.onewegg.com^
 ||metrics.spkt.io^
 ||metrics.syf.com^
 ||miao.baidu.com^
@@ -50185,7 +50187,6 @@
 ||n26-trusted.n26.com^
 ||nasi.etherscan.com^
 ||net.haier.com^
-||nm.newegg.com^
 ||no9pldds1lmn3.soundcloud.com^
 ||noodle.backmarket.io^
 ||observe.metarouter.io^
@@ -50194,6 +50195,7 @@
 ||p.hentaiforce.net^
 ||pappagallu.onefootball.com^
 ||perf.mouser.com^
+||pf.newegg.com^
 ||pingback.giphy.com^
 ||pingo.staticmoly.me^
 ||pixel.archive.is^
@@ -50203,6 +50205,7 @@
 ||pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion^
 ||pixel.convertize.io^
 ||pixel.honestjohn.co.uk^
+||pixel.ionos.com^
 ||pixel.nine.com.au^
 ||pixel.tuko.co.ke^
 ||pixelzirkus.gameforge.com^
@@ -50233,6 +50236,7 @@
 ||rta2.newzit.com^
 ||rum.api.intuit.com^
 ||rum.kobo.com^
+||rvo-cohesion.healthline.com^
 ||saa.insideedition.com^
 ||search.anonymous.ads.brave.com^
 ||servo-report.dvdfab.
@@ -50255,14 +50259,12 @@
 ||stat.vulkanvegas.com^
 ||stategg.cdngeek.com^
 ||stats.aerotime.aero^
-||stats.cardschat.com^
 ||stats.davidickedelivery.com^
 ||stats.gateio.ch^
 ||stats.hd24.watch^
 ||stats.ibtimes.co.in^
 ||stats.ibtimes.sg^
 ||stats.justpaste.it^
-||stats.paste2.org^
 ||stats.pstream.net^
 ||stats.sandberg.world^
 ||stats.suenicholls.com^
@@ -50328,14 +50330,11 @@
 ||user-metrics.onthemarket.com^
 ||v.adblockultimate.net^
 ||views.arabnews.com^
-||visit.theglobeandmail.com^
 ||w3-reporting.reddit.com^
 ||wa.gmx.co.uk^
-||wa.ui-portal.de^
 ||wal.wolfram.com^
 ||weblog.flyasiana.com^
 ||wstats.e-wok.tv^
-||wtk.db.com^
 ||z737.thestar.com^
 ||track.opentable.ae^
 ||track.opentable.ca^
@@ -50419,7 +50418,6 @@
 ||sourcepoint-mms.mylifetime.com^
 ||vg247-p2.vg247.com^
 ||vg247-uk.vg247.com^
-||site.flashx.
 ||primate.dmarcdigests.com^
 ||0d8is908gby1.www.terraform.com.ar^
 ||10ro53kulyb.groove.so^
@@ -63539,6 +63537,7 @@
 ||fsm.lapresse.ca^
 ||hits.porn.fr^
 ||hlms.ecologie.gouv.fr^
+||insights.decathlon.net^
 ||logstash-3.radio-canada.ca^
 ||p.kolplay.com^
 ||p.pagesjaunes.fr^

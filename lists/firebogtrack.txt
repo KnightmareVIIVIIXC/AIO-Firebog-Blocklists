@@ -3,7 +3,7 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-06-18T00:36:31.473Z
+! Last modified: 2023-06-18T11:17:15.792Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -26,7 +26,6 @@
 -track-inview.
 -tracking-pixel.
 -trackingScript.
-.analytics.min.
 .beacon.min.js
 .eloqua.js
 .EventTracking.
@@ -2153,6 +2152,7 @@
 ||pushmaster-cdn.xyz^
 ||pushwize.com^
 ||reprocautious.com^
+||sbi-push.com^
 ||shroughtened.com^
 ||sm-epsilon.com^
 ||snd.tc^
@@ -4107,6 +4107,7 @@
 ||adgocoo.com^
 ||admatrix.jp^
 ||adpon.jp^
+||adrange.net^
 ||af-z.jp^
 ||afi-b.com^
 ||aid-ad.jp^
@@ -4125,6 +4126,7 @@
 ||datasign.co^
 ||dbfocus.jp^
 ||deteql.net^
+||dmtag.jp^
 ||docomo-analytics.com^
 ||e-click.jp^
 ||e-kaiseki.com^
@@ -4740,6 +4742,7 @@
 ||events.medio.com^
 ||events.missena.io^
 ||events.ocdn.eu^
+||events.qortex.ai^
 ||events.realgravity.com^
 ||events.shareably.net^
 ||events.splash-screen.net^
@@ -4778,7 +4781,6 @@
 ||geo.q5media.net^
 ||geo.thehindu.com^
 ||geobar.ziffdavisinternational.com^
-||geoip.cookieyes.com^
 ||geoip.instiengage.com^
 ||geoip.nekudo.com^
 ||geolocation.outreach.com^
@@ -5295,7 +5297,6 @@
 ||d1clfvuu2240eh.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||d1gp8joe0evc8s.cloudfront.net^
-||d1igp3oop3iho5.cloudfront.net^
 ||d1k8sb4xbepqao.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1n00d49gkbray.cloudfront.net^
@@ -5334,14 +5335,12 @@
 ||d2nxi61n77zqpl.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
-||d2r1yp2w7bby2u.cloudfront.net^
 ||d2rnkf2kqy5m6h.cloudfront.net^
 ||d2san7t27xb2pn.cloudfront.net^
 ||d2t77mnxyo7adj.cloudfront.net^
 ||d2tcg4i9q4js4a.cloudfront.net^
 ||d2tgfbvjf3q6hn.cloudfront.net^
 ||d2wu036mkcz52n.cloudfront.net^
-||d2wy8f7a9ursnm.cloudfront.net^
 ||d2zjlj1vewrxcj.cloudfront.net^
 ||d31qbv1cthcecs.cloudfront.net^
 ||d31y97ze264gaa.cloudfront.net^
@@ -5584,6 +5583,7 @@
 ||datacollector-dra.dt.hicloud.com^
 ||dcbpm.suning.cn^
 ||dup.baidustatic.com^
+||eclick.baidu.com^
 ||epro.sogou.com^
 ||experiments.sparanoid.net^
 ||fourier.taobao.com^
@@ -5987,7 +5987,6 @@
 ||cm.nordvpn.com^
 ||cnt.hd21.com^
 ||cnt.iceporn.com^
-||cnt.nuvid.com^
 ||cnt.viptube.com^
 ||cnt.vivatube.com^
 ||collect.alipay.com^
@@ -6078,7 +6077,6 @@
 ||ga.dx.com^
 ||gak.webtoons.com^
 ||gct.americanexpress.com^
-||gekko.spiceworks.com^
 ||geo.brobible.com^
 ||geo.gfycat.com^
 ||geo.nbcsports.com^
@@ -6086,7 +6084,6 @@
 ||geoip.boredpanda.com^
 ||geoip.hmageo.com^
 ||geoip.ifunny.co^
-||geoip.viamichelin.com^
 ||geolocation.forbes.com^
 ||glassmoni.researchgate.net^
 ||gnar.grammarly.com^
@@ -6094,6 +6091,7 @@
 ||gtm.wise.com^
 ||gtreus.aliexpress.com^
 ||gurgle.pcmag.com^
+||gurgle.spiceworks.com^
 ||health-metrics-api.setapp.com^
 ||heap.drop.com^
 ||hits.cyberdrop.me^
@@ -6101,6 +6099,7 @@
 ||iedc.fitbit.com^
 ||ih.newegg.com^
 ||indmetric.rediff.com^
+||ingest.make.rvohealth.com^
 ||ingress.linktr.ee^
 ||intent.cmo.com.au^
 ||intent.goodgearguide.com.au^
@@ -6141,7 +6140,7 @@
 ||metrics.bangbros.com^
 ||metrics.freemake.com^
 ||metrics.hackerrank.com^
-||metrics.newegg.com^
+||metrics.onewegg.com^
 ||metrics.roblox.com^
 ||metrics.spkt.io^
 ||metrics.syf.com^
@@ -6158,18 +6157,17 @@
 ||n26-trusted.n26.com^
 ||nasi.etherscan.com^
 ||net.haier.com^
-||nm.newegg.com^
 ||no9pldds1lmn3.soundcloud.com^
 ||noodle.backmarket.io^
 ||observe.metarouter.io^
 ||ohm-dot-hackster-io.appspot.com^
 ||ophan.theguardian.com^
-||optimize-stats.voxmedia.com^
 ||p.fusevideo.net^
 ||p.hentaiforce.net^
 ||pac.thesun.co.uk^
 ||pappagallu.onefootball.com^
 ||perf.mouser.com^
+||pf.newegg.com^
 ||ping.hungama.com^
 ||pingback.giphy.com^
 ||pingback.issuu.com^
@@ -6181,6 +6179,7 @@
 ||pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion^
 ||pixel.facebook.com^
 ||pixel.honestjohn.co.uk^
+||pixel.ionos.com^
 ||pixel.nine.com.au^
 ||pixel.tuko.co.ke^
 ||pixelzirkus.gameforge.com^
@@ -6201,7 +6200,6 @@
 ||pxl.indeed.com^
 ||qm.redbull.com^
 ||r.bbci.co.uk^
-||r.my.com^
 ||rankhit.china.com^
 ||ras.yahoo.com^
 ||relay.fiverr.com^
@@ -6220,6 +6218,7 @@
 ||rta2.newzit.com^
 ||rum.api.intuit.com^
 ||rum.kobo.com^
+||rvo-cohesion.healthline.com^
 ||s.infogram.com^
 ||saa.insideedition.com^
 ||servo-report.dvdfab.
@@ -6244,7 +6243,6 @@
 ||stat.vulkanvegas.com^
 ||stategg.cdngeek.com^
 ||stats.aerotime.aero^
-||stats.cardschat.com^
 ||stats.davidickedelivery.com^
 ||stats.gateio.ch^
 ||stats.hd24.watch^
@@ -6252,7 +6250,6 @@
 ||stats.ibtimes.sg^
 ||stats.justpaste.it^
 ||stats.newsweek.com^
-||stats.paste2.org^
 ||stats.pstream.net^
 ||stats.sandberg.world^
 ||stats.searchftps.net^
@@ -6342,15 +6339,12 @@
 ||usmetric.rediff.com^
 ||v.adblockultimate.net^
 ||views.arabnews.com^
-||visit.theglobeandmail.com^
 ||vortex.hulu.com^
 ||w3-reporting.reddit.com^
 ||wa.gmx.co.uk^
-||wa.ui-portal.de^
 ||wal.wolfram.com^
 ||weblog.flyasiana.com^
 ||wstats.e-wok.tv^
-||wtk.db.com^
 ||xstats.evoload.io^
 ||z.cdp-dev.cnn.com^
 ||z737.thestar.com^
@@ -6437,7 +6431,6 @@
 ||sourcepoint-mms.mylifetime.com^
 ||vg247-p2.vg247.com^
 ||vg247-uk.vg247.com^
-||site.flashx.
 ||primate.dmarcdigests.com^
 ||0d8is908gby1.www.terraform.com.ar^
 ||10ro53kulyb.groove.so^
@@ -19558,6 +19551,7 @@
 ||fsm.lapresse.ca^
 ||hits.porn.fr^
 ||hlms.ecologie.gouv.fr^
+||insights.decathlon.net^
 ||logstash-3.radio-canada.ca^
 ||p.kolplay.com^
 ||p.pagesjaunes.fr^
@@ -22366,6 +22360,7 @@
 ||openx.org^
 ||operationkettle.com^
 ||opienetwork.com^
+||optimize-stats.voxmedia.com^
 ||optimost.com^
 ||optmd.com^
 ||optmstr.com^
@@ -40672,6 +40667,7 @@
 ||attribution.sperry.com^
 ||adtag.sphdigital.com^
 ||spicerscafe.com^
+||gekko.spiceworks.com^
 ||spinacar.com^
 ||spirtanimals.com^
 ||spitzoo.com^
@@ -41047,6 +41043,7 @@
 ||thematteltoystore.com^
 ||themedicalalertsguide.com^
 ||themigraineinfo.com^
+||theofficetelevision.com^
 ||metrics.thepointsguy.com^
 ||theprofessionalshub.com^
 ||theprostatecancertreat.com^
@@ -42680,7 +42677,6 @@
 ||belajarpc.info^
 ||beotubex.info^
 ||beragam.info^
-||beringe.info^
 ||beritaislam24h.info^
 ||bestcb.info^
 ||bestgarten.info^
@@ -42904,6 +42900,7 @@
 ||doctorette.info^
 ||dodgecolors.info^
 ||dog-training-online.info^
+||ww38.dogecoinfaucets.info^
 ||doisong.info^
 ||dolly.info^
 ||doma2.info^
@@ -43126,15 +43123,7 @@
 ||guesthouse.info^
 ||guineenews.info^
 ||gunxue.info^
-||cpcontacts.gurusd.info^
-||ini.gurusd.info^
-||mail.gurusd.info^
-||neonlms.gurusd.info^
-||ns2.gurusd.info^
-||sdn2.gurusd.info^
-||sdn2bleder.gurusd.info^
-||server.gurusd.info^
-||ww1.gurusd.info^
+||gurusd.info^
 ||guter-punkt.info^
 ||gutteruncensored.info^
 ||gyaoh.info^
@@ -43484,6 +43473,7 @@
 ||muldental.info^
 ||multi3ker.info^
 ||multivitamine.info^
+||multiweblibre.info^
 ||mur-porteur.info^
 ||museum-of-artifacts.info^
 ||music-bg.info^
@@ -43569,7 +43559,6 @@
 ||nyanko.info^
 ||nycc.info^
 ||nzpersonals.info^
-||o488.info^
 ||obatnya.info^
 ||ofcpage.info^
 ||offertedilavoro.info^
@@ -43754,7 +43743,8 @@
 ||rumobi.info^
 ||rupertmallin.info^
 ||rusputana.info^
-||russia09.info^
+||ww16.tm.russia09.info^
+||ww25.russia09.info^
 ||russian-ships.info^
 ||rutube.info^
 ||rutur.info^
@@ -43766,8 +43756,6 @@
 ||samstha.info^
 ||sancarlosminas.info^
 ||sandino.info^
-||ww16.tutu1.santelvxing.info^
-||ww25.tutu1.santelvxing.info^
 ||ww38.tutu1.santelvxing.info^
 ||sanvitolocapo.info^
 ||sarplaninac.info^
@@ -44100,7 +44088,6 @@
 ||witze.info^
 ||woco.info^
 ||wonderweblink.info^
-||ww25.wood35.info^
 ||ww38.wood35.info^
 ||www.wood35.info^
 ||woodworkplans.info^
@@ -44109,7 +44096,7 @@
 ||wowchar.info^
 ||wowsource.info^
 ||wwpc.info^
-||researchwhangip.wwwmuzik.info^
+||wwwmuzik.info^
 ||xav11.info^
 ||xeal.info^
 ||xiaohuangren.info^
@@ -44653,6 +44640,7 @@
 ||d1f05vr3sjsuy7.cloudfront.net^
 ||d1gwclp1pmzk26.cloudfront.net^
 ||d1hwfp4apoj7bu.cloudfront.net^
+||d1igp3oop3iho5.cloudfront.net^
 ||d1ivexoxmp59q7.cloudfront.net^
 ||d1je72vo6cxqo9.cloudfront.net^
 ||d1l0wovdm584ip.cloudfront.net^
@@ -44692,6 +44680,7 @@
 ||d2ubx2mpeq0x2u.cloudfront.net^
 ||d2v02itv0y9u9t.cloudfront.net^
 ||d2wlwbnaa4keje.cloudfront.net^
+||d2wy8f7a9ursnm.cloudfront.net^
 ||d2xgf76oeu9pbh.cloudfront.net^
 ||d2zah9y47r7bi2.cloudfront.net^
 ||d2ze07sbtyfzd0.cloudfront.net^
@@ -45867,6 +45856,7 @@
 ||eiceresources.org^
 ||eisenhoweracademy.org^
 ||eldercohousing.org^
+||ww1.elemnts.org^
 ||elhar.org^
 ||elpr.org^
 ||email-verify.org^
@@ -47210,6 +47200,7 @@
 ||sommelier.futurehybrid.tech^
 ||instabid.tech^
 ||ads5.matichon.co.th^
+||binancegiveaway.top^
 ||admatic.com.tr^
 ||adtarget.com.tr^
 ||tagm.tchibo.com.tr^
@@ -49424,7 +49415,6 @@
 ||metrics.hitman.io^
 ||metrics.indazn.com^
 ||metrics.media-amazon.com^
-||metrics.onewegg.com^
 ||metrics.plex.tv^
 ||metrics.raptr.com^
 ||metrics.spbtv.com^
@@ -60585,7 +60575,6 @@
 ||peruseinvitation.com^
 ||peskyclarifysuitcases.com^
 ||petrolgraphcredibility.com^
-||pf.newegg.com^
 ||pghub.io^
 ||pglstatp-toutiao.com^
 ||phluant.com^
@@ -60606,7 +60595,6 @@
 ||pixel.cfspx.digitalriver.com^
 ||pixel.cornercart.io^
 ||pixel.getshogun.com^
-||pixel.ionos.com^
 ||pixel.nur.kz^
 ||pixel.nymag.com^
 ||pixel.patch.com^
