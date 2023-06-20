@@ -52,7 +52,7 @@
 | Tracking | 📘 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt" title="">Perflyst's Amazon FireTV Domains</a> |
 | Tracking | 📘 | <a href="https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt" title="">Quidsup NoTrack Tracker Blocklist</a> |
 | Tracking | 📙 | <a href="https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt" title="">Geoffrey Frogeye's Multi-Party Trackers</a> |
-| Tracking | 📙 | <a href="https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks.txt" title="">Kees1958's Top Ads and Trackers</a> |
+| Tracking | 📙 | <a href="https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV2_most_common_ad%2Btracking_networks" title="">Kees1958's Top Ads and Trackers</a> |
 | Malicious | 📗 | <a href="https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt" title="">DandelionSprout's Anti-Malware Filter</a> |
 | Malicious | 📗 | <a href="https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt" title="">DigitalSide Threat-Intel</a> |
 | Malicious | 📗 | <a href="https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt" title="">Disconnect Malvertising</a> |
