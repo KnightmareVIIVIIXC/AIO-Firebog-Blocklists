@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-06-30T00:15:15.635Z
+! Last modified: 2023-06-30T11:19:42.224Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -2529,7 +2529,65 @@
 ||btbshoping.com^
 ||btc-bonus.com^
 ||btefair.com^
-||btinternernet.com^
+||auth.btinternernet.com^
+||authsmtp.btinternernet.com^
+||barracuda.btinternernet.com^
+||box.btinternernet.com^
+||mail.comune.btinternernet.com^
+||correo.btinternernet.com^
+||direct.btinternernet.com^
+||email.btinternernet.com^
+||gateway.btinternernet.com^
+||hermes.btinternernet.com^
+||home.btinternernet.com^
+||host.btinternernet.com^
+||imap1.btinternernet.com^
+||m.btinternernet.com^
+||mail01.btinternernet.com^
+||mail1.btinternernet.com^
+||mail2.btinternernet.com^
+||mail3.btinternernet.com^
+||mail4.btinternernet.com^
+||mail6.btinternernet.com^
+||mailbox.btinternernet.com^
+||mailgate.btinternernet.com^
+||mailgw.btinternernet.com^
+||mailin.btinternernet.com^
+||mailout.btinternernet.com^
+||mailserver.btinternernet.com^
+||mailx.btinternernet.com^
+||ms.btinternernet.com^
+||mx0.btinternernet.com^
+||mx2.btinternernet.com^
+||mx5.btinternernet.com^
+||mx7.btinternernet.com^
+||mxs.btinternernet.com^
+||ns.btinternernet.com^
+||outmail.btinternernet.com^
+||poczta.btinternernet.com^
+||pop.btinternernet.com^
+||posta.btinternernet.com^
+||postmaster.btinternernet.com^
+||relay.btinternernet.com^
+||root.btinternernet.com^
+||server.btinternernet.com^
+||server2.btinternernet.com^
+||smtp01.btinternernet.com^
+||smtpauth.btinternernet.com^
+||smtps.btinternernet.com^
+||smtpseguro.btinternernet.com^
+||sniper.btinternernet.com^
+||srv.btinternernet.com^
+||ssl.btinternernet.com^
+||tiger.btinternernet.com^
+||tw.btinternernet.com^
+||vnet.btinternernet.com^
+||ww16.btinternernet.com^
+||ww25.btinternernet.com^
+||ww38.btinternernet.com^
+||www.btinternernet.com^
+||www1.btinternernet.com^
+||zmail.btinternernet.com^
 ||btloader.com^
 ||web.btncdn.com^
 ||btrll.com^
@@ -7160,7 +7218,8 @@
 ||shutterstocke.com^
 ||shydastidu.com^
 ||sibautomation.com^
-||siberseso.com^
+||www1.siberseso.com^
+||www77.siberseso.com^
 ||siddham-sanskrit.com^
 ||statcollector.sidearmsports.com^
 ||sidereelz.com^
@@ -9334,8 +9393,6 @@
 ||adjust.net.in^
 ||00221.info^
 ||06br.info^
-||cpcalendars.0daypatch.info^
-||mail.0daypatch.info^
 ||104ez.info^
 ||163ks.info^
 ||177piczz.info^
@@ -9567,7 +9624,6 @@
 ||boxofficetraffic.info^
 ||brazzers-hdx.info^
 ||ww1.server4.broomkpark.info^
-||ww17.broomkpark.info^
 ||brshare.info^
 ||brunei.info^
 ||brzozow.info^
@@ -9615,7 +9671,9 @@
 ||cctv-camera.info^
 ||cd-player.info^
 ||celiaimrie.info^
-||cellchurch.info^
+||sitemap.cellchurch.info^
+||ww1.cellchurch.info^
+||ww11.cellchurch.info^
 ||certificates.info^
 ||cevaplus.info^
 ||cftr.info^
@@ -9654,21 +9712,14 @@
 ||computersetc.info^
 ||consolasportatiles.info^
 ||028.coolcashing.info^
-||158.coolcashing.info^
 ||172.coolcashing.info^
 ||181.coolcashing.info^
 ||199.coolcashing.info^
-||ahmedbn221.coolcashing.info^
-||loveajax.coolcashing.info^
-||maars01.coolcashing.info^
 ||mail.coolcashing.info^
-||maxmuscles.coolcashing.info^
 ||ww16.coolcashing.info^
 ||ww2.coolcashing.info^
 ||ww25.coolcashing.info^
 ||www.coolcashing.info^
-||youssef19.coolcashing.info^
-||zd.coolcashing.info^
 ||coolinc.info^
 ||corewiki.info^
 ||corporategeek.info^
@@ -9709,7 +9760,6 @@
 ||deadfamous.info^
 ||declaration-dsn.info^
 ||decorsandgifts.info^
-||ww17.deepfryers.info^
 ||ww38.deepfryers.info^
 ||deepmix.info^
 ||defereggental.info^
@@ -9870,11 +9920,8 @@
 ||flixzone.info^
 ||ns1.footballstreamings.info^
 ||ns2.footballstreamings.info^
-||sitemap.footballstreamings.info^
-||sitemaps.footballstreamings.info^
 ||ww16.footballstreamings.info^
 ||ww38.footballstreamings.info^
-||www.footballstreamings.info^
 ||forbest.info^
 ||forex-web.info^
 ||forkhost.info^
@@ -9909,7 +9956,6 @@
 ||galtuer.info^
 ||galzu.info^
 ||gamebbs.info^
-||ww25.server4.gamemachines.info^
 ||ww16.gamemachines.info^
 ||gameoke.info^
 ||gamephysics.info^
@@ -9927,11 +9973,7 @@
 ||geispo.info^
 ||gelberschein.info^
 ||gelbsucht.info^
-||cpcalendars.gentium.info^
 ||pop.gentium.info^
-||ww1.gentium.info^
-||ww17.gentium.info^
-||ww25.gentium.info^
 ||www.gentium.info^
 ||geregun.info^
 ||geschenke.info^
@@ -10117,6 +10159,7 @@
 ||jitely.info^
 ||admission.jnu.info^
 ||ww25.jnu.info^
+||www.jnu.info^
 ||jobcircular.info^
 ||jobquest.info^
 ||jobs4u.info^
@@ -10130,6 +10173,7 @@
 ||jsong.info^
 ||jumpon.info^
 ||junaldpascua.info^
+||ww1.jupiter-directory.info^
 ||ww12.jupiter-directory.info^
 ||ww16.jupiter-directory.info^
 ||kabhebrew.info^
@@ -10213,7 +10257,9 @@
 ||lienz.info^
 ||likeriteok.info^
 ||likud.info^
-||ww1.limewire.info^
+||c00n4i637f3hnd5rh380.ww1.limewire.info^
+||c00n4i637f3hnd5rh38g.ww1.limewire.info^
+||c00n4i637f3hnd5rh390.ww1.limewire.info^
 ||ww11.limewire.info^
 ||ww16.limewire.info^
 ||ww17.limewire.info^
@@ -10291,10 +10337,6 @@
 ||meituyy.info^
 ||meks.info^
 ||4jslg.melonfresh.info^
-||ww25.server3.melonfresh.info^
-||ww38.server4.melonfresh.info^
-||www.server4.melonfresh.info^
-||ww38.melonfresh.info^
 ||mennecy.info^
 ||mercusuar.info^
 ||merictech.info^
@@ -10348,7 +10390,13 @@
 ||mueckenschutz.info^
 ||mujerbella.info^
 ||muldental.info^
-||multi3ker.info^
+||sitemap.multi3ker.info^
+||sitemaps.multi3ker.info^
+||ww17.multi3ker.info^
+||ww2.multi3ker.info^
+||ww3.multi3ker.info^
+||ww38.multi3ker.info^
+||www.multi3ker.info^
 ||multivitamine.info^
 ||multiweblibre.info^
 ||mur-porteur.info^
@@ -10455,7 +10503,7 @@
 ||optymalni.info^
 ||organizationalmarket.info^
 ||outdooradventure.info^
-||outdoorman.info^
+||www.outdoorman.info^
 ||ovni.info^
 ||p108.info^
 ||p69.info^
@@ -10857,7 +10905,12 @@
 ||tvon.info^
 ||tvorbita.info^
 ||tvporinternet.info^
-||tw-drupal.info^
+||ww16.tw-drupal.info^
+||ww17.tw-drupal.info^
+||ww25.tw-drupal.info^
+||ww3.tw-drupal.info^
+||ww38.tw-drupal.info^
+||www.tw-drupal.info^
 ||twentyone.info^
 ||twzoa.info^
 ||txjails.info^
@@ -11965,7 +12018,7 @@
 ||levelaccess.net^
 ||lexustuning.net^
 ||libertytaxservice.net^
-||www.lightspeedmedia.net^
+||lightspeedmedia.net^
 ||linkstorm.net^
 ||linuxgaming.net^
 ||tracking.listhub.net^
@@ -12629,7 +12682,7 @@
 ||calcaostcu.org^
 ||californiacollegeofpharmacy.org^
 ||californiadreamact.org^
-||caloanrefund.org^
+||www.caloanrefund.org^
 ||calper.org^
 ||cam5.org^
 ||cambridgeelms.org^
@@ -13740,6 +13793,7 @@
 ||spinhuis.org^
 ||spll.org^
 ||sports-net.org^
+||spotifypremium.org^
 ||springfieldschools.org^
 ||springshospital.org^
 ||sqiirt.org^
