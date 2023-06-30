@@ -3,7 +3,7 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-06-29T11:23:19.431Z
+! Last modified: 2023-06-30T00:13:36.865Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -18,10 +18,7 @@
 -geoIP.js
 -inview-tracker.
 -optimization-metrics.
--page-analytics.
 -quantcast-measurement.
--rttracking.
--sa-tracker-
 -scroll-tracker.js
 -track-inview.
 -tracking-pixel.
@@ -40,8 +37,8 @@
 .siteclarity.
 .sitetracking.
 .skimlinks.js
+.snowplowanalytics.
 .v4.analytics.
-.vsTracking.
 .web-vitals-reporting.
 ://a869.
 ://internal-matomo.
@@ -4924,6 +4921,7 @@
 ||perr.h-cdn.com^
 ||perso.aws.arc.pub^
 ||ping.dozuki.com^
+||ping.fastsimon.com^
 ||ping.instantsearchplus.com^
 ||pings.vidpulse.com^
 ||pipe-collect.ebu.io^
@@ -47910,7 +47908,6 @@
 ||analytics.api.vatominc.com^
 ||analytics.arecontvision.com^
 ||analytics.autodesk.com^
-||analytics.barnebys.sh^
 ||analytics.bigdata.samsung.com^
 ||analytics.binaryfortress.com^
 ||analytics.bmj.com^
@@ -49165,7 +49162,6 @@
 ||inspectorstrongerpill.com^
 ||inspirationhistorical.com^
 ||installationmidterm.com^
-||insteadprincipleshearted.com^
 ||insticator.com^
 ||instructscornfulshoes.com^
 ||intelli-direct.com^
@@ -60434,7 +60430,6 @@
 ||nawpush.com^
 ||nearestmicrowavespends.com^
 ||necessaryescort.com^
-||nedestablish.com^
 ||nedstat.net^
 ||needyscarcasserole.com^
 ||neglectedwhip.com^
@@ -62079,7 +62074,6 @@
 ||uniqueflatlysorting.com^
 ||univide.com^
 ||unpredictablehateagent.com^
-||unresolveddrama.com^
 ||unruly.systems^
 ||unseenreport.com^
 ||unspeakablepurebeings.com^
