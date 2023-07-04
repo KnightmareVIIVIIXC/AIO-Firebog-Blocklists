@@ -43,8 +43,8 @@
 | Suspicious | 📙 | <a href="https://hostsfile.mine.nu/hosts0.txt" title="">The Hosts File Project</a> |
 | Suspicious | 📙 | <a href="https://adblock.mahakala.is/" title="">Mahakala</a> |
 | Advertising | 📗 | <a href="https://adaway.org/hosts.txt" title="">AdAway</a> |
-| Advertising | 📗 | <a href="https://v.firebog.net/hosts/Easylist.txt" title="">Easylist</a> |
 | Advertising | 📗 | <a href="https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt" title="">LanikSJ's Admiral Anti-Adblock</a> |
+| Advertising | 📗 | <a href="https://v.firebog.net/hosts/Easylist.txt" title="">Easylist</a> |
 | Advertising | 📗 | <a href="https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt" title="">Anudeep ND's Blacklist</a> |
 | Advertising | 📗 | <a href="https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt" title="">Disconnect Ads</a> |
 | Advertising | 📗 | <a href="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml" title="">Peter Lowe's Adservers</a> |
