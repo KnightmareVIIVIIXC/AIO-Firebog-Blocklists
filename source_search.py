@@ -61,7 +61,7 @@ def find_blocking_blocklists(target_domain, green_sources, blue_sources, search_
 
 if __name__ == "__main__":
     green_blocklist_sources = {
-        'KADhosts (Suspicious)': 'https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt',
+        'KADhosts (Suspicious)': 'https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADomains.txt',
         'Add.Spam (Suspicious)': 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts',
         'WaLLy3K List (Suspicious)': 'https://v.firebog.net/hosts/static/w3kbl.txt',
         'Adaway (Ads)': 'https://adaway.org/hosts.txt',
