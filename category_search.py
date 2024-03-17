@@ -1,3 +1,4 @@
+import os
 import requests
 import re
 from colorama import init, Fore
@@ -5,12 +6,10 @@ from colorama import init, Fore
 # Initialize colorama
 init()
 
-def check_domain_in_blocklist(source_url, target_domain):
+def check_domain_in_blocklist(source_path, target_domain):
     try:
-        response = requests.get(source_url)
-        response.raise_for_status()
-
-        lines = [line.strip() for line in response.text.split('\n') if line.strip() and not line.startswith(('#', '!'))]
+        with open(source_path, 'r') as file:
+            lines = [line.strip() for line in file if line.strip() and not line.startswith(('#', '!'))]
 
         # Initialize an empty list to store results
         results = []
@@ -25,8 +24,8 @@ def check_domain_in_blocklist(source_url, target_domain):
         # Return the results list
         return results
 
-    except requests.exceptions.RequestException as e:
-        print(f"Error checking {source_url}: {e}")
+    except FileNotFoundError:
+        print(f"Error: File '{source_path}' not found.")
 
     # Return an empty list if there's an error
     return []
@@ -34,8 +33,8 @@ def check_domain_in_blocklist(source_url, target_domain):
 def find_blocking_blocklists(target_domain, category_sources):
     blocking_category_blocklists = []
 
-    for name, source in category_sources.items():
-        if check_domain_in_blocklist(source, target_domain):
+    for name, source_path in category_sources.items():
+        if check_domain_in_blocklist(source_path, target_domain):
             blocking_category_blocklists.append(name)
 
     if blocking_category_blocklists:
@@ -51,10 +50,10 @@ def find_blocking_blocklists(target_domain, category_sources):
 
 if __name__ == "__main__":
     category_blocklist_sources = {
-        'Suspicious': 'https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsus.txt',
-        'Advertising': 'https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogad.txt',
-        'Tracking': 'https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogtrack.txt',
-        'Malicious': 'https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogmal.txt',
+        'Suspicious': 'domlists/firebogsus.txt',
+        'Advertising': 'domlists/firebogad.txt',
+        'Tracking': 'domlists/firebogtrack.txt',
+        'Malicious': 'domlists/firebogmal.txt',
     }
 
     while True:
