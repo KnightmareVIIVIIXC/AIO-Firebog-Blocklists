@@ -111,7 +111,6 @@ if __name__ == "__main__":
         'Phishing Blocklist (Malicious)': 'https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt',
         'Prigent Malware (Malicious)': 'https://v.firebog.net/hosts/Prigent-Malware.txt',
         'Porn List (Exclusive)': 'https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list',
-        'Personal List (Bog Only)': 'https://raw.githubusercontent.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist/main/personal_disallowed_domains.txt',
     }
 
     while True:
