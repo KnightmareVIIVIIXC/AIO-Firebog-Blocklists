@@ -77,7 +77,7 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 
 ---
 
-## 🔥 The Sources 🔥
+## 🔥 Used Sources 🔥
 
 | List | ⬜ | Description |
 |---:|:---:|:---|
