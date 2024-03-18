@@ -29,7 +29,7 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 
 ☑️ Hosts Files<br>
 
-🟦 DNS Applications (Pi-Hole, Adguard Home, etc.)
+✅ DNS Applications (Pi-Hole, Adguard Home, etc.)
 
 > [!IMPORTANT]
 > These lists use sources found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
