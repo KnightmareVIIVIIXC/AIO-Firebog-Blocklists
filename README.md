@@ -77,9 +77,7 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 > 
 >> If they aren't, something's wrong 💊
 >> 
-> ![image](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/e39af1ea-1838-4acb-90a0-bbe8afdff173)
-
-
+> ![image](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/e39af1ea-1838-4acb-90a0-bbe8afdff173) ![image](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/c46776d4-70a5-4ec3-b613-419930c8e3a0)
 
 ---
 
