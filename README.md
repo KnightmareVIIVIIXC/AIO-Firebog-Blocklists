@@ -77,7 +77,7 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 
 ---
 
-## 🔥 The Sources 🔥
+## [🔥](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/category_search.py) [The](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/category_search.py) [Sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/source_search.py) [🔥](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/source_search.py)
 
 | List | ⬜ | Description |
 |---:|:---:|:---|
