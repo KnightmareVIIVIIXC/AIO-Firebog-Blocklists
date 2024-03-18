@@ -140,7 +140,7 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 >> The lists are compiled using [HostlistCompiler](https://github.com/AdguardTeam/HostlistCompiler) by [AdguardTeam](https://github.com/AdguardTeam)
 
 > [!IMPORTANT]
-> Lists are updated Monday-Friday, between 01:00-02:00 & 13:00-14:00
+> Lists are updated Monday-Friday, between 01:00-03:00 & 13:00-15:00
 
 ---
 
