@@ -134,12 +134,12 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 | ⬛ | 🟦 | [Chad Mayfield (Top 1M)](https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list) |
 | ⬛ | 🟧 | [Anudeep ND's Facebook Blocklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt) |
 
-> [!NOTE]
+> [!IMPORTANT]
 > These lists use sources found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
 > 
 >> The lists are compiled using [HostlistCompiler](https://github.com/AdguardTeam/HostlistCompiler) by [AdguardTeam](https://github.com/AdguardTeam)
 
-> [!IMPORTANT]
+> [!NOTE]
 > Lists are updated Monday-Friday, between 01:00-03:00 & 13:00-15:00
 
 ---
