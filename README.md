@@ -24,9 +24,9 @@ Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/
 | List | ⬜ | Description |
 |---:|:---:|:---|
 |Bog| 🟧 |Incorporates all sources, contains false positives|
-|Blue/Green| 🔶 |Incorporates blue sources & green sources, included in The Bog AIO list & blue/green AIO list, poses a high risk of containing false positives|
-|Blue| 🟦 |Incorporates blue sources, included in The Bog AIO list & the blue AIO list, poses a high risk of containing false positives|
-|Green| 🟩 |Incorporates green sources, included in The Bog AIO list & the green AIO list, poses a low risk of containing false positives, excludes [anudeepND's Allowlist](https://github.com/KnightmareVIIVIIXC/allowlist)|
+|Blue/Green| 🔶 |Incorporates blue sources & green sources, poses a high risk of containing false positives|
+|Blue| 🟦 |Incorporates blue sources, poses a high risk of containing false positives|
+|Green| 🟩 |Incorporates green sources, poses a low risk of containing false positives, excludes [anudeepND's Allowlist](https://github.com/KnightmareVIIVIIXC/allowlist)|
 
 > [!CAUTION]  
 > Using more than one list at the same time can cause issues
