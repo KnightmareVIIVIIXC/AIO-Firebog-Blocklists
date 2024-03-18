@@ -74,6 +74,7 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 
 > [!NOTE]
 > Lists are updated Monday-Friday, between 01:00-03:00 & 13:00-15:00
+>> If they don't, something's wrong 🛠️
 
 ---
 
