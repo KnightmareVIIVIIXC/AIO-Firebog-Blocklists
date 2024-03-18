@@ -76,9 +76,6 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 > Lists are updated Monday-Friday, between 01:00-03:00 & 13:00-15:00
 > 
 >> If they aren't, something's wrong 💊
->> 
->> ![image](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/ac9e5e74-5645-43e8-9fa2-ebc0d1c0c5be)
- ![image](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/e39af1ea-1838-4acb-90a0-bbe8afdff173) ![image](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/c46776d4-70a5-4ec3-b613-419930c8e3a0) ![image](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/87a63c94-1893-4c7f-8ade-8083bfef6f02)
 
 ---
 
