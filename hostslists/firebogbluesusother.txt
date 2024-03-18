@@ -3,7 +3,7 @@
 # Description: The blue exclusive source and blue suspicious sources
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-03-17T13:35:12.130Z
+# Last modified: 2024-03-18T01:35:28.784Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -6166,6 +6166,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.anvato.net
 0.0.0.0 analytics.api.247-inc.net
 0.0.0.0 analytics.appdynamics.com
+0.0.0.0 analytics.artstation.com
 0.0.0.0 analytics.atomiconline.com
 0.0.0.0 analytics.aweber.com
 0.0.0.0 analytics.bigcommerce.com
@@ -6177,6 +6178,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.chase.com
 0.0.0.0 analytics.clickdimensions.com
 0.0.0.0 analytics.clickpathmedia.com
+0.0.0.0 analytics.creativefabrica.com
 0.0.0.0 analytics.dataxu.com
 0.0.0.0 analytics.dspunion.com
 0.0.0.0 analytics.e.sherwin-williams.com
@@ -6201,6 +6203,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.jiuzhilan.com
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.kochava.com
+0.0.0.0 analytics.krea.ai
 0.0.0.0 analytics.kwebsoft.com
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.live.on.epicgames.com
@@ -6605,6 +6608,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.production.oregon.demandbase.com
 0.0.0.0 api.proofpositivemedia.com
+0.0.0.0 api.proxy.analytics.shutterstock.com
 0.0.0.0 api.public-user-service.sprinklr.com
 0.0.0.0 api.pushwoosh.com
 0.0.0.0 api.pzoifaum.info
@@ -14274,6 +14278,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 evroteplo.ru
 0.0.0.0 evrythng.com
 0.0.0.0 evs.jivox.come
+0.0.0.0 evs.proxy.analytics.shutterstock.com
 0.0.0.0 ew3.io
 0.0.0.0 ewea.fr
 0.0.0.0 ewg9465443.y4j32.cn
@@ -15586,6 +15591,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 g4.iqilu.com
 0.0.0.0 g4p.grt02.com
 0.0.0.0 g7.com.tw
+0.0.0.0 ga-tracker-dot-everimaging-1173.ga-test.fotor.com
+0.0.0.0 ga-tracker.fotor.com
 0.0.0.0 ga.5.p2l.info
 0.0.0.0 ga.opmnstr.com
 0.0.0.0 ga87z2o.com
@@ -21945,6 +21952,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrica-setup.udc.digital-cloud.medallia.com
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics-ingest.aws.theplatform.com
+0.0.0.0 metrics-staging.autonlp.huggingface.co
+0.0.0.0 metrics-staging.autotrain.huggingface.co
 0.0.0.0 metrics.aarp.org
 0.0.0.0 metrics.accuweather.com
 0.0.0.0 metrics.acehardware.com
@@ -21961,7 +21970,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.att.com
 0.0.0.0 metrics.autobytel.com
 0.0.0.0 metrics.automobilemag.com
+0.0.0.0 metrics.autonlp.huggingface.co
 0.0.0.0 metrics.autotrader.co.uk
+0.0.0.0 metrics.autotrain.huggingface.co
 0.0.0.0 metrics.ava.theplatform.com
 0.0.0.0 metrics.aviasales.ru
 0.0.0.0 metrics.aws.theplatform.com
@@ -30769,6 +30780,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssdc.icelandair.com
 0.0.0.0 ssdk.adkmob.com
 0.0.0.0 ssephora.fr
+0.0.0.0 ssgtm-analytics.shutterstock.com
 0.0.0.0 ssh.hbhtbn.com
 0.0.0.0 ssh.q4hwkg.cn
 0.0.0.0 ssl-cdn.media.innity.net
@@ -33326,6 +33338,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.sohu.com
 0.0.0.0 track.spe.intercom.io
 0.0.0.0 track.special-promotions.online
+0.0.0.0 track.success.ai
 0.0.0.0 track.tenjin.com
 0.0.0.0 track.tiara.daum.net
 0.0.0.0 track.tooplay.com
@@ -33344,6 +33357,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.zipalerts.com
 0.0.0.0 track.ziprecruiter.com
 0.0.0.0 track.zmags.com
+0.0.0.0 track1.artstation.com
 0.0.0.0 track12.offersbymail.com
 0.0.0.0 track2.homestead.com
 0.0.0.0 track2.ra.icast.cn
@@ -33435,6 +33449,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracking.chilipiper.com
 0.0.0.0 tracking.cloudinary.com
 0.0.0.0 tracking.craktraffic.com
+0.0.0.0 tracking.datadriveninvestor.com
 0.0.0.0 tracking.dc-storm.com
 0.0.0.0 tracking.drsfostersmith.com
 0.0.0.0 tracking.dsmmadvantage.com
@@ -33467,6 +33482,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracking.medpagetoday.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.motleyfool.com
+0.0.0.0 tracking.mrdeepfakes.com
 0.0.0.0 tracking.myunidays.com
 0.0.0.0 tracking.nesox.com
 0.0.0.0 tracking.nmemails.com
@@ -33501,6 +33517,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracking.truthfinder.com
 0.0.0.0 tracking.trutv.com
 0.0.0.0 tracking.ukwm.co.uk
+0.0.0.0 tracking.usp.ai
 0.0.0.0 tracking.validclick.com
 0.0.0.0 tracking.vcommission.com
 0.0.0.0 tracking.veille-referencement.com
@@ -33528,6 +33545,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trackomnitagjs.com
 0.0.0.0 tracksitetraffic1.com
 0.0.0.0 trackstackla.com
+0.0.0.0 trackstaging.success.ai
 0.0.0.0 tracksurf.daooda.com
 0.0.0.0 tracksy.com
 0.0.0.0 tracktastic.webflow.com
@@ -33716,6 +33734,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trk.etrigue.com
 0.0.0.0 trk.hot-mob.com
 0.0.0.0 trk.in25app.com
+0.0.0.0 trk.info.shutterstock.com
 0.0.0.0 trk.securesmrt-dt.com
 0.0.0.0 trk.tidaltv.com
 0.0.0.0 trk.vidible.tv
@@ -35091,6 +35110,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 visitor.omnitagjs.comvisitor.omnitagjs.com
 0.0.0.0 visitor.reactful.com
 0.0.0.0 visitors.lexus-europe.com
+0.0.0.0 visitortracking.shutterstock.com
 0.0.0.0 vista.tgbus.com
 0.0.0.0 vista.tgbusdata.cn
 0.0.0.0 vistabet-affiliate.host.bannerflow.com
@@ -37029,6 +37049,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.manoces.waw.pl
 0.0.0.0 www.marinsm.com
 0.0.0.0 www.market-buster.com
+0.0.0.0 www.marketing.downgraf.com
 0.0.0.0 www.marketo.net
 0.0.0.0 www.marketrip.co
 0.0.0.0 www.masterspace.biz
