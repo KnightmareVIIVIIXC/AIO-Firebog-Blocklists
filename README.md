@@ -131,7 +131,7 @@ Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/
 | EXCLUSIVE | ⬜ | 🟩 🟦 🟧 |
 | ⬛ | 🟩 | <a href="https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts" title="">ZeroDot1 CoinBlockerLists</a> |
 | ⬛ | 🟦 | <a href="https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list" title="">Chad Mayfield (Top 1M)</a> |
-| ⬛ | 🟧 | [⬛ ⬛ 🟧](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist) |
+| ⬛ | 🟧 | [⬛ ⬛ 🟧](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist/blob/main/personal_disallowed_domains.txt) |
 
 > [!NOTE]
 > These lists use sources found on <a href="https://v.firebog.net" title="">The Firebog</a>
