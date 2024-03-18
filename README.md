@@ -7,11 +7,16 @@
 Diverse DNS blocklists crafted from an amalgamation of sources<br>that are intended to<br>
 
 🟧 Hide Advertisements<br>
+
 🟧 Halt Trackers<br>
+
 🟧 Block Malicious Content<br>
+
 🟧 Stop Phishing Attempts<br>
+
 🟩 Disable Crypto Miners<br>
-🟦 Prevent Adult Content<br>
+
+🟦 Prevent Adult Content
 
 ---
 
@@ -21,8 +26,10 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 <br>that are meant to be used with<br>
 
 ✅ AdBlockers (uBlock Origin, Adguard, etc.)<br>
+
 ✅ Hosts Files<br>
-✅ DNS Applications (Pi-Hole, Adguard Home, etc.)<br>
+
+✅ DNS Applications (Pi-Hole, Adguard Home, etc.)
 
 > [!IMPORTANT]
 > These lists use sources found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
