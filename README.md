@@ -72,6 +72,9 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 | Advertising-Tracking-Malicious | 🟩 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrackmal.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreenadtrackmal.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt) | Contains the green advertising, tracking, & malicious sources |
 | Misc-Malicious | 🟩 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenmalother.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreenmalother.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenmalother.txt) | Contains the green malicious & miscellaneous sources |
 
+> [!NOTE]
+> Lists are updated Monday-Friday, between 01:00-03:00 & 13:00-15:00
+
 ---
 
 ## 🔥 The Sources 🔥
@@ -138,9 +141,6 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 | ⬛ | 🟩 | [ZeroDot1 CoinBlockerLists](https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts) |
 | ⬛ | 🟦 | [Chad Mayfield (Top 1M)](https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list) |
 | ⬛ | 🟧 | [Anudeep ND's Facebook Blocklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt) |
-
-> [!NOTE]
-> Lists are updated Monday-Friday, between 01:00-03:00 & 13:00-15:00
 
 ---
 
