@@ -138,6 +138,8 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 > These lists use sources found on [The Firebog](https://v.firebog.net)
 > 
 >> The Firebog is maintained by [WaLLy3K](https://github.com/WaLLy3K)
+>>
+>>> The lists are compiled using [HostlistCompiler](https://github.com/AdguardTeam/HostlistCompiler)
 
 ---
 
