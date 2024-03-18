@@ -135,9 +135,9 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 | ⬛ | 🟧 | [Anudeep ND's Facebook Blocklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt) |
 
 > [!NOTE]
-> These lists use sources found on <a href="https://v.firebog.net" title="">The Firebog</a>
+> These lists use sources found on [The Firebog](https://v.firebog.net)
 > 
-> The Firebog is maintained by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>
+> The Firebog is maintained by [WaLLy3K](https://github.com/WaLLy3K)
 
 ---
 
@@ -147,8 +147,8 @@ Identify what is being blocked by the list of your choice
 
 |🟧|🟩┃🟦┃🟩|🟧|
 |:---:|:---:|:---:|
-|🟦| <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> |🟦|
-|🟩| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |🟩|
-|🟦| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |🟦|
-|🟩| <a href="https://coveryourtracks.eff.org/" title="">Cover Your Tracks</a> |🟩|
+|🟦| [d3ward's Toolz](https://d3ward.github.io/toolz/) |🟦|
+|🟩| [AdBlock Tester](https://adblock-tester.com/) |🟩|
+|🟦| [Can You Block It](https://canyoublockit.com/) |🟦|
+|🟩| [Cover Your Tracks](https://coveryourtracks.eff.org/) |🟩|
 |🟧|🟦┃🟩┃🟦|🟧|
