@@ -5,12 +5,12 @@
 ](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE)
 
 Diverse DNS blocklists crafted from an amalgamation of sources<br>that are intended to
-- Hide Advertisements
-- Halt Trackers
-- Block Malicious Content
-- Stop Phishing Attempts
-- Disable Crypto Miners
-- Prevent Adult Content
+🟧 Hide Advertisements
+🟧 Halt Trackers
+🟧 Block Malicious Content
+🟧 Stop Phishing Attempts
+🟩 Disable Crypto Miners
+🟦 Prevent Adult Content
 
 ---
 
@@ -18,9 +18,9 @@ Diverse DNS blocklists crafted from an amalgamation of sources<br>that are inten
 
 Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax), [hosts](https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax), & [domain-only](https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax)
 <br>that are meant to be used with
-- AdBlockers (uBlock Origin, Adguard, etc.)
-- Hosts Files
-- DNS Applications (Pi-Hole, Adguard Home, etc.)
+✅ AdBlockers (uBlock Origin, Adguard, etc.)
+✅ Hosts Files
+✅ DNS Applications (Pi-Hole, Adguard Home, etc.)
 
 > [!IMPORTANT]
 > These lists use sources found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
