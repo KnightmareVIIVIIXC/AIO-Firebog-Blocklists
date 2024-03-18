@@ -27,7 +27,7 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 
 ✅ AdBlockers (uBlock Origin, Adguard, etc.)<br>
 
-✅ Hosts Files<br>
+☑️ Hosts Files<br>
 
 ✅ DNS Applications (Pi-Hole, Adguard Home, etc.)
 
