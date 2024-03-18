@@ -137,7 +137,7 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 > [!NOTE]
 > These lists use sources found on [The Firebog](https://v.firebog.net)
 > 
-> The Firebog is maintained by [WaLLy3K](https://github.com/WaLLy3K)
+>> The Firebog is maintained by [WaLLy3K](https://github.com/WaLLy3K)
 
 ---
 
