@@ -12,8 +12,8 @@ assignees: KnightmareVIIVIIXC
 #### Domain(s) in Question
 List the domain(s) that you believe should be unblocked.
 
-- [ ] Domain 1
-- [ ] Domain 2
+- [ ] Domain1
+- [ ] Domain2
 - [ ] ...
 
 #### Justification
