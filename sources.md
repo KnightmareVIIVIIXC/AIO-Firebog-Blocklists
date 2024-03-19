@@ -7,7 +7,7 @@
 |Green| 🟩 |Featured in The Bog AIO list & green lists|
 
 > [!NOTE]
-> Not all sources from [The Firebog](https://v.firebog.net) are used in [the lists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/README.md#-the-lists-)
+> Not all sources from [The Firebog](https://v.firebog.net) are used in the lists
 
 | ⬜ ⬜ ⬜ | ⬜ | Source |
 |---:|:---:|:---|
