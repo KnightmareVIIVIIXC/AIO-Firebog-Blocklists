@@ -22,7 +22,7 @@ Diverse DNS blocklists crafted from<br>an amalgamation of sources that will<br>
 
 # 🔴 The Lists 🔴
 
-Blocklists designed in the syntax of<br>[adblock](https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax), [hosts](https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax), & [domain-only](https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax) formats,<br>intended for use with:<br>
+Blocklists converted into the syntax of<br>[adblock](https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax), [hosts](https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax), & [domain-only](https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax) formats,<br>intended for use with:<br>
 
 ✅ AdBlockers (uBlock Origin, Adguard, etc.)<br>
 
