@@ -20,7 +20,7 @@ Diverse DNS blocklists crafted from<br>an amalgamation of sources that will<br>
 
 ---
 
-## 🔴 The Lists 🔴
+# 🔴 The Lists 🔴
 
 Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax), [hosts](https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax), & [domain-only](https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax)
 <br>that are meant to be used with<br>
