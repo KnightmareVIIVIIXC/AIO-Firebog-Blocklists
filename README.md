@@ -55,7 +55,7 @@ Blocklists designed in the syntax of<br>[adblock](https://adguard-dns.io/kb/gene
 | Green List | 🟩 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofireboggreen.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofireboggreen.txt) | Contains all of the green sources |
 
 > [!TIP]
-> If an AIO list is too much, try one of the Lite Lists
+> If an AIO list is too much,<br>consider trying one of the Lite Lists:
 
 | Lite Lists | ⬜ | 🔶 | 🔶 | 🔶 | 🔶 🔶 🔶 |
 |---:|:---:|:---:|:---:|:---:|:---|
