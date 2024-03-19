@@ -4,7 +4,7 @@
 [![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/def0ccf3-6b0d-4cfe-91ca-1225f85da364)
 ](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE)
 
-Diverse DNS blocklists crafted from<br>an amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) that will<br>
+Diverse DNS blocklists crafted from<br>an amalgamation of sources that will<br>
 
 🟧 Hide Advertisements<br>
 
@@ -32,7 +32,7 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 ✅ DNS Applications (Pi-Hole, Adguard Home, etc.)
 
 > [!IMPORTANT]
-> These lists use sources found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
+> These lists use [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
 > 
 > The lists are compiled using [HostlistCompiler](https://github.com/AdguardTeam/HostlistCompiler) by [AdguardTeam](https://github.com/AdguardTeam)
 
@@ -88,7 +88,7 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 
 ---
 
-## [👨‍💻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/category_search.py) [The](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/category_search.py) [Tests](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/source_search.py) [👨‍💻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/source_search.py)
+## [👨‍💻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/category_search.py) [The](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/category_search.py) [Tests](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/source_search.py) [👩‍💻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/source_search.py)
 
 Identify what is being blocked by the list of your choice
 
