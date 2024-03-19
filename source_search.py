@@ -87,7 +87,7 @@ if __name__ == "__main__":
         'Spam404 (Malicious)': 'https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt',
         'Stalkerware Indicators (Malicious)': 'https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full',
         'URLHaus Malware (Malicious)': 'https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt',
-        'ZeroDot1 CoinBlocker (Exclusive)': 'https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts',
+        'ZeroDot1 CoinBlocker (Misc)': 'https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts',
     }
 
     blue_blocklist_sources = {
@@ -110,7 +110,7 @@ if __name__ == "__main__":
         'Kees1958 Top Ads Trackers (Bog Only)': 'https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt',
         'Phishing Blocklist (Malicious)': 'https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt',
         'Prigent Malware (Malicious)': 'https://v.firebog.net/hosts/Prigent-Malware.txt',
-        'Porn List (Exclusive)': 'https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list',
+        'Porn List (Misc)': 'https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list',
     }
 
     while True:
