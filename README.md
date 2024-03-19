@@ -91,7 +91,7 @@ Blocklists converted into the syntax of<br>[adblock](https://adguard-dns.io/kb/g
 
 # [👨‍💻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/category_search.py) [The](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/category_search.py) [Tests](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/source_search.py) [👩‍💻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/source_search.py)
 
-Use to identify what is being<br>blocked by the list of your choice:
+Use to identify what is being<br>blocked by the list of your choice
 
 |🟧|🟩┃🟦┃🟩|🟧|
 |:---:|:---:|:---:|
