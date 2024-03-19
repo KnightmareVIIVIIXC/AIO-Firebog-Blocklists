@@ -6,6 +6,9 @@
 |Blue| 🟦 |Featured in The Bog AIO list & blue lists|
 |Green| 🟩 |Featured in The Bog AIO list & green lists|
 
+> [!NOTE]
+> Not all sources from The Firebog are used
+
 | ⬜ ⬜ ⬜ | ⬜ | Source |
 |---:|:---:|:---|
 | Suspicious | ⬜ | 🟩 🟦 🟧 |
