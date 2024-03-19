@@ -6,7 +6,10 @@
 |Blue| 🟦 |Featured in The Bog AIO list & blue lists|
 |Green| 🟩 |Featured in The Bog AIO list & green lists|
 
-| ⬜ ⬜ ⬜ | ⬜ | Source |
+> [!NOTE]
+> Not all sources from [The Firebog](https://v.firebog.net) are used in [the lists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/tree/main/lists)
+
+| List | ⬜ | Source |
 |---:|:---:|:---|
 | Suspicious | ⬜ | 🟩 🟦 🟧 |
 | ⬛ | 🟩 | [WaLLy3K's Blocklist](https://v.firebog.net/hosts/static/w3kbl.txt) |
@@ -62,6 +65,3 @@
 | ⬛ | 🟩 | [ZeroDot1 CoinBlockerLists](https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts) |
 | ⬛ | 🟦 | [Chad Mayfield (Top 1M)](https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list) |
 | ⬛ | 🟧 | [Anudeep ND's Facebook Blocklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt) |
-
-> [!NOTE]
-> Not all sources from [The Firebog](https://v.firebog.net) are used in [the lists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/tree/main/lists)
