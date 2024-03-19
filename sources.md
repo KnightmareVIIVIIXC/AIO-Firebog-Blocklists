@@ -9,7 +9,7 @@
 > [!NOTE]
 > Not all sources from [The Firebog](https://v.firebog.net) are used in [the lists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/tree/main/lists)
 
-| ⬜ ⬜ ⬜ | ⬜ | Source |
+| List | ⬜ | Source |
 |---:|:---:|:---|
 | Suspicious | ⬜ | 🟩 🟦 🟧 |
 | ⬛ | 🟩 | [WaLLy3K's Blocklist](https://v.firebog.net/hosts/static/w3kbl.txt) |
