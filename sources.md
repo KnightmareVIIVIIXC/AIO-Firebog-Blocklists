@@ -7,7 +7,7 @@
 |Green| 🟩 |Featured in The Bog AIO list & green lists|
 
 > [!NOTE]
-> Not all sources from The Firebog are used
+> Not all sources from [The Firebog](https://v.firebog.net) are used
 
 | ⬜ ⬜ ⬜ | ⬜ | Source |
 |---:|:---:|:---|
