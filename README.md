@@ -20,7 +20,7 @@ Diverse DNS blocklists crafted from<br>an amalgamation of sources that will<br>
 
 ---
 
-## 🔴 The Lists 🔴
+# 🔴 The Lists 🔴
 
 Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax), [hosts](https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax), & [domain-only](https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax)
 <br>that are meant to be used with<br>
@@ -35,6 +35,8 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 > These lists use [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
 > 
 > The lists are compiled using [HostlistCompiler](https://github.com/AdguardTeam/HostlistCompiler) by [AdguardTeam](https://github.com/AdguardTeam)
+>
+> [Python](https://www.python.org/) is used to convert the lists
 
 | List | ⬜ | Description |
 |---:|:---:|:---|
@@ -88,9 +90,9 @@ Blocklists designed in the syntax of [adblock](https://adguard-dns.io/kb/general
 
 ---
 
-## [👨‍💻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/category_search.py) [The](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/category_search.py) [Tests](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/source_search.py) [👩‍💻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/source_search.py)
+# [👨‍💻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/category_search.py) [The](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/category_search.py) [Tests](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/source_search.py) [👩‍💻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/source_search.py)
 
-Identify what is being blocked by the list of your choice
+Identify what is being blocked<br>by the list of your choice
 
 |🟧|🟩┃🟦┃🟩|🟧|
 |:---:|:---:|:---:|
