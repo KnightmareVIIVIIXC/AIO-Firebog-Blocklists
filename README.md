@@ -4,7 +4,7 @@
 [![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/def0ccf3-6b0d-4cfe-91ca-1225f85da364)
 ](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE)
 
-Diverse DNS blocklists crafted from<br>an amalgamation of sources that will<br>
+Diverse DNS blocklists crafted from an amalgamation of sources that will<br>
 
 🟧 Hide Advertisements<br>
 
@@ -22,7 +22,7 @@ Diverse DNS blocklists crafted from<br>an amalgamation of sources that will<br>
 
 # 🔴 The Lists 🔴
 
-Blocklists converted into the syntax of<br>[adblock](https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax), [hosts](https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax), & [domain-only](https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax) formats,<br>intended for use with<br>
+Blocklists converted into the syntax of [adblock](https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax), [hosts](https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax), & [domain-only](https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax) formats, intended for use with<br>
 
 ✅ AdBlockers (uBlock Origin, Adguard, etc.)<br>
 
@@ -55,7 +55,7 @@ Blocklists converted into the syntax of<br>[adblock](https://adguard-dns.io/kb/g
 | Green List | 🟩 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofireboggreen.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofireboggreen.txt) | Contains all of the green sources |
 
 > [!TIP]
-> If an AIO list is too much,<br>consider trying one of the Lite Lists
+> If an AIO list is too much, consider trying one of the Lite Lists
 
 | Blue/Green Lite Lists | ⬜ | AdBlock | Hosts | Domain | 🔶 🔶 🔶 |
 |---:|:---:|:---:|:---:|:---:|:---|
@@ -95,7 +95,7 @@ Blocklists converted into the syntax of<br>[adblock](https://adguard-dns.io/kb/g
 
 # [👨‍💻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/category_search.py) [The](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/category_search.py) [Tests](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/source_search.py) [👩‍💻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/source_search.py)
 
-Use to identify what is being<br>blocked by the list of your choice
+Use these to identify what is being blocked by the list of your choice
 
 |🟧|🟩┃🟦┃🟩|🟧|
 |:---:|:---:|:---:|
