@@ -1,0 +1,38 @@
+{
+	"name": "The Advertising AIO List",
+	"description": "All the advertising sources from The Firebog",
+	"license": "https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE",
+	"homepage": "https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists",
+	"sources": [{
+			"source": "https://adaway.org/hosts.txt",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"name": "AdGuard DNS filter",
+			"source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
+			"type": "adblock"
+		}, {
+			"source": "https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"name": "Peter Lowe's Blocklist",
+			"source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt",
+			"type": "adblock"
+		}, {
+			"source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "inclusions/includebg.txt",
+			"transformations": ["Compress", "Validate"]
+		}],
+	"transformations": ["Compress", "RemoveComments", "Validate", "RemoveModifiers", "Deduplicate", "RemoveEmptyLines", "TrimLines"],
+	"exclusions_sources": ["exclusions/excludebg.txt"]
+}

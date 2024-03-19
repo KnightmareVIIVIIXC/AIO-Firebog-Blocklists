@@ -1,0 +1,67 @@
+{
+	"name": "The Advertising-Tracking AIO List",
+	"description": "All the blue/green advertising and tracking sources from The Firebog",
+	"license": "https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE",
+	"homepage": "https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists",
+	"sources": [{
+			"source": "https://adaway.org/hosts.txt",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"name": "AdGuard DNS filter",
+			"source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
+			"type": "adblock"
+		}, {
+			"source": "https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"name": "Peter Lowe's Blocklist",
+			"source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt",
+			"type": "adblock"
+		}, {
+			"source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"name": "WindowsSpyBlocker - Hosts spy rules",
+			"source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt",
+			"type": "hosts"
+		}, {
+			"source": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
+			"transformations": ["Compress", "Validate"],
+			"exclusions": ["developerdan.com"]
+		}, {
+			"source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.hosts",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "inclusions/includebg.txt",
+			"transformations": ["Compress", "Validate"]
+		}],
+	"transformations": ["Compress", "RemoveComments", "Validate", "RemoveModifiers", "Deduplicate", "RemoveEmptyLines", "TrimLines"],
+	"exclusions_sources": ["exclusions/excludebg.txt"]
+}

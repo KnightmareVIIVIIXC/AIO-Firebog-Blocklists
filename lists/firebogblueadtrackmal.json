@@ -1,0 +1,38 @@
+{
+	"name": "The ATM Blue List",
+	"description": "All the blue advertising-tracking-malicious sources from The Firebog",
+	"license": "https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE",
+	"homepage": "https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists",
+	"sources": [{
+			"source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
+			"transformations": ["Compress", "Validate"],
+			"exclusions": ["developerdan.com"]
+		}, {
+			"source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.hosts",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"name": "Phishing URL Blocklist",
+			"source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt",
+			"type": "adblock"
+		}, {
+			"source": "https://v.firebog.net/hosts/Prigent-Malware.txt",
+			"transformations": ["Compress", "Validate"]
+		}, {
+			"source": "inclusions/includeb.txt",
+			"transformations": ["Compress", "Validate"]
+		}],
+	"transformations": ["Compress", "RemoveComments", "Validate", "RemoveModifiers", "Deduplicate", "RemoveEmptyLines", "TrimLines"],
+	"exclusions_sources": ["exclusions/excludeb.txt"]
+}
