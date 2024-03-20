@@ -1,6 +1,7 @@
 ---
 name: required
 about: optional
+labels: ["enhancement", "question"]
 assignees: Knightmare
 
 ---
