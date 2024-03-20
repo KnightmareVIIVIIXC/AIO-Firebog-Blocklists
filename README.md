@@ -24,11 +24,11 @@ Diverse DNS blocklists crafted from an amalgamation of sources that will<br>
 
 Blocklists converted into the syntax of [adblock](https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax), [hosts](https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax), & [domain-only](https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax) formats, intended for use with<br>
 
-✅ AdBlockers ([uBlock Origin](https://ublockorigin.com/), [Adguard](https://adguard.com/en/welcome.html), etc.)<br>
+✅ AdBlockers ([uBlock Origin](https://ublockorigin.com/), [Adguard](https://adguard.com/en/welcome.html), [etc.](https://alternativeto.net/software/adguard/))<br>
 
 ☑️ Hosts Files<br>
 
-✅ DNS Applications ([Pi-Hole](https://docs.pi-hole.net), [Adguard Home](https://adguard.com/en/adguard-home/overview.html), etc.)
+✅ DNS Applications ([Pi-Hole](https://docs.pi-hole.net), [Adguard Home](https://adguard.com/en/adguard-home/overview.html), [etc.](https://alternativeto.net/software/pi-hole/))
 
 > [!IMPORTANT]
 > These lists use [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
