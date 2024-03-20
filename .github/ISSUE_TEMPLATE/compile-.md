@@ -1,8 +1,7 @@
 ---
-name: Custom Blocklist Request
-about: Template to create a custom blocklist from the sources
-title: Custom Blocklist Request
-labels: ''
+
+title: required
+description: optional
 assignees: Knightmare
 
 ---
