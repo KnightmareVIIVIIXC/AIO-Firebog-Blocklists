@@ -6,17 +6,17 @@
 
 Diverse DNS blocklists crafted from an amalgamation of sources that will<br>
 
-🟧 Hide Advertisements<br>
+✔️ Hide Advertisements<br>
 
-🟧 Halt Trackers<br>
+✔️ Halt Trackers<br>
 
-🟧 Block Malicious Content<br>
+✔️ Block Malicious Content<br>
 
-🟧 Stop Phishing Attempts<br>
+✔️ Stop Phishing Attempts<br>
 
-🟩 Disable Crypto Miners<br>
+✔️ Disable Crypto Miners<br>
 
-🟦 Prevent Adult Content
+✔️ Prevent Adult Content
 
 ---
 
