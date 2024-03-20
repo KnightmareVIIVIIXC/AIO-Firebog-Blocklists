@@ -7,6 +7,8 @@ assignees: Knightmare
 ---
 
 ### Custom Blocklist Request
+> [!WARNING]  
+> Exclusion lists will not be used on custom lists; you are responsible for unblocking domains for your custom list.
 
 #### Selected Sources
 Select 3 to 6 blue and/or green [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) that you want combined into your custom blocklist.
