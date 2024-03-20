@@ -30,12 +30,8 @@ Blocklists converted into the syntax of [adblock](https://adguard-dns.io/kb/gene
 
 - DNS Applications ([Pi-Hole](https://docs.pi-hole.net), [Adguard Home](https://adguard.com/en/adguard-home/overview.html), [etc.](https://alternativeto.net/software/pi-hole/))
 
-> [!IMPORTANT]
-> These lists use [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
-> 
-> The lists are compiled using [HostlistCompiler](https://github.com/KnightmareVIIVIIXC/HostlistCompiler) by [AdguardTeam](https://github.com/AdguardTeam)
->
-> [Python](https://www.python.org/) is used to convert the lists
+> [!CAUTION]  
+> Using more than one list at the same time can cause issues
 
 | List | ⬜ | Description |
 |---:|:---:|:---|
@@ -44,8 +40,12 @@ Blocklists converted into the syntax of [adblock](https://adguard-dns.io/kb/gene
 |Blue| 🟦 |Incorporates blue sources, poses a high risk of containing false positives|
 |Green| 🟩 |Incorporates green sources, poses a low risk of containing false positives, excludes [anudeepND's Allowlist](https://github.com/KnightmareVIIVIIXC/allowlist)|
 
-> [!CAUTION]  
-> Using more than one list at the same time can cause issues
+> [!IMPORTANT]
+> These lists use [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
+>  
+> The lists are compiled using [HostlistCompiler](https://github.com/KnightmareVIIVIIXC/HostlistCompiler) by [AdguardTeam](https://github.com/AdguardTeam)
+>  
+> [Python](https://www.python.org/) is used to convert the lists
 
 | AIO Lists | ⬜ | AdBlock | Hosts | Domain | 🟩 🟦 🟧 |
 |---:|:---:|:---:|:---:|:---:|:---|
