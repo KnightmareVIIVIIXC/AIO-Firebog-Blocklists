@@ -2,7 +2,7 @@
 name: Custom Blocklist Request
 about: Fill out the form to have a custom blocklist made
 labels: ["blocklist"]
-assignees: Knightmare
+assignees: KnightmareVIIVIIXC
 
 ---
 
