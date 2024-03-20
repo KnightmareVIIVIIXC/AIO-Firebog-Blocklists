@@ -6,17 +6,17 @@
 
 Diverse DNS blocklists crafted from an amalgamation of sources that will<br>
 
-✔️ Hide Advertisements<br>
+- Hide Advertisements
 
-✔️ Halt Trackers<br>
+- Halt Trackers
 
-✔️ Block Malicious Content<br>
+- Block Malicious Content
 
-✔️ Stop Phishing Attempts<br>
+- Stop Phishing Attempts
 
-✔️ Disable Crypto Miners<br>
+- Disable Crypto Miners
 
-✔️ Prevent Adult Content
+- Prevent Adult Content
 
 ---
 
@@ -24,11 +24,11 @@ Diverse DNS blocklists crafted from an amalgamation of sources that will<br>
 
 Blocklists converted into the syntax of [adblock](https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax), [hosts](https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax), & [domain-only](https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax) formats;<br>they are intended to be used with<br>
 
-✅ AdBlockers ([uBlock Origin](https://ublockorigin.com/), [Adguard](https://adguard.com/en/welcome.html), [etc.](https://alternativeto.net/software/adguard/))<br>
+- AdBlockers ([uBlock Origin](https://ublockorigin.com/), [Adguard](https://adguard.com/en/welcome.html), [etc.](https://alternativeto.net/software/adguard/))
 
-☑️ Hosts Files<br>
+- Hosts Files
 
-✅ DNS Applications ([Pi-Hole](https://docs.pi-hole.net), [Adguard Home](https://adguard.com/en/adguard-home/overview.html), [etc.](https://alternativeto.net/software/pi-hole/))
+- DNS Applications ([Pi-Hole](https://docs.pi-hole.net), [Adguard Home](https://adguard.com/en/adguard-home/overview.html), [etc.](https://alternativeto.net/software/pi-hole/))
 
 > [!IMPORTANT]
 > These lists use [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
