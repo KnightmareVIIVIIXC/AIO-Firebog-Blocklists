@@ -10,7 +10,7 @@ assignees: Knightmare
 ### Custom Blocklist Request
 
 #### Selected Sources
-Select 3 to 6 blue and/or green [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) that you want to combine into your custom blocklist.
+Select 3 to 6 blue and/or green [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) that you want combined into your custom blocklist.
 
 - 🟩 Source1
 - 🟦 Source2
