@@ -1,7 +1,7 @@
 ---
 name: Custom Blocklist Request
 about: Fill out the form to have a custom blocklist made
-labels: ["enhancement", "question"]
+labels: ["blocklist"]
 assignees: Knightmare
 
 ---
