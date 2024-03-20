@@ -4,7 +4,7 @@ name: Unblock Request
 about: Template to suggest domains to unblock
 title: Domain(s) blocked by [List Name]
 labels: ''
-assignees: Knightmare
+assignees: KnightmareVIIVIIXC
 
 ---
 
