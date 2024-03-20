@@ -1,7 +1,7 @@
 ---
 
 name: required
-description: optional
+about: optional
 assignees: Knightmare
 
 ---
