@@ -87,7 +87,7 @@ Blocklists converted into the syntax of [adblock](https://adguard-dns.io/kb/gene
 | Misc-Malicious | 🟩 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenmalother.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreenmalother.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenmalother.txt) | Contains the green malicious & miscellaneous sources |
 
 > [!NOTE]
-> Lists are updated Monday-Friday, between 01:00-03:00 & 13:00-15:00
+> Lists are updated Monday through Friday, between 01:00-03:00 and 13:00-15:00
 > 
 >> If they aren't, something's wrong 💊
 
