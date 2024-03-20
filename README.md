@@ -28,7 +28,7 @@ Blocklists converted into the syntax of [adblock](https://adguard-dns.io/kb/gene
 
 ☑️ Hosts Files<br>
 
-✅ DNS Applications (Pi-Hole, Adguard Home, etc.)
+✅ DNS Applications ([Pi-Hole](https://docs.pi-hole.net), [Adguard Home](https://adguard.com/en/adguard-home/overview.html), etc.)
 
 > [!IMPORTANT]
 > These lists use [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
