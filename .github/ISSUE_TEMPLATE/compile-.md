@@ -10,13 +10,14 @@ assignees: Knightmare
 ### Custom Blocklist Request
 
 #### Selected Sources
-Select 3 to 5 [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) that you want to combine into your custom blocklist.
+Select 3 to 6 [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) that you want to combine into your custom blocklist.
 
 - 🟧 Source1
 - 🟦 Source2
 - 🟩 Source3
-- ⬜ ...
-- ⬜ ...
+- 🟧 Source4
+- 🟦 Source5
+- 🟩 Source6
 
 #### Justification
 Provide a brief explanation of why you want to combine the selected sources into your custom blocklist. Include any relevant context or evidence to support your request.
