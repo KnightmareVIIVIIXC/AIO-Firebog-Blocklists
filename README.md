@@ -16,7 +16,7 @@ Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.
 
 - Disable Crypto Miners
 
-- Prevent Adult Content
+- Prevent NSFW Content
 
 ---
 
