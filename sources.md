@@ -1,10 +1,8 @@
 # 🔥 The Sources 🔥
 > [!IMPORTANT]
 > These sources are found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
->
-> The sources are compiled using [HostlistCompiler](https://github.com/KnightmareVIIVIIXC/HostlistCompiler) by [AdguardTeam](https://github.com/AdguardTeam)
->  
-> [Python](https://www.python.org/) is used to convert the lists
+>> They are compiled using [HostlistCompiler](https://github.com/KnightmareVIIVIIXC/HostlistCompiler) by [AdguardTeam](https://github.com/AdguardTeam)
+>>> [Python](https://www.python.org/) is used to convert the compiled lists
 
 | List | ⬜ | Description |
 |---:|:---:|:---|
