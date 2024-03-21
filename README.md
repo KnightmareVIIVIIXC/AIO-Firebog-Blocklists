@@ -24,7 +24,7 @@ Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.
 
 Blocklists converted into [adblock](https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax), [hosts](https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax), & [domain-only](https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax) formats;<br>the lists are built to be used with<br>
 
-- AdBlockers ([uBlock Origin](https://ublockorigin.com/), [Adguard](https://adguard.com/en/welcome.html), [etc.](https://alternativeto.net/software/adguard/))
+- AdBlockers ([uBlock Origin](https://ublockorigin.com/), [Adguard](https://adguard.com/en/welcome.html), [etc.](https://alternativeto.net/software/ublock-origin/))
 
 - Hosts Files
 
