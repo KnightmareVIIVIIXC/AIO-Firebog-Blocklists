@@ -1,4 +1,10 @@
 # 🔥 The Sources 🔥
+> [!IMPORTANT]
+> These lists use [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
+>  
+> The lists are compiled using [HostlistCompiler](https://github.com/KnightmareVIIVIIXC/HostlistCompiler) by [AdguardTeam](https://github.com/AdguardTeam)
+>  
+> [Python](https://www.python.org/) is used to convert the lists
 
 | List | ⬜ | Description |
 |---:|:---:|:---|
