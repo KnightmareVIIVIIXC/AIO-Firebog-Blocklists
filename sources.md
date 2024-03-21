@@ -1,7 +1,7 @@
 # 🔥 The Sources 🔥
 > [!IMPORTANT]
 > These sources are found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
->> Not all sources from The Firebog are used in [the lists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/tree/main/lists)
+>> Not all sources from The Firebog are used in the lists
 >
 > The lists are compiled using [HostlistCompiler](https://github.com/KnightmareVIIVIIXC/HostlistCompiler) by [AdguardTeam](https://github.com/AdguardTeam)
 >  
