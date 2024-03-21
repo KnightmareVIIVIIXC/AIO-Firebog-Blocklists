@@ -28,7 +28,7 @@ Blocklists converted into [adblock](https://adguard-dns.io/kb/general/dns-filter
 
 - Hosts Files
 
-- DNS Applications ([Pi-Hole](https://docs.pi-hole.net), [Adguard Home](https://adguard.com/en/adguard-home/overview.html), [etc.](https://alternativeto.net/software/pi-hole/))
+- DNS Applications ([Pi-Hole](https://docs.pi-hole.net), [Adguard Home](https://adguard.com/en/adguard-home/overview.html), [etc.](https://alternativeto.net/software/adguard-home/))
 
 | List | ⬜ | Description |
 |---:|:---:|:---|
