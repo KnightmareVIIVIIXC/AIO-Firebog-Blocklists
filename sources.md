@@ -13,7 +13,7 @@
 |Green| 🟩 |Featured in The Bog AIO list & green lists|
 
 > [!NOTE]
-> Not all sources from [The Firebog](https://v.firebog.net) are used in [the lists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/tree/main/lists)
+> Not all sources from The Firebog are used in [the lists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/tree/main/lists)
 
 | List | ⬜ | Source |
 |---:|:---:|:---|
