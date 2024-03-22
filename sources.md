@@ -9,8 +9,8 @@
 | List | ⬜ | Description |
 |---:|:---:|:---|
 |Bog| 🟧 |Exclusive to The Bog All-In-One (AIO) list|
-|Blue| 🟦 |Featured in The Bog AIO list & blue lists|
-|Green| 🟩 |Featured in The Bog AIO list & green lists|
+|Blue| 🟦 |Featured in The Bog AIO list and blue lists|
+|Green| 🟩 |Featured in The Bog AIO list and green lists|
 
 | ⬜ ⬜ ⬜ | ⬜ | Source |
 |---:|:---:|:---|
