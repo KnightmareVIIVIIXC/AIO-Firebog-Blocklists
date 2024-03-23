@@ -60,7 +60,7 @@
 | ⬛ | 🟩 | [RPiList Malware](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware) |
 | ⬛ | 🟩 | [RPiList Phishing](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe) |
 | ⬛ | 🟩 | [Spam404](https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt) |
-| ⬛ | 🟩 | [AssoEchap Stalkerware Indicators](https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts) |
+| ⬛ | 🟩 | [AssoEchap Stalkerware Indicators](https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full) |
 | ⬛ | 🟩 | [URLhaus Malware Blocklist](https://urlhaus.abuse.ch/downloads/hostfile/) |
 | ⬛ | 🟦 | [Curbengh Phishing Filter](https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt) |
 | ⬛ | 🟦 | [Fabrice Prigent Malware](https://v.firebog.net/hosts/Prigent-Malware.txt) |
