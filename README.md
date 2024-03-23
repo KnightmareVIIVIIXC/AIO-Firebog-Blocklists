@@ -22,13 +22,15 @@ Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.
 
 # 🔴 The Lists 🔴
 
-Blocklists converted into [adblock syntax](https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax), [hosts syntax](https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax), and [domain-only syntax](https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax); the lists are meant to be used in
+Blocklists converted into [adblock syntax](https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax), [hosts syntax](https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax), and [domain-only syntax](https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax)
 
-- AdBlockers ([uBlock Origin](https://ublockorigin.com/), [Adguard](https://adguard.com/en/welcome.html), [etc.](https://alternativeto.net/software/adguard/))
-
-- Hosts Files
-
-- DNS Applications ([Pi-Hole](https://docs.pi-hole.net), [Adguard Home](https://adguard.com/en/adguard-home/overview.html), [etc.](https://alternativeto.net/software/adguard-home/))
+> [!IMPORTANT]
+> The lists are meant to be used with the following:
+> - AdBlockers ([uBlock Origin](https://ublockorigin.com/), [Adguard](https://adguard.com/en/welcome.html), [etc.](https://alternativeto.net/software/adguard/))
+>
+> - Hosts Files
+>
+> - DNS Applications ([Pi-Hole](https://docs.pi-hole.net), [Adguard Home](https://adguard.com/en/adguard-home/overview.html), [etc.](https://alternativeto.net/software/adguard-home/))
 
 | List | ⬜ | Description |
 |---:|:---:|:---|
