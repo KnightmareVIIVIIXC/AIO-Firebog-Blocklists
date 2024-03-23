@@ -1,5 +1,5 @@
 
-# 🔵 The Firebog 🟠 DNS Blocklists 🟢
+# ⭕ The Firebog • DNS Blocklists ⭕
 
 [![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/def0ccf3-6b0d-4cfe-91ca-1225f85da364)
 ](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE)
