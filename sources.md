@@ -9,10 +9,10 @@
 | List | ⬜ | Description |
 |---:|:---:|:---|
 |Bog| 🟧 |Exclusive to The Bog All-In-One (AIO) list|
-|Blue| 🟦 |Featured in The Bog AIO list & blue lists|
-|Green| 🟩 |Featured in The Bog AIO list & green lists|
+|Blue| 🟦 |Featured in The Bog AIO list and blue lists|
+|Green| 🟩 |Featured in The Bog AIO list and green lists|
 
-| List | ⬜ | Source |
+| ⬜ ⬜ ⬜ | ⬜ | Source |
 |---:|:---:|:---|
 | Suspicious | ⬜ | 🟩 🟦 🟧 |
 | ⬛ | 🟩 | [WaLLy3K's Blocklist](https://v.firebog.net/hosts/static/w3kbl.txt) |
