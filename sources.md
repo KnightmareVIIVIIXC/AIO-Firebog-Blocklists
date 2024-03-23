@@ -19,7 +19,7 @@
 | ⬛ | 🟩 | [PolishFiltersTeam KADhosts](https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt) |
 | ⬛ | 🟩 | [Fademind Spammers](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) |
 | ⬛ | 🟦 | [Matomo Referrer Spam](https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt) |
-| ⬛ | 🟦 | [Dan Pollock List](https://someonewhocares.org/hosts/zero/hosts) |
+| ⬛ | 🟦 | [Dan Pollock Hosts](https://someonewhocares.org/hosts/zero/hosts) |
 | ⬛ | 🟦 | [VeleSila yhosts](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts) |
 | ⬛ | 🟦 | [MVPS Hosts](https://winhelp2002.mvps.org/hosts.txt) |
 | ⬛ | 🟦 | [neoFelhz neoHosts](https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts.txt) |
@@ -61,8 +61,8 @@
 | ⬛ | 🟩 | [RPiList Phishing](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe) |
 | ⬛ | 🟩 | [Spam404](https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt) |
 | ⬛ | 🟩 | [AssoEchap Stalkerware Indicators](https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts) |
-| ⬛ | 🟩 | [URLhaus Malware URL blocklist](https://urlhaus.abuse.ch/downloads/hostfile/) |
-| ⬛ | 🟦 | [Curbengh Phishing filter](https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt) |
+| ⬛ | 🟩 | [URLhaus Malware Blocklist](https://urlhaus.abuse.ch/downloads/hostfile/) |
+| ⬛ | 🟦 | [Curbengh Phishing Filter](https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt) |
 | ⬛ | 🟦 | [Fabrice Prigent Malware](https://v.firebog.net/hosts/Prigent-Malware.txt) |
 | Miscellaneous | ⬜ | 🟩 🟦 🟧 |
 | ⬛ | 🟩 | [ZeroDot1 CoinBlockerLists](https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts) |
