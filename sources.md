@@ -68,4 +68,4 @@
 | ⬛ | 🟩 | [ZeroDot1 CoinBlockerLists](https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts) |
 | ⬛ | 🟦 | [Chad Mayfield (Top 1M)](https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list) |
 | ⬛ | 🟧 | [Anudeep ND Facebook Blocklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt) |
-| ⬛ | 🟧 | [Personal Blocklist](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist/blob/main/personal_disallowed_domains.txt) |
+| ⬛ | 🟧 | [Personal Blocklist](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist/blob/main/configpersonal/personal_disallowed_domains.txt) |
