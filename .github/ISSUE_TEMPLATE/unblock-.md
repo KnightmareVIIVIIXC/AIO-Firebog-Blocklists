@@ -38,5 +38,4 @@ Before submitting this issue, make sure you have completed the following:
 #### Declaration
 By submitting this request, I confirm that the information provided is accurate and that I have read and understood the project's domain unblocking policies.
 
-- [ ] Yes
-- [ ] No
+- [ ] Yes, I confirm
