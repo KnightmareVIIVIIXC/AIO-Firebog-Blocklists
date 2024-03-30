@@ -1,5 +1,5 @@
 # 🔥 The Sources 🔥
-> [!IMPORTANT]
+> [!NOTE]
 > These sources are found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
 >> Not all sources from The Firebog are used
 >
