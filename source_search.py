@@ -110,6 +110,7 @@ if __name__ == "__main__":
         'Kees1958 Top Ads Trackers (Bog Only)': 'https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt',
         'Phishing Blocklist (Malicious)': 'https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt',
         'Prigent Malware (Malicious)': 'https://v.firebog.net/hosts/Prigent-Malware.txt',
+        'Personal List (Misc)': 'https://raw.githubusercontent.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist/main/configpersonal/personal_disallowed_domains.txt',
         'Porn List (Misc)': 'https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list',
     }
 
