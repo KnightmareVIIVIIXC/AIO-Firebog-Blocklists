@@ -31,7 +31,7 @@ Add any supplementary information or details that might be useful for reviewing 
 #### Checklist
 Before submitting this request, make sure you have completed the following:
 
-- [ ] Searched for other custom blocklists that might be similar to this request.
+- [ ] Searched for other blocklists that might be similar to this request.
 - [ ] Ensured that the request aligns with the project's guidelines and policies.
 
 #### Declaration
