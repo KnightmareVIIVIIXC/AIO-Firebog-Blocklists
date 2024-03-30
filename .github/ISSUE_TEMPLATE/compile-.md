@@ -20,7 +20,10 @@ Select 3 to 10 blue and/or green [sources](https://github.com/KnightmareVIIVIIXC
 - 🟦 Source4
 - 🟩 Source5
 - 🟦 Source6
-- . . .
+- 🟩 Source7
+- 🟦 Source8
+- 🟩 Source9
+- 🟦 Source0
 
 #### Justification
 Provide a brief explanation of why you want to combine the selected sources into your custom blocklist. Include any relevant context or evidence to support your request.
@@ -31,11 +34,10 @@ Add any supplementary information or details that might be useful for reviewing 
 #### Checklist
 Before submitting this request, make sure you have completed the following:
 
-- [ ] Searched for other custom blocklists that might be similar to this request.
+- [ ] Searched for other blocklists that might be similar to this request.
 - [ ] Ensured that the request aligns with the project's guidelines and policies.
 
 #### Declaration
 By submitting this request, I confirm that the information provided is accurate and that I have read and understood the project's policies regarding custom blocklists.
 
 - [ ] Yes, I confirm
-- [ ] No, I do not confirm
