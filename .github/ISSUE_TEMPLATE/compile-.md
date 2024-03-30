@@ -12,7 +12,7 @@ assignees: KnightmareVIIVIIXC
 > Exclusion lists will not be used on custom lists; you are responsible for unblocking domains for any custom list.
 
 #### Selected Sources
-Select 3 to 6 blue and/or green [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) that you want combined into your custom blocklist.
+Select 3 to 10 blue and/or green [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) that you want combined into your custom blocklist.
 
 - 🟩 Source1
 - 🟦 Source2
@@ -20,6 +20,7 @@ Select 3 to 6 blue and/or green [sources](https://github.com/KnightmareVIIVIIXC/
 - 🟦 Source4
 - 🟩 Source5
 - 🟦 Source6
+- . . .
 
 #### Justification
 Provide a brief explanation of why you want to combine the selected sources into your custom blocklist. Include any relevant context or evidence to support your request.
