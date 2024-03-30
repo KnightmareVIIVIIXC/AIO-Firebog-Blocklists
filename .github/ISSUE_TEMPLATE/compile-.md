@@ -38,4 +38,3 @@ Before submitting this request, make sure you have completed the following:
 By submitting this request, I confirm that the information provided is accurate and that I have read and understood the project's policies regarding custom blocklists.
 
 - [ ] Yes, I confirm
-- [ ] No, I do not confirm
