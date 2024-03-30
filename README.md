@@ -16,7 +16,7 @@ Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.
 
 - Disable Crypto Miners
 
-- Prevent NSFW Content
+- Prevent [NSFW](https://www.howtogeek.com/438957/what-does-nsfw-mean-and-how-do-you-use-it/) Content
 
 ---
 
