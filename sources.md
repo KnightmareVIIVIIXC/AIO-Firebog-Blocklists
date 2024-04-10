@@ -3,7 +3,7 @@
 > These sources are found on [The Firebog](https://v.firebog.net) by [WaLLy3K](https://github.com/WaLLy3K)
 >> Not all sources from The Firebog are used
 >
-> They are compiled using [HostlistCompiler](https://github.com/KnightmareVIIVIIXC/HostlistCompiler) by [AdguardTeam](https://github.com/AdguardTeam)
+> They are compiled using [HostlistCompiler](https://github.com/KnightmareVIIVIIXC/HostlistCompiler) by [Adguard](https://github.com/AdguardTeam)
 >> [Python](https://www.python.org/) and [Git](https://git-scm.com/) are used to convert the compiled lists
 
 | List | ⬜ | Description |
