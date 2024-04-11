@@ -10,7 +10,7 @@ Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.
 
 - Halt Trackers
 
-- Block Malicious Content
+- Block Malicious Websites
 
 - Stop Phishing Attempts
 
