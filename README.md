@@ -51,7 +51,7 @@ Blocklists converted into [adblock syntax](https://adguard-dns.io/kb/general/dns
 | Green List | 🟩 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofireboggreen.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofireboggreen.txt) | Contains all of the green sources |
 
 > [!TIP]
-> If an AIO list is causing issues, consider trying one of the Lite Lists
+> If an AIO List is causing issues, consider trying one of the Lite Lists
 >
 >> If a Lite List still causes issues, request a [custom blocklist](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/issues/new/choose)
 
