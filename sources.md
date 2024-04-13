@@ -4,13 +4,15 @@
 >> Not all sources from The Firebog are used
 >
 > They are compiled using [HostlistCompiler](https://github.com/KnightmareVIIVIIXC/HostlistCompiler) • [Adguard](https://github.com/AdguardTeam)
->> [Python](https://www.python.org/) • [Git](https://git-scm.com/) are used to convert the compiled lists
+>> [DeadDomainsLinter](https://github.com/AdguardTeam/DeadDomainsLinter) is used to remove dead domains from the lists
+>
+> [Python](https://www.python.org/) and [Git](https://git-scm.com/) are used to convert the compiled lists
 
 | List | ⬜ | Description |
 |---:|:---:|:---|
 |Bog| 🟧 |Exclusive to The Bog All-In-One (AIO) list|
-|Blue| 🟦 |Featured in The Bog AIO list • blue lists|
-|Green| 🟩 |Featured in The Bog AIO list • green lists|
+|Blue| 🟦 |Featured in The Bog AIO list and blue lists|
+|Green| 🟩 |Featured in The Bog AIO list and green lists|
 
 | ⬛ ⬛ ⬛ | ⬜ | Source |
 |---:|:---:|:---|

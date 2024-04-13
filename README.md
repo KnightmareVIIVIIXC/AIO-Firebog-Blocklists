@@ -36,7 +36,7 @@ Blocklists converted into [adblock syntax](https://adguard-dns.io/kb/general/dns
 | List | ⬜ | Description |
 |---:|:---:|:---|
 |Bog| 🟧 |Incorporates all sources • contains false positives|
-|Blue/Green| 🔶 |Incorporates blue sources • green sources • poses a high risk of containing false positives|
+|Blue/Green| 🔶 |Incorporates blue/green sources • poses a high risk of containing false positives|
 |Blue| 🟦 |Incorporates blue sources • poses a high risk of containing false positives|
 |Green| 🟩 |Incorporates green sources • poses a low risk of containing false positives • excludes [anudeepND's Allowlist](https://github.com/KnightmareVIIVIIXC/allowlist)|
 
@@ -51,7 +51,7 @@ Blocklists converted into [adblock syntax](https://adguard-dns.io/kb/general/dns
 | Green List | 🟩 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofireboggreen.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofireboggreen.txt) | Contains all of the green sources |
 
 > [!TIP]
-> If an AIO list is too much, consider trying one of the Lite Lists or request a [custom blocklist](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/issues/new/choose)
+> If an AIO list is causing issues, consider trying one of the Lite Lists or request a [custom blocklist](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/issues/new/choose)
 
 | Blue/Green Lite Lists | ⬜ | AdBlock | Hosts | Domain | 🔶 🔶 🔶 |
 |---:|:---:|:---:|:---:|:---:|:---|
