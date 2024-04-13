@@ -8,7 +8,7 @@
 >
 > [Python](https://www.python.org/) and [Git](https://git-scm.com/) are used to convert the compiled lists
 >
->> [Public Template](https://github.com/KnightmareVIIVIIXC/FBBuildtools)
+>> [Public Template](https://github.com/KnightmareVIIVIIXC/FBBuildtools) • [Other Sources](https://github.com/KnightmareVIIVIIXC/bigaioblocklist)
 
 | List | ⬜ | Description |
 |---:|:---:|:---|
