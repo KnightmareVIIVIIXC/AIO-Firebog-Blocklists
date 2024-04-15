@@ -32,6 +32,8 @@ Blocklists converted into [adblock syntax](https://adguard-dns.io/kb/general/dns
 > - Hosts Files
 >
 > - DNS Applications ([Pi-Hole](https://docs.pi-hole.net) • [Adguard Home](https://adguard.com/en/adguard-home/overview.html) • [etc.](https://alternativeto.net/software/adguard-home/))
+>
+> Find more information [here](https://github.com/fabriziosalmi/blacklists/blob/main/docs/Introduction.md)
 
 | List | ⬜ | Description |
 |---:|:---:|:---|
