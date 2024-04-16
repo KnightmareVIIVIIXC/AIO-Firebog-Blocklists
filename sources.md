@@ -4,10 +4,10 @@
 >> Not all sources from The Firebog are used
 >
 > They are compiled using [HostlistCompiler](https://github.com/KnightmareVIIVIIXC/HostlistCompiler) • [Adguard](https://github.com/AdguardTeam)
+>> [Public Template](https://github.com/KnightmareVIIVIIXC/FBBuildtools) • [Inspiration Blocklists](https://github.com/KnightmareVIIVIIXC/bigaioblocklist)
 >
 > [Python](https://www.python.org/) and [Git](https://git-scm.com/) are used to convert the compiled lists
 >
->> [Public Template](https://github.com/KnightmareVIIVIIXC/FBBuildtools) • [Inspiration Blocklists](https://github.com/KnightmareVIIVIIXC/bigaioblocklist)
 
 | List | ⬜ | Description |
 |---:|:---:|:---|
