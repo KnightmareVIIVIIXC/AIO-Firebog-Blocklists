@@ -4,7 +4,6 @@
 >> Not all sources from The Firebog are used
 >
 > They are compiled using [HostlistCompiler](https://github.com/KnightmareVIIVIIXC/HostlistCompiler) • [Adguard](https://github.com/AdguardTeam)
->> [DeadDomainsLinter](https://github.com/AdguardTeam/DeadDomainsLinter) is used to remove dead domains from the lists
 >
 > [Python](https://www.python.org/) and [Git](https://git-scm.com/) are used to convert the compiled lists
 >
