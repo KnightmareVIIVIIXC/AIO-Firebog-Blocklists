@@ -23,7 +23,7 @@ Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.
 
 # 🔴 The Lists 🔴
 
-Blocklists that are merged together for stronger protection, deduplicated, then converted into [adblock syntax](https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax) • [hosts syntax](https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax) • [domain-only syntax](https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax)
+Blocklists that are merged together for more protection, deduplicated, then converted into [adblock syntax](https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax) • [hosts syntax](https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax) • [domain-only syntax](https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax)
 
 > [!IMPORTANT]
 > The lists are built to be used with
