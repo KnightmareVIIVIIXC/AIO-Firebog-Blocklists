@@ -27,7 +27,7 @@ Blocklists converted into [adblock syntax](https://adguard-dns.io/kb/general/dns
 
 > [!IMPORTANT]
 > The lists are built to be used with
-> - AdBlockers ([uBlock Origin](https://ublockorigin.com/) • [Adguard](https://adguard.com/en/welcome.html) • [etc.](https://alternativeto.net/software/adguard/))
+> - AdBlockers ([uBlock Origin](https://ublockorigin.com/) • [Adguard](https://adguard.com/) • [etc.](https://alternativeto.net/software/adguard/))
 >
 > - Hosts Files
 >
