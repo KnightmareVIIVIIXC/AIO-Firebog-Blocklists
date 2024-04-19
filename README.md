@@ -31,7 +31,7 @@ Blocklists that are merged together for more protection, deduplicated, then conv
 >
 > - Hosts Files
 >
-> - DNS Applications ([Pi-Hole](https://docs.pi-hole.net) • [Adguard Home](https://adguard.com/en/adguard-home/overview.html) • [etc.](https://alternativeto.net/software/adguard-home/))
+> - DNS Applications ([Pi-Hole](https://docs.pi-hole.net) • [Adguard Home](https://github.com/AdguardTeam/AdguardHome) • [etc.](https://alternativeto.net/software/adguard-home/))
 >
 >> - Find more information [here](https://github.com/fabriziosalmi/blacklists/blob/main/docs/Introduction.md#dns-based-filtering)
 
