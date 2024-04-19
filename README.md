@@ -27,7 +27,7 @@ Blocklists that are merged together for more protection, deduplicated, then conv
 
 > [!IMPORTANT]
 > The lists are built to be used with
-> - AdBlockers ([uBlock Origin](https://ublockorigin.com/) • [Adguard](https://adguard.com/) • [etc.](https://alternativeto.net/software/adguard/))
+> - AdBlockers ([uBlock Origin](https://github.com/gorhill/uBlock) • [Adguard](https://adguard.com/) • [etc.](https://alternativeto.net/software/adguard/))
 >
 > - Hosts Files
 >
