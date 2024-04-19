@@ -51,7 +51,6 @@
 | ⬛ | 🟦 | [Perflyst Amazon FireTV Domains](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt) |
 | ⬛ | 🟦 | [Quidsup NoTrack Tracker Blocklist](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt) |
 | ⬛ | 🟧 | [Geoffrey Frogeye Multi-Party Trackers](https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt) |
-| ⬛ | 🟧 | [Kees1958 Top Ads & Trackers](https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/blob/master/EU_US_MV2_most_common_ad%2Btracking_networks.txt) |
 | Malicious | ⬜ | 🟩 🟦 ⬛ |
 | ⬛ | 🟩 | [DandelionSprout Anti-Malware Filter](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt) |
 | ⬛ | 🟩 | [DigitalSide Threat-Intel](https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt) |
