@@ -45,7 +45,7 @@ def find_blocking_blocklists(target_domain, green_sources, blue_sources, bog_sou
             blocking_blue_blocklists.append(name)
 
     for name, source in bog_sources.items():
-        if search_sources in ('m', 'bog', 'bog only', 'a', 'all') and check_domain_in_blocklist(source, target_domain):
+        if search_sources in ('o', 'bog', 'bog only', 'a', 'all') and check_domain_in_blocklist(source, target_domain):
             blocking_bog_blocklists.append(name)
 
     if search_sources in ('g', 'green', 'green sources', 'a', 'all') and blocking_green_blocklists:
@@ -58,7 +58,7 @@ def find_blocking_blocklists(target_domain, green_sources, blue_sources, bog_sou
         for blocklist in blocking_blue_blocklists:
             print(Fore.BLUE + f" - {blocklist}\n")
 
-    if search_sources in ('m', 'bog', 'bog only', 'a', 'all') and blocking_bog_blocklists:
+    if search_sources in ('o', 'bog', 'bog only', 'a', 'all') and blocking_bog_blocklists:
         print(Fore.CYAN + f"Domain '{target_domain}' found in the following bog only sources:\n")
         for blocklist in blocking_bog_blocklists:
             print(Fore.CYAN + f" - {blocklist}\n")
@@ -139,11 +139,11 @@ if __name__ == "__main__":
             continue
 
         while True:
-            search_option = input("Search in (g)reen, (b)lue, (m)agenta, or (a)ll sources? ").lower()
+            search_option = input("Search in (g)reen, (b)lue, (o)bog, or (a)ll sources? ").lower()
 
             if search_option == 'reset':
                 break  # Break to the outer loop and start over
-            elif search_option in ('g', 'green', 'green sources', 'b', 'blue', 'blue sources', 'm', 'bog', 'bog only', 'a', 'all'):
+            elif search_option in ('g', 'green', 'green sources', 'b', 'blue', 'blue sources', 'o', 'bog', 'bog only', 'a', 'all'):
                 find_blocking_blocklists(target_domain, green_blocklist_sources, blue_blocklist_sources, bog_blocklist_sources, search_option)
                 break
             else:
