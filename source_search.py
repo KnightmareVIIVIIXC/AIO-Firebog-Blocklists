@@ -31,9 +31,10 @@ def check_domain_in_blocklist(source_url, target_domain):
     # Return an empty list if there's an error
     return []
 
-def find_blocking_blocklists(target_domain, green_sources, blue_sources, search_sources):
+def find_blocking_blocklists(target_domain, green_sources, blue_sources, bog_sources, search_sources):
     blocking_green_blocklists = []
     blocking_blue_blocklists = []
+    blocking_bog_blocklists = []
 
     for name, source in green_sources.items():
         if search_sources in ('g', 'green', 'green sources', 'a', 'all') and check_domain_in_blocklist(source, target_domain):
@@ -42,6 +43,10 @@ def find_blocking_blocklists(target_domain, green_sources, blue_sources, search_
     for name, source in blue_sources.items():
         if search_sources in ('b', 'blue', 'blue sources', 'a', 'all') and check_domain_in_blocklist(source, target_domain):
             blocking_blue_blocklists.append(name)
+
+    for name, source in bog_sources.items():
+        if search_sources in ('m', 'bog', 'bog only', 'a', 'all') and check_domain_in_blocklist(source, target_domain):
+            blocking_bog_blocklists.append(name)
 
     if search_sources in ('g', 'green', 'green sources', 'a', 'all') and blocking_green_blocklists:
         print(Fore.GREEN + f"Domain '{target_domain}' found in the following green sources:\n")
@@ -53,7 +58,12 @@ def find_blocking_blocklists(target_domain, green_sources, blue_sources, search_
         for blocklist in blocking_blue_blocklists:
             print(Fore.BLUE + f" - {blocklist}\n")
 
-    if not blocking_green_blocklists and not blocking_blue_blocklists:
+    if search_sources in ('m', 'bog', 'bog only', 'a', 'all') and blocking_bog_blocklists:
+        print(Fore.CYAN + f"Domain '{target_domain}' found in the following bog only sources:\n")
+        for blocklist in blocking_bog_blocklists:
+            print(Fore.CYAN + f" - {blocklist}\n")
+
+    if not blocking_green_blocklists and not blocking_blue_blocklists and not blocking_bog_blocklists:
         print(Fore.RED + f"Domain '{target_domain}' not found in any sources.")
 
     # Reset the text color to default
@@ -98,19 +108,22 @@ if __name__ == "__main__":
         'neoFelhz neoHosts (Suspicious)': 'https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts.txt',
         'RooneyMcNibNug SNAFU (Suspicious)': 'https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt',
         'BarbBlock List (Suspicious)': 'https://raw.githubusercontent.com/paulgb/BarbBlock/main/blocklists/ublock-origin.txt',
-        'The Hosts File Project (Bog Only)': 'https://hostsfile.mine.nu/hosts0.txt',
-        'Mahakala (Bog Only)': 'https://adblock.mahakala.is/',
         'Jdlingyu Ad-wars (Ads)': 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts',
         'Lightswitch05 Ads Tracking (Tracking)': 'https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt',
         'Perflyst Android Trackers (Tracking)': 'https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt',
         'Perflyst SmartTV Domains (Tracking)': 'https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt',
         'Perflyst Amazon FireTV Domains (Tracking)': 'https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt',
         'Quidsup Tracker (Tracking)': 'https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.hosts',
-        'Geoffrey Frogeye Multi-Party Trackers (Bog Only)': 'https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt',
         'Phishing Blocklist (Malicious)': 'https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt',
         'Prigent Malware (Malicious)': 'https://v.firebog.net/hosts/Prigent-Malware.txt',
-        'Personal List (Misc)': 'https://raw.githubusercontent.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist/main/configpersonal/personal_disallowed_domains.txt',
         'Porn List (Misc)': 'https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list',
+    }
+
+    bog_blocklist_sources = {
+        'The Hosts File Project (Suspicious)': 'https://hostsfile.mine.nu/hosts0.txt',
+        'Mahakala (Suspicious)': 'https://adblock.mahakala.is/',
+        'Geoffrey Frogeye Multi-Party Trackers (Tracking)': 'https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt',
+        'Personal List (Misc)': 'https://raw.githubusercontent.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist/main/configpersonal/personal_disallowed_domains.txt',
     }
 
     while True:
@@ -126,12 +139,12 @@ if __name__ == "__main__":
             continue
 
         while True:
-            search_option = input("Search in (g)reen, (b)lue, or (a)ll sources? ").lower()
+            search_option = input("Search in (g)reen, (b)lue, (m)agenta, or (a)ll sources? ").lower()
 
             if search_option == 'reset':
                 break  # Break to the outer loop and start over
-            elif search_option in ('g', 'green', 'green sources', 'b', 'blue', 'blue sources', 'a', 'all'):
-                find_blocking_blocklists(target_domain, green_blocklist_sources, blue_blocklist_sources, search_option)
+            elif search_option in ('g', 'green', 'green sources', 'b', 'blue', 'blue sources', 'm', 'bog', 'bog only', 'a', 'all'):
+                find_blocking_blocklists(target_domain, green_blocklist_sources, blue_blocklist_sources, bog_blocklist_sources, search_option)
                 break
             else:
                 print(Fore.YELLOW + "Invalid reply")
