@@ -107,7 +107,6 @@ if __name__ == "__main__":
         'Perflyst Amazon FireTV Domains (Tracking)': 'https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt',
         'Quidsup Tracker (Tracking)': 'https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.hosts',
         'Geoffrey Frogeye Multi-Party Trackers (Bog Only)': 'https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt',
-        'Kees1958 Top Ads Trackers (Bog Only)': 'https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt',
         'Phishing Blocklist (Malicious)': 'https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt',
         'Prigent Malware (Malicious)': 'https://v.firebog.net/hosts/Prigent-Malware.txt',
         'Personal List (Misc)': 'https://raw.githubusercontent.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist/main/configpersonal/personal_disallowed_domains.txt',
