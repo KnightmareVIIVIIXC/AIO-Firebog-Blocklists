@@ -45,7 +45,7 @@ Blocklists that are merged together for more protection, deduplicated, then conv
 > [!CAUTION]  
 > Using more than one list at the same time can cause issues
 
-| AIO (All-In-One) Lists | ⬜ | AdBlock | Hosts | Domain | 🟩 🟦 🟧 |
+| All-In-One (AIO) Lists | ⬜ | AdBlock | Hosts | Domain | 🟩 🟦 🟧 |
 |---:|:---:|:---:|:---:|:---:|:---|
 | The Bog List | 🟧 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebog.txt) | Contains all of the sources |
 | Blue/Green List | 🔶 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogbluegreen.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebogbluegreen.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebogbluegreen.txt) | Contains all of the blue/green sources |
