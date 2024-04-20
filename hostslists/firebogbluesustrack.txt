@@ -3,7 +3,7 @@
 # Description: The blue tracking and suspicious sources from the Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-04-19T11:12:59.743Z
+# Last modified: 2024-04-20T03:34:04.419Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.24
 # 
@@ -1763,6 +1763,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.dev.360.cn
 0.0.0.0 ad.deviantart.com
 0.0.0.0 ad.directmirror.com
+0.0.0.0 ad.dnoticias.pt
 0.0.0.0 ad.doganburda.com
 0.0.0.0 ad.donanimhaber.com
 0.0.0.0 ad.dongdong.madserving.com
@@ -5148,6 +5149,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-bt.idomoo.com
 0.0.0.0 analytics-canary.pinterest.com
+0.0.0.0 analytics-center.dev.veritone.com
+0.0.0.0 analytics-center.stage.veritone.com
 0.0.0.0 analytics-center.veritone.com
 0.0.0.0 analytics-central.shopifysvc.com
 0.0.0.0 analytics-east.shopifysvc.com
