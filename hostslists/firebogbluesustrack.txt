@@ -3,7 +3,7 @@
 # Description: The blue tracking and suspicious sources from the Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-04-20T13:23:45.684Z
+# Last modified: 2024-04-21T01:35:50.054Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.24
 # 
@@ -2529,6 +2529,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adlook.me
 0.0.0.0 adloox.com
 0.0.0.0 adlooxtracking.com
+0.0.0.0 adlooxtracking.ru
 0.0.0.0 adlsoft.com
 0.0.0.0 adlucent.com
 0.0.0.0 adm-vids.com
@@ -37371,6 +37372,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 pgspace.sprinklr.com
 0.0.0.0 pgssl.com
 0.0.0.0 pgteu1-excel-telemetry-vip.officeapps.live.com
+0.0.0.0 pgteu2-word-telemetry-vip.officeapps.live.com
+0.0.0.0 pgteu3-powerpoint-telemetry-vip.officeapps.live.com
+0.0.0.0 pgteu4-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 ph-ad01.focalink.com
 0.0.0.0 ph-ad02.focalink.com
 0.0.0.0 ph-ad03.focalink.com
@@ -45412,6 +45416,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 telemetry.art19.com
 0.0.0.0 telemetry.battle.net
+0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry.consumersentinel.gov
 0.0.0.0 telemetry.docusign.net
 0.0.0.0 telemetry.dropbox.com

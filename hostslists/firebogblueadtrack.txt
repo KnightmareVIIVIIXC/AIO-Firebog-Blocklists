@@ -3,7 +3,7 @@
 # Description: All the blue advertising and tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-04-20T13:23:17.304Z
+# Last modified: 2024-04-21T01:35:22.185Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.24
 # 
@@ -767,6 +767,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adlook.me
 0.0.0.0 adloox.com
 0.0.0.0 adlooxtracking.com
+0.0.0.0 adlooxtracking.ru
 0.0.0.0 adls.suning.com
 0.0.0.0 adlsoft.com
 0.0.0.0 adlucent.com
@@ -22718,6 +22719,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 pghub.io
 0.0.0.0 pglstatp-toutiao.com
 0.0.0.0 pgteu1-excel-telemetry-vip.officeapps.live.com
+0.0.0.0 pgteu2-word-telemetry-vip.officeapps.live.com
+0.0.0.0 pgteu3-powerpoint-telemetry-vip.officeapps.live.com
+0.0.0.0 pgteu4-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 phanri.info
 0.0.0.0 phantomscreendoors.com
 0.0.0.0 pharacyfeedback.com
@@ -26897,6 +26901,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 telemetry.art19.com
 0.0.0.0 telemetry.battle.net
+0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry.consumersentinel.gov
 0.0.0.0 telemetry.docusign.net
 0.0.0.0 telemetry.dropbox.com
