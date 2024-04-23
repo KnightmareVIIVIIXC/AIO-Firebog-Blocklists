@@ -1,6 +1,6 @@
 ## 🔥 The Sources 🔥
 > [!NOTE]
-> These sources are found on [The Firebog](https://v.firebog.net) • [WaLLy3K](https://github.com/WaLLy3K)
+> These sources are found on [The Firebog](https://v.firebog.net) • [WaLLy3K](https://firebog.net/about)
 >> Not all sources from The Firebog are used
 >
 > They are merged using [HostlistCompiler](https://github.com/KnightmareVIIVIIXC/HostlistCompiler) • [Adguard](https://github.com/AdguardTeam)
