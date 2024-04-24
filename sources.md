@@ -15,21 +15,21 @@
 |Blue| 🟦 |Featured in The Bog AIO list and blue lists|
 |Green| 🟩 |Featured in The Bog AIO list and green lists|
 
-| ⬛ ⬛ ⬛ | ⬛ | Source |
+| 🟧 🟦 🟩 | ⬜ | Source |
 |---:|:---:|:---|
 | Suspicious | ⬜ | 🟩 🟦 🟧 |
 | 🟩 | 🟩 | [WaLLy3K Blocklist](https://v.firebog.net/hosts/static/w3kbl.txt) |
 | 🟩 | 🟩 | [PolishFiltersTeam KADhosts](https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt) |
 | 🟩 | 🟩 | [Fademind Spammers](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) |
-| 🟦 | 🟦 | [Matomo Referrer Spam](https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt) |
-| 🟦 | 🟦 | [Dan Pollock Hosts](https://someonewhocares.org/hosts/zero/hosts) |
-| 🟦 | 🟦 | [VeleSila yhosts](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts) |
-| 🟦 | 🟦 | [MVPS Hosts](https://winhelp2002.mvps.org/hosts.txt) |
-| 🟦 | 🟦 | [neoFelhz neoHosts](https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts.txt) |
-| 🟦 | 🟦 | [RooneyMcNibNug SNAFU list](https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt) |
-| 🟦 | 🟦 | [paulgb BarbBlock](https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt) |
-| 🟧 | 🟧 | [The Hosts File Project](https://hostsfile.mine.nu/hosts0.txt) |
-| 🟧 | 🟧 | [Mahakala](https://adblock.mahakala.is/) |
+| 🟦 🟦 | 🟦 | [Matomo Referrer Spam](https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt) |
+| 🟦 🟦 | 🟦 | [Dan Pollock Hosts](https://someonewhocares.org/hosts/zero/hosts) |
+| 🟦 🟦 | 🟦 | [VeleSila yhosts](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts) |
+| 🟦 🟦 | 🟦 | [MVPS Hosts](https://winhelp2002.mvps.org/hosts.txt) |
+| 🟦 🟦 | 🟦 | [neoFelhz neoHosts](https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts.txt) |
+| 🟦 🟦 | 🟦 | [RooneyMcNibNug SNAFU list](https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt) |
+| 🟦 🟦 | 🟦 | [paulgb BarbBlock](https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt) |
+| 🟧 🟧 🟧 | 🟧 | [The Hosts File Project](https://hostsfile.mine.nu/hosts0.txt) |
+| 🟧 🟧 🟧 | 🟧 | [Mahakala](https://adblock.mahakala.is/) |
 | Advertising | ⬜ | 🟩 🟦 ⬛ |
 | 🟩 | 🟩 | [AdAway](https://adaway.org/hosts.txt) |
 | 🟩 | 🟩 | [LanikSJ GetAdmiral](https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt) |
@@ -37,7 +37,7 @@
 | 🟩 | 🟩 | [Peter Lowe Adservers](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml) |
 | 🟩 | 🟩 | [Fademind Unchecky Ads](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) |
 | 🟩 | 🟩 | [hostsVN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) |
-| 🟦 | 🟦 | [Jdlingyu Ad-wars](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) |
+| 🟦 🟦 | 🟦 | [Jdlingyu Ad-wars](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) |
 | Advertising/Tracking | ⬜ | 🟩 ⬛ ⬛ |
 | 🟩 | 🟩 | [AdGuard DNS Filter](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) |
 | Tracking | ⬜ | 🟩 🟦 🟧 |
@@ -45,12 +45,12 @@
 | 🟩 | 🟩 | [Fademind 2o7 Network Trackers](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts) |
 | 🟩 | 🟩 | [Crazy Max Microsoft Telemetry](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) |
 | 🟩 | 🟩 | [Geoffrey Frogeye First-Party Trackers](https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt) |
-| 🟦 | 🟦 | [Lightswitch05 Ads & Tracking](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) |
-| 🟦 | 🟦 | [Perflyst Android Trackers](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt) |
-| 🟦 | 🟦 | [Perflyst SmartTV Domains](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt) |
-| 🟦 | 🟦 | [Perflyst Amazon FireTV Domains](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt) |
-| 🟦 | 🟦 | [Quidsup NoTrack Tracker Blocklist](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt) |
-| 🟧 | 🟧 | [Geoffrey Frogeye Multi-Party Trackers](https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt) |
+| 🟦 🟦 | 🟦 | [Lightswitch05 Ads & Tracking](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) |
+| 🟦 🟦 | 🟦 | [Perflyst Android Trackers](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt) |
+| 🟦 🟦 | 🟦 | [Perflyst SmartTV Domains](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt) |
+| 🟦 🟦 | 🟦 | [Perflyst Amazon FireTV Domains](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt) |
+| 🟦 🟦 | 🟦 | [Quidsup NoTrack Tracker Blocklist](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt) |
+| 🟧 🟧 🟧 | 🟧 | [Geoffrey Frogeye Multi-Party Trackers](https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt) |
 | Malicious | ⬜ | 🟩 🟦 ⬛ |
 | 🟩 | 🟩 | [DandelionSprout Anti-Malware Filter](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt) |
 | 🟩 | 🟩 | [DigitalSide Threat-Intel](https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt) |
@@ -64,10 +64,10 @@
 | 🟩 | 🟩 | [Spam404](https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt) |
 | 🟩 | 🟩 | [AssoEchap Stalkerware Indicators](https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full) |
 | 🟩 | 🟩 | [URLhaus Malware Blocklist](https://urlhaus.abuse.ch/downloads/hostfile/) |
-| 🟦 | 🟦 | [Curbengh Phishing Filter](https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt) |
-| 🟦 | 🟦 | [Fabrice Prigent Malware](https://v.firebog.net/hosts/Prigent-Malware.txt) |
+| 🟦 🟦 | 🟦 | [Curbengh Phishing Filter](https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt) |
+| 🟦 🟦 | 🟦 | [Fabrice Prigent Malware](https://v.firebog.net/hosts/Prigent-Malware.txt) |
 | Miscellaneous | ⬜ | 🟩 🟦 🟧 |
 | 🟩 | 🟩 | [ZeroDot1 CoinBlockerLists](https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts) |
-| 🟦 | 🟦 | [Chad Mayfield (Top 1M)](https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list) |
-| 🟧 | 🟧 | [Anudeep ND Facebook Blocklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt) |
-| 🟧 | 🟧 | [Personal Blocklist](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist/blob/main/configpersonal/personal_disallowed_domains.txt) |
+| 🟦 🟦 | 🟦 | [Chad Mayfield (Top 1M)](https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list) |
+| 🟧 🟧 🟧 | 🟧 | [Anudeep ND Facebook Blocklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt) |
+| 🟧 🟧 🟧 | 🟧 | [Personal Blocklist](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist/blob/main/configpersonal/personal_disallowed_domains.txt) |
