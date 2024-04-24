@@ -15,7 +15,7 @@
 |Blue| 🟦 |Featured in The Bog AIO list and blue lists|
 |Green| 🟩 |Featured in The Bog AIO list and green lists|
 
-| ⬛ ⬛ ⬛ | ⬜ | Source |
+| ⬜ ⬜ ⬜ | ⬜ | Source |
 |---:|:---:|:---|
 | Suspicious | ⬜ | 🟩 🟦 🟧 |
 | ⬛ | 🟩 | [WaLLy3K Blocklist](https://v.firebog.net/hosts/static/w3kbl.txt) |
