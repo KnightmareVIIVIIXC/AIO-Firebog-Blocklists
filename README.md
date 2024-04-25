@@ -95,8 +95,8 @@ Use these to identify what is being blocked by the list of your choice
 
 |🟧|🟩┃🟦┃🟩|🟧|
 |:---:|:---:|:---:|
-|⬛| [AdBlock Tester](https://adblock-tester.com/) |⬛|
-|⬛| [Can You Block It](https://canyoublockit.com/) |⬛|
-|⬛| [Cover Your Tracks](https://coveryourtracks.eff.org/) |⬛|
-|⬛| [d3ward's Toolz](https://d3ward.github.io/toolz/) |⬛|
+|⬜| [AdBlock Tester](https://adblock-tester.com/) |⬜|
+|⬜| [Can You Block It](https://canyoublockit.com/) |⬜|
+|⬜| [Cover Your Tracks](https://coveryourtracks.eff.org/) |⬜|
+|⬜| [d3ward's Toolz](https://d3ward.github.io/toolz/) |⬜|
 |🟧|🟦┃🟩┃🟦|🟧|
