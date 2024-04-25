@@ -53,7 +53,7 @@ Blocklists that are merged together for more protection, deduplicated, then conv
 | Green List | 🟩 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofireboggreen.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofireboggreen.txt) | Contains all of the green sources |
 
 > [!TIP]
-> If an AIO List is causing issues, consider trying one of the Lite Lists
+> If an AIO List is causing issues, try using one of the Lite Lists
 >
 >> If a Lite List causes issues, request a [custom blocklist](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/issues/new/choose)
 
