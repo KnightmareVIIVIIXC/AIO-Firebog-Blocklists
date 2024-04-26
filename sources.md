@@ -25,7 +25,6 @@
 
 | ⚪ ⚪ ⚪ | ⬜ | Source |
 |---:|:---:|:---|
-| 🟣 🟣 🟣 | ⬜ | 🟣 🟣 🟣 |
 | 🟣 🟣 🟣 | 🟩 | [WaLLy3K Blocklist](https://v.firebog.net/hosts/static/w3kbl.txt) |
 | 🟣 🟣 🟣 | 🟩 | [PolishFiltersTeam KADhosts](https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt) |
 | 🟣 🟣 🟣 | 🟩 | [Fademind Spammers](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) |
@@ -38,7 +37,6 @@
 | 🟣 🟣 🟣 | 🟦 | [paulgb BarbBlock](https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt) |
 | 🟣 🟣 🟣 | 🟧 | [The Hosts File Project](https://hostsfile.mine.nu/hosts0.txt) |
 | 🟣 🟣 🟣 | 🟧 | [Mahakala](https://adblock.mahakala.is/) |
-| 🟡 🟡 🟡 | ⬜ | 🟡 🟡 🟡 |
 | 🟡 🟡 🟡 | 🟩 | [AdAway](https://adaway.org/hosts.txt) |
 | 🟡 🟡 🟡 | 🟩 | [LanikSJ GetAdmiral](https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt) |
 | 🟡 🟡 🟡 | 🟩 | [Anudeep ND Blocklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt) |
@@ -46,9 +44,7 @@
 | 🟡 🟡 🟡 | 🟩 | [Fademind Unchecky Ads](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) |
 | 🟡 🟡 🟡 | 🟩 | [hostsVN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) |
 | 🟡 🟡 🟡 | 🟦 | [Jdlingyu Ad-wars](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) |
-| 🟠 🟠 🟠 | ⬜ | 🟠 🟠 🟠 |
 | 🟠 🟠 🟠 | 🟩 | [AdGuard DNS Filter](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) |
-| 🔴 🔴 🔴 | ⬜ | 🔴 🔴 🔴 |
 | 🔴 🔴 🔴 | 🟩 | [Fabrice Prigent Ads](https://v.firebog.net/hosts/Prigent-Ads.txt) |
 | 🔴 🔴 🔴 | 🟩 | [Fademind 2o7 Network Trackers](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts) |
 | 🔴 🔴 🔴 | 🟩 | [Crazy Max Microsoft Telemetry](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) |
@@ -59,7 +55,6 @@
 | 🔴 🔴 🔴 | 🟦 | [Perflyst Amazon FireTV Domains](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt) |
 | 🔴 🔴 🔴 | 🟦 | [Quidsup NoTrack Tracker Blocklist](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt) |
 | 🔴 🔴 🔴 | 🟧 | [Geoffrey Frogeye Multi-Party Trackers](https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt) |
-| 🟤 🟤 🟤 | ⬜ | 🟤 🟤 🟤 |
 | 🟤 🟤 🟤 | 🟩 | [DandelionSprout Anti-Malware Filter](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt) |
 | 🟤 🟤 🟤 | 🟩 | [DigitalSide Threat-Intel](https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt) |
 | 🟤 🟤 🟤 | 🟩 | [Fabrice Prigent Cryptojacking](https://v.firebog.net/hosts/Prigent-Crypto.txt) |
@@ -74,7 +69,6 @@
 | 🟤 🟤 🟤 | 🟩 | [URLhaus Malware Blocklist](https://urlhaus.abuse.ch/downloads/hostfile/) |
 | 🟤 🟤 🟤 | 🟦 | [Curbengh Phishing Filter](https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt) |
 | 🟤 🟤 🟤 | 🟦 | [Fabrice Prigent Malware](https://v.firebog.net/hosts/Prigent-Malware.txt) |
-| ⚫ ⚫ ⚫ | ⬜ | ⚫ ⚫ ⚫ |
 | ⚫ ⚫ ⚫ | 🟩 | [ZeroDot1 CoinBlockerLists](https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts) |
 | ⚫ ⚫ ⚫ | 🟦 | [Chad Mayfield (Top 1M)](https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list) |
 | ⚫ ⚫ ⚫ | 🟧 | [Anudeep ND Facebook Blocklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt) |
