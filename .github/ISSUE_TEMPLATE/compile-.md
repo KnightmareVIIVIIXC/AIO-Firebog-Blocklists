@@ -8,6 +8,7 @@ assignees: KnightmareVIIVIIXC
 ---
 
 ### Custom Blocklist Request
+
 > [!WARNING]  
 > Exclusion lists will not be used on custom lists; you are responsible for unblocking domains for any custom list.
 
