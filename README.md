@@ -89,6 +89,8 @@ Blocklists that are merged together for more protection, deduplicated, then conv
 
 ---
 
+<div align="center">
+
 ## [👨‍💻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/category_search.py) The Tests [👩‍💻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/source_search.py)
 
 Use these to identify what is being blocked by the list of your choice
@@ -100,3 +102,5 @@ Use these to identify what is being blocked by the list of your choice
 |⭕| [Cover Your Tracks](https://coveryourtracks.eff.org/) |⭕|
 |⭕| [d3ward's Toolz](https://d3ward.github.io/toolz/) |⭕|
 |⛔| • 🔴 • 🔴 • 🔴 • |⛔|
+
+</div>
