@@ -45,7 +45,7 @@ Blocklists that are merged together for more protection, deduplicated, then conv
 > [!CAUTION]  
 > Using more than one list at the same time can cause issues
 
-| All-In-One (AIO) Lists | ⬜ | AdBlock | Hosts | Domain | 🟩 🟦 🟧 |
+| All-In-One (AIO) Lists | ⬜ | AdBlock | Hosts | Domain | Description |
 |---:|:---:|:---:|:---:|:---:|:---|
 | The Bog List | 🟧 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebog.txt) | Contains all of the sources |
 | Blue/Green List | 🔶 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogbluegreen.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebogbluegreen.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebogbluegreen.txt) | Contains all of the blue/green sources |
@@ -57,7 +57,7 @@ Blocklists that are merged together for more protection, deduplicated, then conv
 >
 >> If a Lite List causes issues, request a [custom blocklist](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/issues/new/choose)
 
-| Blue/Green Lite Lists | ⬜ | AdBlock | Hosts | Domain | 🔶 🔶 🔶 |
+| Blue/Green Lite Lists | ⬜ | AdBlock | Hosts | Domain | Description |
 |---:|:---:|:---:|:---:|:---:|:---|
 | Suspicious-Malicious | 🔶 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsusmal.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogsusmal.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogsusmal.txt) | Contains the blue/green suspicious • malicious sources |
 | Suspicious-Tracking | 🔶 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsustrack.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogsustrack.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogsustrack.txt) | Contains the blue/green suspicious • tracking sources |
@@ -71,7 +71,7 @@ Blocklists that are merged together for more protection, deduplicated, then conv
 | Malicious | 🔶 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogmal.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogmal.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogmal.txt) | Contains all of the malicious sources |
 | Miscellaneous | 🔶 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogother.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogother.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogother.txt) | Contains the blue/green miscellaneous sources |
 
-| Blue Lite Lists | ⬜ | AdBlock | Hosts | Domain | 🟦 🟦 🟦 |
+| Blue Lite Lists | ⬜ | AdBlock | Hosts | Domain | Description |
 |---:|:---:|:---:|:---:|:---:|:---|
 | Suspicious-Malicious | 🟦 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusmal.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogbluesusmal.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogbluesusmal.txt) | Contains the blue suspicious • malicious sources |
 | Suspicious-Tracking | 🟦 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesustrack.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogbluesustrack.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogbluesustrack.txt) | Contains the blue tracking • suspicious sources |
@@ -79,7 +79,7 @@ Blocklists that are merged together for more protection, deduplicated, then conv
 | Advertising-Tracking-Malicious | 🟦 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrackmal.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogblueadtrackmal.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogblueadtrackmal.txt) | Contains the blue advertising • tracking • malicious sources |
 | Misc-Suspicious | 🟦 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusother.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogbluesusother.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogbluesusother.txt) | Contains the blue suspicious • miscellaneous sources |
 
-| Green Lite Lists | ⬜ | AdBlock | Hosts | Domain | 🟩 🟩 🟩 |
+| Green Lite Lists | ⬜ | AdBlock | Hosts | Domain | Description |
 |---:|:---:|:---:|:---:|:---:|:---|
 | Suspicious-Malicious | 🟩 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreensusmal.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreensusmal.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreensusmal.txt) | Contains the green suspicious • malicious sources |
 | Advertising-Tracking | 🟩 | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrack.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreenadtrack.txt) | [RAW](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrack.txt) | Contains the green advertising • tracking sources |
