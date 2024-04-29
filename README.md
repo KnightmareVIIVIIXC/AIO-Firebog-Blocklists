@@ -5,19 +5,23 @@
 ](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE)
 
 
-Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) that will
+Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) that will block
 
-- Hide Advertisements
+- Advertisements
 
-- Halt Trackers
+- Trackers
 
-- Block Malicious Websites
+- Malicious Websites
 
-- Stop Phishing Attempts
+- Phishing Attempts
 
-- Disable Crypto Miners
+- Crypto Miners
 
-- Prevent [NSFW](https://www.howtogeek.com/438957/what-does-nsfw-mean-and-how-do-you-use-it/) Content
+- [NSFW](https://www.howtogeek.com/438957/what-does-nsfw-mean-and-how-do-you-use-it/) Content
+
+- Social Media
+
+- News Sites
 
 ---
 
