@@ -17,7 +17,7 @@ Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.
 
 - Crypto Miners
 
-- [NSFW](https://www.howtogeek.com/438957/what-does-nsfw-mean-and-how-do-you-use-it/) Content
+- [NSFW Content](https://www.howtogeek.com/438957/what-does-nsfw-mean-and-how-do-you-use-it/)
 
 - Social Media
 
