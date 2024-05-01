@@ -23,7 +23,7 @@ Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.
 
 - News Sites
 
-- Paid Streaming Services
+- Paid Streaming Platforms
 
 ---
 
