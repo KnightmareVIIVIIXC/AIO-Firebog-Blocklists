@@ -18,13 +18,7 @@ Select 3 to 10 [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Block
 - 🟩 Source1
 - 🟦 Source2
 - 🟧 Source3
-- 🟦 Source4
-- 🟩 Source5
-- 🟧 Source6
-- 🟩 Source7
-- 🟦 Source8
-- 🟧 Source9
-- 🟦 Source0
+- . . .
 
 #### Justification
 Provide a brief explanation of why you want to combine the selected sources into your custom blocklist. Include any relevant context or evidence to support your request.
