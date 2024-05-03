@@ -25,8 +25,6 @@ Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.
 
 - Paid Streaming Platforms
 
-- Torrent Services
-
 ---
 
 # 🔴 The Lists 🔴
