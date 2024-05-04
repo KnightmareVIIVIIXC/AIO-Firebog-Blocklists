@@ -3,7 +3,7 @@
 # Description: The blue tracking and suspicious sources from the Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-05-03T11:35:10.389Z
+# Last modified: 2024-05-04T11:34:44.141Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.24
 # 
@@ -5627,6 +5627,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.apps.sina.cn
 0.0.0.0 api.bailingjiankang.com
 0.0.0.0 api.bayimob.com
+0.0.0.0 api.behavioralengine.com
 0.0.0.0 api.bhzejltg.info
 0.0.0.0 api.bigmobileads.com
 0.0.0.0 api.callget.cn
@@ -5977,7 +5978,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 appsupport.qq.com
 0.0.0.0 appsupport.stargame.com
 0.0.0.0 appswiss.ch
-0.0.0.0 apptelemetry.io
 0.0.0.0 apptentive.com
 0.0.0.0 apptimize.com
 0.0.0.0 apptjmp.com
@@ -7349,8 +7349,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 beggarlyfilmingabreast.com
 0.0.0.0 beginninglife.com
 0.0.0.0 begun.ru
-0.0.0.0 behavioralengine.com
-0.0.0.0 behavioralmailing.com
 0.0.0.0 behe.com
 0.0.0.0 behenevis.com
 0.0.0.0 behindaquarium.com
@@ -7534,7 +7532,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 betworld1.info
 0.0.0.0 bever-chew.info
 0.0.0.0 bevilla.fr
-0.0.0.0 bevyup.com
 0.0.0.0 bewaslac.com
 0.0.0.0 bewerbungsschreiben.info
 0.0.0.0 bewildandout.org
@@ -7648,7 +7645,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bigrtube.com
 0.0.0.0 bigseatsout.net
 0.0.0.0 bigshare.org
-0.0.0.0 bigspeedpro.com
 0.0.0.0 biip.info
 0.0.0.0 bijsluiterscore.info
 0.0.0.0 bikehike.org
