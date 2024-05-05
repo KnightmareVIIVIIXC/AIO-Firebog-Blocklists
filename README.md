@@ -7,23 +7,23 @@
 
 Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) that will block
 
-- Advertisements
+🔶 Advertisements
 
-- Trackers
+🔶 Trackers
 
-- Malicious Websites
+🔶 Malicious Websites
 
-- Phishing Attempts
+🔶 Phishing Attempts
 
-- Crypto Miners
+🟩 Crypto Miners
 
-- Adult Content
+🟦 Adult Content
 
-- Social Media
+🟧 Social Media
 
-- News Sites
+🟧 News Sites
 
-- Paid Streaming Platforms
+🟧 Paid Streaming Platforms
 
 ---
 
