@@ -4,9 +4,10 @@
 >> Not all sources from The Firebog are used
 >
 > They are merged using [HostlistCompiler](https://github.com/KnightmareVIIVIIXC/HostlistCompiler) • [Adguard](https://github.com/AdguardTeam)
->> [Public Template](https://github.com/KnightmareVIIVIIXC/FBBuildtools) • [Inspiration Blocklists](https://github.com/KnightmareVIIVIIXC/bigaioblocklist)
+>> [Dead domains](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist/main/configpersonal/personaldead.txt) are removed from the AIO Lists using [DeadDomainsLinter](https://github.com/AdguardTeam/DeadDomainsLinter)
 >
-> [Python](https://www.python.org/) and [Git](https://git-scm.com/) are used to convert the lists
+> [Public Template](https://github.com/KnightmareVIIVIIXC/FBBuildtools) • [Inspiration Blocklists](https://github.com/KnightmareVIIVIIXC/bigaioblocklist)
+>> [Python](https://www.python.org/) and [Git](https://git-scm.com/) are used to convert the lists
 >
 
 | List | ⬜ | Description |
