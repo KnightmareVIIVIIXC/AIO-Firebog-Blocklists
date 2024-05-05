@@ -2,3 +2,7 @@
 # Run in a console window to use category_search.py and source_search.py properly
 
 pip install -r requirements.txt
+
+# Run in PowerShell to update all requirements
+
+pip freeze | %{$_.split('==')[0]} | %{pip install --upgrade $_}
