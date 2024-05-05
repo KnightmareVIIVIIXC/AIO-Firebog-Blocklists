@@ -17,7 +17,7 @@ Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.
 
 - Crypto Miners
 
-- NSFW Content
+- Adult Content
 
 - Social Media
 
