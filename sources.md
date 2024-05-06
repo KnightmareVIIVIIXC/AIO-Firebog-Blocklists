@@ -33,8 +33,8 @@
 
 | ⬜ | Advertising |
 |:---:|:---|
-| 🟩 | [AdGuard DNS Filter](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) |
 | 🟩 | [AdAway](https://adaway.org/hosts.txt) |
+| 🟩 | [AdGuard DNS Filter](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) |
 | 🟩 | [Anudeep ND Blocklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt) |
 | 🟩 | [hostsVN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) |
 | 🟩 | [Fademind Unchecky Ads](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) |
