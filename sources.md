@@ -44,9 +44,9 @@
 
 | ⬜ | Tracking |
 |:---:|:---|
+| 🟩 | [Crazy Max Microsoft Telemetry](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) |
 | 🟩 | [EasyList](https://v.firebog.net/hosts/Easylist.txt) |
 | 🟩 | [EasyPrivacy](https://v.firebog.net/hosts/Easyprivacy.txt) |
-| 🟩 | [Crazy Max Microsoft Telemetry](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) |
 | 🟩 | [Fabrice Prigent Ads](https://v.firebog.net/hosts/Prigent-Ads.txt) |
 | 🟩 | [Fademind 2o7 Network Trackers](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts) |
 | 🟩 | [Geoffrey Frogeye First-Party Trackers](https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt) |
