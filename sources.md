@@ -36,8 +36,8 @@
 | 🟩 | [AdAway](https://adaway.org/hosts.txt) |
 | 🟩 | [AdGuard DNS Filter](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) |
 | 🟩 | [Anudeep ND Blocklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt) |
-| 🟩 | [hostsVN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) |
 | 🟩 | [Fademind Unchecky Ads](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) |
+| 🟩 | [hostsVN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) |
 | 🟩 | [LanikSJ GetAdmiral](https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt) |
 | 🟩 | [Peter Lowe Adservers](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml) |
 | 🟦 | [Jdlingyu Ad-wars](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) |
