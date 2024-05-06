@@ -33,7 +33,7 @@
 
 | ⬜ | Advertising |
 |:---:|:---|
-| 🟩 | AdGuard DNS Filter |
+| 🟩 | [AdGuard DNS Filter](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) |
 | 🟩 | [AdAway](https://adaway.org/hosts.txt) |
 | 🟩 | [Anudeep ND Blocklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt) |
 | 🟩 | [hostsVN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) |
@@ -44,7 +44,7 @@
 
 | ⬜ | Tracking |
 |:---:|:---|
-| 🟩 | [AdGuard DNS Filter](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) |
+| 🟩 | AdGuard DNS Filter |
 | 🟩 | [Crazy Max Microsoft Telemetry](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) |
 | 🟩 | [Fabrice Prigent Ads](https://v.firebog.net/hosts/Prigent-Ads.txt) |
 | 🟩 | [Fademind 2o7 Network Trackers](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts) |
