@@ -18,9 +18,9 @@
 
 | ⬜ | Suspicious |
 |:---:|:---|
+| 🟩 | [WaLLy3K Blocklist](https://v.firebog.net/hosts/static/w3kbl.txt) |
 | 🟩 | [Fademind Spammers](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) |
 | 🟩 | [PolishFiltersTeam KADhosts](https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt) |
-| 🟩 | [WaLLy3K Blocklist](https://v.firebog.net/hosts/static/w3kbl.txt) |
 | 🟦 | [Dan Pollock Hosts](https://someonewhocares.org/hosts/zero/hosts) |
 | 🟦 | [Matomo Referrer Spam](https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt) |
 | 🟦 | [MVPS Hosts](https://winhelp2002.mvps.org/hosts.txt) |
