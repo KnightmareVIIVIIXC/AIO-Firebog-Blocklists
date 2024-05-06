@@ -33,7 +33,7 @@
 
 | ⬜ | Advertising |
 |:---:|:---|
-| 🟩 | [AdGuard DNS Filter](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) |
+| 🟩 | AdGuard DNS Filter |
 | 🟩 | [AdAway](https://adaway.org/hosts.txt) |
 | 🟩 | [Anudeep ND Blocklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt) |
 | 🟩 | [hostsVN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) |
