@@ -50,9 +50,7 @@ Blocklists that are merged together for more protection, deduplicated, then conv
 
 > [!CAUTION]  
 > Using more than one list at the same time can cause issues
-
-> [!TIP]
-> If an AIO List is causing issues, try using one of the Lite Lists
+>> If an AIO List is causing issues, try using one of the Lite Lists
 
 | All-In-One (AIO) Lists | ⬜ | AdBlock | Hosts | Domain | Description |
 |---:|:---:|:---:|:---:|:---:|:---|
