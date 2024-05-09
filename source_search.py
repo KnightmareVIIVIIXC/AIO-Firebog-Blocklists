@@ -139,7 +139,7 @@ if __name__ == "__main__":
             continue
 
         while True:
-            search_option = input("Search in (g)reen, (b)lue, b(o)g, (a)ll sources, or (e)xit? ").lower()
+            search_option = input("Search in (g)reen, (b)lue, b(o)g, (a)ll sources, or (e)xit: ").lower()
 
             if search_option == 'reset':
                 break  # Break to the outer loop and start over
