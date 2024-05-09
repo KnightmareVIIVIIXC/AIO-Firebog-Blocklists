@@ -29,7 +29,14 @@ Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.
 
 # 🔴 The Lists 🔴
 
-Blocklists that are merged together for more protection, deduplicated, then converted into adblock syntax • hosts syntax • domain-only syntax • dnsmasq syntax
+Blocklists that are merged together for more protection, deduplicated, then converted into
+- AdBlock Syntax
+  
+- Hosts Syntax
+
+- Domain-Only Syntax
+
+- DNSMasq Syntax
 
 > [!IMPORTANT]
 > The lists are built to be used with
