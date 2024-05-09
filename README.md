@@ -38,14 +38,6 @@ Blocklists that are merged together for more protection, deduplicated, then conv
 
 - DNSMasq Syntax
 
-> [!IMPORTANT]
-> The lists are built to be used with
-> - AdBlockers ([uBlock Origin](https://github.com/gorhill/uBlock) • [Adguard](https://adguard.com/) • [etc.](https://alternativeto.net/software/adguard/))
->
-> - Hosts Files
->
-> - DNS Applications ([Pi-Hole](https://docs.pi-hole.net) • [Adguard Home](https://github.com/AdguardTeam/AdguardHome) • [etc.](https://alternativeto.net/software/adguard-home/))
-
 | List | ⬜ | Description |
 |---:|:---:|:---|
 |Bog| 🟧 |Incorporates all sources • contains false positives|
