@@ -1,4 +1,4 @@
-## 🔥 The Big Blocklist Collection 🔥
+# 🔥 The Big Blocklist Collection 🔥
 > [!NOTE]
 > These sources are found on [The Firebog](https://v.firebog.net) • [WaLLy3K](https://firebog.net/about)
 >> Not all sources from The Firebog are used
