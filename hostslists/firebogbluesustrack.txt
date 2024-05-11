@@ -3,7 +3,7 @@
 # Description: The blue tracking and suspicious sources from the Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-05-10T11:17:40.078Z
+# Last modified: 2024-05-10T22:44:04.393Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.24
 # 
@@ -9907,6 +9907,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 click.news.epicgames.com
 0.0.0.0 click.newviralmobistore.com
 0.0.0.0 click.org
+0.0.0.0 click.outreach.io
 0.0.0.0 click.payserve.com
 0.0.0.0 click.pluralsight.com
 0.0.0.0 click.qianqian.com
@@ -16120,6 +16121,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 go.megabanners.cf
 0.0.0.0 go.mobisla.com
 0.0.0.0 go.mobtrks.com
+0.0.0.0 go.mobytrks.com
 0.0.0.0 go.mooncklick.com
 0.0.0.0 go.mudoudou.net
 0.0.0.0 go.padsdel.com
@@ -18428,6 +18430,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 insights.harver.com
 0.0.0.0 insights.metadata.io
 0.0.0.0 insights.ocrolus.com
+0.0.0.0 insights.outreach.io
 0.0.0.0 insights.revtrax.com
 0.0.0.0 insights.sitesearch360.com
 0.0.0.0 insights.spreedly.com
@@ -20740,7 +20743,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.umsns.com
 0.0.0.0 log.umtrack.com
 0.0.0.0 log.us.mybogames.com
-0.0.0.0 log.uu.easebar.com
 0.0.0.0 log.v2.hunantv.com
 0.0.0.0 log.vcdn.io
 0.0.0.0 log.vcgame.cn
@@ -20769,7 +20771,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 logger.npr.org
 0.0.0.0 logger.treexml.baofeng.com
 0.0.0.0 logger.unsplash.com
-0.0.0.0 logger.zcoup.com
 0.0.0.0 logging.acquia.com
 0.0.0.0 logging.api.intuit.com
 0.0.0.0 logging.getgo.com
@@ -20799,8 +20800,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 logs-api.shoprunner.com
 0.0.0.0 logs.51cto.com
 0.0.0.0 logs.amap.com
-0.0.0.0 logs.autofi.com
-0.0.0.0 logs.boardkingsgame.com
 0.0.0.0 logs.dashlane.com
 0.0.0.0 logs.eresmas.com
 0.0.0.0 logs.eresmas.net
@@ -20815,14 +20814,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs.unchecky.com
 0.0.0.0 logs1.smithsonian.museum
-0.0.0.0 logserver.hicloud.com
 0.0.0.0 logservice-dra.platform.hicloud.com
 0.0.0.0 logservice-dre.platform.hicloud.com
 0.0.0.0 logservice-drru.dt.hicloud.com
 0.0.0.0 logsss.com
 0.0.0.0 logstat.caixin.com
 0.0.0.0 logstream.acquia.com
-0.0.0.0 logtransform.hicloud.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logview.org
 0.0.0.0 logview.uc.alimama.com
@@ -20939,7 +20936,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lpweb.altervista.org
 0.0.0.0 lqmcdn.com
 0.0.0.0 lr-ingest.io
-0.0.0.0 lrcdn.net
 0.0.0.0 lrcs.info
 0.0.0.0 lreqmoonpjka.com
 0.0.0.0 lrpoint.fr
@@ -21790,7 +21786,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 marketinghub.zoho.com
 0.0.0.0 marketingmachine.co.za
 0.0.0.0 marketingplatform.google.com
-0.0.0.0 marketizator.com
 0.0.0.0 marketland.ml
 0.0.0.0 marketo-bounce.pubnub.com
 0.0.0.0 marketo.com
@@ -22012,7 +22007,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mdnhinc.com
 0.0.0.0 mdnun.com
 0.0.0.0 mdotlabs.com
-0.0.0.0 mdotm.com
 0.0.0.0 mdp-appconf-id.heytapdl.com
 0.0.0.0 mdp-appconf-kh.heytapdl.com
 0.0.0.0 mdp-appconf-mm.heytapdl.com
@@ -22505,7 +22499,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.nutrisystem.com
 0.0.0.0 metrics.oclc.org
 0.0.0.0 metrics.ol.epicgames.com
-0.0.0.0 metrics.onewegg.com
 0.0.0.0 metrics.oregonlive.com
 0.0.0.0 metrics.pagerduty.com
 0.0.0.0 metrics.pagoda.com
@@ -34237,7 +34230,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobile-damz.info
 0.0.0.0 mobile-sdk-api.intercom.io
 0.0.0.0 mobile-tech.info
-0.0.0.0 mobile-tracking.aviasales.ru
 0.0.0.0 mobile-tracking.bloomberg.com
 0.0.0.0 mobile.activeshopper.com
 0.0.0.0 mobile.bet.pt
@@ -34294,7 +34286,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobsuccess.com
 0.0.0.0 mobuna.net
 0.0.0.0 mobusi.com
-0.0.0.0 mobytrks.com
 0.0.0.0 mocast.ra.icast.cn
 0.0.0.0 mocean.mobi
 0.0.0.0 mochibot.com
@@ -34344,7 +34335,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 momonoyu.info
 0.0.0.0 mompov.org
 0.0.0.0 momsg.wps.cn
-0.0.0.0 mon-com-net.com
 0.0.0.0 mon-conertisseur.fr
 0.0.0.0 mon-deu-1.inf.nimiq.network
 0.0.0.0 mon-deu-2.inf.nimiq.network
@@ -34494,7 +34484,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 motordealer.info
 0.0.0.0 motorocio.com
 0.0.0.0 motosal.net
-0.0.0.0 motrixi.com
 0.0.0.0 motu.p4p.sina.com.cn
 0.0.0.0 mou.niu.xunlei.com
 0.0.0.0 mouads.com
@@ -34664,7 +34653,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mta1b5.spe.intercom.io
 0.0.0.0 mta1b6.spe.intercom.io
 0.0.0.0 mthermon.org
-0.0.0.0 mthsense.com
 0.0.0.0 mti.35kds.com
 0.0.0.0 mtl2016.coveo.com
 0.0.0.0 mtnresorts.com
@@ -34818,7 +34806,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 myanyone.net
 0.0.0.0 myapplebee.com
 0.0.0.0 myartgallery.org
-0.0.0.0 myaudience.de
 0.0.0.0 myauroraloanservices.com
 0.0.0.0 mybailbonds.net
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
@@ -34975,7 +34962,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mytee.fr
 0.0.0.0 mytestminer.xyz
 0.0.0.0 mytherealshop.com
-0.0.0.0 mythings.com
 0.0.0.0 mythmem.net
 0.0.0.0 mytimerpro.com
 0.0.0.0 mytours.info
@@ -35024,7 +35010,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 n2.nskfyl.com
 0.0.0.0 n2.us1.gigya.com
 0.0.0.0 n2.zuoyebang.cc
-0.0.0.0 n214adserv.com
 0.0.0.0 n3.nskfyl.com
 0.0.0.0 n3.us1.gigya.com
 0.0.0.0 n3.zuoyebang.cc
@@ -35220,11 +35205,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 nebraskastatefair.org
 0.0.0.0 necessaryescort.com
 0.0.0.0 necodirect.org
-0.0.0.0 nedstat.com
-0.0.0.0 nedstat.net
 0.0.0.0 nedstat.s0.nl
 0.0.0.0 nedstat.tripod.com
-0.0.0.0 nedstatpro.net
 0.0.0.0 needadvertising.com
 0.0.0.0 needlepoint.fr
 0.0.0.0 needsupply.ingest.reporting.creator-prod.zmags.com
@@ -35326,6 +35308,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 neverthelessgrandchildren.com
 0.0.0.0 new-build.info
 0.0.0.0 new-programmatic.com
+0.0.0.0 new-sentry.gitlab.net
 0.0.0.0 new-shop.mattel.com.ssopt.net
 0.0.0.0 new-vid-zone-1.blogspot.com.au
 0.0.0.0 new.lerian-nti.be
@@ -39456,6 +39439,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 recordinglamping.com
 0.0.0.0 recordingperky.com
 0.0.0.0 recordtvnet.work.com
+0.0.0.0 recover-subscription.com
 0.0.0.0 recreativ.ru
 0.0.0.0 recruitem.com
 0.0.0.0 recruitics.com
@@ -41413,6 +41397,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sentry.justwatch.com
 0.0.0.0 sentry.postmanlabs.com
 0.0.0.0 sentry.protontech.ch
+0.0.0.0 sentry.srv.habr.com
 0.0.0.0 sentry.stripchat.com
 0.0.0.0 sentry.viidea.com
 0.0.0.0 sentry.wixpress.com
@@ -44429,6 +44414,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 structurerod.com
 0.0.0.0 structuresofa.com
 0.0.0.0 struq.com
+0.0.0.0 sts.keap-link001.com
 0.0.0.0 sts.novantas.com
 0.0.0.0 sts.stackpath.com
 0.0.0.0 sts3.wsj
@@ -44941,6 +44927,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 t.nrelate.com
 0.0.0.0 t.omkt.co
 0.0.0.0 t.oq68.com
+0.0.0.0 t.overflow.biz
 0.0.0.0 t.paypal.com
 0.0.0.0 t.pkthop.com
 0.0.0.0 t.powerreviews.com
@@ -45366,6 +45353,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tel-aviv2017.co.il
 0.0.0.0 telangana-news24.com
 0.0.0.0 telecharger-openoffice.fr
+0.0.0.0 telecid.ru
 0.0.0.0 telecom-info.com
 0.0.0.0 telefoniabologna.it
 0.0.0.0 telefonica-app.sprinklr.com
@@ -47626,6 +47614,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 us.spacenk.com.ssopt.net
 0.0.0.0 us34.zopim.com
 0.0.0.0 us71.lockview.cn
+0.0.0.0 usa.nedstat.net
 0.0.0.0 usabailbond.net
 0.0.0.0 usability.acquia.com
 0.0.0.0 usabilla.com
@@ -48197,6 +48186,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vieques.fr
 0.0.0.0 viessman.fr
 0.0.0.0 vietnamdiscovery.fr
+0.0.0.0 view-analytics.wovn.io
 0.0.0.0 view.bbsv2.net
 0.0.0.0 view.binlayer.com
 0.0.0.0 view.jamba.de
@@ -50494,6 +50484,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.naughty-traffic.com
 0.0.0.0 www.ndbsoft.be
 0.0.0.0 www.nebulus30.plus.com
+0.0.0.0 www.nedstat.com
 0.0.0.0 www.needmorehits.com
 0.0.0.0 www.neptuneads.com
 0.0.0.0 www.netmaxx.com
