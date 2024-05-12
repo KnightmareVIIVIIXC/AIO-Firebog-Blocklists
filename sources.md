@@ -6,7 +6,7 @@
 > They are merged using [HostlistCompiler](https://github.com/KnightmareVIIVIIXC/HostlistCompiler) • [Adguard](https://github.com/AdguardTeam)
 >> [DeadDomainsLinter](https://github.com/AdguardTeam/DeadDomainsLinter) removes [dead domains](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist/main/configpersonal/personaldead.txt) from the AIO lists
 >
-> [Python](https://www.python.org/) • [Git](https://git-scm.com/) are used to convert the lists
+> [Python](https://www.python.org/) and [Git](https://git-scm.com/) are used to convert the lists
 >> Credit to the [blocklists](https://github.com/KnightmareVIIVIIXC/bigaioblocklist) that gave me the knowledge to create these lists
 
 | List | ⬜ | Description |
