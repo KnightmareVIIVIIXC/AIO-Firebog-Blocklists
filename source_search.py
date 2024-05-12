@@ -123,6 +123,7 @@ if __name__ == "__main__":
         'The Hosts File Project (Suspicious)': 'https://hostsfile.mine.nu/hosts0.txt',
         'Mahakala (Suspicious)': 'https://adblock.mahakala.is/',
         'Geoffrey Frogeye Multi-Party Trackers (Tracking)': 'https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt',
+        'Kees1958 Top Ads-Trackers (Tracking)': 'https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt',
         'Personal List (Misc)': 'https://raw.githubusercontent.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist/main/configpersonal/personal_disallowed_domains.txt',
     }
 
