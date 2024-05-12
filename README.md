@@ -28,7 +28,7 @@ Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.
 #
 # 🔴 The Lists 🔴
 
-Blocklists that are merged together for more protection, deduplicated, then converted into
+Blocklists that are merged for enhanced protection, deduplicated, then converted into
 - AdBlock Syntax
   
 - Hosts Syntax
