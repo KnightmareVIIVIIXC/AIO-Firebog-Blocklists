@@ -54,6 +54,7 @@
 | 🟦 | [Perflyst SmartTV Domains](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt) |
 | 🟦 | [Quidsup NoTrack Tracker Blocklist](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt) |
 | 🟧 | [Geoffrey Frogeye Multi-Party Trackers](https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt) |
+| 🟧 | [Kees1958 Top Ads-Trackers](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt) |
 
 | ⬜ | Malicious |
 |:---:|:---|
