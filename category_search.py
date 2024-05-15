@@ -6,10 +6,15 @@ from colorama import init, Fore
 # Initialize colorama
 init()
 
+
 def check_domain_in_blocklist(source_path, target_domain):
     try:
-        with open(source_path, 'r') as file:
-            lines = [line.strip() for line in file if line.strip() and not line.startswith(('#', '!'))]
+        with open(source_path, "r") as file:
+            lines = [
+                line.strip()
+                for line in file
+                if line.strip() and not line.startswith(("#", "!"))
+            ]
 
         # Initialize an empty list to store results
         results = []
@@ -30,6 +35,7 @@ def check_domain_in_blocklist(source_path, target_domain):
     # Return an empty list if there's an error
     return []
 
+
 def find_blocking_blocklists(target_domain, category_sources):
     blocking_category_blocklists = []
 
@@ -38,7 +44,9 @@ def find_blocking_blocklists(target_domain, category_sources):
             blocking_category_blocklists.append(name)
 
     if blocking_category_blocklists:
-        print(Fore.CYAN + f"Domain '{target_domain}' found in the following categories:\n")
+        print(
+            Fore.CYAN + f"Domain '{target_domain}' found in the following categories:\n"
+        )
         for blocklist in blocking_category_blocklists:
             print(Fore.CYAN + f" - {blocklist}\n")
 
@@ -46,26 +54,32 @@ def find_blocking_blocklists(target_domain, category_sources):
         print(Fore.RED + f"Domain '{target_domain}' not found in any blocklists.")
 
     # Reset the text color to default
-    print(Fore.RESET, end='')
+    print(Fore.RESET, end="")
+
 
 if __name__ == "__main__":
     category_blocklist_sources = {
-        'Suspicious': 'domlists/firebogsus.txt',
-        'Advertising': 'domlists/firebogad.txt',
-        'Tracking': 'domlists/firebogtrack.txt',
-        'Malicious': 'domlists/firebogmal.txt',
+        "Suspicious": "domlists/firebogsus.txt",
+        "Advertising": "domlists/firebogad.txt",
+        "Tracking": "domlists/firebogtrack.txt",
+        "Malicious": "domlists/firebogmal.txt",
     }
 
     while True:
         target_domain = input("Enter a domain to find (or type 'exit' to close): ")
 
-        if target_domain.lower() == 'exit':
+        if target_domain.lower() == "exit":
             print("Exiting the script.")
             break
 
-        if '.' not in target_domain or target_domain.startswith('.') or target_domain.endswith('.') or '..' in target_domain:
+        if (
+            "." not in target_domain
+            or target_domain.startswith(".")
+            or target_domain.endswith(".")
+            or ".." in target_domain
+        ):
             print(Fore.YELLOW + "Invalid domain")
-            print(Fore.RESET, end='')
+            print(Fore.RESET, end="")
             continue
 
         find_blocking_blocklists(target_domain, category_blocklist_sources)
