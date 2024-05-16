@@ -12,9 +12,9 @@
 
 | List | ⬜ | Description |
 |---:|:---:|:---|
-|Bog (Cross)| 🟧 |Exclusive to The Bog All-In-One (AIO) list|
-|Blue (Standard)| 🟦 |Featured in The Bog AIO list and blue lists|
-|Green (Tick)| 🟩 |Featured in The Bog AIO list and green lists|
+|Bog (Cross)| 🟧 |Exclusive to The Bog All-In-One (AIO) list • not recommended for use due to false postives, being deprecated, or being biased|
+|Blue (Standard)| 🟦 |Featured in The Bog AIO list and blue lists • more likely to interfere with browsing|
+|Green (Tick)| 🟩 |Featured in The Bog AIO list and green lists • less likely to interfere with browsing|
 
 | ⬜ | Suspicious |
 |:---:|:---|
