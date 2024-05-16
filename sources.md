@@ -12,9 +12,9 @@
 
 | List | ⬜ | Description |
 |---:|:---:|:---|
-|Bog| 🟧 |Exclusive to The Bog All-In-One (AIO) list|
-|Blue| 🟦 |Featured in The Bog AIO list and blue lists|
-|Green| 🟩 |Featured in The Bog AIO list and green lists|
+|Bog (Cross)| 🟧 |Exclusive to The Bog All-In-One (AIO) list|
+|Blue (Standard)| 🟦 |Featured in The Bog AIO list and blue lists|
+|Green (Tick)| 🟩 |Featured in The Bog AIO list and green lists|
 
 | ⬜ | Suspicious |
 |:---:|:---|
