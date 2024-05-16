@@ -73,6 +73,7 @@
 | 🟩 | [URLhaus Malware Blocklist](https://urlhaus.abuse.ch/downloads/hostfile/) |
 | 🟦 | [Curbengh Phishing Filter](https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt) |
 | 🟦 | [Fabrice Prigent Malware](https://v.firebog.net/hosts/Prigent-Malware.txt) |
+| 🟧 | [Disconnect.Me Malvertising](https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt) |
 
 | ⬜ | Miscellaneous |
 |:---:|:---|
