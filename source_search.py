@@ -20,10 +20,10 @@ def check_domain_in_blocklist(source_url, target_domain):
         # Initialize an empty list to store results
         results = []
 
-        # More precise whole word matching with wrap-around and domain separator check
-        pattern = rf"\b{target_domain}(?!\.\w+)"  # Negative lookahead with domain separator check
+        # Revised pattern to match target domain and subdomains precisely
+        pattern = rf"(?:^|\W){target_domain}(?!\.\w+)"
         for line in lines:
-            match = re.search(pattern, line, flags=re.MULTILINE)
+            match = re.search(pattern, line)
             if match:
                 results.append(True)
 
