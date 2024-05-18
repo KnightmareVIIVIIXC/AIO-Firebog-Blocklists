@@ -23,7 +23,7 @@ def check_domain_in_blocklist(source_url, target_domain):
         # Revised pattern to match target domain and subdomains precisely
         pattern = rf"(?:[a-zA-Z0-9-]+\.)?{re.escape(target_domain)}(?=\^|\s|$)"
         for line in lines:
-            match = re.search(pattern, line)
+            match = re.search(pattern, line, flags=re.MULTILINE)
             if match:
                 results.append(True)
 
