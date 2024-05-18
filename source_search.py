@@ -21,7 +21,7 @@ def check_domain_in_blocklist(source_url, target_domain):
         results = []
 
         # Revised pattern to match target domain and subdomains precisely
-        pattern = rf"(?:^|\W){target_domain}(?!\.\w+)"
+        pattern = rf"(?:[a-zA-Z0-9-]+\.)?{re.escape(target_domain)}(?=\^|\s|$)"
         for line in lines:
             match = re.search(pattern, line)
             if match:
