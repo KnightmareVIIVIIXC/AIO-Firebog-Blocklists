@@ -41,6 +41,7 @@
 | 🟩 | [LanikSJ GetAdmiral](https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt) |
 | 🟩 | [Peter Lowe Adservers](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml) |
 | 🟦 | [Jdlingyu Ad-wars](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) |
+| 🟧 | [Disconnect.Me Ads](https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt) |
 
 | ⬜ | Tracking |
 |:---:|:---|
