@@ -20,7 +20,7 @@ def check_domain_in_blocklist(source_path, target_domain):
         results = []
 
         # More precise whole word matching with wrap-around and domain separator check
-        pattern = rf"\b{target_domain}(?!\.\w+)"  # Negative lookahead with domain separator check
+        pattern = rf"(?:[a-zA-Z0-9-]+\.)?{re.escape(target_domain)}(?=\^|\s|$)"  # Negative lookahead with domain separator check
         for line in lines:
             match = re.search(pattern, line, flags=re.MULTILINE)
             if match:
