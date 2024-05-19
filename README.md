@@ -47,7 +47,7 @@ The sources are consolidated for enhanced security and adapted into various bloc
 |Green| 🟩 |Incorporates green sources • poses a low risk of containing false positives • excludes [anudeepND's Allowlist](https://github.com/KnightmareVIIVIIXC/allowlist)|
 
 > [!CAUTION]  
-> Using more than one list at the same time can cause issues
+> Using multiple lists simultaneously may lead to conflicts or performance issues
 
 | All-In-One (AIO) Lists | ⬜ | AdBlock | Hosts | Domain | DNSMasq | Description |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -58,7 +58,7 @@ The sources are consolidated for enhanced security and adapted into various bloc
 
 > [!TIP]
 > If an AIO List is causing issues, try using one of the Lite Lists
->> If a Lite List causes issues, request a [custom blocklist](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/issues/new/choose)
+>> If a Lite List causes issues, consider requesting a [custom blocklist](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/issues/new/choose) tailored to your needs
 
 | Blue/Green Lite Lists | ⬜ | AdBlock | Hosts | Domain | DNSMasq | Description |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
