@@ -5,7 +5,7 @@
 ](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE)
 
 
-Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) that will block
+Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) that will block multiple threats and annoyances
 
 🔶 Advertisements
 
