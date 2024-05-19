@@ -32,16 +32,19 @@ Blocklists that are merged for enhanced protection, then converted to various sy
 ```
 ! AdBlock Syntax:
 ||domain.tld^
-  
+```
+```
 # Hosts Syntax:
 0.0.0.0 domain.tld
-
+```
+```
 # Domain-Only Syntax:
-domain.tld
-
+`domain.tld`
+```
+```
 // DNSMasq Syntax:
-≥v2.86--local=/domain.tld/
-≤v2.85--server=/domain.tld/
+≥v2.86 • local=/domain.tld/
+≤v2.85 • server=/domain.tld/
 ```
 | List | ⬜ | Description |
 |---:|:---:|:---|
