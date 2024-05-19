@@ -27,7 +27,7 @@ Comprehensive DNS blocklists curated from reliable [sources](https://github.com/
 #
 # 🔴 The Blocklists 🔴
 
-The sources are consolidated for enhanced security and converted into various syntaxes
+The sources are consolidated for enhanced security and adapted into various blocking syntax formats
 
 - AdBlock Syntax: `||domain.tld^`
 
