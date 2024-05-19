@@ -29,26 +29,20 @@ Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.
 # 🔴 The Lists 🔴
 
 Blocklists that are merged for enhanced protection, then converted to various syntaxes
-```
-! AdBlock Syntax:
-||domain.tld^
-```
 
-```
-# Hosts Syntax:
-0.0.0.0 domain.tld
-```
+- AdBlock Syntax:<br>
+`||domain.tld^`
 
-```
-# Domain-Only Syntax:
-domain.tld
-```
+- Hosts Syntax:<br>
+`0.0.0.0 domain.tld`
 
-```
-// DNSMasq Syntax:
-≥v2.86 • local=/domain.tld/
-≤v2.85 • server=/domain.tld/
-```
+- Domain-Only Syntax:<br>
+`domain.tld`
+
+- DNSMasq Syntax:<br>
+≥v2.86 • `local=/domain.tld/`<br>
+≤v2.85 • `server=/domain.tld/`
+
 | List | ⬜ | Description |
 |---:|:---:|:---|
 |Bog| 🟧 |Incorporates all sources • contains false positives|
