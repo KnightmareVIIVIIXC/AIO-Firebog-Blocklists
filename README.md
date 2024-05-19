@@ -25,9 +25,9 @@ Comprehensive DNS blocklists curated from reliable [sources](https://github.com/
 🟧 Paid Streaming Platforms
 
 #
-# 🔴 The Lists 🔴
+# 🔴 The Blocklists 🔴
 
-Blocklists merged for enhanced protection and converted to various syntaxes
+The sources are consolidated for enhanced security and converted into various syntaxes
 
 - AdBlock Syntax: `||domain.tld^`
 
