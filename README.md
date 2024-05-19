@@ -30,18 +30,15 @@ Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.
 
 Blocklists that are merged for enhanced protection, then converted to various syntaxes
 
-- AdBlock Syntax:<br>
-`||domain.tld^`
+- AdBlock Syntax: `||domain.tld^`
 
-- Hosts Syntax:<br>
-`0.0.0.0 domain.tld`
+- Hosts Syntax: `0.0.0.0 domain.tld`
 
-- Domain-Only Syntax:<br>
-`domain.tld`
+- Domain-Only Syntax: `domain.tld`
 
-- DNSMasq Syntax:<br>
-≥v2.86 • `local=/domain.tld/`<br>
-≤v2.85 • `server=/domain.tld/`
+- DNSMasq ≥v2.86 Syntax: `local=/domain.tld/`
+
+- DNSMasq ≤v2.85 Syntax: `server=/domain.tld/`
 
 | List | ⬜ | Description |
 |---:|:---:|:---|
