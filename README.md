@@ -39,7 +39,7 @@ Blocklists that are merged for enhanced protection, then converted to various sy
 ```
 ```
 # Domain-Only Syntax:
-`domain.tld`
+domain.tld
 ```
 ```
 // DNSMasq Syntax:
