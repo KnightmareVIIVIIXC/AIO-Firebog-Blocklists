@@ -4,8 +4,7 @@
 [![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/def0ccf3-6b0d-4cfe-91ca-1225f85da364)
 ](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE)
 
-
-Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) that will block threats and annoyances
+Comprehensive DNS blocklists curated from a variety of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) to effectively block threats and minimize annoyances
 
 🔶 Advertisements
 
@@ -28,7 +27,7 @@ Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.
 #
 # 🔴 The Lists 🔴
 
-Blocklists that are merged for enhanced protection, then converted to various syntaxes
+Blocklists merged for enhanced protection and converted to various syntaxes
 
 - AdBlock Syntax: `||domain.tld^`
 
