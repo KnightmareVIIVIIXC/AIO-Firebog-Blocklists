@@ -20,7 +20,7 @@ def check_domain_in_blocklist(source_path, target_domain):
         results = []
 
         # Regex to match domain and all of its subdomains
-        pattern = rf"(?:[a-zA-Z0-9-]+\.)?{re.escape(target_domain)}(?=\^|\s|$)"
+        pattern = rf"(?:[a-zA-Z0-9-]+\.)*{re.escape(target_domain)}(?=[\^/\s]|$)"
         for line in lines:
             match = re.search(pattern, line, flags=re.MULTILINE)
             if match:
