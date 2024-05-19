@@ -29,13 +29,18 @@ Diverse DNS blocklists crafted from an amalgamation of [sources](https://github.
 # 🔴 The Lists 🔴
 
 Blocklists that are merged for enhanced protection, deduplicated, then converted into
-- AdBlock Syntax:<br>`||domain.tld^`
+- AdBlock Syntax:<br>
+`||domain.tld^`
   
-- Hosts Syntax:<br>`0.0.0.0 domain.tld`
+- Hosts Syntax:<br>
+`0.0.0.0 domain.tld`
 
-- Domain-Only Syntax:<br>`domain.tld`
+- Domain-Only Syntax:<br>
+`domain.tld`
 
-- DNSMasq Syntax:<br>≥v2.86--`local=/domain.tld/`<br>≤v2.85--`server=/domain.tld/`
+- DNSMasq Syntax:<br>
+≥v2.86--`local=/domain.tld/`<br>
+≤v2.85--`server=/domain.tld/`
 
 | List | ⬜ | Description |
 |---:|:---:|:---|
