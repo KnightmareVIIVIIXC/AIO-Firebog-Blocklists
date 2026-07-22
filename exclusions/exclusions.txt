@@ -1,6 +1,6 @@
 !
 ! Title: Exclusions
-! Last modified: 2026-07-21T17:03:00.972Z
+! Last modified: 2026-07-22T05:16:36.880Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -489,11 +489,9 @@
 ||altbank.com^
 ||alterna.ca^
 ||altinn.no^
-||alxinger-bank.de^
 ||amedigital.com^
 ||amerantbank.com^
 ||americanexpress.com^
-||amrahbank.az^
 ||amundi-tc.com^
 ||andebu-sparebank.no^
 ||anz.com^
@@ -555,6 +553,7 @@
 ||bankelita.ru^
 ||bankhaus-hallbaum.de^
 ||bankhaus-mayer.de^
+||bankhaus-plump.de^
 ||bankia.es^
 ||bankid.no^
 ||bankidapis.no^
@@ -823,6 +822,7 @@
 ||dzb-bank.de^
 ||e-bankofbaku.com^
 ||e-bgpb.by^
+||e-life.ru^
 ||e-norvik.eu^
 ||e-pay.by^
 ||e25.pl^
@@ -856,13 +856,11 @@
 ||ethikbank-onlinebanking.de^
 ||etnedalsparebank.no^
 ||etrade.com^
-||eurobank-ua.com^
 ||eurobank.gr^
 ||europlan.ru^
 ||evb-meppen.de^
 ||evenordbank.de^
 ||evobanco.com^
-||expr.ru^
 ||express-bank.ru^
 ||ezaimo.ru^
 ||fairfx.com^
@@ -905,7 +903,6 @@
 ||fsibplc.com^
 ||ftx.com^
 ||fubon.com^
-||fuggerbank-infoportal.de^
 ||gabler-saliter-bank.de^
 ||garantibank.de^
 ||garantibank.nl^
@@ -938,7 +935,6 @@
 ||grupobancolombia.com^
 ||gtbank.com^
 ||guarda.co^
-||gunaybank.com^
 ||gutapay.ru^
 ||hafnerbank.de^
 ||hagnauer-volksbank.de^
@@ -989,6 +985,7 @@
 ||hubank.com^
 ||huemmlinger-volksbank.de^
 ||huntington.com^
+||husumer-volksbank.de^
 ||hypo.fi^
 ||hypovereinsbank.de^
 ||i-vtb.by^
@@ -1006,7 +1003,6 @@
 ||idbi.com^
 ||idbibank.com^
 ||ideaonline.ua^
-||igsb.ru^
 ||ihrziel.de^
 ||ikanobank.se^
 ||ikb.de^
@@ -1059,7 +1055,6 @@
 ||kbstar.com^
 ||kbtub.ru^
 ||kd-bank.de^
-||kdb.hu^
 ||kebhana.com^
 ||key.com^
 ||keytradebank.be^
@@ -1193,8 +1188,10 @@
 ||mctcu.org^
 ||meabank.com^
 ||mebytmb.com^
+||mediserv.info^
 ||megabank.net^
 ||meine-bank-no.de^
+||meine-hausbank.de^
 ||meine-vrbank.de^
 ||meine-vvb.de^
 ||meinebank.de^
@@ -1221,6 +1218,7 @@
 ||mkb.hu^
 ||mkbnetbankar.hu^
 ||ml.com^
+||mlb.de^
 ||mlp.de^
 ||mmbank.ru^
 ||mobibanka.rs^
@@ -1308,16 +1306,19 @@
 ||onfastspring.com^
 ||onlinebank.kz^
 ||onlinebanking-aktivbank.de^
-||onlinebanking-frankfurter-bankgesellschaft.de^
+||onlinebanking-bankhausbauer.de^
+||onlinebanking-ellwanger-geiger.de^
 ||onlinebanking-fuggerbank.de^
 ||onlinebanking-grenkebank.de^
+||onlinebanking-northchannelbank.de^
+||onlinebanking-psd-hannover.de^
+||onlinebanking-psd-koeln.de^
 ||onlinebanking-psd-muenchen.de^
 ||onlinebanking-psd-nuernberg.de^
 ||onlinebanking-psd-rhein-ruhr.de^
 ||onlinebanking-psd-rheinneckarsaar.de^
 ||onlinebanking-psdbank-ht.de^
 ||onlinebanking-raiba-msp.de^
-||onlinebanking-raiba-pfaffenhofen.de^
 ||onlinebanking-raiba-tuengental.de^
 ||onlinebanking-raiffeisenbank-heroldsbach.de^
 ||onlinebanking-raiffeisenbank-hiltenfingen.de^
@@ -1326,6 +1327,7 @@
 ||onlinebanking-rb-plankstetten.de^
 ||onlinebanking-rv-banken.de^
 ||onlinebanking-rv-direkt.de^
+||onlinebanking-volksbank-hochrhein.de^
 ||onlinebanking-vrbanknet.de^
 ||onlinesbi.sbi^
 ||onstmettinger-bank.de^
@@ -1383,13 +1385,11 @@
 ||pekao24.pl^
 ||penfed.org^
 ||pensionsmyndigheten.se^
-||perevedi.me^
 ||perfectmoney.is^
 ||personalbank.ru^
 ||pervbank.ru^
 ||pfsbank.ru^
 ||pib.ru^
-||pib.ua^
 ||picpay.com^
 ||pictet.com^
 ||piraeusbank.com^
@@ -1453,7 +1453,6 @@
 ||quirion.de^
 ||r-volksbank.de^
 ||rabobank.nl^
-||rabodirect.de^
 ||raiba-aiglsbach.de^
 ||raiba-aindling.de^
 ||raiba-aitrang-rud.de^
@@ -1505,6 +1504,7 @@
 ||raiba-schwabmuenchen.de^
 ||raiba-seenplatte.de^
 ||raiba-steingaden.de^
+||raiba-steinheim.de^
 ||raiba-suedhardt.de^
 ||raiba-ueda.de^
 ||raiba-wallgau-kruen.de^
@@ -1513,7 +1513,6 @@
 ||raibacalw.de^
 ||raibadirekt.de^
 ||raibahallertau.de^
-||raibahandewitt.de^
 ||raibalauenburg.de^
 ||raibamol.de^
 ||raibank.de^
@@ -1525,7 +1524,7 @@
 ||raiffeisen.ch^
 ||raiffeisen.hu^
 ||raiffeisen.ru^
-||raiffeisenbank-bauschlott.de^
+||raiffeisenbank-bargteheide.de^
 ||raiffeisenbank-bs.de^
 ||raiffeisenbank-elztal.de^
 ||raiffeisenbank-erlenbach.de^
@@ -1533,7 +1532,6 @@
 ||raiffeisenbank-gruibingen.de^
 ||raiffeisenbank-gundelfingen.de^
 ||raiffeisenbank-hiltenfingen.de^
-||raiffeisenbank-irrel.de^
 ||raiffeisenbank-kaiserstuhl.de^
 ||raiffeisenbank-kastellaun.de^
 ||raiffeisenbank-mengkofen-loiching.de^
@@ -1542,7 +1540,6 @@
 ||raiffeisenbank-plankstetten.de^
 ||raiffeisenbank-regensburg.de^
 ||raiffeisenbank-rosenstein.de^
-||raiffeisenbank-simmerath.de^
 ||raiffeisenbank-sinzing.de^
 ||raiffeisenbank-straubing.de^
 ||raiffeisenbank-vordere-alb.de^
@@ -1563,14 +1560,11 @@
 ||rb-allgaeuerland.de^
 ||rb-altdorf-ergolding.de^
 ||rb-am-kulm.de^
-||rb-am-rothsee.de^
 ||rb-anger.de^
 ||rb-arge.de^
 ||rb-arnstorf.de^
 ||rb-as.de^
 ||rb-asbach.de^
-||rb-aschberg.de^
-||rb-augsburgerland.de^
 ||rb-bad-saulgau.de^
 ||rb-baunatal.de^
 ||rb-bechhofen.de^
@@ -1587,10 +1581,11 @@
 ||rb-dietersheim.de^
 ||rb-donaumooser-land.de^
 ||rb-eb.de^
-||rb-ebrachgrund.de^
+||rb-ebsdorfergrund.de^
 ||rb-eching.de^
 ||rb-eggenthal.de^
 ||rb-ehekirchen.de^
+||rb-ehingen-hochstraess.de^
 ||rb-eifeltor.de^
 ||rb-elln.de^
 ||rb-erkelenz.de^
@@ -1598,7 +1593,6 @@
 ||rb-essenbach.de^
 ||rb-frankenhardt-stimpfach.de^
 ||rb-frankenwinheim.de^
-||rb-frechen-huerth.de^
 ||rb-fuchstal.de^
 ||rb-geiselhoering.de^
 ||rb-grabfeld.de^
@@ -1607,11 +1601,13 @@
 ||rb-gymnich.de^
 ||rb-hardt-bruhrain.de^
 ||rb-hei.de^
+||rb-heiligenstadt.de^
 ||rb-hersbruck.de^
 ||rb-hessennord.de^
 ||rb-hfw.de^
 ||rb-hirschau.de^
 ||rb-hk.de^
+||rb-hofkirchen-bayerbach.de^
 ||rb-holzkirchen-otterfing.de^
 ||rb-hs.de^
 ||rb-ichenhausen.de^
@@ -1620,7 +1616,6 @@
 ||rb-kirchweihtal.de^
 ||rb-kirtorf.de^
 ||rb-kitzingerland.de^
-||rb-km.de^
 ||rb-knoblauchsland.de^
 ||rb-koetzting.de^
 ||rb-lauf.de^
@@ -1637,7 +1632,6 @@
 ||rb-parkstetten.de^
 ||rb-pfaffenhausen.de^
 ||rb-pfeffenhausen.de^
-||rb-raisting.de^
 ||rb-rattiszell-konzell.de^
 ||rb-reute-gaisbeuren.de^
 ||rb-schaafheim.de^
@@ -1653,7 +1647,6 @@
 ||rb-tofk.de^
 ||rb-tuerkheim.de^
 ||rb-uz.de^
-||rb-volkmarsen.de^
 ||rb-voreifel.de^
 ||rb-wald.de^
 ||rb-wegscheid.de^
@@ -1669,7 +1662,6 @@
 ||rbbissingen.de^
 ||rbbn.de^
 ||rbborken.de^
-||rbbutjadingenabbehausen.de^
 ||rbcroyalbank.com^
 ||rbelbmarsch.de^
 ||rberding.de^
@@ -1678,6 +1670,7 @@
 ||rbk-haag-gars.de^
 ||rbk-rsa.de^
 ||rbkalbe-bismark.de^
+||rbkj.de^
 ||rblbank.com^
 ||rbleezen.de^
 ||rbmalchin.de^
@@ -1724,8 +1717,6 @@
 ||romsdalsbanken.no^
 ||rorosbanken.no^
 ||ros.ie^
-||rosavto.ru^
-||rosenergobank.ru^
 ||rosevrobank.ru^
 ||rosinterbank.ru^
 ||rottaler-raiba.de^
@@ -1742,7 +1733,6 @@
 ||rv-direkt.de^
 ||rv-ebe.de^
 ||rvb-bad-staffelstein.de^
-||rvb-direkt.de^
 ||rvb-donauwoerth.de^
 ||rvb-hassberge.de^
 ||rvbankries.de^
@@ -1840,7 +1830,6 @@
 ||skbwitten.de^
 ||skmb.de^
 ||skuesparebank.no^
-||sl-vb.de^
 ||slbank.ru^
 ||sls-direkt.de^
 ||slsp.sk^
@@ -1868,6 +1857,7 @@
 ||sparda-h.de^
 ||sparda-hessen.de^
 ||sparda-m.de^
+||sparda-ms.de^
 ||sparda-n.de^
 ||sparda-ostbayern.de^
 ||sparda-sw.de^
@@ -1924,7 +1914,6 @@
 ||sparkasse-erlangen.de^
 ||sparkasse-essen.de^
 ||sparkasse-ffb.de^
-||sparkasse-finnentrop.de^
 ||sparkasse-forchheim.de^
 ||sparkasse-freiburg.de^
 ||sparkasse-freising.de^
@@ -1963,13 +1952,13 @@
 ||sparkasse-hochschwarzwald.de^
 ||sparkasse-hoexter.de^
 ||sparkasse-holstein.de^
-||sparkasse-honnef.de^
 ||sparkasse-hrv.de^
 ||sparkasse-iserlohn.de^
 ||sparkasse-jerichower-land.de^
 ||sparkasse-karlsruhe.de^
 ||sparkasse-kaufbeuren.de^
 ||sparkasse-kehl.de^
+||sparkasse-kleve.de^
 ||sparkasse-koblenz.de^
 ||sparkasse-kraichgau.de^
 ||sparkasse-krefeld.de^
@@ -2010,7 +1999,6 @@
 ||sparkasse-neuwied.de^
 ||sparkasse-niederbayern-mitte.de^
 ||sparkasse-niederlausitz.de^
-||sparkasse-noerdlingen.de^
 ||sparkasse-nordhorn.de^
 ||sparkasse-nuernberg.de^
 ||sparkasse-oberhessen.de^
@@ -2084,7 +2072,6 @@
 ||sparkasse-wittenberg.de^
 ||sparkasse-wittgenstein.de^
 ||sparkasse-wolfach.de^
-||sparkasse-worms-alzey-ried.de^
 ||sparkasse-wuppertal.de^
 ||sparkasse-zollernalb.de^
 ||sparkasse.at^
@@ -2140,6 +2127,7 @@
 ||spk-zwickau.de^
 ||spkam.de^
 ||spked.de^
+||spkeo.de^
 ||spkhb.de^
 ||spkhw.de^
 ||spkkm.de^
@@ -2163,6 +2151,7 @@
 ||stadtsparkasse-bocholt.de^
 ||stadtsparkasse-burgdorf.de^
 ||stadtsparkasse-grebenstein.de^
+||stadtsparkasse-haltern.de^
 ||stadtsparkasse-kaiserslautern.de^
 ||stadtsparkasse-lengerich.de^
 ||stadtsparkasse-oberhausen.de^
@@ -2187,7 +2176,6 @@
 ||sylter-bank.de^
 ||syndicatebank.in^
 ||syndonline.in^
-||t-mobilebankowe.pl^
 ||tagilbank.ru^
 ||takarekbank.hu^
 ||tangerine.ca^
@@ -2258,6 +2246,7 @@
 ||unitpay.ru^
 ||univest.net^
 ||unsere-raiba.de^
+||unserevolksbank.de^
 ||uphold.com^
 ||upma.org^
 ||uralfd.ru^
@@ -2278,6 +2267,7 @@
 ||vb-alzey-worms.de^
 ||vb-amelsbueren.de^
 ||vb-ascheberg-herbern.de^
+||vb-aw.de^
 ||vb-bad-saulgau.de^
 ||vb-bbs.de^
 ||vb-bia.de^
@@ -2295,13 +2285,13 @@
 ||vb-gescher.de^
 ||vb-grebenhain.de^
 ||vb-halle.de^
-||vb-haltern.de^
 ||vb-heimbach.de^
 ||vb-hohenlimburg.de^
 ||vb-hohenlohe.de^
 ||vb-is.de^
 ||vb-iw.de^
 ||vb-jerichower-land.de^
+||vb-kawe.de^
 ||vb-kempen.de^
 ||vb-laichinger-alb.de^
 ||vb-lauterecken.de^
@@ -2309,11 +2299,12 @@
 ||vb-loebau-zittau.de^
 ||vb-marl-recklinghausen.de^
 ||vb-mittelhessen.de^
+||vb-modau.de^
 ||vb-mosbach.de^
 ||vb-niers.de^
 ||vb-nordhuemmling.de^
 ||vb-oberberg.de^
-||vb-piel.de^
+||vb-rb-riedlingen.de^
 ||vb-rb.de^
 ||vb-reiste-eslohe.de^
 ||vb-ruhrmitte.de^
@@ -2324,20 +2315,20 @@
 ||vb-senden.de^
 ||vb-ue-saw.de^
 ||vb-ueberherrn.de^
-||vb-untere-saar.de^
 ||vb-waltrop.de^
-||vb-westerkappeln.de^
+||vb-westenholz.de^
 ||vb-westerstede.de^
 ||vb-wickede.de^
 ||vb-wittingen-kloetze.de^
 ||vb3.de^
 ||vbank.de^
-||vbbakum.de^
 ||vbbh.de^
 ||vbboesel.de^
 ||vbbraunlage.de^
 ||vbbremennord.de^
 ||vbbs.de^
+||vbcloppenburg.de^
+||vbdammer-berge.de^
 ||vbdel.de^
 ||vbdessau.de^
 ||vbdh.de^
@@ -2356,6 +2347,7 @@
 ||vbhaseluenne.de^
 ||vbhawa.de^
 ||vbheiden.de^
+||vbhildesheimerboerde.de^
 ||vbhnr.de^
 ||vbimharz.de^
 ||vbkm.de^
@@ -2366,6 +2358,7 @@
 ||vbloeningen.de^
 ||vblohne-muehlen.de^
 ||vbnh.de^
+||vbnienburg.de^
 ||vbohz.de^
 ||vboyten.de^
 ||vbpf.de^
@@ -2385,7 +2378,6 @@
 ||vbvisbek.de^
 ||vbwildeshauser-geest.de^
 ||vbwinsenermarsch.de^
-||vbwolgast.de^
 ||vekselbanken.no^
 ||venmo.com^
 ||vereinigte-sparkassen.de^
@@ -2397,7 +2389,6 @@
 ||viseca.ch^
 ||visecaone.ch^
 ||vlvb.de^
-||voba-aschaffenburg.de^
 ||voba-aw.de^
 ||voba-bigge-lenne.de^
 ||voba-bkh.de^
@@ -2427,6 +2418,7 @@
 ||voba-seligenstadt.de^
 ||voba-sh.de^
 ||voba-si.de^
+||voba-vorbach-tauber.de^
 ||voba-worpswede.de^
 ||voba-zuff.de^
 ||vobabm.de^
@@ -2435,6 +2427,7 @@
 ||vobadirekt.de^
 ||vobadreieich.de^
 ||vobaeg.de^
+||vobahe.de^
 ||vobahf.de^
 ||vobak.de^
 ||vobakl.de^
@@ -2446,6 +2439,7 @@
 ||volksbank-aktiv.de^
 ||volksbank-albstadt.de^
 ||volksbank-allgaeu-oberschwaben.de^
+||volksbank-altshausen.de^
 ||volksbank-ammerbuch.de^
 ||volksbank-anroechte.de^
 ||volksbank-backnang.de^
@@ -2465,10 +2459,12 @@
 ||volksbank-dh.de^
 ||volksbank-dornstetten.de^
 ||volksbank-dresden-bautzen.de^
+||volksbank-dueren.de^
 ||volksbank-eg.de^
 ||volksbank-eifel.de^
 ||volksbank-eppertshausen.de^
 ||volksbank-erft.de^
+||volksbank-erle.de^
 ||volksbank-esslingen.de^
 ||volksbank-ettlingen.de^
 ||volksbank-filder.de^
@@ -2478,6 +2474,8 @@
 ||volksbank-freiburg.de^
 ||volksbank-gardelegen.de^
 ||volksbank-goeppingen.de^
+||volksbank-greven.de^
+||volksbank-griesheim.de^
 ||volksbank-hameln-stadthagen.de^
 ||volksbank-hamm.de^
 ||volksbank-heilbronn.de^
@@ -2522,6 +2520,7 @@
 ||volksbank-schupbach.de^
 ||volksbank-staufen.de^
 ||volksbank-stormarn.de^
+||volksbank-strohgaeu.de^
 ||volksbank-stuttgart.de^
 ||volksbank-sulmtal.de^
 ||volksbank-trier.de^
@@ -2547,13 +2546,13 @@
 ||vr-bank-dinklage-steinfeld.de^
 ||vr-bank-ehh.de^
 ||vr-bank-erding.de^
+||vr-bank-lua.de^
 ||vr-bank-mittelsachsen.de^
 ||vr-bank-muenchen-land.de^
 ||vr-bank-muldental.de^
 ||vr-bank-nordrhoen.de^
 ||vr-bank-online.de^
 ||vr-bank-passau.de^
-||vr-bank-sw.de^
 ||vr-bank-wuerzburg.de^
 ||vr-banknordeifel.de^
 ||vr-bankverein.de^
@@ -2593,6 +2592,7 @@
 ||vrbank-bsb.de^
 ||vrbank-coburg.de^
 ||vrbank-ellwangen.de^
+||vrbank-feuchtwangen-dinkelsbuehl.de^
 ||vrbank-ffb.de^
 ||vrbank-fl-sl.de^
 ||vrbank-geo.de^
@@ -2605,6 +2605,7 @@
 ||vrbank-mkb.de^
 ||vrbank-obb-so.de^
 ||vrbank-ostalb.de^
+||vrbank-rendsburg.de^
 ||vrbank-rv-wgt.de^
 ||vrbank-sha.de^
 ||vrbank-suedpfalz.de^
@@ -2616,7 +2617,6 @@
 ||vrbank.de^
 ||vrbankgl.de^
 ||vrbankht.de^
-||vrbankniebuell.de^
 ||vrbanknuernberg.de^
 ||vrben.de^
 ||vrbfw.de^
@@ -2660,7 +2660,6 @@
 ||widiba.it^
 ||winbank.gr^
 ||winterbacher-bank.de^
-||wirecardbank.de^
 ||wise.com^
 ||wizink.es^
 ||wlp-acs.com^
@@ -2766,6 +2765,7 @@
 ||gov.ru^
 ||anaf.ro^
 ||inspectiamuncii.ro^
+||receiptbank.com^
 ||raonsecure.com^
 ||xero.com^
 ||freshbooks.com^
@@ -2819,16 +2819,14 @@
 ||2.gp^
 ||2.ht^
 ||2ad.in^
-||2doc.net^
 ||2fear.com^
 ||2tu.us^
-||3x.si^
+||3ra.be^
 ||5z8.info^
 ||6g6.eu^
 ||7.ly^
 ||8u.cz^
 ||98.to^
-||a0.fr^
 ||abcn.ws^
 ||ad-med.cz^
 ||ad7.biz^
@@ -2838,7 +2836,6 @@
 ||any.gs^
 ||apne.ws^
 ||asso.in^
-||ayt.fr^
 ||azali.fr^
 ||b23.ru^
 ||b54.in^
@@ -2861,6 +2858,7 @@
 ||ccj.im^
 ||cjb.net^
 ||cli.gs^
+||clikk.in^
 ||cur.lv^
 ||cut.pe^
 ||cutt.eu^
@@ -2873,9 +2871,7 @@
 ||dopice.sk^
 ||dyo.gs^
 ||erw.cz^
-||fff.re^
-||foe.hn^
-||folu.me^
+||filz.fr^
 ||fur.ly^
 ||fxn.ws^
 ||g00.me^
@@ -2885,10 +2881,7 @@
 ||grem.io^
 ||hill.cm^
 ||hjkl.fr^
-||hops.me^
 ||href.li^
-||i99.cz^
-||ick.li^
 ||icks.ro^
 ||iiiii.in^
 ||ilix.in^
@@ -2903,17 +2896,17 @@
 ||jqw.de^
 ||kask.us^
 ||kfd.pl^
-||korta.nu^
 ||kr3w.de^
 ||kuc.cz^
 ||l-k.be^
+||lc-s.co^
 ||lc.cx^
 ||libero.it^
 ||lick.my^
-||linkn.co^
 ||llu.ch^
 ||lnk.co^
 ||lnk.sk^
+||lnks.fr^
 ||lnky.fr^
 ||m1p.fr^
 ||make.my^
@@ -2921,10 +2914,10 @@
 ||mdl29.net^
 ||mic.fr^
 ||migre.me^
-||minu.me^
 ||more.sh^
 ||myurl.in^
 ||nbcnews.to^
+||nig.gr^
 ||nov.io^
 ||nxy.in^
 ||nyti.ms^
@@ -2949,7 +2942,6 @@
 ||relink.fr^
 ||reut.rs^
 ||s.ee^
-||safe.mn^
 ||sdu.sk^
 ||sh.st^
 ||shar.as^
@@ -2957,10 +2949,12 @@
 ||sina.lt^
 ||skr.sk^
 ||skroc.pl^
+||sn.im^
 ||soo.gd^
 ||spn.sr^
 ||sq6.ru^
 ||su.pr^
+||surl.me^
 ||sy.pe^
 ||t.cn^
 ||t.co^
@@ -2984,7 +2978,7 @@
 ||tr.im^
 ||trck.me^
 ||trib.al^
-||trkr.ws^
+||trunc.it^
 ||twurl.nl^
 ||u.to^
 ||ug.cz^
@@ -3008,29 +3002,30 @@
 ||wb1.eu^
 ||web99.eu^
 ||wed.li^
+||wideo.fr^
 ||wn.nr^
 ||wp.me^
-||wtc.la^
 ||wu.cz^
 ||ww7.fr^
 ||wwy.me^
 ||x.co^
 ||x.nu^
 ||x10.mx^
-||xib.me^
+||xgd.in^
 ||xl8.eu^
 ||xoe.cz^
 ||xrl.us^
 ||xt3.me^
 ||yagoa.fr^
+||yect.com^
 ||yep.it^
+||yogh.me^
 ||yon.ir^
 ||youtu.be^
+||ysear.ch^
 ||yyv.co^
 ||zeek.ir^
 ||zip.net^
-||zkr.cz^
-||zkrat.me^
 ||zpag.es^
 ||zxq.net^
 ||zyva.org^
@@ -3127,7 +3122,6 @@
 ||adx.io^
 ||adzerk.com^
 ||adzerk.net^
-||adzexpert.com^
 ||aff44.com^
 ||affiliate44.com^
 ||affiliatefuture.com^
@@ -3144,6 +3138,7 @@
 ||atid.me^
 ||atimaze.com^
 ||atlassbx.com^
+||attorneyandlegal.com^
 ||auth-analytics.com^
 ||auto-swiat.pl^
 ||automotive.services^
@@ -3163,6 +3158,7 @@
 ||book-secure.com^
 ||botman.ninja^
 ||breaknewz.com^
+||bulletinweb.com^
 ||cc-dt.com^
 ||cj.com^
 ||cjads.com^
@@ -3178,6 +3174,7 @@
 ||clickpatrol.com^
 ||clicksbuster.com^
 ||clicktale.net^
+||clkdms.com^
 ||cmail19.com^
 ||commander1.com^
 ||commission-junction.com^
@@ -3276,12 +3273,12 @@
 ||mkto-ab130037.com^
 ||mkto-ab130188.com^
 ||mkto-ab140048.com^
+||mkto-ab150013.com^
 ||mkto-ab170094.com^
 ||mkto-ab170123.com^
 ||mkto-ab170161.com^
 ||mkto-ab180008.com^
 ||mkto-ab180024.com^
-||mkto-ab220038.com^
 ||mkto-ab220178.com^
 ||mkto-ab240112.com^
 ||mkto-ab250068.com^
@@ -3308,6 +3305,7 @@
 ||mkto-ab420081.com^
 ||mkto-ab420198.com^
 ||mkto-ab430045.com^
+||mkto-ab430076.com^
 ||mkto-ab430111.com^
 ||mkto-ab430114.com^
 ||mkto-ab430126.com^
@@ -3346,6 +3344,7 @@
 ||mkto-ab650172.com^
 ||mkto-ab660121.com^
 ||mkto-ab660168.com^
+||mkto-ab680016.com^
 ||mkto-ab690011.com^
 ||mkto-ab690019.com^
 ||mkto-ab690064.com^
@@ -3354,6 +3353,7 @@
 ||mkto-abd0218.com^
 ||mkto-abj0022.com^
 ||mkto-abm0255.com^
+||mkto-b0025.com^
 ||mkto-c0100.com^
 ||mkto-cs0007.com^
 ||mkto-d0170.com^
@@ -3362,7 +3362,6 @@
 ||mkto-f0235.com^
 ||mkto-g0030.com^
 ||mkto-h0163.com^
-||mkto-i0206.com^
 ||mkto-j0126.com^
 ||mkto-lon020055.com^
 ||mkto-lon020062.com^
@@ -3409,7 +3408,6 @@
 ||mkto-sj030216.com^
 ||mkto-sj040148.com^
 ||mkto-sj040252.com^
-||mkto-sj050106.com^
 ||mkto-sj050237.com^
 ||mkto-sj060054.com^
 ||mkto-sj070193.com^
@@ -3442,6 +3440,7 @@
 ||mkto-sj290167.com^
 ||mkto-sj310061.com^
 ||mkto-sj310157.com^
+||mkto-sj310186.com^
 ||mkto-sj320047.com^
 ||mkto-sj320061.com^
 ||mkto-sj320080.com^
@@ -3458,6 +3457,8 @@
 ||mkto-sn060071.com^
 ||mktoweb.com^
 ||mmtro.com^
+||mobiotsd.com^
+||mobiotud.com^
 ||mssg.me^
 ||mtpc.se^
 ||muypil.com^
@@ -3471,6 +3472,7 @@
 ||nwzo.io^
 ||o-s.io^
 ||onelnk.com^
+||onenetworkdirect.net^
 ||openinapp.link^
 ||opticksprotection.com^
 ||partnerlinks.io^
@@ -3519,7 +3521,6 @@
 ||short.io^
 ||slickdeals.net^
 ||smart.link^
-||smartclkdms.com^
 ||smartmailboost.com^
 ||smrtlnk.com^
 ||sp-trk.com^
@@ -3528,11 +3529,11 @@
 ||stvkr.com^
 ||superpages.com^
 ||tailtarget.com^
-||takmertok.com^
 ||tapfiliate.com^
 ||tapper.ai^
 ||tjzuh.com^
 ||trackeame.com^
+||trackercc.com^
 ||tradedoubler.com^
 ||tradetracker.com^
 ||trkjkamaret.com^
@@ -3541,9 +3542,11 @@
 ||uinterbox.com^
 ||uintertool.com^
 ||userlinx.com^
+||usrlnx.com^
 ||vaudit.com^
 ||voltagesearch.com^
 ||webep1.com^
+||wetrack.online^
 ||yellowbook.com^
 ||cdninstagram.com^
 ||instagram.com^
@@ -3665,7 +3668,6 @@
 ||iubenda.com^
 ||investingchannel.com^
 ||incredimail.com^
-||hollyhockhill.com^
 ||hawaiisurf.com^
 ||freeroms.com^
 ||etn.fm^
@@ -3705,6 +3707,7 @@
 ||embedly.com^
 ||opendns.com^
 ||mvps.org^
+||someonewhocares.com^
 ||yoyo.org^
 ||lehigh.edu^
 ||dshield.org^
@@ -3740,8 +3743,6 @@
 ||symcd.com^
 ||performgroup.com^
 ||ce5.at^
-||labarchitects.com^
-||syandus.com^
 ||gesangsunterricht-hh.de^
 ||liveinternet.ru^
 ||custhelp.com^
@@ -3967,7 +3968,6 @@
 ||enable-javascript.com^
 ||geocities.jp^
 ||prnewswire.com^
-||bestfwdservice.com^
 ||bigcartel.com^
 ||engadget.com^
 ||marriott.com^
@@ -4177,7 +4177,6 @@
 ||samsungcloudsolution.com^
 ||netlify.com^
 ||phonearena.com^
-||dansguardian.org^
 ||schibsted.io^
 ||vwdservices.com^
 ||experts-exchange.com^
@@ -4396,7 +4395,6 @@
 ||maasreusel.nl^
 ||pop.com^
 ||bongacams.com^
-||bestvpnrating.com^
 ||angelfire.com^
 ||videoproc.com^
 ||snrcdn.net^
@@ -4578,7 +4576,6 @@
 ||aa.com^
 ||aarp.org^
 ||accountant.com^
-||acdcfan.com^
 ||acronis.com^
 ||activist.com^
 ||adexec.com^
@@ -4619,7 +4616,6 @@
 ||artlover.com^
 ||arxiv.org^
 ||asana.com^
-||asia-mail.com^
 ||asia.com^
 ||asics.com^
 ||aspireapp.com^
@@ -4785,6 +4781,7 @@
 ||duosecurity.com^
 ||dutchmail.com^
 ||e-paycapita.com^
+||e2estudios.com^
 ||echosign.com^
 ||elastic.co^
 ||elementum.io^
@@ -4793,6 +4790,7 @@
 ||email-loandepot.com^
 ||email.com^
 ||emailcorner.net^
+||emailengine.net^
 ||emailengine.org^
 ||emailgroups.net^
 ||emailplus.org^
@@ -4800,7 +4798,6 @@
 ||emailuser.net^
 ||eml.cc^
 ||empforce.com^
-||empiresuite.com^
 ||engineer.com^
 ||englandmail.com^
 ||enterprise.com^
@@ -4810,7 +4807,6 @@
 ||esp-portal.com^
 ||etik.com^
 ||europe.com^
-||europemail.com^
 ||evernote.com^
 ||example.net^
 ||example.org^
@@ -4840,12 +4836,10 @@
 ||fastmail.jp^
 ||fastmail.mx^
 ||fastmail.net^
-||fastmail.nl^
 ||fastmail.org^
 ||fastmail.se^
 ||fastmail.to^
 ||fastmail.tw^
-||fastmail.uk^
 ||fastmail.us^
 ||fastmailbox.net^
 ||fastmessaging.com^
@@ -4856,7 +4850,6 @@
 ||fedexfreight.com^
 ||fedins.com^
 ||figma.com^
-||file-up.fr^
 ||financier.com^
 ||fireeyecloud.com^
 ||firefox.com^
@@ -4864,6 +4857,7 @@
 ||fireman.net^
 ||firstam.com^
 ||fiserv.com^
+||fishbowlapp.co^
 ||flutter.com^
 ||flyfrontier.com^
 ||fmailbox.com^
@@ -4880,7 +4874,6 @@
 ||freshservice.com^
 ||fsisac.com^
 ||ftml.net^
-||galaxyhit.com^
 ||gardener.com^
 ||garmin.com^
 ||gartner.com^
@@ -4905,7 +4898,6 @@
 ||graphic-designer.com^
 ||graphiteconnect.com^
 ||greenhouse.io^
-||greenmail.net^
 ||greythr.com^
 ||grid.is^
 ||groupmail.com^
@@ -4921,7 +4913,6 @@
 ||hellofax.com^
 ||hellosign.com^
 ||hey.com^
-||hiphopfan.com^
 ||hired.com^
 ||home.de^
 ||homemail.com^
@@ -5015,6 +5006,7 @@
 ||lovecat.com^
 ||madonnafan.com^
 ||mail-central.com^
+||mail-me.com^
 ||mail-page.com^
 ||mail.com^
 ||mail.microsoft^
@@ -5193,7 +5185,6 @@
 ||reborn.com^
 ||recordedfuture.com^
 ||rediffmail.com^
-||reggaefan.com^
 ||regions.com^
 ||registerednurses.com^
 ||reincarnate.com^
@@ -5298,7 +5289,6 @@
 ||swatch.com^
 ||swedenmail.com^
 ||swift-mail.com^
-||swissmail.com^
 ||synchronybank.com^
 ||synchronyfinancial.com^
 ||t-mobile.com^
@@ -5313,7 +5303,6 @@
 ||tesla.com^
 ||test.de^
 ||thanx.com^
-||the-fastest.net^
 ||the-quickest.com^
 ||thecyberwire.com^
 ||theinformation.com^
@@ -5619,8 +5608,6 @@
 ||ccsa.ca^
 ||centarsrce.org^
 ||centerforlegalaid.com^
-||centermaria.org^
-||centrenadja.com^
 ||centrumseksueelgeweld.nl^
 ||cepp.cz^
 ||chadd.org^
@@ -5640,7 +5627,6 @@
 ||crimestoppers-uk.org^
 ||crisisservicescanada.ca^
 ||crisistextline.org^
-||crw-bg.org^
 ||cssnv.org^
 ||csspraha.cz^
 ||cybertip.org^
@@ -5673,15 +5659,15 @@
 ||helpageindia.org^
 ||helpmequit.wales^
 ||helpwanted.nl^
-||hilfeportal-missbrauch.de^
 ||hilfetelefon.de^
+||hopeforwellness.ca^
 ||hospicefoundation.ie^
 ||hrabritelefon.hr^
 ||icallhelpline.org^
 ||in-touch.org^
 ||indiacustomercare.com^
+||informationchildren.com^
 ||initiative-vermisste-kinder.de^
-||iskambebe.bg^
 ||iskorak.hr^
 ||ispcc.ie^
 ||ivor.bg^
@@ -5786,11 +5772,13 @@
 ||tinklefriend.sg^
 ||translifeline.org^
 ||ukna.org^
+||uksobs.org^
 ||vandrevalafoundation.com^
 ||veiligthuis.nl^
 ||verbreekdestilte.nl^
 ||vertrouwenscentrum-kindermishandeling.be^
 ||veteranscrisisline.net^
+||vselena.bg^
 ||waregem.be^
 ||wavaw.ca^
 ||weisser-ring.de^
@@ -5816,7 +5804,6 @@
 ||huaweimobilewifi.com^
 ||kabel.box^
 ||localbattle.net^
-||myfritz.box^
 ||routerlogin.com^
 ||routerlogin.net^
 ||steamloopback.host^
@@ -5871,7 +5858,6 @@
 ||8ta.com^
 ||a1.net^
 ||acsalaska.net^
-||aina.fi^
 ||aiowireless.net^
 ||airfiremobile.com^
 ||airtel.lk^
@@ -5888,9 +5874,9 @@
 ||beeline.kz^
 ||bhmobile.ba^
 ||biglobe.jp^
-||blueunlimited.com^
 ||bob.at^
 ||bouyguestelecom.fr^
+||bplmobile.com^
 ||bt.com^
 ||bulsat.com^
 ||c10.fi^
@@ -5912,7 +5898,6 @@
 ||dmm.com^
 ||dna.fi^
 ||dnafinland.fi^
-||dnapro.fi^
 ||dream.jp^
 ||drei.at^
 ||dst.com^
@@ -5940,14 +5925,15 @@
 ||giffgaff.com^
 ||gloworld.com^
 ||gocbw.com^
-||gscdata.com^
 ||gsm-suomi.fi^
 ||heyah.pl^
 ||hitsmobile.es^
 ||hkcsl.com^
+||ideasclaro.com^
 ||iijmio.jp^
 ||iliad.it^
 ||indosat.com^
+||inet.es^
 ||inland3g.com^
 ||internet.se^
 ||internet.tn^
@@ -5968,12 +5954,11 @@
 ||meditel.ma^
 ||metropcs.net^
 ||mineo.jp^
-||mms.be^
 ||mms.tn^
 ||mmsbouygtel.com^
-||mmsc.be^
 ||mni.pl^
 ||mobile.pl^
+||mobileuc.global^
 ||mobipcs.com^
 ||mobistar.be^
 ||mobitag.nc^
@@ -5983,6 +5968,7 @@
 ||monaco-telecom.mc^
 ||monternet.com^
 ||mopera.net^
+||mova.pl^
 ||movistar.cl^
 ||movistar.com^
 ||movistar.es^
@@ -6018,7 +6004,6 @@
 ||orange.re^
 ||orange.tn^
 ||orange.ug^
-||orange.world^
 ||orangecaraibe.com^
 ||otgeuicc.com^
 ||ovivomobile.com^
@@ -6045,11 +6030,11 @@
 ||setar.aw^
 ||setera.fi^
 ||shaw.ca^
-||simi.is^
 ||singtel.com^
 ||smart.com^
 ||smartone.com^
 ||smdp.io^
+||smile.world^
 ||sonera.fi^
 ||song.fi^
 ||sonofon.dk^
@@ -6114,6 +6099,7 @@
 ||tusmobil.si^
 ||ufone.com^
 ||umniah.com^
+||umob.jp^
 ||umobile.jp^
 ||unionwireless.com^
 ||unitedwireless.com^
@@ -6692,7 +6678,6 @@
 ||snapchat.com^
 ||socpublic.com^
 ||sodimac.cl^
-||sole24ore.com^
 ||sonarcloud.io^
 ||sonyentertainmentnetwork.com^
 ||soso.com^
@@ -6884,7 +6869,6 @@
 ||avg.com^
 ||escanav.com^
 ||totalav.com^
-||combofix.org^
 ||smadav.net^
 ||drweb.ru^
 ||intego.com^
@@ -6901,10 +6885,8 @@
 ||bsecure.com^
 ||bullguard.com^
 ||c-prot.com^
-||f-prot.com^
 ||ca.com^
 ||cloudantivirus.com^
-||safer-networking.com^
 ||safer-networking.org^
 ||scanguard.com^
 ||adblock.dk^
@@ -6984,11 +6966,12 @@
 ||ad.vu^
 ||ada.support^
 ||adage.com^
-||adcolo.com^
 ||addevent.com^
 ||addr.com^
 ||adfinis-sygroup.ch^
+||adfocus.ru^
 ||adlice.com^
+||adollo.com^
 ||ador.com^
 ||adrise.tv^
 ||ae911truth.org^
@@ -6997,7 +6980,6 @@
 ||agilean.in^
 ||ahcdn.com^
 ||ahoo.it^
-||ai.ly^
 ||aicdn.com^
 ||airfind.com^
 ||algolia.com^
@@ -7010,6 +6992,7 @@
 ||allekabels.nl^
 ||allkpop.com^
 ||amap.com^
+||amazon.ac^
 ||amazon.actor^
 ||amazon.ae^
 ||amazon.ai^
@@ -7035,7 +7018,6 @@
 ||amazon.design^
 ||amazon.dk^
 ||amazon.dog^
-||amazon.education^
 ||amazon.ee^
 ||amazon.equipment^
 ||amazon.es^
@@ -7046,10 +7028,8 @@
 ||amazon.fo^
 ||amazon.gallery^
 ||amazon.game^
-||amazon.ge^
 ||amazon.gg^
 ||amazon.golf^
-||amazon.gp^
 ||amazon.gr^
 ||amazon.graphics^
 ||amazon.gt^
@@ -7072,27 +7052,25 @@
 ||amazon.la^
 ||amazon.lighting^
 ||amazon.limo^
-||amazon.live^
-||amazon.lt^
+||amazon.ltda^
 ||amazon.lu^
 ||amazon.lv^
 ||amazon.marketing^
 ||amazon.me^
 ||amazon.melbourne^
 ||amazon.menu^
+||amazon.miami^
 ||amazon.mo^
-||amazon.mq^
 ||amazon.mx^
-||amazon.my^
 ||amazon.nagoya^
 ||amazon.net^
 ||amazon.ng^
 ||amazon.ni^
 ||amazon.nl^
 ||amazon.no^
-||amazon.nr^
 ||amazon.nu^
 ||amazon.nyc^
+||amazon.observer^
 ||amazon.org^
 ||amazon.ph^
 ||amazon.photography^
@@ -7100,43 +7078,40 @@
 ||amazon.pk^
 ||amazon.pl^
 ||amazon.pn^
+||amazon.pr^
 ||amazon.pt^
 ||amazon.pw^
 ||amazon.qpon^
 ||amazon.red^
+||amazon.rip^
 ||amazon.ro^
 ||amazon.rs^
-||amazon.ru^
 ||amazon.sale^
 ||amazon.science^
 ||amazon.se^
 ||amazon.sg^
 ||amazon.shiksha^
+||amazon.shop^
 ||amazon.show^
 ||amazon.sl^
 ||amazon.soccer^
 ||amazon.solar^
 ||amazon.soy^
-||amazon.space^
-||amazon.store^
 ||amazon.sv^
 ||amazon.sx^
 ||amazon.tf^
-||amazon.tienda^
-||amazon.tl^
 ||amazon.to^
 ||amazon.tools^
+||amazon.trading^
 ||amazon.travel^
 ||amazon.tv^
-||amazon.tw^
+||amazon.ua^
 ||amazon.uno^
 ||amazon.vn^
 ||amazon.work^
 ||amazon.xn--55qx5d^
-||amazon.xn--node^
 ||amazon.zone^
 ||america.net^
-||ana.fr^
 ||analyticsindiamag.com^
 ||anandtech.com^
 ||ancda.com^
@@ -7179,7 +7154,6 @@
 ||astrazeneca.com^
 ||at.ly^
 ||attracta.com^
-||atuc.com^
 ||autistici.org^
 ||avataaars.io^
 ||azadify.com^
@@ -7320,6 +7294,7 @@
 ||commentcamarche.net^
 ||commonsensemedia.org^
 ||complex.com^
+||computermediapk.com^
 ||control.com^
 ||corbettreport.com^
 ||cort.as^
@@ -7370,7 +7345,6 @@
 ||destinilocators.com^
 ||deviceatlas.com^
 ||devmate.com^
-||dgit.com^
 ||dickssportinggoods.com^
 ||dicordapp.com^
 ||digitalfirstmedia.com^
@@ -7394,6 +7368,7 @@
 ||dropboxstatic.com^
 ||e-words.jp^
 ||e1.net^
+||e8.org^
 ||ea.co^
 ||earthlink.net^
 ||ebates.com^
@@ -7694,7 +7669,6 @@
 ||hindustantimes.com^
 ||hink.de^
 ||hit.me^
-||hitf.to^
 ||hitfilm.com^
 ||hitomi.la^
 ||hola.org^
@@ -7708,7 +7682,6 @@
 ||how.my^
 ||howtogeek.com^
 ||hqq.tv^
-||hrst.ph^
 ||htmlcommentbox.com^
 ||huaban.com^
 ||hubspot.net^
@@ -7726,6 +7699,7 @@
 ||idealista.com^
 ||ideone.com^
 ||idg.com^
+||idg.me^
 ||idownloadblog.com^
 ||ift.tt^
 ||igamecj.com^
@@ -7804,7 +7778,6 @@
 ||lacumpa.biz^
 ||laerd.com^
 ||lanhuapp.com^
-||larati.net^
 ||latesthackingnews.com^
 ||launchdarkly.com^
 ||launchpadlibrarian.net^
@@ -7841,6 +7814,7 @@
 ||lix.in^
 ||llll.im^
 ||llnwd.net^
+||lnk.me^
 ||locationiq.com^
 ||loccitane.com^
 ||logbuch-netzpolitik.de^
@@ -7920,6 +7894,7 @@
 ||myqcloud.com^
 ||myunidays.com^
 ||nanopool.org^
+||nanorep.com^
 ||napisy24.pl^
 ||navismithapis-cdn.com^
 ||ndtv.com^
@@ -7938,9 +7913,9 @@
 ||nhaxequanghuy.com^
 ||nhentai.net^
 ||nicehash.com^
+||nij.org^
 ||nipr.com^
 ||nirsoft.net^
-||nk.ms^
 ||no-ip.biz^
 ||nobook.com^
 ||notepad-plus-plus.org^
@@ -7981,6 +7956,7 @@
 ||opinionlab.com^
 ||oppo.com^
 ||oprah.com^
+||oprl.com^
 ||optinmonster.com^
 ||ora.tv^
 ||ot.ag^
@@ -8041,7 +8017,6 @@
 ||prtimes.jp^
 ||pscdn.co^
 ||pstmrk.it^
-||pu.sh^
 ||pugetsystems.com^
 ||pushcrew.com^
 ||pusher.com^
@@ -8098,7 +8073,7 @@
 ||riverisland.com^
 ||rkurl.com^
 ||rli.nl^
-||rlxp.com^
+||ro.lt^
 ||roadandtrack.com^
 ||roar.media^
 ||rochester.edu^
@@ -8108,7 +8083,6 @@
 ||rpetri.ch^
 ||rsload.net^
 ||rst.ch^
-||rte.ch^
 ||rumble.com^
 ||rz.se^
 ||s-msft.com^
@@ -8226,7 +8200,6 @@
 ||technoratimedia.com^
 ||techradar.com^
 ||tencent.com^
-||terasi.net^
 ||termux.com^
 ||tesco.com^
 ||texas.gov^
@@ -8280,10 +8253,7 @@
 ||uc.cn^
 ||ud.me^
 ||udimg.com^
-||ueb.eu^
-||uedna.com^
 ||uisdc.com^
-||ulu.com^
 ||umeng.com^
 ||undraw.co^
 ||unsplash.com^
@@ -8292,8 +8262,10 @@
 ||uptostream.com^
 ||ur.ly^
 ||urbanspoon.com^
+||url.cc^
 ||url.com^
 ||url.it^
+||url.me^
 ||url.org^
 ||urls.me^
 ||us-cert.gov^
@@ -8303,6 +8275,7 @@
 ||ushareit.com^
 ||uturl.com^
 ||utz.me^
+||uurl.us^
 ||velaro.com^
 ||veteranstoday.com^
 ||viabtc.com^
@@ -8334,6 +8307,7 @@
 ||walkme.com^
 ||wallhaven.cc^
 ||wandoujia.com^
+||wap.to^
 ||waptrick.com^
 ||weather.gov^
 ||web-development-blog.com^
@@ -8345,6 +8319,7 @@
 ||wechat.com^
 ||weheartit.com^
 ||wer.org^
+||werl.com^
 ||whatismyipaddress.com^
 ||whoer.net^
 ||whoisbucket.com^
@@ -8352,6 +8327,7 @@
 ||wikibooks.org^
 ||winfuture.de^
 ||winred.com^
+||wirl.at^
 ||wistia.net^
 ||wixapps.net^
 ||wko.at^
@@ -8368,7 +8344,6 @@
 ||wreg.com^
 ||wtvr.com^
 ||wurl.nl^
-||wywy.com^
 ||x10hosting.com^
 ||x1337x.ws^
 ||xbext.com^
@@ -8407,6 +8382,7 @@
 ||zobj.net^
 ||zona.media^
 ||zopim.com^
+||zz.ee^
 ||17u.cn^
 ||9anime.to^
 ||ads.com^
@@ -8421,6 +8397,7 @@
 ||json.cn^
 ||maimai.cn^
 ||mkto-ab040147.com^
+||mkto-ab220193.com^
 ||mkto-ab250167.com^
 ||mkto-ab570013.com^
 ||mkto-abm0229.com^
@@ -8446,12 +8423,9 @@
 ||geforce.com^
 ||nvidiagrid.net^
 ||0.gp^
-||0a.sk^
 ||101.gg^
-||12ne.ws^
 ||17mimei.club^
 ||1ea.ir^
-||1o2.ir^
 ||1shop.io^
 ||2.ly^
 ||2kgam.es^
@@ -8468,7 +8442,6 @@
 ||4sq.com^
 ||5.gp^
 ||53eig.ht^
-||5du.pl^
 ||5w.fit^
 ||6.gp^
 ||6.ly^
@@ -8485,7 +8458,6 @@
 ||a360.co^
 ||aarp.info^
 ||ab.co^
-||abc.li^
 ||abc11.tv^
 ||abc13.co^
 ||abc7.la^
@@ -8505,10 +8477,9 @@
 ||acus.org^
 ||adaymag.co^
 ||adbl.co^
-||adm.to^
 ||adobe.ly^
+||adweek.it^
 ||aet.na^
-||ai6.net^
 ||aje.io^
 ||al.st^
 ||alexa.design^
@@ -8576,8 +8547,6 @@
 ||blur.by^
 ||bmai.cc^
 ||bnds.in^
-||bnetwhk.com^
-||bo.st^
 ||boa.la^
 ||boile.rs^
 ||bom.so^
@@ -8591,11 +8560,9 @@
 ||bstk.me^
 ||btwrdn.com^
 ||bung.ie^
-||bwnews.pr^
 ||bytl.fr^
 ||bzfd.it^
 ||c11.kr^
-||c87.to^
 ||can.al^
 ||canon.us^
 ||capital.one^
@@ -8646,7 +8613,6 @@
 ||comca.st^
 ||come.ac^
 ||conta.cc^
-||cookcenter.info^
 ||coop.uk^
 ||coupa.ng^
 ||cplink.co^
@@ -8658,8 +8624,8 @@
 ||csmo.us^
 ||cstu.io^
 ||ctbc.tw^
+||ctfl.io^
 ||cup.org^
-||cut.lu^
 ||cvent.me^
 ||cvs.co^
 ||cyb.ec^
@@ -8731,7 +8697,6 @@
 ||fal.cn^
 ||fam.ag^
 ||fandan.co^
-||fandom.link^
 ||faras.link^
 ||faturl.com^
 ||fav.me^
@@ -8754,8 +8719,8 @@
 ||foodtv.com^
 ||fooji.info^
 ||ford.to^
+||forr.com^
 ||found.ee^
-||fox.tv^
 ||frdm.mobi^
 ||fstrk.cc^
 ||ftnt.net^
@@ -8776,7 +8741,6 @@
 ||getf.ly^
 ||geti.in^
 ||gh.io^
-||ghkp.us^
 ||gigaz.in^
 ||github.co^
 ||gjk.id^
@@ -8893,7 +8857,6 @@
 ||kings.tn^
 ||kkday.me^
 ||kko.to^
-||klck.me^
 ||kli.cx^
 ||klmf.ly^
 ||ko.gl^
@@ -8914,6 +8877,7 @@
 ||letsharu.cc^
 ||lft.to^
 ||lih.kg^
+||lihi.pro^
 ||lihi.tv^
 ||lihi.vip^
 ||lihi1.cc^
@@ -8929,7 +8893,6 @@
 ||lihivip.com^
 ||lin.ee^
 ||link.ac^
-||linkbun.com^
 ||linkd.in^
 ||linkjust.com^
 ||linko.page^
@@ -8942,6 +8905,7 @@
 ||llk.dk^
 ||llo.to^
 ||lmg.gg^
+||lmt.co^
 ||lmy.de^
 ||ln.run^
 ||lnk.bz^
@@ -9045,6 +9009,7 @@
 ||nus.edu^
 ||nvda.ws^
 ||nwsdy.li^
+||nxb.tw^
 ||nydn.us^
 ||nyer.cm^
 ||nyp.st^
@@ -9083,6 +9048,7 @@
 ||oyn.at^
 ||p.asia^
 ||p1r.es^
+||p4k.in^
 ||pa.ag^
 ||packt.link^
 ||pag.la^
@@ -9163,8 +9129,10 @@
 ||riot.com^
 ||rip.city^
 ||risu.io^
+||ritea.id^
 ||rizy.ir^
 ||rlu.ru^
+||rnm.me^
 ||rog.gg^
 ||rol.st^
 ||rotf.lol^
@@ -9182,6 +9150,7 @@
 ||s3vip.tw^
 ||safl.it^
 ||sail.to^
+||samcart.me^
 ||sbird.co^
 ||sbux.jp^
 ||sc.mp^
@@ -9191,9 +9160,12 @@
 ||scr.bi^
 ||scrb.ly^
 ||scuf.co^
+||sdpbne.ws^
 ||seagate.media^
 ||seedsta.rs^
 ||seiu.co^
+||sejr.nl^
+||seq.vc^
 ||sf3c.tw^
 ||sforce.co^
 ||sfty.io^
@@ -9210,6 +9182,7 @@
 ||shorten.tv^
 ||shorten.world^
 ||shorter.me^
+||shorturl.ae^
 ||shorturl.asia^
 ||shorturl.at^
 ||shorturl.com^
@@ -9231,8 +9204,9 @@
 ||skr.rs^
 ||skyurl.cc^
 ||slidesha.re^
-||smlk.es^
+||smashed.by^
 ||smsb.co^
+||smsng.news^
 ||smsng.us^
 ||smtvj.com^
 ||smu.gs^
@@ -9249,6 +9223,7 @@
 ||sourl.cn^
 ||sovrn.co^
 ||spgrp.sg^
+||spigen.co^
 ||split.to^
 ||splk.it^
 ||spoti.fi^
@@ -9263,6 +9238,7 @@
 ||st.news^
 ||st8.fm^
 ||stanford.io^
+||starz.tv^
 ||stspg.io^
 ||stts.in^
 ||stuf.in^
@@ -9277,7 +9253,6 @@
 ||swoo.sh^
 ||swtt.cc^
 ||sy.to^
-||syb.la^
 ||synd.co^
 ||t-bi.link^
 ||t-mo.co^
@@ -9302,6 +9277,7 @@
 ||thein.fo^
 ||thetim.es^
 ||thinfi.com^
+||thls.co^
 ||thn.news^
 ||thrill.to^
 ||ti.me^
@@ -9325,6 +9301,7 @@
 ||topt.al^
 ||toyota.us^
 ||tr.ee^
+||trackurl.link^
 ||trade.re^
 ||travl.rs^
 ||trib.in^
@@ -9354,7 +9331,9 @@
 ||upmchp.us^
 ||ur3.us^
 ||urb.tf^
+||urbn.is^
 ||url.cn^
+||url.cy^
 ||url.ie^
 ||urla.ru^
 ||urlgeni.us^
@@ -9364,6 +9343,7 @@
 ||urluno.com^
 ||urly.fi^
 ||urlzs.com^
+||usanet.tv^
 ||usat.ly^
 ||utm.to^
 ||utn.pl^
@@ -9371,9 +9351,8 @@
 ||vercel.link^
 ||vi.sa^
 ||vi.tc^
-||viaja.am^
+||viaalto.me^
 ||vineland.dj^
-||viraln.co^
 ||vivo.tl^
 ||vk.sv^
 ||vntyfr.com^
@@ -9382,17 +9361,18 @@
 ||voicetu.be^
 ||volvocars.us^
 ||vonq.io^
+||vrnda.us^
 ||vurl.com^
 ||vvnt.co^
 ||vxn.link^
-||vypij.bar^
 ||vz.to^
 ||w.wiki^
+||w5n.co^
 ||wa.link^
 ||wahoowa.net^
 ||walk.sc^
+||walkjc.org^
 ||warp.plus^
-||wartsi.ly^
 ||way.to^
 ||wb.md^
 ||wbby.co^
@@ -9401,14 +9381,17 @@
 ||wcha.it^
 ||we.co^
 ||weall.vote^
+||weare.rs^
 ||wee.so^
 ||wef.ch^
+||wenk.io^
 ||whatel.se^
 ||whcs.law^
 ||whoel.se^
 ||whr.tn^
 ||wi.se^
 ||win.gs^
+||wit.to^
 ||wkf.ms^
 ||wmojo.com^
 ||wo.ws^
@@ -9419,9 +9402,11 @@
 ||wwp.news^
 ||x.gd^
 ||xbx.lv^
+||xerox.bz^
 ||xfin.tv^
 ||xfl.ag^
 ||xfru.it^
+||xor.tw^
 ||xrds.ca^
 ||xurl.es^
 ||yal.su^
@@ -9437,6 +9422,7 @@
 ||zdsk.co^
 ||zecz.ec^
 ||zeep.ly^
+||zez.kr^
 ||zipurl.fr^
 ||zln.do^
 ||zlra.co^
@@ -9444,8 +9430,9 @@
 ||zoho.to^
 ||zopen.to^
 ||zpr.io^
+||zuki.ie^
 ||zurl.co^
-||zurl.ws^
+||zurl.ir^
 ||zws.im^
 ||zynga.my^
 ||novelquickapp.com^
@@ -9664,14 +9651,12 @@
 ||banamex.com^
 ||bancanetbsc.do^
 ||bancapulia.it^
-||bancarios.com^
 ||bancastato.ch^
 ||bancatransilvania.ro^
 ||bancobase.com^
 ||bancobic.ao^
 ||bancobic.pt^
 ||bancobpi.pt^
-||bancochile.com^
 ||bancofalabella.pe^
 ||bancopopolare.it^
 ||bancoposta.it^
@@ -9716,7 +9701,6 @@
 ||bnl.it^
 ||bnpparibas.fr^
 ||bonuscard.ch^
-||bpe-gruposantander.com^
 ||bpi.pt^
 ||bridgewaterbank.ca^
 ||bsibank.com^
@@ -9737,7 +9721,6 @@
 ||cariparma.it^
 ||carrefour-banque.fr^
 ||cartabcc.it^
-||cartabccpos.it^
 ||cartasi.it^
 ||catalunyacaixa.com^
 ||cbg.gm^
@@ -9776,7 +9759,6 @@
 ||cwbankgroup.com^
 ||cwt.ca^
 ||cybg.com^
-||danskebank.de^
 ||danskebank.ee^
 ||danskebank.fi^
 ||danskebank.ie^
@@ -9795,7 +9777,6 @@
 ||domain.com^
 ||doubleclick.com^
 ||dovecot.org^
-||dresdner-bank.de^
 ||dsbbank.sr^
 ||dsbl.org^
 ||duncanlawrie.com^
@@ -9828,6 +9809,7 @@
 ||hongleongconnect.my^
 ||hotbar.com^
 ||hotpop.com^
+||icbcnz.com^
 ||icicibankprivatebanking.com^
 ||icscards.de^
 ||ing.com^
@@ -9839,7 +9821,6 @@
 ||isbank.iq^
 ||isc.org^
 ||ivillage.com^
-||jmap.cloud^
 ||jsafrasarasin.com^
 ||juno.com^
 ||kantonalbank.ch^
@@ -9891,6 +9872,7 @@
 ||netzero.net^
 ||newyorkfed.org^
 ||nod32.com^
+||nordea.lt^
 ||nordfynsbank.dk^
 ||norman.com^
 ||notenstein.ch^
@@ -9910,7 +9892,6 @@
 ||paypal-deutschland.de^
 ||paypal-exchanges.com^
 ||paypal-notify.com^
-||paypal-now.com^
 ||paypal-opwaarderen.nl^
 ||paypal-pages.com^
 ||paypal-search.com^
@@ -9932,7 +9913,6 @@
 ||popolarevicenza.it^
 ||postbank.de^
 ||postepay.it^
-||postfinance.info^
 ||postfinancearena.ch^
 ||price.ru^
 ||prodigy.net^
@@ -9955,8 +9935,10 @@
 ||santander.com^
 ||santandersantiago.cl^
 ||sarasin.ch^
+||sberbank.ch^
 ||schoellerbank.at^
 ||scotiabank.ca^
+||scotiaonline.com^
 ||sec.gov^
 ||securetrustbank.com^
 ||service-sparkasse.de^
@@ -10054,7 +10036,6 @@
 ||azure-dns.info^
 ||azure-dns.net^
 ||azure-dns.org^
-||azure.microsoft^
 ||azure.us^
 ||azurecr.us^
 ||azuredns-prd.info^
@@ -10081,9 +10062,7 @@
 ||microsoft.es^
 ||microsoft.hu^
 ||microsoft.io^
-||microsoft.is^
 ||microsoft.it^
-||microsoft.jp^
 ||microsoft.lu^
 ||microsoft.md^
 ||microsoft.net^
@@ -10092,7 +10071,6 @@
 ||microsoft.ro^
 ||microsoft.ru^
 ||microsoft.se^
-||microsoft.tv^
 ||microsoft.us^
 ||microsoftonline.us^
 ||microsoftrewards.com^
@@ -10195,7 +10173,6 @@
 ||1guy1cock.com^
 ||1man1jar.org^
 ||1man2needles.com^
-||1priest1nun.net^
 ||1shoppingcart.com^
 ||247mahjong.com^
 ||2cnt.net^
@@ -10234,6 +10211,7 @@
 ||adjix.com^
 ||adjust.cn^
 ||adjust.io^
+||adlinkpay.com^
 ||adnetasia.com^
 ||adnxs.com^
 ||adsafeprotected.com^
@@ -10244,7 +10222,6 @@
 ||adtraction.com^
 ||adultswim.com^
 ||adverticum.net^
-||advise.co^
 ||affex.org^
 ||affiliates-solutions.com^
 ||aiemont.com^
@@ -10256,7 +10233,6 @@
 ||americanlisted.com^
 ||amospalla.es^
 ||androidweblog.com^
-||andronova.net^
 ||anyclip.com^
 ||app-analytics-services.com^
 ||appier.com^
@@ -10302,7 +10278,6 @@
 ||braze.com^
 ||braze.eu^
 ||brestcity.com^
-||brian-fitzgerald.com^
 ||brightdata.com^
 ||bttn.io^
 ||buoydeparturediscontent.com^
@@ -10362,6 +10337,7 @@
 ||dlupload.com^
 ||do-not-tracker.org^
 ||dolphincdn.xyz^
+||donotwatch.org^
 ||dotnetdays.ro^
 ||dotomi.com^
 ||doubleverify.com^
@@ -10504,7 +10480,6 @@
 ||lubuntu.net^
 ||luminati.io^
 ||madmimi.com^
-||making.party^
 ||manga-news.com^
 ||marchex.io^
 ||marinsm.com^
@@ -10661,7 +10636,6 @@
 ||smljmp.com^
 ||snifferip.com^
 ||solvusoft.com^
-||sourmath.com^
 ||speedd.net^
 ||springserve.com^
 ||srvtrck.com^
@@ -10675,6 +10649,7 @@
 ||suessmilch.com^
 ||supercell.net^
 ||surveyrouter.com^
+||switch.pt^
 ||sysdig.com^
 ||tactilews.com^
 ||tagcommander.com^
@@ -10724,7 +10699,6 @@
 ||upload-4ever.com^
 ||uplus.kr^
 ||urladda.com^
-||urle.me^
 ||urlto.me^
 ||useinsider.com^
 ||uurl.at^
@@ -10737,7 +10711,6 @@
 ||virgul.com^
 ||visam.info^
 ||vomitgirl.org^
-||w0of-woof.com^
 ||waldenfarms.com^
 ||walkthedinosaur.com^
 ||warp.ly^
