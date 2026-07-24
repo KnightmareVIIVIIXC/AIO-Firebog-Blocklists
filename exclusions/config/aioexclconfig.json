@@ -1,0 +1,13 @@
+{
+	"name": "AIO Exclusion List",
+	"description": "Exclusions for 'Malware' lists, and 'Cross' list with wildcards",
+	"homepage": "https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/SOURCES.md",
+	"sources": [{
+			"source": "exclude_mod.txt"
+		}, {
+			"source": "exclusions.txt"
+		}, {
+			"source": "exclusions_wild.txt"
+		}],
+	"transformations": ["Deduplicate", "RemoveComments", "RemoveEmptyLines"]
+}

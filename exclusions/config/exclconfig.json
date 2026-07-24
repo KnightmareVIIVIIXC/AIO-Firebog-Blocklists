@@ -1,0 +1,166 @@
+{
+	"name": "Exclusions",
+	"sources": [{
+			"source": "https://github.com/AdguardTeam/AdGuardSDNSFilter/raw/master/Filters/exclusions.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/AdguardTeam/HttpsExclusions/raw/master/exclusions/android.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/AdguardTeam/HttpsExclusions/raw/master/exclusions/banks.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/AdguardTeam/HttpsExclusions/raw/master/exclusions/firefox.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/AdguardTeam/HttpsExclusions/raw/master/exclusions/issues.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/AdguardTeam/HttpsExclusions/raw/master/exclusions/mac.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/AdguardTeam/HttpsExclusions/raw/master/exclusions/sensitive.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/AdguardTeam/HttpsExclusions/raw/master/exclusions/windows.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/Dogino/Discord-Phishing-URLs/raw/main/official-domains.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/Freekers/whitelist/raw/master/domains/whitelist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/hagezi/dns-blocklists/raw/main/domains/whitelist-referral.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/hg1978/Pihole-Whitelist/raw/main/PiholeAllowlist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/KnightmareVIIVIIXC/allowlist/raw/master/aioallowdomlist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/pengelana/blocklist/raw/master/src/whitelist/notracking_hostnames.whitelist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/pengelana/blocklist/raw/master/src/whitelist/local_oisd_nl_commonly_whitelisted.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/amieiro/disposable-email-domains/raw/master/allowDomains.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/NoFormatting/WhitelistedDomains.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/celenityy/BadBlock/raw/pages/wildcards-no-star/whitelist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/cparsell/Blocklists-Whitelists/raw/main/whitelist-nocomments.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/dnswarden/blocklist-staging/raw/main/whitelist/tinylist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/dnswarden/blocklist-staging/raw/main/whitelist/whitelistcommon.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/fabriziosalmi/blacklists/raw/main/whitelist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/FadeMind/hosts.whitelists/raw/master/whitelist.FadeMind.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/GoodnessJSON/PiHole-Whitelist/raw/master/lists/whitelist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/GoodnessJSON/PiHole-Whitelist/raw/master/lists/optional-list.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/GoodnessJSON/PiHole-Whitelist/raw/master/lists/referral-sites.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/hemiipatu/PiHoleBlocklists/raw/master/whitelists/whitelist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/HydraDragonAntivirus/HydraDragonPlatform/raw/development-version/hydradragon/hosts/antivirus_list.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/HydraDragonAntivirus/HydraDragonPlatform/raw/development-version/hydradragon/website/tools/whitelistactive.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/neodevpro/neodevhost/raw/master/allow",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/nextdns/click-tracking-domains/raw/main/domains",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/pengelana/blocklist/raw/master/src/whitelist/EnergizedProtection_domains.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/Potterli20/file/raw/main/file-hosts/allow/Domains",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/privacy-protection-tools/dead-horse/raw/master/anti-ad-white-list.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/smed79/easylist-hosts/raw/main/whitelist",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/stalwartlabs/spam-filter/raw/main/lists/trusted_domains.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/allowlists/raw/main/lists/core-allowlist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/allowlists/raw/main/lists/keeping_others_happy.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/allowlists/raw/main/lists/list-domains.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/allowlists/raw/main/lists/microsoft/microsoft-authentication.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/allowlists/raw/main/lists/microsoft/microsoft-azure.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/allowlists/raw/main/lists/microsoft/microsoft-common.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/allowlists/raw/main/lists/microsoft/microsoft-misc.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/allowlists/raw/main/lists/microsoft/microsoft-office-suite.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/allowlists/raw/main/lists/microsoft/microsoft-outlook-application.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/allowlists/raw/main/lists/microsoft/microsoft-teams.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/filters/raw/main/allowlist/allowlist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/filters/raw/main/allowlist/allowlist_keeping_others_happy.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/filters/raw/main/allowlist/allowlist-request.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/Ultimate-Hosts-Blacklist/whitelist/raw/master/domains.list",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/ZG089/Re-Malwack/raw/main/whitelist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "togofire_whitelist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "oisd_excludes.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}],
+	"transformations": ["RemoveComments", "Compress", "Deduplicate", "Validate", "RemoveEmptyLines"],
+	"exclusions": ["||*.*.*^"],
+	"inclusions": ["||*.*^"]
+}
