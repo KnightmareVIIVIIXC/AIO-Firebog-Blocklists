@@ -151,6 +151,9 @@
 			"source": "https://github.com/Ultimate-Hosts-Blacklist/whitelist/raw/master/domains.list",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
+			"source": "https://github.com/zachlagden/Pi-hole-Optimized-Blocklists/raw/main/whitelist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
 			"source": "https://github.com/ZG089/Re-Malwack/raw/main/whitelist.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
