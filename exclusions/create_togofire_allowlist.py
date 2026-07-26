@@ -13,7 +13,7 @@ try:
             continue
         line = line.replace('@@||', '')
         line = re.sub(r'\^.*', '', line)
-        line = re.sub(r'\$.*$', '', line)
+        line = re.sub(r'\$.*', '', line)
         processed_lines.append(line)
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write('\n'.join(processed_lines))
