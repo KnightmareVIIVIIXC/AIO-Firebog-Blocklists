@@ -31,7 +31,7 @@
 			"source": "https://github.com/Freekers/whitelist/raw/master/domains/whitelist.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
-			"source": "https://github.com/hagezi/dns-blocklists/raw/main/domains/whitelist-referral.txt",
+			"source": "https://github.com/hagezi/dns-blocklists/raw/main/wildcard/whitelist-referral-onlydomains.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
 			"source": "https://github.com/hg1978/Pihole-Whitelist/raw/main/PiholeAllowlist.txt",
