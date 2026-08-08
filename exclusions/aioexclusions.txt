@@ -2,7 +2,7 @@
 ! Title: AIO Exclusion List
 ! Description: Exclusions for 'Malware' lists, and 'Cross' list with wildcards
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/SOURCES.md
-! Last modified: 2026-08-07T17:14:31.720Z
+! Last modified: 2026-08-08T05:32:58.035Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -283,6 +283,7 @@ $denyallow
 ||affirm.com^
 ||anexia-it.com^
 ||snap.com^
+||hotdogsandads.com^
 ||pizzaandads.com^
 ||ngenix.net^
 ||ipify.org^
@@ -395,7 +396,6 @@ $denyallow
 ||marfeel.com^
 ||edigitalsurvey.com^
 ||2mdn.net^
-||g17media.com^
 ||alipromo.com^
 ||optimizely.com^
 ||viglink.com^
@@ -406,9 +406,7 @@ $denyallow
 ||fwmrm.net^
 ||ru.net^
 ||termux.net^
-||wodtogether.com^
 ||instapaper.com^
-||budgetbankers.com^
 ||thisissand.com^
 ||samsungosp.com^
 ||dropboxapi.com^
@@ -471,13 +469,13 @@ $denyallow
 ||alahli.com^
 ||albank.ru^
 ||alfa-bank.by^
+||alfabank.kz^
 ||alfabank.ru^
 ||alfaportal.ru^
 ||alinma.com^
 ||aliorbank.pl^
 ||alipay.com^
 ||allegacy.org^
-||allgaeuer-volksbank.de^
 ||alliantcreditunion.com^
 ||alliantcreditunion.org^
 ||ally.com^
@@ -488,7 +486,6 @@ $denyallow
 ||altbank.com^
 ||alterna.ca^
 ||altinn.no^
-||alxinger-bank.de^
 ||amedigital.com^
 ||amerantbank.com^
 ||americanexpress.com^
@@ -652,7 +649,6 @@ $denyallow
 ||bnkv.ru^
 ||bnpparibas.com^
 ||bnpparibas.hu^
-||bnpparibas.nc^
 ||bnpparibasfortis.be^
 ||bobibanking.com^
 ||boc.cn^
@@ -752,7 +748,6 @@ $denyallow
 ||credit365.ua^
 ||creditbank.com^
 ||creditdnepr.com^
-||crediteurope.de^
 ||crediteurope.nl^
 ||crediteurope.ro^
 ||crediteurope.ru^
@@ -777,13 +772,11 @@ $denyallow
 ||danskebank.se^
 ||datev.de^
 ||davivienda.com^
-||db-pbc.pl^
 ||db.com^
 ||dcu-online.org^
 ||dcu.org^
 ||degussa-bank.de^
 ||deine-volksbank.de^
-||dengisend.ru^
 ||dengulebanken.no^
 ||desjardins.com^
 ||dettinger-bank.de^
@@ -839,7 +832,6 @@ $denyallow
 ||eh-sparebank.no^
 ||eika.no^
 ||ekapusta.ru^
-||elevationsbanking.com^
 ||elevationscu.com^
 ||ellisbank.com^
 ||elster.de^
@@ -862,6 +854,7 @@ $denyallow
 ||evobanco.com^
 ||expr.ru^
 ||express-bank.ru^
+||ezaimo.ru^
 ||fairfx.com^
 ||faktura.ru^
 ||farmersebank.com^
@@ -885,6 +878,7 @@ $denyallow
 ||flessabank.de^
 ||flip.id^
 ||fnbba.com^
+||foehr-amrumer-bank.de^
 ||foerde-sparkasse.de^
 ||fondsdepotbank.de^
 ||forabank.ru^
@@ -908,7 +902,6 @@ $denyallow
 ||gefa-bank.de^
 ||generali.it^
 ||geniusepay.in^
-||genoba-mecka.de^
 ||genoba-weil.de^
 ||genobamuc.de^
 ||genobank-mainz.de^
@@ -936,7 +929,6 @@ $denyallow
 ||gunaybank.com^
 ||gutapay.ru^
 ||hafnerbank.de^
-||hagnauer-volksbank.de^
 ||halkbank.mk^
 ||halkbank.rs^
 ||haltdalensparebank.no^
@@ -980,7 +972,6 @@ $denyallow
 ||hsbcprivatebank.com^
 ||huemmlinger-volksbank.de^
 ||huntington.com^
-||husumer-volksbank.de^
 ||hypo.fi^
 ||hypovereinsbank.de^
 ||i-vtb.by^
@@ -1135,7 +1126,6 @@ $denyallow
 ||kubankredit.ru^
 ||kucoin.com^
 ||kuzbank.ru^
-||kuzbasshimbank.ru^
 ||kvartplata.ru^
 ||kvinesdalsparebank.no^
 ||kyffhaeusersparkasse.de^
@@ -1147,6 +1137,7 @@ $denyallow
 ||leboutique.com^
 ||legalandgeneral.com^
 ||leipziger-volksbank.de^
+||leomoney.com^
 ||leumi.ro^
 ||levo-bank.de^
 ||lexoffice.de^
@@ -1174,7 +1165,6 @@ $denyallow
 ||marcus.com^
 ||marinecu.com^
 ||maritimebank.com^
-||marker-sparebank.no^
 ||martinbank.de^
 ||masterpass.com^
 ||mbs.de^
@@ -1234,6 +1224,7 @@ $denyallow
 ||muenchner-bank.de^
 ||mueritz-sparkasse.de^
 ||mvb.de^
+||my-volksbank.de^
 ||mybrdnet.ro^
 ||mycred.io^
 ||myetherwallet.com^
@@ -1250,7 +1241,6 @@ $denyallow
 ||natwest.com^
 ||navyfederal.org^
 ||naxcivanbank.az^
-||nbcbank.az^
 ||nbg.gr^
 ||netbank.de^
 ||neteller.com^
@@ -1291,20 +1281,12 @@ $denyallow
 ||onezaim.ru^
 ||onfastspring.com^
 ||onlinebank.kz^
-||onlinebanking-fuggerbank.de^
-||onlinebanking-grenkebank.de^
 ||onlinebanking-ibb-ag.com^
-||onlinebanking-northchannelbank.de^
-||onlinebanking-psd-braunschweig.de^
-||onlinebanking-psd-koeln.de^
-||onlinebanking-psd-rhein-ruhr.de^
 ||onlinebanking-psd-rheinneckarsaar.de^
 ||onlinebanking-raiba-pfaffenhofen.de^
-||onlinebanking-raiffeisenbank-heroldsbach.de^
 ||onlinebanking-raiffeisenbank-regenstauf.de^
 ||onlinebanking-rb-hersbruck.de^
 ||onlinebanking-rb-plankstetten.de^
-||onlinebanking-rv-direkt.de^
 ||onlinesbi.sbi^
 ||onstmettinger-bank.de^
 ||op.fi^
@@ -1400,6 +1382,7 @@ $denyallow
 ||privat24.ru^
 ||privat24.ua^
 ||privatbank.ua^
+||procreditbank.de^
 ||profitbank.ru^
 ||promenergobank.ru^
 ||prospera.ca^
@@ -1431,7 +1414,6 @@ $denyallow
 ||quirion.de^
 ||rabobank.nl^
 ||rabodirect.de^
-||raiba-aindling.de^
 ||raiba-aitrang-rud.de^
 ||raiba-alsbach.de^
 ||raiba-altdorf-feucht.de^
@@ -1449,10 +1431,8 @@ $denyallow
 ||raiba-fkh.de^
 ||raiba-flachsmeer.de^
 ||raiba-floss.de^
-||raiba-gaimbux.de^
 ||raiba-gh.de^
 ||raiba-gilching.de^
-||raiba-gotha.de^
 ||raiba-gr.de^
 ||raiba-grimma.de^
 ||raiba-hoechberg.de^
@@ -1460,6 +1440,7 @@ $denyallow
 ||raiba-kaarst.de^
 ||raiba-ke-oa.de^
 ||raiba-kms.de^
+||raiba-kraichgau.de^
 ||raiba-mittenwald.de^
 ||raiba-moselkrampen.de^
 ||raiba-msp.de^
@@ -1469,19 +1450,19 @@ $denyallow
 ||raiba-neumarkt-opf.de^
 ||raiba-neustadt.de^
 ||raiba-oldenburg.de^
-||raiba-parsberg-velburg.de^
 ||raiba-pfaffenhofen.de^
 ||raiba-pfaffenwinkel.de^
 ||raiba-rastede.de^
 ||raiba-rehling.de^
 ||raiba-ried.de^
+||raiba-rosbach.de^
 ||raiba-roth-schwabach.de^
 ||raiba-rupertiwinkel.de^
+||raiba-schwabmuenchen.de^
 ||raiba-seenplatte.de^
 ||raiba-steingaden.de^
 ||raiba-suedhardt.de^
 ||raiba-ueda.de^
-||raiba-wallgau-kruen.de^
 ||raiba-welling.de^
 ||raiba-westhausen.de^
 ||raibacalw.de^
@@ -1491,7 +1472,6 @@ $denyallow
 ||raibamol.de^
 ||raibank.de^
 ||raibawesermarschsued.de^
-||raiffeisen-privatbank.de^
 ||raiffeisen-volksbank-neustadt.de^
 ||raiffeisen.ch^
 ||raiffeisen.hu^
@@ -1507,8 +1487,8 @@ $denyallow
 ||raiffeisenbank-kaiserstuhl.de^
 ||raiffeisenbank-kastellaun.de^
 ||raiffeisenbank-lorup.de^
+||raiffeisenbank-maitis.de^
 ||raiffeisenbank-ottenbach.de^
-||raiffeisenbank-plankstetten.de^
 ||raiffeisenbank-regensburg.de^
 ||raiffeisenbank-rosenstein.de^
 ||raiffeisenbank-sinzing.de^
@@ -1538,26 +1518,21 @@ $denyallow
 ||rb-bechhofen.de^
 ||rb-berghuelen.de^
 ||rb-beuerberg.de^
-||rb-biberach.de^
 ||rb-biebergrund-petersberg.de^
-||rb-burghaun.de^
 ||rb-burgstaedt.de^
 ||rb-chamer-land.de^
-||rb-chiemgau-nord.de^
 ||rb-deggendorf.de^
 ||rb-denzlingen-sexau.de^
 ||rb-dietersheim.de^
 ||rb-eching.de^
-||rb-eggenthal.de^
 ||rb-ehingen-hochstraess.de^
 ||rb-elln.de^
 ||rb-erkelenz.de^
 ||rb-eschweiler.de^
-||rb-essenbach.de^
 ||rb-frankenhardt-stimpfach.de^
+||rb-frechen-huerth.de^
 ||rb-geiselhoering.de^
 ||rb-grabfeld.de^
-||rb-graevenwiesbach.de^
 ||rb-grainet.de^
 ||rb-gymnich.de^
 ||rb-hardt-bruhrain.de^
@@ -1572,13 +1547,11 @@ $denyallow
 ||rb-holzkirchen-otterfing.de^
 ||rb-hs.de^
 ||rb-ichenhausen.de^
+||rb-im-naabtal.de^
 ||rb-kirchweihtal.de^
 ||rb-kirtorf.de^
-||rb-kitzingerland.de^
-||rb-km.de^
 ||rb-koetzting.de^
 ||rb-lauf.de^
-||rb-massbach.de^
 ||rb-mehrstetten.de^
 ||rb-mittelschwaben.de^
 ||rb-muenchen-nord.de^
@@ -1587,6 +1560,7 @@ $denyallow
 ||rb-niedere-alb.de^
 ||rb-nr.de^
 ||rb-oberaudorf.de^
+||rb-oberes-gaeu.de^
 ||rb-onw.de^
 ||rb-os.de^
 ||rb-parkstetten.de^
@@ -1594,7 +1568,6 @@ $denyallow
 ||rb-rattiszell-konzell.de^
 ||rb-reute-gaisbeuren.de^
 ||rb-schwaben.de^
-||rb-schwandorf-nittenau.de^
 ||rb-singoldtal.de^
 ||rb-sobland.de^
 ||rb-sondelfingen.de^
@@ -1605,11 +1578,9 @@ $denyallow
 ||rb-tuerkheim.de^
 ||rb-uz.de^
 ||rb-voreifel.de^
-||rb-wald.de^
 ||rb-waldaschaff.de^
 ||rb-wegscheid.de^
 ||rb-westeifel.de^
-||rb-windsbach.de^
 ||rb-wl.de^
 ||rb-wuestenselbitz.de^
 ||rb-wug.de^
@@ -1641,6 +1612,7 @@ $denyallow
 ||rbsinternational.com^
 ||rbstruvenhuetten.de^
 ||rbtodenbuettel.de^
+||rbui.de^
 ||rbuv.de^
 ||rcbconline-corporate.com^
 ||rcbconlinebanking.com^
@@ -1664,6 +1636,7 @@ $denyallow
 ||robokassa.ru^
 ||rocketbank.ru^
 ||rodnayasvyaz.ru^
+||romsdalsbanken.no^
 ||rorosbanken.no^
 ||ros.ie^
 ||rosavto.ru^
@@ -1690,7 +1663,6 @@ $denyallow
 ||rvbmil.de^
 ||rvboderspree.de^
 ||rvbvarelnordenham.de^
-||rvbwemding.de^
 ||s-jena.de^
 ||s-kukc.de^
 ||s-mil.de^
@@ -1770,8 +1742,8 @@ $denyallow
 ||sk-westerwald-sieg.de^
 ||skagerraksparebank.no^
 ||skandia.se^
-||skb-badhomburg.de^
 ||skb-buehlertal.de^
+||skb-dauchingen.de^
 ||skb-gemuenden.de^
 ||skb-hammah.de^
 ||skb-hardt.de^
@@ -1795,7 +1767,6 @@ $denyallow
 ||societegenerale.fr^
 ||sognbank.no^
 ||soknedal-sparebank.no^
-||sorexpay.com^
 ||southindianbank.com^
 ||sovcombank.ru^
 ||sozialbank.de^
@@ -1825,6 +1796,7 @@ $denyallow
 ||sparkasse-am-niederrhein.de^
 ||sparkasse-amberg-sulzbach.de^
 ||sparkasse-ansbach.de^
+||sparkasse-arnsberg-sundern.de^
 ||sparkasse-aurich-norden.de^
 ||sparkasse-badneustadt.de^
 ||sparkasse-bamberg.de^
@@ -1880,10 +1852,13 @@ $denyallow
 ||sparkasse-gm.de^
 ||sparkasse-gruenberg.de^
 ||sparkasse-guenzburg-krumbach.de^
+||sparkasse-guetersloh.de^
+||sparkasse-gunzenhausen.de^
 ||sparkasse-hagen.de^
 ||sparkasse-hamm.de^
 ||sparkasse-hanau.de^
 ||sparkasse-hannover.de^
+||sparkasse-haslach-zell.de^
 ||sparkasse-hattingen.de^
 ||sparkasse-hegau-bodensee.de^
 ||sparkasse-heidelberg.de^
@@ -1896,6 +1871,7 @@ $denyallow
 ||sparkasse-hochrhein.de^
 ||sparkasse-hochsauerland.de^
 ||sparkasse-hochschwarzwald.de^
+||sparkasse-hoexter.de^
 ||sparkasse-holstein.de^
 ||sparkasse-hrv.de^
 ||sparkasse-iserlohn.de^
@@ -1942,7 +1918,6 @@ $denyallow
 ||sparkasse-neuwied.de^
 ||sparkasse-niederbayern-mitte.de^
 ||sparkasse-niederlausitz.de^
-||sparkasse-noerdlingen.de^
 ||sparkasse-nordhorn.de^
 ||sparkasse-nuernberg.de^
 ||sparkasse-oberhessen.de^
@@ -1973,6 +1948,7 @@ $denyallow
 ||sparkasse-rottweil.de^
 ||sparkasse-saalfeld-rudolstadt.de^
 ||sparkasse-saarbruecken.de^
+||sparkasse-schongau.de^
 ||sparkasse-schwandorf.de^
 ||sparkasse-schwedt.de^
 ||sparkasse-schwerte.de^
@@ -1999,7 +1975,6 @@ $denyallow
 ||sparkasse-wa-fkb.de^
 ||sparkasse-wasserburg.de^
 ||sparkasse-wedel.de^
-||sparkasse-werl.de^
 ||sparkasse-wermelskirchen.de^
 ||sparkasse-werra-meissner.de^
 ||sparkasse-westmuensterland.de^
@@ -2032,6 +2007,7 @@ $denyallow
 ||spk-chemnitz.de^
 ||spk-elbe-elster.de^
 ||spk-frg.de^
+||spk-gengenbach.de^
 ||spk-gifhorn-wolfsburg.de^
 ||spk-goettingen.de^
 ||spk-hef.de^
@@ -2073,7 +2049,6 @@ $denyallow
 ||srbank.ru^
 ||ssk-bad-pyrmont.de^
 ||ssk-cuxhaven.de^
-||ssk-felsberg.de^
 ||ssk-wunstorf.de^
 ||sska.de^
 ||sskbo.de^
@@ -2085,6 +2060,7 @@ $denyallow
 ||stadtsparkasse-barsinghausen.de^
 ||stadtsparkasse-bocholt.de^
 ||stadtsparkasse-burgdorf.de^
+||stadtsparkasse-emmerich-rees.de^
 ||stadtsparkasse-grebenstein.de^
 ||stadtsparkasse-haltern.de^
 ||stadtsparkasse-hilchenbach.de^
@@ -2116,6 +2092,7 @@ $denyallow
 ||takarekbank.hu^
 ||tangerine.ca^
 ||targobank.de^
+||targobank.es^
 ||tarjetacencosud.cl^
 ||tas24.ua^
 ||taunussparkasse.de^
@@ -2183,7 +2160,6 @@ $denyallow
 ||unitpay.ru^
 ||univest.net^
 ||unsere-raiba.de^
-||unserevolksbank.de^
 ||uphold.com^
 ||upma.org^
 ||uralfd.ru^
@@ -2204,6 +2180,7 @@ $denyallow
 ||vb-alzey-worms.de^
 ||vb-amelsbueren.de^
 ||vb-ascheberg-herbern.de^
+||vb-aw.de^
 ||vb-bad-saulgau.de^
 ||vb-bbs.de^
 ||vb-bia.de^
@@ -2221,6 +2198,7 @@ $denyallow
 ||vb-gescher.de^
 ||vb-grebenhain.de^
 ||vb-halle.de^
+||vb-haltern.de^
 ||vb-heimbach.de^
 ||vb-hohenlimburg.de^
 ||vb-hohenlohe.de^
@@ -2243,7 +2221,6 @@ $denyallow
 ||vb-piel.de^
 ||vb-rb-riedlingen.de^
 ||vb-rb.de^
-||vb-regensburg.de^
 ||vb-reutlingen.de^
 ||vb-ruhrmitte.de^
 ||vb-saarpfalz.de^
@@ -2256,7 +2233,8 @@ $denyallow
 ||vb-stutensee-weingarten.de^
 ||vb-ue-saw.de^
 ||vb-ueberherrn.de^
-||vb-westerkappeln.de^
+||vb-ueberwald-gorxheimertal.de^
+||vb-untere-saar.de^
 ||vb-westerstede.de^
 ||vb-wickede.de^
 ||vb3.de^
@@ -2268,7 +2246,6 @@ $denyallow
 ||vbbremennord.de^
 ||vbbs.de^
 ||vbcloppenburg.de^
-||vbdammer-berge.de^
 ||vbdel.de^
 ||vbdessau.de^
 ||vbdh.de^
@@ -2295,6 +2272,7 @@ $denyallow
 ||vbloeningen.de^
 ||vblohne-muehlen.de^
 ||vblr.de^
+||vbneuenkirchen-voerden.de^
 ||vbnh.de^
 ||vbohz.de^
 ||vbos-nordland.de^
@@ -2327,8 +2305,10 @@ $denyallow
 ||viseca.ch^
 ||visecaone.ch^
 ||vlvb.de^
+||voba-aschaffenburg.de^
 ||voba-aw.de^
 ||voba-bigge-lenne.de^
+||voba-bkh.de^
 ||voba-bl.de^
 ||voba-breisgau-nord.de^
 ||voba-deisslingen.de^
@@ -2359,12 +2339,9 @@ $denyallow
 ||voba-zuff.de^
 ||vobabm.de^
 ||vobadhk.de^
-||vobadill.de^
 ||vobadirekt.de^
 ||vobadreieich.de^
 ||vobaeg.de^
-||vobahe.de^
-||vobahf.de^
 ||vobakl.de^
 ||vobakn.de^
 ||vobamt.de^
@@ -2410,9 +2387,9 @@ $denyallow
 ||volksbank-griesheim.de^
 ||volksbank-hameln-stadthagen.de^
 ||volksbank-hamm.de^
-||volksbank-heilbronn.de^
 ||volksbank-heinsberg.de^
 ||volksbank-hellweg.de^
+||volksbank-heuberg.de^
 ||volksbank-hochrhein.de^
 ||volksbank-hunsrueck-nahe.de^
 ||volksbank-im-mk.de^
@@ -2421,6 +2398,8 @@ $denyallow
 ||volksbank-karlsruhe.de^
 ||volksbank-kassel-goettingen.de^
 ||volksbank-kierspe.de^
+||volksbank-kirchheim-nuertingen.de^
+||volksbank-kirnau.de^
 ||volksbank-koeln-bonn.de^
 ||volksbank-krp.de^
 ||volksbank-kurpfalz.de^
@@ -2450,6 +2429,7 @@ $denyallow
 ||volksbank-rot.de^
 ||volksbank-rottweil.de^
 ||volksbank-staufen.de^
+||volksbank-straubing.de^
 ||volksbank-stuttgart.de^
 ||volksbank-sulmtal.de^
 ||volksbank-trier.de^
@@ -2457,8 +2437,8 @@ $denyallow
 ||volksbank-ueberlingen.de^
 ||volksbank-ulm-biberach.de^
 ||volksbank-vor-ort.de^
+||volksbank-welzheim.de^
 ||volksbank-weschnitztal.de^
-||volksbank-wissmar.de^
 ||volksbank-wittenberg.de^
 ||volksbank-zwickau.de^
 ||volksbanking.de^
@@ -2468,9 +2448,9 @@ $denyallow
 ||vostok.bank^
 ||vp.ru^
 ||vr-amberg.de^
-||vr-b.de^
 ||vr-bank-alzenau.de^
 ||vr-bank-alzey-land-schwabenheim.de^
+||vr-bank-dinklage-steinfeld.de^
 ||vr-bank-erding.de^
 ||vr-bank-landau.de^
 ||vr-bank-mittelsachsen.de^
@@ -2479,8 +2459,10 @@ $denyallow
 ||vr-bank-nordrhoen.de^
 ||vr-bank-online.de^
 ||vr-bank-passau.de^
+||vr-bank-sw.de^
 ||vr-bank-wuerzburg.de^
 ||vr-banknordeifel.de^
+||vr-bankverein.de^
 ||vr-bayernmitte.de^
 ||vr-burglengenfeld.de^
 ||vr-dachau.de^
@@ -2510,7 +2492,7 @@ $denyallow
 ||vrb-niederschlesien.de^
 ||vrb-uckermark-randow.de^
 ||vrbank-alsheim.de^
-||vrbank-am.de^
+||vrbank-bamberg.de^
 ||vrbank-bayreuth-hof.de^
 ||vrbank-coburg.de^
 ||vrbank-ellwangen.de^
@@ -2520,21 +2502,21 @@ $denyallow
 ||vrbank-hessenland.de^
 ||vrbank-hg.de^
 ||vrbank-ihn.de^
-||vrbank-im-enzkreis.de^
 ||vrbank-isar-vils.de^
-||vrbank-kf-oal.de^
 ||vrbank-mittelhaardt.de^
 ||vrbank-mkb.de^
 ||vrbank-obb-so.de^
 ||vrbank-ostalb.de^
 ||vrbank-rendsburg.de^
 ||vrbank-suedpfalz.de^
+||vrbank-suedthueringen.de^
 ||vrbank-suedwestpfalz.de^
 ||vrbank-sww.de^
 ||vrbank-untertaunus.de^
 ||vrbank-weimar.de^
 ||vrbank.de^
 ||vrbankgl.de^
+||vrbankniebuell.de^
 ||vrbanknuernberg.de^
 ||vrben.de^
 ||vrbfw.de^
@@ -2548,7 +2530,6 @@ $denyallow
 ||vrmeinebank.de^
 ||vrnu.de^
 ||vrsta.de^
-||vrwm.de^
 ||vspk-neustadt.de^
 ||vtb-direktbank.de^
 ||vtb.az^
@@ -2561,7 +2542,6 @@ $denyallow
 ||vwfs.de^
 ||vystarcu.org^
 ||w-saarplus.de^
-||waldecker-bank.de^
 ||warburg-bank.de^
 ||wartburg-sparkasse.de^
 ||wayforpay.com^
@@ -2580,7 +2560,6 @@ $denyallow
 ||widiba.it^
 ||winbank.gr^
 ||winterbacher-bank.de^
-||winterlinger-bank.de^
 ||wirecardbank.de^
 ||wise.com^
 ||wizink.es^
@@ -2691,8 +2670,8 @@ $denyallow
 ||xero.com^
 ||freshbooks.com^
 ||kashflow.com^
-||prestigecu.org^
 ||gov.kr^
+||paypal-topup.ee^
 ||1177.se^
 ||mijnpazio.nl^
 ||uwzorgonline.nl^
@@ -2724,7 +2703,6 @@ $denyallow
 ||dscloud.me^
 ||dscloud.mobi^
 ||dsmynas.com^
-||dsmynas.org^
 ||familyds.com^
 ||familyds.net^
 ||familyds.org^
@@ -2800,6 +2778,7 @@ $denyallow
 ||coinmarketcap.com^
 ||1-aclk.net^
 ||1aurl.io^
+||1aurl.net^
 ||2-aclk.net^
 ||2performant.com^
 ||3-aclk.net^
@@ -2821,6 +2800,7 @@ $denyallow
 ||adsmeasurement.com^
 ||adspeed.net^
 ||adx.io^
+||adzerk.com^
 ||adzerk.net^
 ||aff44.com^
 ||affiliate44.com^
@@ -2837,11 +2817,11 @@ $denyallow
 ||arttrk.com^
 ||atid.me^
 ||atimaze.com^
-||atlassbx.com^
 ||auto-swiat.pl^
 ||autopurchase.us^
 ||awmonitor.com^
 ||aylink.co^
+||bdash-tracking.com^
 ||beehiiv.com^
 ||bfast.com^
 ||bigcattracks.com^
@@ -2893,6 +2873,7 @@ $denyallow
 ||eacdn.com^
 ||ecomclk.com^
 ||eonlnm.com^
+||eonlnx.com^
 ||eulerian.net^
 ||ew3.io^
 ||findschools.ca^
@@ -2911,11 +2892,14 @@ $denyallow
 ||gotravelholidays.com^
 ||gsght.com^
 ||guenstiger.de^
+||healthservices.help^
+||homeresource.online^
 ||homesrvcs.com^
 ||href.li^
 ||hubspotemail.net^
 ||hubspotlinks.com^
 ||iljmp.com^
+||impulseonline.shop^
 ||ink1001.com^
 ||intercom-clicks.com^
 ||jdoqocy.com^
@@ -2957,7 +2941,6 @@ $denyallow
 ||mkto-ab100241.com^
 ||mkto-ab110171.com^
 ||mkto-ab110192.com^
-||mkto-ab120150.com^
 ||mkto-ab130037.com^
 ||mkto-ab130188.com^
 ||mkto-ab140048.com^
@@ -2989,7 +2972,6 @@ $denyallow
 ||mkto-ab350042.com^
 ||mkto-ab350123.com^
 ||mkto-ab390033.com^
-||mkto-ab390129.com^
 ||mkto-ab390137.com^
 ||mkto-ab390196.com^
 ||mkto-ab400068.com^
@@ -3030,6 +3012,7 @@ $denyallow
 ||mkto-ab610084.com^
 ||mkto-ab620021.com^
 ||mkto-ab620024.com^
+||mkto-ab620054.com^
 ||mkto-ab620071.com^
 ||mkto-ab620130.com^
 ||mkto-ab630033.com^
@@ -3073,7 +3056,6 @@ $denyallow
 ||mkto-lon050143.com^
 ||mkto-lon050200.com^
 ||mkto-lon060131.com^
-||mkto-lon070192.com^
 ||mkto-lon080006.com^
 ||mkto-lon080059.com^
 ||mkto-lon080118.com^
@@ -3082,10 +3064,8 @@ $denyallow
 ||mkto-lon090045.com^
 ||mkto-lon090082.com^
 ||mkto-lon090131.com^
-||mkto-lon100051.com^
 ||mkto-lon100178.com^
 ||mkto-m0106.com^
-||mkto-m0111.com^
 ||mkto-mlm10010008.com^
 ||mkto-n0092.com^
 ||mkto-n0243.com^
@@ -3103,7 +3083,6 @@ $denyallow
 ||mkto-nld1050007.com^
 ||mkto-nld1050103.com^
 ||mkto-nld1050130.com^
-||mkto-q0155.com^
 ||mkto-sj010104.com^
 ||mkto-sj010203.com^
 ||mkto-sj020238.com^
@@ -3113,8 +3092,6 @@ $denyallow
 ||mkto-sj040252.com^
 ||mkto-sj050237.com^
 ||mkto-sj070141.com^
-||mkto-sj070193.com^
-||mkto-sj070214.com^
 ||mkto-sj070218.com^
 ||mkto-sj080048.com^
 ||mkto-sj090132.com^
@@ -3126,7 +3103,6 @@ $denyallow
 ||mkto-sj160014.com^
 ||mkto-sj170174.com^
 ||mkto-sj180011.com^
-||mkto-sj190094.com^
 ||mkto-sj190104.com^
 ||mkto-sj200186.com^
 ||mkto-sj200191.com^
@@ -3152,7 +3128,6 @@ $denyallow
 ||mkto-sj320080.com^
 ||mkto-sj330006.com^
 ||mkto-sj340004.com^
-||mkto-sj360104.com^
 ||mkto-sj360142.com^
 ||mkto-sj380104.com^
 ||mkto-sj380142.com^
@@ -3206,6 +3181,7 @@ $denyallow
 ||realestatesrvs.com^
 ||rebrandlydomain.com^
 ||redirect.at^
+||reservationnow.us^
 ||restaurant-information.com^
 ||rewardtk.com^
 ||rtrk.ca^
@@ -3382,7 +3358,6 @@ $denyallow
 ||clien.net^
 ||ckk.ai^
 ||cba.pl^
-||brakrock.be^
 ||blogtopsites.com^
 ||123greetings.com^
 ||livejasmin.com^
@@ -3426,6 +3401,7 @@ $denyallow
 ||codeproject.com^
 ||fhm.com^
 ||putlocker.is^
+||bjbgc.com^
 ||msftconnecttest.com^
 ||kastatic.com^
 ||phncdn.com^
@@ -3468,6 +3444,7 @@ $denyallow
 ||5z8.info^
 ||vk.cc^
 ||is.gd^
+||0x.co^
 ||0rz.tw^
 ||lnkd.in^
 ||aka.ms^
@@ -3776,6 +3753,7 @@ $denyallow
 ||exblog.jp^
 ||alexa.com^
 ||icann.org^
+||domraider.io^
 ||campaign-archive1.com^
 ||census.gov^
 ||hbr.org^
@@ -3955,6 +3933,7 @@ $denyallow
 ||ukmail.com^
 ||nlrb.gov^
 ||inscname.net^
+||insnw.net^
 ||ucweb.com^
 ||drp.su^
 ||pinnaclesports.com^
@@ -4155,6 +4134,7 @@ $denyallow
 ||reseau-canope.fr^
 ||dnspod.cn^
 ||tigase.net^
+||tigase.tech^
 ||simplelogin.co^
 ||hearstnp.com^
 ||noscript.net^
@@ -4280,6 +4260,7 @@ $denyallow
 ||16mail.com^
 ||188.com^
 ||189.cn^
+||2-mail.com^
 ||21cn.com^
 ||2trom.com^
 ||4email.net^
@@ -4297,6 +4278,7 @@ $denyallow
 ||aim.com^
 ||airbnb.com^
 ||aircall.io^
+||aircraftmail.com^
 ||airfrance.com^
 ||airmail.cc^
 ||airmason.com^
@@ -4305,6 +4287,7 @@ $denyallow
 ||aleeas.com^
 ||alertmedia.com^
 ||aliceadsl.fr^
+||aliencamel.com^
 ||allergist.com^
 ||allmail.net^
 ||allstate.com^
@@ -4333,6 +4316,7 @@ $denyallow
 ||atriushealth.org^
 ||att-mail.com^
 ||att.net^
+||auctioneer.net^
 ||australiamail.com^
 ||auth0.com^
 ||authentisign.com^
@@ -4359,7 +4343,6 @@ $denyallow
 ||bell.ca^
 ||bellsouth.net^
 ||berlin.com^
-||bestmail.us^
 ||betterstack.com^
 ||beyondtrust.com^
 ||bill.com^
@@ -4375,6 +4358,7 @@ $denyallow
 ||bofa.com^
 ||boldsign.com^
 ||brainonfire.net^
+||brazilmail.com^
 ||brew-meister.com^
 ||brex.com^
 ||britishairways.com^
@@ -4384,12 +4368,10 @@ $denyallow
 ||bynder.com^
 ||byspotify.com^
 ||calendly.com^
-||caliburn.us^
 ||californiamail.com^
 ||canada.ca^
 ||canva.com^
 ||caramail.com^
-||cardalert.com^
 ||carta.com^
 ||catlover.com^
 ||cbamboo.com^
@@ -4437,6 +4419,7 @@ $denyallow
 ||cutey.com^
 ||cyber-wizard.com^
 ||cyberdude.com^
+||cybergal.com^
 ||cyberservices.com^
 ||dallasmail.com^
 ||databricks.com^
@@ -4461,6 +4444,7 @@ $denyallow
 ||doctract.com^
 ||docusign.com^
 ||docusign.net^
+||doglover.com^
 ||dollarbank.com^
 ||doordash.com^
 ||doorloop.com^
@@ -4487,7 +4471,7 @@ $denyallow
 ||email.com^
 ||emailconed.com^
 ||emailcorner.net^
-||emailgroups.net^
+||emailengine.net^
 ||emailplus.org^
 ||emailrep.io^
 ||emailuser.net^
@@ -4515,9 +4499,9 @@ $denyallow
 ||facebookenterprise.com^
 ||facebookmail.com^
 ||fadv.com^
-||fast-email.com^
 ||fastem.com^
 ||fastemailer.com^
+||fastmail.de^
 ||fastmail.es^
 ||fastmail.fm^
 ||fastmail.fr^
@@ -4525,6 +4509,7 @@ $denyallow
 ||fastmail.jp^
 ||fastmail.mx^
 ||fastmail.net^
+||fastmail.nl^
 ||fastmail.se^
 ||fastmail.to^
 ||fastmail.uk^
@@ -4554,6 +4539,7 @@ $denyallow
 ||fmgirl.com^
 ||fmguy.com^
 ||fontawesome.com^
+||foobox.com^
 ||fordcredit.com^
 ||fortinet.com^
 ||forwardemail.net^
@@ -4596,6 +4582,7 @@ $denyallow
 ||h-mail.us^
 ||hackermail.com^
 ||hackerone.com^
+||hailmail.net^
 ||hairdresser.net^
 ||hanmail.net^
 ||hashicorp.com^
@@ -4628,7 +4615,6 @@ $denyallow
 ||imap.cc^
 ||imapmail.org^
 ||immerbox.com^
-||iname.com^
 ||inbox.ru^
 ||indeedemail.com^
 ||infinitecampus.com^
@@ -4636,7 +4622,6 @@ $denyallow
 ||inorbit.com^
 ||inoutbox.com^
 ||instruction.com^
-||instructor.net^
 ||interac.ca^
 ||intercom-mail.com^
 ||intercom.com^
@@ -4651,7 +4636,6 @@ $denyallow
 ||ironcladapp.com^
 ||iru.com^
 ||israelmail.com^
-||italymail.com^
 ||jetblue.com^
 ||jetbrains.com^
 ||jnj.com^
@@ -4692,6 +4676,7 @@ $denyallow
 ||mail-central.com^
 ||mail.com^
 ||mail.microsoft^
+||mailas.com^
 ||mailbolt.com^
 ||mailc.net^
 ||mailcan.com^
@@ -4699,9 +4684,9 @@ $denyallow
 ||mailhaven.com^
 ||mailhippo.com^
 ||mailite.com^
-||mailnew.com^
 ||mailsent.net^
 ||mailsuite.com^
+||mailup.net^
 ||mailworks.org^
 ||malaysiaairlines.com^
 ||mandy.com^
@@ -4819,16 +4804,18 @@ $denyallow
 ||pm.me^
 ||pnmac.com^
 ||pobox.com^
-||polandmail.com^
+||politician.com^
 ||politicopro.com^
 ||post.com^
 ||postinbox.com^
 ||postpro.net^
 ||powerapps.com^
 ||presidency.com^
+||priest.com^
 ||primevideo.com^
 ||principal.com^
 ||programmer.net^
+||proinbox.com^
 ||promessage.com^
 ||proofpointessentials.com^
 ||proxyvote.com^
@@ -4874,8 +4861,8 @@ $denyallow
 ||sae.org^
 ||safeco.com^
 ||safrica.com^
-||saintly.com^
 ||salesforcedevs.com^
+||salesperson.net^
 ||samerica.com^
 ||samsclub.com^
 ||samsung-mail.com^
@@ -4890,7 +4877,6 @@ $denyallow
 ||secureemailportal.com^
 ||seetickets.com^
 ||sent.as^
-||sent.at^
 ||sent.com^
 ||sentinelone.com^
 ||sentinelone.net^
@@ -4905,7 +4891,6 @@ $denyallow
 ||shop.app^
 ||shutterstock.com^
 ||siemprebox.com^
-||siempremail.com^
 ||signable.com^
 ||signin.aws^
 ||signnow.com^
@@ -4926,6 +4911,7 @@ $denyallow
 ||socradar.com^
 ||sofi.com^
 ||solution4u.com^
+||songwriter.net^
 ||sony.com^
 ||southwest.com^
 ||spacex.com^
@@ -4967,7 +4953,6 @@ $denyallow
 ||thanx.com^
 ||thecyberwire.com^
 ||theinformation.com^
-||theinternetemail.com^
 ||thinkific.com^
 ||thomsonreuters.com^
 ||ticketmaster.com^
@@ -4976,7 +4961,6 @@ $denyallow
 ||tmxnet.com^
 ||toke.com^
 ||tom.com^
-||toothfairy.com^
 ||torontomail.com^
 ||trello.com^
 ||tremendous.com^
@@ -5005,6 +4989,7 @@ $denyallow
 ||verizon.net^
 ||verizonenterprise.com^
 ||verizonwireless.com^
+||veryfast.biz^
 ||vfemail.net^
 ||virginatlantic.com^
 ||virginaustralia.com^
@@ -5142,7 +5127,6 @@ $denyallow
 ||imgbox.com^
 ||imgshare.info^
 ||imgtaxi.com^
-||imgview.pw^
 ||jewishquarterly.org^
 ||jsfiddle.net^
 ||kingdomofloathing.com^
@@ -5193,6 +5177,7 @@ $denyallow
 ||sonos.com^
 ||soundhound.com^
 ||spankbang.com^
+||sports-streams-online.xyz^
 ||ssl-images-amazon.com^
 ||staradvertiser.com^
 ||statcounter.com^
@@ -5390,7 +5375,6 @@ $denyallow
 ||animusassociation.org^
 ||autism-india.org^
 ||autism-society.org^
-||autism.ie^
 ||autismcanada.org^
 ||aware.ie^
 ||awel.be^
@@ -5416,18 +5400,15 @@ $denyallow
 ||caw.be^
 ||ccsa.ca^
 ||centarsrce.org^
-||centermaria.org^
 ||centrumseksueelgeweld.nl^
 ||chadd.org^
 ||childfocus.be^
 ||childhelp.org^
 ||childhelphotline.org^
 ||childhelplineinternational.org^
-||childline.ie^
 ||childlineindia.org^
 ||cmha.ca^
 ||cnpea.ca^
-||cnzd.org^
 ||coalitionforthehomeless.org^
 ||connexontario.ca^
 ||crcvc.ca^
@@ -5435,6 +5416,7 @@ $denyallow
 ||crisisservicescanada.ca^
 ||crisistextline.org^
 ||crw-bg.org^
+||cssnv.org^
 ||csspraha.cz^
 ||cybertip.org^
 ||czzzr.hr^
@@ -5455,8 +5437,6 @@ $denyallow
 ||fier.nl^
 ||fld.ba^
 ||fokus-praha.cz^
-||fundatiasensiblu.ro^
-||geburt-vertraulich.de^
 ||giveusashout.org^
 ||good2talk.ca^
 ||gov.hr^
@@ -5503,7 +5483,6 @@ $denyallow
 ||nami.org^
 ||naseeha.org^
 ||nationaleatingdisorders.org^
-||nationalparenthelpline.org^
 ||nazindia.org^
 ||ncpgambling.org^
 ||ncwwomenhelpline.in^
@@ -5522,30 +5501,27 @@ $denyallow
 ||plavi-telefon.hr^
 ||plavitelefon.ba^
 ||plzensky-kraj.cz^
-||pulsfoundation.org^
 ||rainn.org^
 ||rapecrisishelp.ie^
 ||redcross.bg^
 ||redcross.ru^
 ||reprolegalhelpline.org^
 ||rethink.org^
+||rocf.org^
 ||sadag.org^
 ||safebaby.org^
 ||safehorizon.org^
 ||safenet.bg^
 ||safetotalk.nz^
 ||safmh.org^
-||samaritans.bg^
 ||samaritans.org^
 ||samaritansmumbai.com^
 ||samaritansonlus.org^
 ||samhsa.gov^
 ||sananim.cz^
 ||sane.org^
-||saveindianfamily.in^
 ||scottishautism.org^
 ||sekis-berlin.de^
-||selfinjury.com^
 ||shallwetalk.hk^
 ||sheltersafe.ca^
 ||shine.ie^
@@ -5554,9 +5530,7 @@ $denyallow
 ||smokefree.gov^
 ||snehaindia.org^
 ||snehamumbai.org^
-||soscentrum.cz^
 ||standffov.org^
-||starthealing.org^
 ||stopitnow.org^
 ||suchtundwendepunkt.de^
 ||suicideprevention.ca^
@@ -5582,7 +5556,6 @@ $denyallow
 ||uksobs.org^
 ||vandrevalafoundation.com^
 ||veiligthuis.nl^
-||vertrouwenscentrum-kindermishandeling.be^
 ||veteranscrisisline.net^
 ||waregem.be^
 ||wavaw.ca^
@@ -5594,11 +5567,10 @@ $denyallow
 ||zelfmoord1813.be^
 ||zenskapomocsada.hr^
 ||zenskasoba.hr^
+||zestni.org^
 ||asusap.com^
-||asusap.net^
 ||asusnetwork.net^
 ||asusrepeater.com^
-||asusrepeater.net^
 ||asusrouter.com^
 ||asusswitch.com^
 ||asusswitch.net^
@@ -5611,6 +5583,7 @@ $denyallow
 ||huaweimobilewifi.com^
 ||kabel.box^
 ||localbattle.net^
+||myfritz.box^
 ||routerlogin.com^
 ||routerlogin.net^
 ||steamloopback.host^
@@ -5709,6 +5682,7 @@ $denyallow
 ||dst.com^
 ||du.ae^
 ||econet.net^
+||edgemobile.net^
 ||ekn.com^
 ||elisa.ee^
 ||elisa.fi^
@@ -5719,6 +5693,7 @@ $denyallow
 ||era.pl^
 ||etc.com^
 ||etisalat.ae^
+||euskaltel.mobi^
 ||fastweb.it^
 ||fido.ca^
 ||free.re^
@@ -5737,7 +5712,6 @@ $denyallow
 ||hkcsl.com^
 ||iijmio.jp^
 ||iliad.it^
-||indosat-m3.net^
 ||indosat.com^
 ||internet.se^
 ||internet.tn^
@@ -5757,6 +5731,7 @@ $denyallow
 ||meditel.ma^
 ||metropcs.net^
 ||mineo.jp^
+||mms-tf.net^
 ||mmsbouygtel.com^
 ||mmsc.be^
 ||mni.pl^
@@ -5786,12 +5761,11 @@ $denyallow
 ||mycricket.com^
 ||mymeteor.ie^
 ||myq.gr^
-||natel.ch^
 ||nemont.mobi^
 ||nova.gr^
 ||nova.is^
 ||ntwls.net^
-||nwmcell.com^
+||nwn.no^
 ||o2active.cz^
 ||oasis-smartsim.com^
 ||oister.dk^
@@ -5841,10 +5815,8 @@ $denyallow
 ||smdp.io^
 ||sonera.fi^
 ||song.fi^
-||sonofon.dk^
 ||springmobil.se^
 ||sprintpcs.com^
-||sprocketwireless.com^
 ||suncom.net^
 ||sunrise.ch^
 ||symacom.fr^
@@ -5890,7 +5862,6 @@ $denyallow
 ||three.ie^
 ||tim.it^
 ||tiscali.mobi^
-||tmovil.cl^
 ||tot3g.net^
 ||tracfone.com^
 ||tre.it^
@@ -5941,7 +5912,7 @@ $denyallow
 ||xlgprs.net^
 ||yettel.hu^
 ||zain.sd^
-||itisatracker.org^
+||itisatracker.com^
 ||safebrowsing.apple^
 ||ntp.se^
 ||sptime.se^
@@ -6136,6 +6107,7 @@ $denyallow
 ||euronext.com^
 ||ew.com^
 ||expressen.se^
+||fakeshop-finder.nrw^
 ||familydollar.com^
 ||fanpage.it^
 ||federugby.it^
@@ -6329,7 +6301,6 @@ $denyallow
 ||oboom.com^
 ||observer.com^
 ||ohchr.org^
-||olivia-ai.org^
 ||olx.it^
 ||onenote.com^
 ||onet.pl^
@@ -6707,13 +6678,13 @@ $denyallow
 ||1337x.to^
 ||1e100.net^
 ||1gr.cz^
-||1url.com^
 ||1xbet.com^
 ||2-spyware.com^
 ||21stcenturywire.com^
 ||2ch.net^
 ||2giga.link^
 ||2ip.ru^
+||2t.com^
 ||36kr.com^
 ||39.net^
 ||3c.co^
@@ -6739,9 +6710,9 @@ $denyallow
 ||active.com^
 ||activistpost.com^
 ||actonsoftware.com^
+||ad.vu^
 ||ada.support^
 ||adage.com^
-||adcolo.com^
 ||addevent.com^
 ||addr.com^
 ||adfinis-sygroup.ch^
@@ -6767,25 +6738,26 @@ $denyallow
 ||allekabels.nl^
 ||allkpop.com^
 ||amap.com^
-||amazon.ac^
 ||amazon.ad^
 ||amazon.ae^
 ||amazon.ag^
 ||amazon.ai^
+||amazon.associates^
 ||amazon.at^
 ||amazon.autos^
 ||amazon.band^
 ||amazon.barcelona^
 ||amazon.be^
 ||amazon.bet^
+||amazon.bg^
 ||amazon.bi^
+||amazon.boutique^
 ||amazon.brussels^
 ||amazon.by^
 ||amazon.cab^
 ||amazon.camp^
 ||amazon.care^
 ||amazon.career^
-||amazon.careers^
 ||amazon.cg^
 ||amazon.ch^
 ||amazon.chat^
@@ -6799,7 +6771,6 @@ $denyallow
 ||amazon.coffee^
 ||amazon.cologne^
 ||amazon.condos^
-||amazon.cool^
 ||amazon.cr^
 ||amazon.cz^
 ||amazon.dentist^
@@ -6814,9 +6785,9 @@ $denyallow
 ||amazon.es^
 ||amazon.estate^
 ||amazon.eu^
-||amazon.events^
 ||amazon.exchange^
 ||amazon.exposed^
+||amazon.fans^
 ||amazon.fi^
 ||amazon.finance^
 ||amazon.florist^
@@ -6824,11 +6795,12 @@ $denyallow
 ||amazon.ge^
 ||amazon.gg^
 ||amazon.gift^
+||amazon.global^
+||amazon.gp^
 ||amazon.gr^
 ||amazon.graphics^
 ||amazon.gt^
 ||amazon.hamburg^
-||amazon.hk^
 ||amazon.holiday^
 ||amazon.how^
 ||amazon.hr^
@@ -6836,6 +6808,7 @@ $denyallow
 ||amazon.ie^
 ||amazon.im^
 ||amazon.info^
+||amazon.ink^
 ||amazon.international^
 ||amazon.ir^
 ||amazon.irish^
@@ -6843,14 +6816,17 @@ $denyallow
 ||amazon.it^
 ||amazon.jobs^
 ||amazon.jp^
+||amazon.ke^
 ||amazon.kim^
 ||amazon.kn^
 ||amazon.la^
-||amazon.lighting^
 ||amazon.limo^
 ||amazon.london^
+||amazon.lt^
 ||amazon.lu^
 ||amazon.lv^
+||amazon.management^
+||amazon.mba^
 ||amazon.me^
 ||amazon.melbourne^
 ||amazon.menu^
@@ -6858,12 +6834,13 @@ $denyallow
 ||amazon.mn^
 ||amazon.mx^
 ||amazon.my^
+||amazon.net^
 ||amazon.ng^
 ||amazon.ni^
 ||amazon.nl^
 ||amazon.no^
+||amazon.nr^
 ||amazon.nyc^
-||amazon.ooo^
 ||amazon.org^
 ||amazon.party^
 ||amazon.ph^
@@ -6871,18 +6848,16 @@ $denyallow
 ||amazon.pk^
 ||amazon.pl^
 ||amazon.pr^
-||amazon.properties^
 ||amazon.pt^
 ||amazon.pw^
 ||amazon.qpon^
-||amazon.quebec^
+||amazon.racing^
 ||amazon.red^
-||amazon.rest^
 ||amazon.ro^
 ||amazon.rs^
 ||amazon.ru^
-||amazon.run^
 ||amazon.rw^
+||amazon.sale^
 ||amazon.salon^
 ||amazon.school^
 ||amazon.science^
@@ -6890,16 +6865,14 @@ $denyallow
 ||amazon.se^
 ||amazon.services^
 ||amazon.sg^
-||amazon.shop^
+||amazon.shopping^
 ||amazon.si^
 ||amazon.soccer^
 ||amazon.solar^
 ||amazon.studio^
 ||amazon.su^
 ||amazon.sv^
-||amazon.sx^
-||amazon.tf^
-||amazon.theater^
+||amazon.tirol^
 ||amazon.tj^
 ||amazon.tk^
 ||amazon.tl^
@@ -6909,7 +6882,7 @@ $denyallow
 ||amazon.travel^
 ||amazon.tv^
 ||amazon.ua^
-||amazon.university^
+||amazon.video^
 ||amazon.vision^
 ||amazon.vn^
 ||amazon.wine^
@@ -7006,6 +6979,7 @@ $denyallow
 ||bing.gr^
 ||bing.hu^
 ||bing.it^
+||bing.no^
 ||bing.pl^
 ||bing.ru^
 ||bing.se^
@@ -7020,6 +6994,7 @@ $denyallow
 ||blackberry.com^
 ||blacklistednews.com^
 ||bleepingcomputer.com^
+||blinky.me^
 ||blizz.ly^
 ||blo.gs^
 ||blockadblock.com^
@@ -7050,6 +7025,7 @@ $denyallow
 ||cackle.me^
 ||cafemom.com^
 ||cambridge.org^
+||cane.com^
 ||canyoublockit.com^
 ||carbonads.net^
 ||cbsistatic.com^
@@ -7207,7 +7183,6 @@ $denyallow
 ||eztv.re^
 ||fabric.io^
 ||factorio.com^
-||fanat.ua^
 ||fark.com^
 ||fast.com^
 ||fast.io^
@@ -7234,6 +7209,7 @@ $denyallow
 ||fir.im^
 ||firebaseio.com^
 ||firstpost.com^
+||firstspot.com^
 ||fitgirl-repacks.site^
 ||flaticon.com^
 ||flic.kr^
@@ -7455,6 +7431,7 @@ $denyallow
 ||highcharts.com^
 ||hindilinks4u.to^
 ||hindustantimes.com^
+||hit.me^
 ||hitf.to^
 ||hitfilm.com^
 ||hitomi.la^
@@ -7473,7 +7450,6 @@ $denyallow
 ||hubspot.net^
 ||humansarefree.com^
 ||hunkemoller.com^
-||hurl.com^
 ||huzlers.com^
 ||hwcdn.net^
 ||hydrax.net^
@@ -7716,6 +7692,7 @@ $denyallow
 ||nowtheendbegins.com^
 ||npmjs.com^
 ||nseindia.com^
+||nturl.com^
 ||nulledfree.pw^
 ||nurl.net^
 ||nutrija.com^
@@ -7769,6 +7746,7 @@ $denyallow
 ||pcbeta.com^
 ||pcmag.com^
 ||pdf-archive.com^
+||pedr.com^
 ||peeksoft.co^
 ||performfeeds.com^
 ||perksatwork.com^
@@ -7804,6 +7782,7 @@ $denyallow
 ||prtimes.jp^
 ||pscdn.co^
 ||pstmrk.it^
+||pu.sh^
 ||pugetsystems.com^
 ||pushcrew.com^
 ||pusher.com^
@@ -7859,7 +7838,6 @@ $denyallow
 ||rikka.app^
 ||riotpixels.com^
 ||riverisland.com^
-||rkurl.com^
 ||rli.nl^
 ||roadandtrack.com^
 ||roar.media^
@@ -7892,6 +7870,7 @@ $denyallow
 ||searchenginejournal.com^
 ||seclists.org^
 ||securelist.com^
+||securemecca.com^
 ||seedr.cc^
 ||segment.com^
 ||semrush.com^
@@ -7914,7 +7893,6 @@ $denyallow
 ||sitepoint.com^
 ||skyrock.com^
 ||slack-redir.net^
-||slaesforce.com^
 ||slushpool.com^
 ||smartlook.com^
 ||smartsheet.com^
@@ -8042,11 +8020,9 @@ $denyallow
 ||uptostream.com^
 ||ur.ly^
 ||urbanspoon.com^
-||url.ch^
 ||url.com^
 ||url.it^
 ||url.org^
-||urlbd.com^
 ||urls.me^
 ||urlz.fr^
 ||us-cert.gov^
@@ -8181,7 +8157,6 @@ $denyallow
 ||mkto-abm0229.com^
 ||mkto-sj240014.com^
 ||mkto-sj370181.com^
-||mkto-sjh0224.com^
 ||natfrp.cloud^
 ||onethingpcs.com^
 ||pangolin-sdk-toutiao.com^
@@ -8408,6 +8383,7 @@ $denyallow
 ||bancobic.ao^
 ||bancobic.pt^
 ||bancobpi.pt^
+||bancochile.com^
 ||bancofalabella.pe^
 ||bancopopolare.it^
 ||bancoposta.it^
@@ -8425,6 +8401,7 @@ $denyallow
 ||bankofirelanduk.com^
 ||bankofoklahoma.com^
 ||banksinarmas.com^
+||bankvonroll.ch^
 ||banque-casino.fr^
 ||banquescotia.com^
 ||barclayspartnerfinance.com^
@@ -8459,6 +8436,7 @@ $denyallow
 ||bzbank.ch^
 ||ca-cib.com^
 ||ca-egypt.com^
+||ca-suisse.com^
 ||cafbank.org^
 ||cafonline.org^
 ||caisse-epargne.com^
@@ -8494,9 +8472,11 @@ $denyallow
 ||commerzbank.com^
 ||coopbank.dk^
 ||corner.ch^
+||cornerbanca.ch^
 ||cornercard.ch^
 ||cornercard.com^
 ||corporate-ir.net^
+||cosycard.ch^
 ||coutts.com^
 ||credit-agricole.com^
 ||creditagricole.rs^
@@ -8526,14 +8506,13 @@ $denyallow
 ||domain.com^
 ||doubleclick.com^
 ||dovecot.org^
-||dresdner-bank.de^
+||dsbbank.sr^
 ||dsbl.org^
 ||duncanlawrie.com^
 ||e-gulfbank.com^
 ||easybank.at^
 ||ebay.de^
 ||ecobank.com^
-||ediets.com^
 ||edwardjones.com^
 ||egroups.com^
 ||excite.com^
@@ -8613,11 +8592,11 @@ $denyallow
 ||myonlineresourcecenter.com^
 ||myonlineservices.ch^
 ||nate.com^
-||nationalesuisse.ch^
 ||nbc.ca^
 ||netzero.net^
 ||newyorkfed.org^
 ||nod32.com^
+||nordea.lt^
 ||nordfynsbank.dk^
 ||norman.com^
 ||notenstein.ch^
@@ -8633,7 +8612,6 @@ $denyallow
 ||passport.com^
 ||paylife.at^
 ||paypal-community.com^
-||paypal-customerfeedback.com^
 ||paypal-deutschland.de^
 ||paypal-exchanges.com^
 ||paypal-notify.com^
@@ -8658,7 +8636,6 @@ $denyallow
 ||popolarevicenza.it^
 ||postbank.de^
 ||postepay.it^
-||postfinancearena.ch^
 ||price.ru^
 ||prodigy.net^
 ||rabobank.com^
@@ -8797,23 +8774,31 @@ $denyallow
 ||exp-tas.com^
 ||microsoft.az^
 ||microsoft.ca^
+||microsoft.cat^
 ||microsoft.ch^
+||microsoft.cl^
 ||microsoft.cz^
 ||microsoft.de^
 ||microsoft.dk^
+||microsoft.ee^
 ||microsoft.es^
+||microsoft.eu^
 ||microsoft.fi^
 ||microsoft.hu^
 ||microsoft.io^
 ||microsoft.is^
 ||microsoft.it^
 ||microsoft.jp^
+||microsoft.lt^
+||microsoft.lv^
 ||microsoft.net^
 ||microsoft.pl^
+||microsoft.pt^
 ||microsoft.ro^
 ||microsoft.rs^
 ||microsoft.ru^
 ||microsoft.se^
+||microsoft.ua^
 ||microsoft.us^
 ||microsoft.uz^
 ||microsoft.vn^
@@ -8914,13 +8899,16 @@ $denyallow
 ||prodregistryv2.org^
 ||megaflixapp.top^
 ||0emn.com^
+||0fmm.com^
 ||123freeavatars.com^
 ||127.net^
 ||1377x.to^
 ||13tabs.com^
 ||192.com^
 ||1gb.ru^
+||1guy1cock.com^
 ||1man2needles.com^
+||1priest1nun.net^
 ||1shoppingcart.com^
 ||1tk.us^
 ||20min.fr^
@@ -8969,7 +8957,6 @@ $denyallow
 ||adverticum.net^
 ||advise.co^
 ||affex.org^
-||affiliates-solutions.com^
 ||aiemont.com^
 ||aii.sh^
 ||aimatch.com^
@@ -8977,6 +8964,7 @@ $denyallow
 ||alilaguna.it^
 ||alivecrm.com^
 ||americanlisted.com^
+||amospalla.es^
 ||androidweblog.com^
 ||andronova.net^
 ||ankarex.net^
@@ -9031,7 +9019,6 @@ $denyallow
 ||brestcity.com^
 ||brightdata.com^
 ||bttn.io^
-||buoydeparturediscontent.com^
 ||bz-berlin.de^
 ||canarytokens.com^
 ||captcha.la^
@@ -9096,6 +9083,7 @@ $denyallow
 ||dpuplet.net^
 ||dragonblogger.com^
 ||driverpack.io^
+||dspultra.com^
 ||duffelblog.com^
 ||dw.com^
 ||dylaa.com^
@@ -9107,11 +9095,11 @@ $denyallow
 ||efilli.com^
 ||eisys-bcs.jp^
 ||eldridgestreet.org^
-||elementor.cloud^
 ||ensighten.com^
 ||epidemicproof.com^
 ||epsilon.com^
 ||espressonisten.de^
+||ettoday.com^
 ||everesttech.net^
 ||evidon.com^
 ||eviltracker.net^
@@ -9140,7 +9128,6 @@ $denyallow
 ||fruitlauncher.com^
 ||fukt.link^
 ||fzlnk.com^
-||gacorbos.me^
 ||game-repack.site^
 ||gamesgx.net^
 ||gclnk.com^
@@ -9225,7 +9212,6 @@ $denyallow
 ||katzr.net^
 ||keyade.com^
 ||kicker.com^
-||kmetija-ploder.com^
 ||kochava.com^
 ||laureus.com^
 ||leads.su^
@@ -9257,7 +9243,6 @@ $denyallow
 ||maper.info^
 ||marchex.io^
 ||marinsm.com^
-||masklink.org^
 ||mastermind.com^
 ||masuk.to^
 ||mctrades.org^
@@ -9285,7 +9270,6 @@ $denyallow
 ||myaffiliates.com^
 ||mylinkinb.io^
 ||mypi.co^
-||mystats.com^
 ||mysterium.network^
 ||mytrackcdn.com^
 ||myvzw.com^
@@ -9297,7 +9281,6 @@ $denyallow
 ||netmera.com^
 ||newsbreak.com^
 ||nimiq.network^
-||novastarled.com^
 ||npttech.com^
 ||nrich.ai^
 ||nsogroup.com^
@@ -9355,7 +9338,6 @@ $denyallow
 ||pxc-coding.com^
 ||py.md^
 ||q-r.to^
-||qartvb.com^
 ||qr.codes^
 ||qrco.de^
 ||qrcodedynamic.com^
@@ -9410,6 +9392,7 @@ $denyallow
 ||shodanhq.com^
 ||shorten.ee^
 ||shortu.be^
+||shorturl.win^
 ||shrturl.site^
 ||sht.moe^
 ||shtu.be^
@@ -9441,6 +9424,7 @@ $denyallow
 ||supercell.net^
 ||surl.lt^
 ||surveyrouter.com^
+||switch.pt^
 ||syb.com^
 ||sysdig.com^
 ||tactilews.com^
@@ -9498,7 +9482,6 @@ $denyallow
 ||uplus.kr^
 ||url1.io^
 ||urladda.com^
-||urlto.me^
 ||urlvanish.com^
 ||urly.fi^
 ||urlz.li^
@@ -9543,7 +9526,6 @@ $denyallow
 ||y8.com^
 ||yadro.ru^
 ||yamantap.me^
-||yaso.su^
 ||yayhooray.com^
 ||yep.pt^
 ||yeshen.com^
@@ -9833,6 +9815,7 @@ $denyallow
 ||*.affirm.com^
 ||*.anexia-it.com^
 ||*.snap.com^
+||*.hotdogsandads.com^
 ||*.pizzaandads.com^
 ||*.ngenix.net^
 ||*.ipify.org^
@@ -9945,7 +9928,6 @@ $denyallow
 ||*.marfeel.com^
 ||*.edigitalsurvey.com^
 ||*.2mdn.net^
-||*.g17media.com^
 ||*.alipromo.com^
 ||*.optimizely.com^
 ||*.viglink.com^
@@ -9956,9 +9938,7 @@ $denyallow
 ||*.fwmrm.net^
 ||*.ru.net^
 ||*.termux.net^
-||*.wodtogether.com^
 ||*.instapaper.com^
-||*.budgetbankers.com^
 ||*.thisissand.com^
 ||*.samsungosp.com^
 ||*.dropboxapi.com^
@@ -10021,13 +10001,13 @@ $denyallow
 ||*.alahli.com^
 ||*.albank.ru^
 ||*.alfa-bank.by^
+||*.alfabank.kz^
 ||*.alfabank.ru^
 ||*.alfaportal.ru^
 ||*.alinma.com^
 ||*.aliorbank.pl^
 ||*.alipay.com^
 ||*.allegacy.org^
-||*.allgaeuer-volksbank.de^
 ||*.alliantcreditunion.com^
 ||*.alliantcreditunion.org^
 ||*.ally.com^
@@ -10038,7 +10018,6 @@ $denyallow
 ||*.altbank.com^
 ||*.alterna.ca^
 ||*.altinn.no^
-||*.alxinger-bank.de^
 ||*.amedigital.com^
 ||*.amerantbank.com^
 ||*.americanexpress.com^
@@ -10202,7 +10181,6 @@ $denyallow
 ||*.bnkv.ru^
 ||*.bnpparibas.com^
 ||*.bnpparibas.hu^
-||*.bnpparibas.nc^
 ||*.bnpparibasfortis.be^
 ||*.bobibanking.com^
 ||*.boc.cn^
@@ -10302,7 +10280,6 @@ $denyallow
 ||*.credit365.ua^
 ||*.creditbank.com^
 ||*.creditdnepr.com^
-||*.crediteurope.de^
 ||*.crediteurope.nl^
 ||*.crediteurope.ro^
 ||*.crediteurope.ru^
@@ -10327,13 +10304,11 @@ $denyallow
 ||*.danskebank.se^
 ||*.datev.de^
 ||*.davivienda.com^
-||*.db-pbc.pl^
 ||*.db.com^
 ||*.dcu-online.org^
 ||*.dcu.org^
 ||*.degussa-bank.de^
 ||*.deine-volksbank.de^
-||*.dengisend.ru^
 ||*.dengulebanken.no^
 ||*.desjardins.com^
 ||*.dettinger-bank.de^
@@ -10389,7 +10364,6 @@ $denyallow
 ||*.eh-sparebank.no^
 ||*.eika.no^
 ||*.ekapusta.ru^
-||*.elevationsbanking.com^
 ||*.elevationscu.com^
 ||*.ellisbank.com^
 ||*.elster.de^
@@ -10412,6 +10386,7 @@ $denyallow
 ||*.evobanco.com^
 ||*.expr.ru^
 ||*.express-bank.ru^
+||*.ezaimo.ru^
 ||*.fairfx.com^
 ||*.faktura.ru^
 ||*.farmersebank.com^
@@ -10435,6 +10410,7 @@ $denyallow
 ||*.flessabank.de^
 ||*.flip.id^
 ||*.fnbba.com^
+||*.foehr-amrumer-bank.de^
 ||*.foerde-sparkasse.de^
 ||*.fondsdepotbank.de^
 ||*.forabank.ru^
@@ -10458,7 +10434,6 @@ $denyallow
 ||*.gefa-bank.de^
 ||*.generali.it^
 ||*.geniusepay.in^
-||*.genoba-mecka.de^
 ||*.genoba-weil.de^
 ||*.genobamuc.de^
 ||*.genobank-mainz.de^
@@ -10486,7 +10461,6 @@ $denyallow
 ||*.gunaybank.com^
 ||*.gutapay.ru^
 ||*.hafnerbank.de^
-||*.hagnauer-volksbank.de^
 ||*.halkbank.mk^
 ||*.halkbank.rs^
 ||*.haltdalensparebank.no^
@@ -10530,7 +10504,6 @@ $denyallow
 ||*.hsbcprivatebank.com^
 ||*.huemmlinger-volksbank.de^
 ||*.huntington.com^
-||*.husumer-volksbank.de^
 ||*.hypo.fi^
 ||*.hypovereinsbank.de^
 ||*.i-vtb.by^
@@ -10685,7 +10658,6 @@ $denyallow
 ||*.kubankredit.ru^
 ||*.kucoin.com^
 ||*.kuzbank.ru^
-||*.kuzbasshimbank.ru^
 ||*.kvartplata.ru^
 ||*.kvinesdalsparebank.no^
 ||*.kyffhaeusersparkasse.de^
@@ -10697,6 +10669,7 @@ $denyallow
 ||*.leboutique.com^
 ||*.legalandgeneral.com^
 ||*.leipziger-volksbank.de^
+||*.leomoney.com^
 ||*.leumi.ro^
 ||*.levo-bank.de^
 ||*.lexoffice.de^
@@ -10724,7 +10697,6 @@ $denyallow
 ||*.marcus.com^
 ||*.marinecu.com^
 ||*.maritimebank.com^
-||*.marker-sparebank.no^
 ||*.martinbank.de^
 ||*.masterpass.com^
 ||*.mbs.de^
@@ -10784,6 +10756,7 @@ $denyallow
 ||*.muenchner-bank.de^
 ||*.mueritz-sparkasse.de^
 ||*.mvb.de^
+||*.my-volksbank.de^
 ||*.mybrdnet.ro^
 ||*.mycred.io^
 ||*.myetherwallet.com^
@@ -10800,7 +10773,6 @@ $denyallow
 ||*.natwest.com^
 ||*.navyfederal.org^
 ||*.naxcivanbank.az^
-||*.nbcbank.az^
 ||*.nbg.gr^
 ||*.netbank.de^
 ||*.neteller.com^
@@ -10841,20 +10813,12 @@ $denyallow
 ||*.onezaim.ru^
 ||*.onfastspring.com^
 ||*.onlinebank.kz^
-||*.onlinebanking-fuggerbank.de^
-||*.onlinebanking-grenkebank.de^
 ||*.onlinebanking-ibb-ag.com^
-||*.onlinebanking-northchannelbank.de^
-||*.onlinebanking-psd-braunschweig.de^
-||*.onlinebanking-psd-koeln.de^
-||*.onlinebanking-psd-rhein-ruhr.de^
 ||*.onlinebanking-psd-rheinneckarsaar.de^
 ||*.onlinebanking-raiba-pfaffenhofen.de^
-||*.onlinebanking-raiffeisenbank-heroldsbach.de^
 ||*.onlinebanking-raiffeisenbank-regenstauf.de^
 ||*.onlinebanking-rb-hersbruck.de^
 ||*.onlinebanking-rb-plankstetten.de^
-||*.onlinebanking-rv-direkt.de^
 ||*.onlinesbi.sbi^
 ||*.onstmettinger-bank.de^
 ||*.op.fi^
@@ -10950,6 +10914,7 @@ $denyallow
 ||*.privat24.ru^
 ||*.privat24.ua^
 ||*.privatbank.ua^
+||*.procreditbank.de^
 ||*.profitbank.ru^
 ||*.promenergobank.ru^
 ||*.prospera.ca^
@@ -10981,7 +10946,6 @@ $denyallow
 ||*.quirion.de^
 ||*.rabobank.nl^
 ||*.rabodirect.de^
-||*.raiba-aindling.de^
 ||*.raiba-aitrang-rud.de^
 ||*.raiba-alsbach.de^
 ||*.raiba-altdorf-feucht.de^
@@ -10999,10 +10963,8 @@ $denyallow
 ||*.raiba-fkh.de^
 ||*.raiba-flachsmeer.de^
 ||*.raiba-floss.de^
-||*.raiba-gaimbux.de^
 ||*.raiba-gh.de^
 ||*.raiba-gilching.de^
-||*.raiba-gotha.de^
 ||*.raiba-gr.de^
 ||*.raiba-grimma.de^
 ||*.raiba-hoechberg.de^
@@ -11010,6 +10972,7 @@ $denyallow
 ||*.raiba-kaarst.de^
 ||*.raiba-ke-oa.de^
 ||*.raiba-kms.de^
+||*.raiba-kraichgau.de^
 ||*.raiba-mittenwald.de^
 ||*.raiba-moselkrampen.de^
 ||*.raiba-msp.de^
@@ -11019,19 +10982,19 @@ $denyallow
 ||*.raiba-neumarkt-opf.de^
 ||*.raiba-neustadt.de^
 ||*.raiba-oldenburg.de^
-||*.raiba-parsberg-velburg.de^
 ||*.raiba-pfaffenhofen.de^
 ||*.raiba-pfaffenwinkel.de^
 ||*.raiba-rastede.de^
 ||*.raiba-rehling.de^
 ||*.raiba-ried.de^
+||*.raiba-rosbach.de^
 ||*.raiba-roth-schwabach.de^
 ||*.raiba-rupertiwinkel.de^
+||*.raiba-schwabmuenchen.de^
 ||*.raiba-seenplatte.de^
 ||*.raiba-steingaden.de^
 ||*.raiba-suedhardt.de^
 ||*.raiba-ueda.de^
-||*.raiba-wallgau-kruen.de^
 ||*.raiba-welling.de^
 ||*.raiba-westhausen.de^
 ||*.raibacalw.de^
@@ -11041,7 +11004,6 @@ $denyallow
 ||*.raibamol.de^
 ||*.raibank.de^
 ||*.raibawesermarschsued.de^
-||*.raiffeisen-privatbank.de^
 ||*.raiffeisen-volksbank-neustadt.de^
 ||*.raiffeisen.ch^
 ||*.raiffeisen.hu^
@@ -11057,8 +11019,8 @@ $denyallow
 ||*.raiffeisenbank-kaiserstuhl.de^
 ||*.raiffeisenbank-kastellaun.de^
 ||*.raiffeisenbank-lorup.de^
+||*.raiffeisenbank-maitis.de^
 ||*.raiffeisenbank-ottenbach.de^
-||*.raiffeisenbank-plankstetten.de^
 ||*.raiffeisenbank-regensburg.de^
 ||*.raiffeisenbank-rosenstein.de^
 ||*.raiffeisenbank-sinzing.de^
@@ -11088,26 +11050,21 @@ $denyallow
 ||*.rb-bechhofen.de^
 ||*.rb-berghuelen.de^
 ||*.rb-beuerberg.de^
-||*.rb-biberach.de^
 ||*.rb-biebergrund-petersberg.de^
-||*.rb-burghaun.de^
 ||*.rb-burgstaedt.de^
 ||*.rb-chamer-land.de^
-||*.rb-chiemgau-nord.de^
 ||*.rb-deggendorf.de^
 ||*.rb-denzlingen-sexau.de^
 ||*.rb-dietersheim.de^
 ||*.rb-eching.de^
-||*.rb-eggenthal.de^
 ||*.rb-ehingen-hochstraess.de^
 ||*.rb-elln.de^
 ||*.rb-erkelenz.de^
 ||*.rb-eschweiler.de^
-||*.rb-essenbach.de^
 ||*.rb-frankenhardt-stimpfach.de^
+||*.rb-frechen-huerth.de^
 ||*.rb-geiselhoering.de^
 ||*.rb-grabfeld.de^
-||*.rb-graevenwiesbach.de^
 ||*.rb-grainet.de^
 ||*.rb-gymnich.de^
 ||*.rb-hardt-bruhrain.de^
@@ -11122,13 +11079,11 @@ $denyallow
 ||*.rb-holzkirchen-otterfing.de^
 ||*.rb-hs.de^
 ||*.rb-ichenhausen.de^
+||*.rb-im-naabtal.de^
 ||*.rb-kirchweihtal.de^
 ||*.rb-kirtorf.de^
-||*.rb-kitzingerland.de^
-||*.rb-km.de^
 ||*.rb-koetzting.de^
 ||*.rb-lauf.de^
-||*.rb-massbach.de^
 ||*.rb-mehrstetten.de^
 ||*.rb-mittelschwaben.de^
 ||*.rb-muenchen-nord.de^
@@ -11137,6 +11092,7 @@ $denyallow
 ||*.rb-niedere-alb.de^
 ||*.rb-nr.de^
 ||*.rb-oberaudorf.de^
+||*.rb-oberes-gaeu.de^
 ||*.rb-onw.de^
 ||*.rb-os.de^
 ||*.rb-parkstetten.de^
@@ -11144,7 +11100,6 @@ $denyallow
 ||*.rb-rattiszell-konzell.de^
 ||*.rb-reute-gaisbeuren.de^
 ||*.rb-schwaben.de^
-||*.rb-schwandorf-nittenau.de^
 ||*.rb-singoldtal.de^
 ||*.rb-sobland.de^
 ||*.rb-sondelfingen.de^
@@ -11155,11 +11110,9 @@ $denyallow
 ||*.rb-tuerkheim.de^
 ||*.rb-uz.de^
 ||*.rb-voreifel.de^
-||*.rb-wald.de^
 ||*.rb-waldaschaff.de^
 ||*.rb-wegscheid.de^
 ||*.rb-westeifel.de^
-||*.rb-windsbach.de^
 ||*.rb-wl.de^
 ||*.rb-wuestenselbitz.de^
 ||*.rb-wug.de^
@@ -11191,6 +11144,7 @@ $denyallow
 ||*.rbsinternational.com^
 ||*.rbstruvenhuetten.de^
 ||*.rbtodenbuettel.de^
+||*.rbui.de^
 ||*.rbuv.de^
 ||*.rcbconline-corporate.com^
 ||*.rcbconlinebanking.com^
@@ -11214,6 +11168,7 @@ $denyallow
 ||*.robokassa.ru^
 ||*.rocketbank.ru^
 ||*.rodnayasvyaz.ru^
+||*.romsdalsbanken.no^
 ||*.rorosbanken.no^
 ||*.ros.ie^
 ||*.rosavto.ru^
@@ -11240,7 +11195,6 @@ $denyallow
 ||*.rvbmil.de^
 ||*.rvboderspree.de^
 ||*.rvbvarelnordenham.de^
-||*.rvbwemding.de^
 ||*.s-jena.de^
 ||*.s-kukc.de^
 ||*.s-mil.de^
@@ -11320,8 +11274,8 @@ $denyallow
 ||*.sk-westerwald-sieg.de^
 ||*.skagerraksparebank.no^
 ||*.skandia.se^
-||*.skb-badhomburg.de^
 ||*.skb-buehlertal.de^
+||*.skb-dauchingen.de^
 ||*.skb-gemuenden.de^
 ||*.skb-hammah.de^
 ||*.skb-hardt.de^
@@ -11345,7 +11299,6 @@ $denyallow
 ||*.societegenerale.fr^
 ||*.sognbank.no^
 ||*.soknedal-sparebank.no^
-||*.sorexpay.com^
 ||*.southindianbank.com^
 ||*.sovcombank.ru^
 ||*.sozialbank.de^
@@ -11375,6 +11328,7 @@ $denyallow
 ||*.sparkasse-am-niederrhein.de^
 ||*.sparkasse-amberg-sulzbach.de^
 ||*.sparkasse-ansbach.de^
+||*.sparkasse-arnsberg-sundern.de^
 ||*.sparkasse-aurich-norden.de^
 ||*.sparkasse-badneustadt.de^
 ||*.sparkasse-bamberg.de^
@@ -11430,10 +11384,13 @@ $denyallow
 ||*.sparkasse-gm.de^
 ||*.sparkasse-gruenberg.de^
 ||*.sparkasse-guenzburg-krumbach.de^
+||*.sparkasse-guetersloh.de^
+||*.sparkasse-gunzenhausen.de^
 ||*.sparkasse-hagen.de^
 ||*.sparkasse-hamm.de^
 ||*.sparkasse-hanau.de^
 ||*.sparkasse-hannover.de^
+||*.sparkasse-haslach-zell.de^
 ||*.sparkasse-hattingen.de^
 ||*.sparkasse-hegau-bodensee.de^
 ||*.sparkasse-heidelberg.de^
@@ -11446,6 +11403,7 @@ $denyallow
 ||*.sparkasse-hochrhein.de^
 ||*.sparkasse-hochsauerland.de^
 ||*.sparkasse-hochschwarzwald.de^
+||*.sparkasse-hoexter.de^
 ||*.sparkasse-holstein.de^
 ||*.sparkasse-hrv.de^
 ||*.sparkasse-iserlohn.de^
@@ -11492,7 +11450,6 @@ $denyallow
 ||*.sparkasse-neuwied.de^
 ||*.sparkasse-niederbayern-mitte.de^
 ||*.sparkasse-niederlausitz.de^
-||*.sparkasse-noerdlingen.de^
 ||*.sparkasse-nordhorn.de^
 ||*.sparkasse-nuernberg.de^
 ||*.sparkasse-oberhessen.de^
@@ -11523,6 +11480,7 @@ $denyallow
 ||*.sparkasse-rottweil.de^
 ||*.sparkasse-saalfeld-rudolstadt.de^
 ||*.sparkasse-saarbruecken.de^
+||*.sparkasse-schongau.de^
 ||*.sparkasse-schwandorf.de^
 ||*.sparkasse-schwedt.de^
 ||*.sparkasse-schwerte.de^
@@ -11549,7 +11507,6 @@ $denyallow
 ||*.sparkasse-wa-fkb.de^
 ||*.sparkasse-wasserburg.de^
 ||*.sparkasse-wedel.de^
-||*.sparkasse-werl.de^
 ||*.sparkasse-wermelskirchen.de^
 ||*.sparkasse-werra-meissner.de^
 ||*.sparkasse-westmuensterland.de^
@@ -11582,6 +11539,7 @@ $denyallow
 ||*.spk-chemnitz.de^
 ||*.spk-elbe-elster.de^
 ||*.spk-frg.de^
+||*.spk-gengenbach.de^
 ||*.spk-gifhorn-wolfsburg.de^
 ||*.spk-goettingen.de^
 ||*.spk-hef.de^
@@ -11623,7 +11581,6 @@ $denyallow
 ||*.srbank.ru^
 ||*.ssk-bad-pyrmont.de^
 ||*.ssk-cuxhaven.de^
-||*.ssk-felsberg.de^
 ||*.ssk-wunstorf.de^
 ||*.sska.de^
 ||*.sskbo.de^
@@ -11635,6 +11592,7 @@ $denyallow
 ||*.stadtsparkasse-barsinghausen.de^
 ||*.stadtsparkasse-bocholt.de^
 ||*.stadtsparkasse-burgdorf.de^
+||*.stadtsparkasse-emmerich-rees.de^
 ||*.stadtsparkasse-grebenstein.de^
 ||*.stadtsparkasse-haltern.de^
 ||*.stadtsparkasse-hilchenbach.de^
@@ -11666,6 +11624,7 @@ $denyallow
 ||*.takarekbank.hu^
 ||*.tangerine.ca^
 ||*.targobank.de^
+||*.targobank.es^
 ||*.tarjetacencosud.cl^
 ||*.tas24.ua^
 ||*.taunussparkasse.de^
@@ -11733,7 +11692,6 @@ $denyallow
 ||*.unitpay.ru^
 ||*.univest.net^
 ||*.unsere-raiba.de^
-||*.unserevolksbank.de^
 ||*.uphold.com^
 ||*.upma.org^
 ||*.uralfd.ru^
@@ -11754,6 +11712,7 @@ $denyallow
 ||*.vb-alzey-worms.de^
 ||*.vb-amelsbueren.de^
 ||*.vb-ascheberg-herbern.de^
+||*.vb-aw.de^
 ||*.vb-bad-saulgau.de^
 ||*.vb-bbs.de^
 ||*.vb-bia.de^
@@ -11771,6 +11730,7 @@ $denyallow
 ||*.vb-gescher.de^
 ||*.vb-grebenhain.de^
 ||*.vb-halle.de^
+||*.vb-haltern.de^
 ||*.vb-heimbach.de^
 ||*.vb-hohenlimburg.de^
 ||*.vb-hohenlohe.de^
@@ -11793,7 +11753,6 @@ $denyallow
 ||*.vb-piel.de^
 ||*.vb-rb-riedlingen.de^
 ||*.vb-rb.de^
-||*.vb-regensburg.de^
 ||*.vb-reutlingen.de^
 ||*.vb-ruhrmitte.de^
 ||*.vb-saarpfalz.de^
@@ -11806,7 +11765,8 @@ $denyallow
 ||*.vb-stutensee-weingarten.de^
 ||*.vb-ue-saw.de^
 ||*.vb-ueberherrn.de^
-||*.vb-westerkappeln.de^
+||*.vb-ueberwald-gorxheimertal.de^
+||*.vb-untere-saar.de^
 ||*.vb-westerstede.de^
 ||*.vb-wickede.de^
 ||*.vb3.de^
@@ -11818,7 +11778,6 @@ $denyallow
 ||*.vbbremennord.de^
 ||*.vbbs.de^
 ||*.vbcloppenburg.de^
-||*.vbdammer-berge.de^
 ||*.vbdel.de^
 ||*.vbdessau.de^
 ||*.vbdh.de^
@@ -11845,6 +11804,7 @@ $denyallow
 ||*.vbloeningen.de^
 ||*.vblohne-muehlen.de^
 ||*.vblr.de^
+||*.vbneuenkirchen-voerden.de^
 ||*.vbnh.de^
 ||*.vbohz.de^
 ||*.vbos-nordland.de^
@@ -11877,8 +11837,10 @@ $denyallow
 ||*.viseca.ch^
 ||*.visecaone.ch^
 ||*.vlvb.de^
+||*.voba-aschaffenburg.de^
 ||*.voba-aw.de^
 ||*.voba-bigge-lenne.de^
+||*.voba-bkh.de^
 ||*.voba-bl.de^
 ||*.voba-breisgau-nord.de^
 ||*.voba-deisslingen.de^
@@ -11909,12 +11871,9 @@ $denyallow
 ||*.voba-zuff.de^
 ||*.vobabm.de^
 ||*.vobadhk.de^
-||*.vobadill.de^
 ||*.vobadirekt.de^
 ||*.vobadreieich.de^
 ||*.vobaeg.de^
-||*.vobahe.de^
-||*.vobahf.de^
 ||*.vobakl.de^
 ||*.vobakn.de^
 ||*.vobamt.de^
@@ -11960,9 +11919,9 @@ $denyallow
 ||*.volksbank-griesheim.de^
 ||*.volksbank-hameln-stadthagen.de^
 ||*.volksbank-hamm.de^
-||*.volksbank-heilbronn.de^
 ||*.volksbank-heinsberg.de^
 ||*.volksbank-hellweg.de^
+||*.volksbank-heuberg.de^
 ||*.volksbank-hochrhein.de^
 ||*.volksbank-hunsrueck-nahe.de^
 ||*.volksbank-im-mk.de^
@@ -11971,6 +11930,8 @@ $denyallow
 ||*.volksbank-karlsruhe.de^
 ||*.volksbank-kassel-goettingen.de^
 ||*.volksbank-kierspe.de^
+||*.volksbank-kirchheim-nuertingen.de^
+||*.volksbank-kirnau.de^
 ||*.volksbank-koeln-bonn.de^
 ||*.volksbank-krp.de^
 ||*.volksbank-kurpfalz.de^
@@ -12000,6 +11961,7 @@ $denyallow
 ||*.volksbank-rot.de^
 ||*.volksbank-rottweil.de^
 ||*.volksbank-staufen.de^
+||*.volksbank-straubing.de^
 ||*.volksbank-stuttgart.de^
 ||*.volksbank-sulmtal.de^
 ||*.volksbank-trier.de^
@@ -12007,8 +11969,8 @@ $denyallow
 ||*.volksbank-ueberlingen.de^
 ||*.volksbank-ulm-biberach.de^
 ||*.volksbank-vor-ort.de^
+||*.volksbank-welzheim.de^
 ||*.volksbank-weschnitztal.de^
-||*.volksbank-wissmar.de^
 ||*.volksbank-wittenberg.de^
 ||*.volksbank-zwickau.de^
 ||*.volksbanking.de^
@@ -12018,9 +11980,9 @@ $denyallow
 ||*.vostok.bank^
 ||*.vp.ru^
 ||*.vr-amberg.de^
-||*.vr-b.de^
 ||*.vr-bank-alzenau.de^
 ||*.vr-bank-alzey-land-schwabenheim.de^
+||*.vr-bank-dinklage-steinfeld.de^
 ||*.vr-bank-erding.de^
 ||*.vr-bank-landau.de^
 ||*.vr-bank-mittelsachsen.de^
@@ -12029,8 +11991,10 @@ $denyallow
 ||*.vr-bank-nordrhoen.de^
 ||*.vr-bank-online.de^
 ||*.vr-bank-passau.de^
+||*.vr-bank-sw.de^
 ||*.vr-bank-wuerzburg.de^
 ||*.vr-banknordeifel.de^
+||*.vr-bankverein.de^
 ||*.vr-bayernmitte.de^
 ||*.vr-burglengenfeld.de^
 ||*.vr-dachau.de^
@@ -12060,7 +12024,7 @@ $denyallow
 ||*.vrb-niederschlesien.de^
 ||*.vrb-uckermark-randow.de^
 ||*.vrbank-alsheim.de^
-||*.vrbank-am.de^
+||*.vrbank-bamberg.de^
 ||*.vrbank-bayreuth-hof.de^
 ||*.vrbank-coburg.de^
 ||*.vrbank-ellwangen.de^
@@ -12070,21 +12034,21 @@ $denyallow
 ||*.vrbank-hessenland.de^
 ||*.vrbank-hg.de^
 ||*.vrbank-ihn.de^
-||*.vrbank-im-enzkreis.de^
 ||*.vrbank-isar-vils.de^
-||*.vrbank-kf-oal.de^
 ||*.vrbank-mittelhaardt.de^
 ||*.vrbank-mkb.de^
 ||*.vrbank-obb-so.de^
 ||*.vrbank-ostalb.de^
 ||*.vrbank-rendsburg.de^
 ||*.vrbank-suedpfalz.de^
+||*.vrbank-suedthueringen.de^
 ||*.vrbank-suedwestpfalz.de^
 ||*.vrbank-sww.de^
 ||*.vrbank-untertaunus.de^
 ||*.vrbank-weimar.de^
 ||*.vrbank.de^
 ||*.vrbankgl.de^
+||*.vrbankniebuell.de^
 ||*.vrbanknuernberg.de^
 ||*.vrben.de^
 ||*.vrbfw.de^
@@ -12098,7 +12062,6 @@ $denyallow
 ||*.vrmeinebank.de^
 ||*.vrnu.de^
 ||*.vrsta.de^
-||*.vrwm.de^
 ||*.vspk-neustadt.de^
 ||*.vtb-direktbank.de^
 ||*.vtb.az^
@@ -12111,7 +12074,6 @@ $denyallow
 ||*.vwfs.de^
 ||*.vystarcu.org^
 ||*.w-saarplus.de^
-||*.waldecker-bank.de^
 ||*.warburg-bank.de^
 ||*.wartburg-sparkasse.de^
 ||*.wayforpay.com^
@@ -12130,7 +12092,6 @@ $denyallow
 ||*.widiba.it^
 ||*.winbank.gr^
 ||*.winterbacher-bank.de^
-||*.winterlinger-bank.de^
 ||*.wirecardbank.de^
 ||*.wise.com^
 ||*.wizink.es^
@@ -12241,8 +12202,8 @@ $denyallow
 ||*.xero.com^
 ||*.freshbooks.com^
 ||*.kashflow.com^
-||*.prestigecu.org^
 ||*.gov.kr^
+||*.paypal-topup.ee^
 ||*.1177.se^
 ||*.mijnpazio.nl^
 ||*.uwzorgonline.nl^
@@ -12274,7 +12235,6 @@ $denyallow
 ||*.dscloud.me^
 ||*.dscloud.mobi^
 ||*.dsmynas.com^
-||*.dsmynas.org^
 ||*.familyds.com^
 ||*.familyds.net^
 ||*.familyds.org^
@@ -12350,6 +12310,7 @@ $denyallow
 ||*.coinmarketcap.com^
 ||*.1-aclk.net^
 ||*.1aurl.io^
+||*.1aurl.net^
 ||*.2-aclk.net^
 ||*.2performant.com^
 ||*.3-aclk.net^
@@ -12371,6 +12332,7 @@ $denyallow
 ||*.adsmeasurement.com^
 ||*.adspeed.net^
 ||*.adx.io^
+||*.adzerk.com^
 ||*.adzerk.net^
 ||*.aff44.com^
 ||*.affiliate44.com^
@@ -12387,11 +12349,11 @@ $denyallow
 ||*.arttrk.com^
 ||*.atid.me^
 ||*.atimaze.com^
-||*.atlassbx.com^
 ||*.auto-swiat.pl^
 ||*.autopurchase.us^
 ||*.awmonitor.com^
 ||*.aylink.co^
+||*.bdash-tracking.com^
 ||*.beehiiv.com^
 ||*.bfast.com^
 ||*.bigcattracks.com^
@@ -12443,6 +12405,7 @@ $denyallow
 ||*.eacdn.com^
 ||*.ecomclk.com^
 ||*.eonlnm.com^
+||*.eonlnx.com^
 ||*.eulerian.net^
 ||*.ew3.io^
 ||*.findschools.ca^
@@ -12461,11 +12424,14 @@ $denyallow
 ||*.gotravelholidays.com^
 ||*.gsght.com^
 ||*.guenstiger.de^
+||*.healthservices.help^
+||*.homeresource.online^
 ||*.homesrvcs.com^
 ||*.href.li^
 ||*.hubspotemail.net^
 ||*.hubspotlinks.com^
 ||*.iljmp.com^
+||*.impulseonline.shop^
 ||*.ink1001.com^
 ||*.intercom-clicks.com^
 ||*.jdoqocy.com^
@@ -12507,7 +12473,6 @@ $denyallow
 ||*.mkto-ab100241.com^
 ||*.mkto-ab110171.com^
 ||*.mkto-ab110192.com^
-||*.mkto-ab120150.com^
 ||*.mkto-ab130037.com^
 ||*.mkto-ab130188.com^
 ||*.mkto-ab140048.com^
@@ -12539,7 +12504,6 @@ $denyallow
 ||*.mkto-ab350042.com^
 ||*.mkto-ab350123.com^
 ||*.mkto-ab390033.com^
-||*.mkto-ab390129.com^
 ||*.mkto-ab390137.com^
 ||*.mkto-ab390196.com^
 ||*.mkto-ab400068.com^
@@ -12580,6 +12544,7 @@ $denyallow
 ||*.mkto-ab610084.com^
 ||*.mkto-ab620021.com^
 ||*.mkto-ab620024.com^
+||*.mkto-ab620054.com^
 ||*.mkto-ab620071.com^
 ||*.mkto-ab620130.com^
 ||*.mkto-ab630033.com^
@@ -12623,7 +12588,6 @@ $denyallow
 ||*.mkto-lon050143.com^
 ||*.mkto-lon050200.com^
 ||*.mkto-lon060131.com^
-||*.mkto-lon070192.com^
 ||*.mkto-lon080006.com^
 ||*.mkto-lon080059.com^
 ||*.mkto-lon080118.com^
@@ -12632,10 +12596,8 @@ $denyallow
 ||*.mkto-lon090045.com^
 ||*.mkto-lon090082.com^
 ||*.mkto-lon090131.com^
-||*.mkto-lon100051.com^
 ||*.mkto-lon100178.com^
 ||*.mkto-m0106.com^
-||*.mkto-m0111.com^
 ||*.mkto-mlm10010008.com^
 ||*.mkto-n0092.com^
 ||*.mkto-n0243.com^
@@ -12653,7 +12615,6 @@ $denyallow
 ||*.mkto-nld1050007.com^
 ||*.mkto-nld1050103.com^
 ||*.mkto-nld1050130.com^
-||*.mkto-q0155.com^
 ||*.mkto-sj010104.com^
 ||*.mkto-sj010203.com^
 ||*.mkto-sj020238.com^
@@ -12663,8 +12624,6 @@ $denyallow
 ||*.mkto-sj040252.com^
 ||*.mkto-sj050237.com^
 ||*.mkto-sj070141.com^
-||*.mkto-sj070193.com^
-||*.mkto-sj070214.com^
 ||*.mkto-sj070218.com^
 ||*.mkto-sj080048.com^
 ||*.mkto-sj090132.com^
@@ -12676,7 +12635,6 @@ $denyallow
 ||*.mkto-sj160014.com^
 ||*.mkto-sj170174.com^
 ||*.mkto-sj180011.com^
-||*.mkto-sj190094.com^
 ||*.mkto-sj190104.com^
 ||*.mkto-sj200186.com^
 ||*.mkto-sj200191.com^
@@ -12702,7 +12660,6 @@ $denyallow
 ||*.mkto-sj320080.com^
 ||*.mkto-sj330006.com^
 ||*.mkto-sj340004.com^
-||*.mkto-sj360104.com^
 ||*.mkto-sj360142.com^
 ||*.mkto-sj380104.com^
 ||*.mkto-sj380142.com^
@@ -12756,6 +12713,7 @@ $denyallow
 ||*.realestatesrvs.com^
 ||*.rebrandlydomain.com^
 ||*.redirect.at^
+||*.reservationnow.us^
 ||*.restaurant-information.com^
 ||*.rewardtk.com^
 ||*.rtrk.ca^
@@ -12932,7 +12890,6 @@ $denyallow
 ||*.clien.net^
 ||*.ckk.ai^
 ||*.cba.pl^
-||*.brakrock.be^
 ||*.blogtopsites.com^
 ||*.123greetings.com^
 ||*.livejasmin.com^
@@ -12976,6 +12933,7 @@ $denyallow
 ||*.codeproject.com^
 ||*.fhm.com^
 ||*.putlocker.is^
+||*.bjbgc.com^
 ||*.msftconnecttest.com^
 ||*.kastatic.com^
 ||*.phncdn.com^
@@ -13018,6 +12976,7 @@ $denyallow
 ||*.5z8.info^
 ||*.vk.cc^
 ||*.is.gd^
+||*.0x.co^
 ||*.0rz.tw^
 ||*.lnkd.in^
 ||*.aka.ms^
@@ -13326,6 +13285,7 @@ $denyallow
 ||*.exblog.jp^
 ||*.alexa.com^
 ||*.icann.org^
+||*.domraider.io^
 ||*.campaign-archive1.com^
 ||*.census.gov^
 ||*.hbr.org^
@@ -13505,6 +13465,7 @@ $denyallow
 ||*.ukmail.com^
 ||*.nlrb.gov^
 ||*.inscname.net^
+||*.insnw.net^
 ||*.ucweb.com^
 ||*.drp.su^
 ||*.pinnaclesports.com^
@@ -13705,6 +13666,7 @@ $denyallow
 ||*.reseau-canope.fr^
 ||*.dnspod.cn^
 ||*.tigase.net^
+||*.tigase.tech^
 ||*.simplelogin.co^
 ||*.hearstnp.com^
 ||*.noscript.net^
@@ -13830,6 +13792,7 @@ $denyallow
 ||*.16mail.com^
 ||*.188.com^
 ||*.189.cn^
+||*.2-mail.com^
 ||*.21cn.com^
 ||*.2trom.com^
 ||*.4email.net^
@@ -13847,6 +13810,7 @@ $denyallow
 ||*.aim.com^
 ||*.airbnb.com^
 ||*.aircall.io^
+||*.aircraftmail.com^
 ||*.airfrance.com^
 ||*.airmail.cc^
 ||*.airmason.com^
@@ -13855,6 +13819,7 @@ $denyallow
 ||*.aleeas.com^
 ||*.alertmedia.com^
 ||*.aliceadsl.fr^
+||*.aliencamel.com^
 ||*.allergist.com^
 ||*.allmail.net^
 ||*.allstate.com^
@@ -13883,6 +13848,7 @@ $denyallow
 ||*.atriushealth.org^
 ||*.att-mail.com^
 ||*.att.net^
+||*.auctioneer.net^
 ||*.australiamail.com^
 ||*.auth0.com^
 ||*.authentisign.com^
@@ -13909,7 +13875,6 @@ $denyallow
 ||*.bell.ca^
 ||*.bellsouth.net^
 ||*.berlin.com^
-||*.bestmail.us^
 ||*.betterstack.com^
 ||*.beyondtrust.com^
 ||*.bill.com^
@@ -13925,6 +13890,7 @@ $denyallow
 ||*.bofa.com^
 ||*.boldsign.com^
 ||*.brainonfire.net^
+||*.brazilmail.com^
 ||*.brew-meister.com^
 ||*.brex.com^
 ||*.britishairways.com^
@@ -13934,12 +13900,10 @@ $denyallow
 ||*.bynder.com^
 ||*.byspotify.com^
 ||*.calendly.com^
-||*.caliburn.us^
 ||*.californiamail.com^
 ||*.canada.ca^
 ||*.canva.com^
 ||*.caramail.com^
-||*.cardalert.com^
 ||*.carta.com^
 ||*.catlover.com^
 ||*.cbamboo.com^
@@ -13987,6 +13951,7 @@ $denyallow
 ||*.cutey.com^
 ||*.cyber-wizard.com^
 ||*.cyberdude.com^
+||*.cybergal.com^
 ||*.cyberservices.com^
 ||*.dallasmail.com^
 ||*.databricks.com^
@@ -14011,6 +13976,7 @@ $denyallow
 ||*.doctract.com^
 ||*.docusign.com^
 ||*.docusign.net^
+||*.doglover.com^
 ||*.dollarbank.com^
 ||*.doordash.com^
 ||*.doorloop.com^
@@ -14037,7 +14003,7 @@ $denyallow
 ||*.email.com^
 ||*.emailconed.com^
 ||*.emailcorner.net^
-||*.emailgroups.net^
+||*.emailengine.net^
 ||*.emailplus.org^
 ||*.emailrep.io^
 ||*.emailuser.net^
@@ -14065,9 +14031,9 @@ $denyallow
 ||*.facebookenterprise.com^
 ||*.facebookmail.com^
 ||*.fadv.com^
-||*.fast-email.com^
 ||*.fastem.com^
 ||*.fastemailer.com^
+||*.fastmail.de^
 ||*.fastmail.es^
 ||*.fastmail.fm^
 ||*.fastmail.fr^
@@ -14075,6 +14041,7 @@ $denyallow
 ||*.fastmail.jp^
 ||*.fastmail.mx^
 ||*.fastmail.net^
+||*.fastmail.nl^
 ||*.fastmail.se^
 ||*.fastmail.to^
 ||*.fastmail.uk^
@@ -14104,6 +14071,7 @@ $denyallow
 ||*.fmgirl.com^
 ||*.fmguy.com^
 ||*.fontawesome.com^
+||*.foobox.com^
 ||*.fordcredit.com^
 ||*.fortinet.com^
 ||*.forwardemail.net^
@@ -14146,6 +14114,7 @@ $denyallow
 ||*.h-mail.us^
 ||*.hackermail.com^
 ||*.hackerone.com^
+||*.hailmail.net^
 ||*.hairdresser.net^
 ||*.hanmail.net^
 ||*.hashicorp.com^
@@ -14178,7 +14147,6 @@ $denyallow
 ||*.imap.cc^
 ||*.imapmail.org^
 ||*.immerbox.com^
-||*.iname.com^
 ||*.inbox.ru^
 ||*.indeedemail.com^
 ||*.infinitecampus.com^
@@ -14186,7 +14154,6 @@ $denyallow
 ||*.inorbit.com^
 ||*.inoutbox.com^
 ||*.instruction.com^
-||*.instructor.net^
 ||*.interac.ca^
 ||*.intercom-mail.com^
 ||*.intercom.com^
@@ -14201,7 +14168,6 @@ $denyallow
 ||*.ironcladapp.com^
 ||*.iru.com^
 ||*.israelmail.com^
-||*.italymail.com^
 ||*.jetblue.com^
 ||*.jetbrains.com^
 ||*.jnj.com^
@@ -14242,6 +14208,7 @@ $denyallow
 ||*.mail-central.com^
 ||*.mail.com^
 ||*.mail.microsoft^
+||*.mailas.com^
 ||*.mailbolt.com^
 ||*.mailc.net^
 ||*.mailcan.com^
@@ -14249,9 +14216,9 @@ $denyallow
 ||*.mailhaven.com^
 ||*.mailhippo.com^
 ||*.mailite.com^
-||*.mailnew.com^
 ||*.mailsent.net^
 ||*.mailsuite.com^
+||*.mailup.net^
 ||*.mailworks.org^
 ||*.malaysiaairlines.com^
 ||*.mandy.com^
@@ -14369,16 +14336,18 @@ $denyallow
 ||*.pm.me^
 ||*.pnmac.com^
 ||*.pobox.com^
-||*.polandmail.com^
+||*.politician.com^
 ||*.politicopro.com^
 ||*.post.com^
 ||*.postinbox.com^
 ||*.postpro.net^
 ||*.powerapps.com^
 ||*.presidency.com^
+||*.priest.com^
 ||*.primevideo.com^
 ||*.principal.com^
 ||*.programmer.net^
+||*.proinbox.com^
 ||*.promessage.com^
 ||*.proofpointessentials.com^
 ||*.proxyvote.com^
@@ -14424,8 +14393,8 @@ $denyallow
 ||*.sae.org^
 ||*.safeco.com^
 ||*.safrica.com^
-||*.saintly.com^
 ||*.salesforcedevs.com^
+||*.salesperson.net^
 ||*.samerica.com^
 ||*.samsclub.com^
 ||*.samsung-mail.com^
@@ -14440,7 +14409,6 @@ $denyallow
 ||*.secureemailportal.com^
 ||*.seetickets.com^
 ||*.sent.as^
-||*.sent.at^
 ||*.sent.com^
 ||*.sentinelone.com^
 ||*.sentinelone.net^
@@ -14455,7 +14423,6 @@ $denyallow
 ||*.shop.app^
 ||*.shutterstock.com^
 ||*.siemprebox.com^
-||*.siempremail.com^
 ||*.signable.com^
 ||*.signin.aws^
 ||*.signnow.com^
@@ -14476,6 +14443,7 @@ $denyallow
 ||*.socradar.com^
 ||*.sofi.com^
 ||*.solution4u.com^
+||*.songwriter.net^
 ||*.sony.com^
 ||*.southwest.com^
 ||*.spacex.com^
@@ -14517,7 +14485,6 @@ $denyallow
 ||*.thanx.com^
 ||*.thecyberwire.com^
 ||*.theinformation.com^
-||*.theinternetemail.com^
 ||*.thinkific.com^
 ||*.thomsonreuters.com^
 ||*.ticketmaster.com^
@@ -14526,7 +14493,6 @@ $denyallow
 ||*.tmxnet.com^
 ||*.toke.com^
 ||*.tom.com^
-||*.toothfairy.com^
 ||*.torontomail.com^
 ||*.trello.com^
 ||*.tremendous.com^
@@ -14555,6 +14521,7 @@ $denyallow
 ||*.verizon.net^
 ||*.verizonenterprise.com^
 ||*.verizonwireless.com^
+||*.veryfast.biz^
 ||*.vfemail.net^
 ||*.virginatlantic.com^
 ||*.virginaustralia.com^
@@ -14692,7 +14659,6 @@ $denyallow
 ||*.imgbox.com^
 ||*.imgshare.info^
 ||*.imgtaxi.com^
-||*.imgview.pw^
 ||*.jewishquarterly.org^
 ||*.jsfiddle.net^
 ||*.kingdomofloathing.com^
@@ -14743,6 +14709,7 @@ $denyallow
 ||*.sonos.com^
 ||*.soundhound.com^
 ||*.spankbang.com^
+||*.sports-streams-online.xyz^
 ||*.ssl-images-amazon.com^
 ||*.staradvertiser.com^
 ||*.statcounter.com^
@@ -14940,7 +14907,6 @@ $denyallow
 ||*.animusassociation.org^
 ||*.autism-india.org^
 ||*.autism-society.org^
-||*.autism.ie^
 ||*.autismcanada.org^
 ||*.aware.ie^
 ||*.awel.be^
@@ -14966,18 +14932,15 @@ $denyallow
 ||*.caw.be^
 ||*.ccsa.ca^
 ||*.centarsrce.org^
-||*.centermaria.org^
 ||*.centrumseksueelgeweld.nl^
 ||*.chadd.org^
 ||*.childfocus.be^
 ||*.childhelp.org^
 ||*.childhelphotline.org^
 ||*.childhelplineinternational.org^
-||*.childline.ie^
 ||*.childlineindia.org^
 ||*.cmha.ca^
 ||*.cnpea.ca^
-||*.cnzd.org^
 ||*.coalitionforthehomeless.org^
 ||*.connexontario.ca^
 ||*.crcvc.ca^
@@ -14985,6 +14948,7 @@ $denyallow
 ||*.crisisservicescanada.ca^
 ||*.crisistextline.org^
 ||*.crw-bg.org^
+||*.cssnv.org^
 ||*.csspraha.cz^
 ||*.cybertip.org^
 ||*.czzzr.hr^
@@ -15005,8 +14969,6 @@ $denyallow
 ||*.fier.nl^
 ||*.fld.ba^
 ||*.fokus-praha.cz^
-||*.fundatiasensiblu.ro^
-||*.geburt-vertraulich.de^
 ||*.giveusashout.org^
 ||*.good2talk.ca^
 ||*.gov.hr^
@@ -15053,7 +15015,6 @@ $denyallow
 ||*.nami.org^
 ||*.naseeha.org^
 ||*.nationaleatingdisorders.org^
-||*.nationalparenthelpline.org^
 ||*.nazindia.org^
 ||*.ncpgambling.org^
 ||*.ncwwomenhelpline.in^
@@ -15072,30 +15033,27 @@ $denyallow
 ||*.plavi-telefon.hr^
 ||*.plavitelefon.ba^
 ||*.plzensky-kraj.cz^
-||*.pulsfoundation.org^
 ||*.rainn.org^
 ||*.rapecrisishelp.ie^
 ||*.redcross.bg^
 ||*.redcross.ru^
 ||*.reprolegalhelpline.org^
 ||*.rethink.org^
+||*.rocf.org^
 ||*.sadag.org^
 ||*.safebaby.org^
 ||*.safehorizon.org^
 ||*.safenet.bg^
 ||*.safetotalk.nz^
 ||*.safmh.org^
-||*.samaritans.bg^
 ||*.samaritans.org^
 ||*.samaritansmumbai.com^
 ||*.samaritansonlus.org^
 ||*.samhsa.gov^
 ||*.sananim.cz^
 ||*.sane.org^
-||*.saveindianfamily.in^
 ||*.scottishautism.org^
 ||*.sekis-berlin.de^
-||*.selfinjury.com^
 ||*.shallwetalk.hk^
 ||*.sheltersafe.ca^
 ||*.shine.ie^
@@ -15104,9 +15062,7 @@ $denyallow
 ||*.smokefree.gov^
 ||*.snehaindia.org^
 ||*.snehamumbai.org^
-||*.soscentrum.cz^
 ||*.standffov.org^
-||*.starthealing.org^
 ||*.stopitnow.org^
 ||*.suchtundwendepunkt.de^
 ||*.suicideprevention.ca^
@@ -15132,7 +15088,6 @@ $denyallow
 ||*.uksobs.org^
 ||*.vandrevalafoundation.com^
 ||*.veiligthuis.nl^
-||*.vertrouwenscentrum-kindermishandeling.be^
 ||*.veteranscrisisline.net^
 ||*.waregem.be^
 ||*.wavaw.ca^
@@ -15144,11 +15099,10 @@ $denyallow
 ||*.zelfmoord1813.be^
 ||*.zenskapomocsada.hr^
 ||*.zenskasoba.hr^
+||*.zestni.org^
 ||*.asusap.com^
-||*.asusap.net^
 ||*.asusnetwork.net^
 ||*.asusrepeater.com^
-||*.asusrepeater.net^
 ||*.asusrouter.com^
 ||*.asusswitch.com^
 ||*.asusswitch.net^
@@ -15161,6 +15115,7 @@ $denyallow
 ||*.huaweimobilewifi.com^
 ||*.kabel.box^
 ||*.localbattle.net^
+||*.myfritz.box^
 ||*.routerlogin.com^
 ||*.routerlogin.net^
 ||*.steamloopback.host^
@@ -15259,6 +15214,7 @@ $denyallow
 ||*.dst.com^
 ||*.du.ae^
 ||*.econet.net^
+||*.edgemobile.net^
 ||*.ekn.com^
 ||*.elisa.ee^
 ||*.elisa.fi^
@@ -15269,6 +15225,7 @@ $denyallow
 ||*.era.pl^
 ||*.etc.com^
 ||*.etisalat.ae^
+||*.euskaltel.mobi^
 ||*.fastweb.it^
 ||*.fido.ca^
 ||*.free.re^
@@ -15287,7 +15244,6 @@ $denyallow
 ||*.hkcsl.com^
 ||*.iijmio.jp^
 ||*.iliad.it^
-||*.indosat-m3.net^
 ||*.indosat.com^
 ||*.internet.se^
 ||*.internet.tn^
@@ -15307,6 +15263,7 @@ $denyallow
 ||*.meditel.ma^
 ||*.metropcs.net^
 ||*.mineo.jp^
+||*.mms-tf.net^
 ||*.mmsbouygtel.com^
 ||*.mmsc.be^
 ||*.mni.pl^
@@ -15336,12 +15293,11 @@ $denyallow
 ||*.mycricket.com^
 ||*.mymeteor.ie^
 ||*.myq.gr^
-||*.natel.ch^
 ||*.nemont.mobi^
 ||*.nova.gr^
 ||*.nova.is^
 ||*.ntwls.net^
-||*.nwmcell.com^
+||*.nwn.no^
 ||*.o2active.cz^
 ||*.oasis-smartsim.com^
 ||*.oister.dk^
@@ -15391,10 +15347,8 @@ $denyallow
 ||*.smdp.io^
 ||*.sonera.fi^
 ||*.song.fi^
-||*.sonofon.dk^
 ||*.springmobil.se^
 ||*.sprintpcs.com^
-||*.sprocketwireless.com^
 ||*.suncom.net^
 ||*.sunrise.ch^
 ||*.symacom.fr^
@@ -15440,7 +15394,6 @@ $denyallow
 ||*.three.ie^
 ||*.tim.it^
 ||*.tiscali.mobi^
-||*.tmovil.cl^
 ||*.tot3g.net^
 ||*.tracfone.com^
 ||*.tre.it^
@@ -15491,7 +15444,7 @@ $denyallow
 ||*.xlgprs.net^
 ||*.yettel.hu^
 ||*.zain.sd^
-||*.itisatracker.org^
+||*.itisatracker.com^
 ||*.safebrowsing.apple^
 ||*.ntp.se^
 ||*.sptime.se^
@@ -15686,6 +15639,7 @@ $denyallow
 ||*.euronext.com^
 ||*.ew.com^
 ||*.expressen.se^
+||*.fakeshop-finder.nrw^
 ||*.familydollar.com^
 ||*.fanpage.it^
 ||*.federugby.it^
@@ -15879,7 +15833,6 @@ $denyallow
 ||*.oboom.com^
 ||*.observer.com^
 ||*.ohchr.org^
-||*.olivia-ai.org^
 ||*.olx.it^
 ||*.onenote.com^
 ||*.onet.pl^
@@ -16257,13 +16210,13 @@ $denyallow
 ||*.1337x.to^
 ||*.1e100.net^
 ||*.1gr.cz^
-||*.1url.com^
 ||*.1xbet.com^
 ||*.2-spyware.com^
 ||*.21stcenturywire.com^
 ||*.2ch.net^
 ||*.2giga.link^
 ||*.2ip.ru^
+||*.2t.com^
 ||*.36kr.com^
 ||*.39.net^
 ||*.3c.co^
@@ -16289,9 +16242,9 @@ $denyallow
 ||*.active.com^
 ||*.activistpost.com^
 ||*.actonsoftware.com^
+||*.ad.vu^
 ||*.ada.support^
 ||*.adage.com^
-||*.adcolo.com^
 ||*.addevent.com^
 ||*.addr.com^
 ||*.adfinis-sygroup.ch^
@@ -16317,25 +16270,26 @@ $denyallow
 ||*.allekabels.nl^
 ||*.allkpop.com^
 ||*.amap.com^
-||*.amazon.ac^
 ||*.amazon.ad^
 ||*.amazon.ae^
 ||*.amazon.ag^
 ||*.amazon.ai^
+||*.amazon.associates^
 ||*.amazon.at^
 ||*.amazon.autos^
 ||*.amazon.band^
 ||*.amazon.barcelona^
 ||*.amazon.be^
 ||*.amazon.bet^
+||*.amazon.bg^
 ||*.amazon.bi^
+||*.amazon.boutique^
 ||*.amazon.brussels^
 ||*.amazon.by^
 ||*.amazon.cab^
 ||*.amazon.camp^
 ||*.amazon.care^
 ||*.amazon.career^
-||*.amazon.careers^
 ||*.amazon.cg^
 ||*.amazon.ch^
 ||*.amazon.chat^
@@ -16349,7 +16303,6 @@ $denyallow
 ||*.amazon.coffee^
 ||*.amazon.cologne^
 ||*.amazon.condos^
-||*.amazon.cool^
 ||*.amazon.cr^
 ||*.amazon.cz^
 ||*.amazon.dentist^
@@ -16364,9 +16317,9 @@ $denyallow
 ||*.amazon.es^
 ||*.amazon.estate^
 ||*.amazon.eu^
-||*.amazon.events^
 ||*.amazon.exchange^
 ||*.amazon.exposed^
+||*.amazon.fans^
 ||*.amazon.fi^
 ||*.amazon.finance^
 ||*.amazon.florist^
@@ -16374,11 +16327,12 @@ $denyallow
 ||*.amazon.ge^
 ||*.amazon.gg^
 ||*.amazon.gift^
+||*.amazon.global^
+||*.amazon.gp^
 ||*.amazon.gr^
 ||*.amazon.graphics^
 ||*.amazon.gt^
 ||*.amazon.hamburg^
-||*.amazon.hk^
 ||*.amazon.holiday^
 ||*.amazon.how^
 ||*.amazon.hr^
@@ -16386,6 +16340,7 @@ $denyallow
 ||*.amazon.ie^
 ||*.amazon.im^
 ||*.amazon.info^
+||*.amazon.ink^
 ||*.amazon.international^
 ||*.amazon.ir^
 ||*.amazon.irish^
@@ -16393,14 +16348,17 @@ $denyallow
 ||*.amazon.it^
 ||*.amazon.jobs^
 ||*.amazon.jp^
+||*.amazon.ke^
 ||*.amazon.kim^
 ||*.amazon.kn^
 ||*.amazon.la^
-||*.amazon.lighting^
 ||*.amazon.limo^
 ||*.amazon.london^
+||*.amazon.lt^
 ||*.amazon.lu^
 ||*.amazon.lv^
+||*.amazon.management^
+||*.amazon.mba^
 ||*.amazon.me^
 ||*.amazon.melbourne^
 ||*.amazon.menu^
@@ -16408,12 +16366,13 @@ $denyallow
 ||*.amazon.mn^
 ||*.amazon.mx^
 ||*.amazon.my^
+||*.amazon.net^
 ||*.amazon.ng^
 ||*.amazon.ni^
 ||*.amazon.nl^
 ||*.amazon.no^
+||*.amazon.nr^
 ||*.amazon.nyc^
-||*.amazon.ooo^
 ||*.amazon.org^
 ||*.amazon.party^
 ||*.amazon.ph^
@@ -16421,18 +16380,16 @@ $denyallow
 ||*.amazon.pk^
 ||*.amazon.pl^
 ||*.amazon.pr^
-||*.amazon.properties^
 ||*.amazon.pt^
 ||*.amazon.pw^
 ||*.amazon.qpon^
-||*.amazon.quebec^
+||*.amazon.racing^
 ||*.amazon.red^
-||*.amazon.rest^
 ||*.amazon.ro^
 ||*.amazon.rs^
 ||*.amazon.ru^
-||*.amazon.run^
 ||*.amazon.rw^
+||*.amazon.sale^
 ||*.amazon.salon^
 ||*.amazon.school^
 ||*.amazon.science^
@@ -16440,16 +16397,14 @@ $denyallow
 ||*.amazon.se^
 ||*.amazon.services^
 ||*.amazon.sg^
-||*.amazon.shop^
+||*.amazon.shopping^
 ||*.amazon.si^
 ||*.amazon.soccer^
 ||*.amazon.solar^
 ||*.amazon.studio^
 ||*.amazon.su^
 ||*.amazon.sv^
-||*.amazon.sx^
-||*.amazon.tf^
-||*.amazon.theater^
+||*.amazon.tirol^
 ||*.amazon.tj^
 ||*.amazon.tk^
 ||*.amazon.tl^
@@ -16459,7 +16414,7 @@ $denyallow
 ||*.amazon.travel^
 ||*.amazon.tv^
 ||*.amazon.ua^
-||*.amazon.university^
+||*.amazon.video^
 ||*.amazon.vision^
 ||*.amazon.vn^
 ||*.amazon.wine^
@@ -16556,6 +16511,7 @@ $denyallow
 ||*.bing.gr^
 ||*.bing.hu^
 ||*.bing.it^
+||*.bing.no^
 ||*.bing.pl^
 ||*.bing.ru^
 ||*.bing.se^
@@ -16570,6 +16526,7 @@ $denyallow
 ||*.blackberry.com^
 ||*.blacklistednews.com^
 ||*.bleepingcomputer.com^
+||*.blinky.me^
 ||*.blizz.ly^
 ||*.blo.gs^
 ||*.blockadblock.com^
@@ -16600,6 +16557,7 @@ $denyallow
 ||*.cackle.me^
 ||*.cafemom.com^
 ||*.cambridge.org^
+||*.cane.com^
 ||*.canyoublockit.com^
 ||*.carbonads.net^
 ||*.cbsistatic.com^
@@ -16757,7 +16715,6 @@ $denyallow
 ||*.eztv.re^
 ||*.fabric.io^
 ||*.factorio.com^
-||*.fanat.ua^
 ||*.fark.com^
 ||*.fast.com^
 ||*.fast.io^
@@ -16784,6 +16741,7 @@ $denyallow
 ||*.fir.im^
 ||*.firebaseio.com^
 ||*.firstpost.com^
+||*.firstspot.com^
 ||*.fitgirl-repacks.site^
 ||*.flaticon.com^
 ||*.flic.kr^
@@ -17005,6 +16963,7 @@ $denyallow
 ||*.highcharts.com^
 ||*.hindilinks4u.to^
 ||*.hindustantimes.com^
+||*.hit.me^
 ||*.hitf.to^
 ||*.hitfilm.com^
 ||*.hitomi.la^
@@ -17023,7 +16982,6 @@ $denyallow
 ||*.hubspot.net^
 ||*.humansarefree.com^
 ||*.hunkemoller.com^
-||*.hurl.com^
 ||*.huzlers.com^
 ||*.hwcdn.net^
 ||*.hydrax.net^
@@ -17266,6 +17224,7 @@ $denyallow
 ||*.nowtheendbegins.com^
 ||*.npmjs.com^
 ||*.nseindia.com^
+||*.nturl.com^
 ||*.nulledfree.pw^
 ||*.nurl.net^
 ||*.nutrija.com^
@@ -17319,6 +17278,7 @@ $denyallow
 ||*.pcbeta.com^
 ||*.pcmag.com^
 ||*.pdf-archive.com^
+||*.pedr.com^
 ||*.peeksoft.co^
 ||*.performfeeds.com^
 ||*.perksatwork.com^
@@ -17354,6 +17314,7 @@ $denyallow
 ||*.prtimes.jp^
 ||*.pscdn.co^
 ||*.pstmrk.it^
+||*.pu.sh^
 ||*.pugetsystems.com^
 ||*.pushcrew.com^
 ||*.pusher.com^
@@ -17409,7 +17370,6 @@ $denyallow
 ||*.rikka.app^
 ||*.riotpixels.com^
 ||*.riverisland.com^
-||*.rkurl.com^
 ||*.rli.nl^
 ||*.roadandtrack.com^
 ||*.roar.media^
@@ -17442,6 +17402,7 @@ $denyallow
 ||*.searchenginejournal.com^
 ||*.seclists.org^
 ||*.securelist.com^
+||*.securemecca.com^
 ||*.seedr.cc^
 ||*.segment.com^
 ||*.semrush.com^
@@ -17464,7 +17425,6 @@ $denyallow
 ||*.sitepoint.com^
 ||*.skyrock.com^
 ||*.slack-redir.net^
-||*.slaesforce.com^
 ||*.slushpool.com^
 ||*.smartlook.com^
 ||*.smartsheet.com^
@@ -17592,11 +17552,9 @@ $denyallow
 ||*.uptostream.com^
 ||*.ur.ly^
 ||*.urbanspoon.com^
-||*.url.ch^
 ||*.url.com^
 ||*.url.it^
 ||*.url.org^
-||*.urlbd.com^
 ||*.urls.me^
 ||*.urlz.fr^
 ||*.us-cert.gov^
@@ -17731,7 +17689,6 @@ $denyallow
 ||*.mkto-abm0229.com^
 ||*.mkto-sj240014.com^
 ||*.mkto-sj370181.com^
-||*.mkto-sjh0224.com^
 ||*.natfrp.cloud^
 ||*.onethingpcs.com^
 ||*.pangolin-sdk-toutiao.com^
@@ -17958,6 +17915,7 @@ $denyallow
 ||*.bancobic.ao^
 ||*.bancobic.pt^
 ||*.bancobpi.pt^
+||*.bancochile.com^
 ||*.bancofalabella.pe^
 ||*.bancopopolare.it^
 ||*.bancoposta.it^
@@ -17975,6 +17933,7 @@ $denyallow
 ||*.bankofirelanduk.com^
 ||*.bankofoklahoma.com^
 ||*.banksinarmas.com^
+||*.bankvonroll.ch^
 ||*.banque-casino.fr^
 ||*.banquescotia.com^
 ||*.barclayspartnerfinance.com^
@@ -18009,6 +17968,7 @@ $denyallow
 ||*.bzbank.ch^
 ||*.ca-cib.com^
 ||*.ca-egypt.com^
+||*.ca-suisse.com^
 ||*.cafbank.org^
 ||*.cafonline.org^
 ||*.caisse-epargne.com^
@@ -18044,9 +18004,11 @@ $denyallow
 ||*.commerzbank.com^
 ||*.coopbank.dk^
 ||*.corner.ch^
+||*.cornerbanca.ch^
 ||*.cornercard.ch^
 ||*.cornercard.com^
 ||*.corporate-ir.net^
+||*.cosycard.ch^
 ||*.coutts.com^
 ||*.credit-agricole.com^
 ||*.creditagricole.rs^
@@ -18076,14 +18038,13 @@ $denyallow
 ||*.domain.com^
 ||*.doubleclick.com^
 ||*.dovecot.org^
-||*.dresdner-bank.de^
+||*.dsbbank.sr^
 ||*.dsbl.org^
 ||*.duncanlawrie.com^
 ||*.e-gulfbank.com^
 ||*.easybank.at^
 ||*.ebay.de^
 ||*.ecobank.com^
-||*.ediets.com^
 ||*.edwardjones.com^
 ||*.egroups.com^
 ||*.excite.com^
@@ -18163,11 +18124,11 @@ $denyallow
 ||*.myonlineresourcecenter.com^
 ||*.myonlineservices.ch^
 ||*.nate.com^
-||*.nationalesuisse.ch^
 ||*.nbc.ca^
 ||*.netzero.net^
 ||*.newyorkfed.org^
 ||*.nod32.com^
+||*.nordea.lt^
 ||*.nordfynsbank.dk^
 ||*.norman.com^
 ||*.notenstein.ch^
@@ -18183,7 +18144,6 @@ $denyallow
 ||*.passport.com^
 ||*.paylife.at^
 ||*.paypal-community.com^
-||*.paypal-customerfeedback.com^
 ||*.paypal-deutschland.de^
 ||*.paypal-exchanges.com^
 ||*.paypal-notify.com^
@@ -18208,7 +18168,6 @@ $denyallow
 ||*.popolarevicenza.it^
 ||*.postbank.de^
 ||*.postepay.it^
-||*.postfinancearena.ch^
 ||*.price.ru^
 ||*.prodigy.net^
 ||*.rabobank.com^
@@ -18347,23 +18306,31 @@ $denyallow
 ||*.exp-tas.com^
 ||*.microsoft.az^
 ||*.microsoft.ca^
+||*.microsoft.cat^
 ||*.microsoft.ch^
+||*.microsoft.cl^
 ||*.microsoft.cz^
 ||*.microsoft.de^
 ||*.microsoft.dk^
+||*.microsoft.ee^
 ||*.microsoft.es^
+||*.microsoft.eu^
 ||*.microsoft.fi^
 ||*.microsoft.hu^
 ||*.microsoft.io^
 ||*.microsoft.is^
 ||*.microsoft.it^
 ||*.microsoft.jp^
+||*.microsoft.lt^
+||*.microsoft.lv^
 ||*.microsoft.net^
 ||*.microsoft.pl^
+||*.microsoft.pt^
 ||*.microsoft.ro^
 ||*.microsoft.rs^
 ||*.microsoft.ru^
 ||*.microsoft.se^
+||*.microsoft.ua^
 ||*.microsoft.us^
 ||*.microsoft.uz^
 ||*.microsoft.vn^
@@ -18464,13 +18431,16 @@ $denyallow
 ||*.prodregistryv2.org^
 ||*.megaflixapp.top^
 ||*.0emn.com^
+||*.0fmm.com^
 ||*.123freeavatars.com^
 ||*.127.net^
 ||*.1377x.to^
 ||*.13tabs.com^
 ||*.192.com^
 ||*.1gb.ru^
+||*.1guy1cock.com^
 ||*.1man2needles.com^
+||*.1priest1nun.net^
 ||*.1shoppingcart.com^
 ||*.1tk.us^
 ||*.20min.fr^
@@ -18519,7 +18489,6 @@ $denyallow
 ||*.adverticum.net^
 ||*.advise.co^
 ||*.affex.org^
-||*.affiliates-solutions.com^
 ||*.aiemont.com^
 ||*.aii.sh^
 ||*.aimatch.com^
@@ -18527,6 +18496,7 @@ $denyallow
 ||*.alilaguna.it^
 ||*.alivecrm.com^
 ||*.americanlisted.com^
+||*.amospalla.es^
 ||*.androidweblog.com^
 ||*.andronova.net^
 ||*.ankarex.net^
@@ -18581,7 +18551,6 @@ $denyallow
 ||*.brestcity.com^
 ||*.brightdata.com^
 ||*.bttn.io^
-||*.buoydeparturediscontent.com^
 ||*.bz-berlin.de^
 ||*.canarytokens.com^
 ||*.captcha.la^
@@ -18646,6 +18615,7 @@ $denyallow
 ||*.dpuplet.net^
 ||*.dragonblogger.com^
 ||*.driverpack.io^
+||*.dspultra.com^
 ||*.duffelblog.com^
 ||*.dw.com^
 ||*.dylaa.com^
@@ -18657,11 +18627,11 @@ $denyallow
 ||*.efilli.com^
 ||*.eisys-bcs.jp^
 ||*.eldridgestreet.org^
-||*.elementor.cloud^
 ||*.ensighten.com^
 ||*.epidemicproof.com^
 ||*.epsilon.com^
 ||*.espressonisten.de^
+||*.ettoday.com^
 ||*.everesttech.net^
 ||*.evidon.com^
 ||*.eviltracker.net^
@@ -18690,7 +18660,6 @@ $denyallow
 ||*.fruitlauncher.com^
 ||*.fukt.link^
 ||*.fzlnk.com^
-||*.gacorbos.me^
 ||*.game-repack.site^
 ||*.gamesgx.net^
 ||*.gclnk.com^
@@ -18775,7 +18744,6 @@ $denyallow
 ||*.katzr.net^
 ||*.keyade.com^
 ||*.kicker.com^
-||*.kmetija-ploder.com^
 ||*.kochava.com^
 ||*.laureus.com^
 ||*.leads.su^
@@ -18807,7 +18775,6 @@ $denyallow
 ||*.maper.info^
 ||*.marchex.io^
 ||*.marinsm.com^
-||*.masklink.org^
 ||*.mastermind.com^
 ||*.masuk.to^
 ||*.mctrades.org^
@@ -18835,7 +18802,6 @@ $denyallow
 ||*.myaffiliates.com^
 ||*.mylinkinb.io^
 ||*.mypi.co^
-||*.mystats.com^
 ||*.mysterium.network^
 ||*.mytrackcdn.com^
 ||*.myvzw.com^
@@ -18847,7 +18813,6 @@ $denyallow
 ||*.netmera.com^
 ||*.newsbreak.com^
 ||*.nimiq.network^
-||*.novastarled.com^
 ||*.npttech.com^
 ||*.nrich.ai^
 ||*.nsogroup.com^
@@ -18905,7 +18870,6 @@ $denyallow
 ||*.pxc-coding.com^
 ||*.py.md^
 ||*.q-r.to^
-||*.qartvb.com^
 ||*.qr.codes^
 ||*.qrco.de^
 ||*.qrcodedynamic.com^
@@ -18960,6 +18924,7 @@ $denyallow
 ||*.shodanhq.com^
 ||*.shorten.ee^
 ||*.shortu.be^
+||*.shorturl.win^
 ||*.shrturl.site^
 ||*.sht.moe^
 ||*.shtu.be^
@@ -18991,6 +18956,7 @@ $denyallow
 ||*.supercell.net^
 ||*.surl.lt^
 ||*.surveyrouter.com^
+||*.switch.pt^
 ||*.syb.com^
 ||*.sysdig.com^
 ||*.tactilews.com^
@@ -19048,7 +19014,6 @@ $denyallow
 ||*.uplus.kr^
 ||*.url1.io^
 ||*.urladda.com^
-||*.urlto.me^
 ||*.urlvanish.com^
 ||*.urly.fi^
 ||*.urlz.li^
@@ -19093,7 +19058,6 @@ $denyallow
 ||*.y8.com^
 ||*.yadro.ru^
 ||*.yamantap.me^
-||*.yaso.su^
 ||*.yayhooray.com^
 ||*.yep.pt^
 ||*.yeshen.com^
