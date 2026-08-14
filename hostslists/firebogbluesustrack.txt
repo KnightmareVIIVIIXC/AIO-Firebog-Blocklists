@@ -2,9 +2,9 @@
 # Title: The Suspicious-Tracking List
 # Version: Blue
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/
-# Last modified: 2026-08-14T08:34:24.738Z
+# Last modified: 2026-08-14T20:13:18.650Z
 #
-# Rules: 30747
+# Rules: 30752
 #
 # 127.0.0.1 localhost
 # 127.0.0.1 localhost.localdomain
@@ -4570,9 +4570,14 @@
 0.0.0.0 www.chiefsale.com
 0.0.0.0 chienvoyageur.fr
 0.0.0.0 tracking.chilipiper.com
+0.0.0.0 api.stats.ue1.a.app.chime.aws
+0.0.0.0 api.stats.ue1.app.chime.aws
+0.0.0.0 api.stats.ue1.b.app.chime.aws
+0.0.0.0 api.stats.ue1.g.app.chime.aws
 0.0.0.0 mobileanalytics.web.ue1.a.app.chime.aws
 0.0.0.0 mobileanalytics.web.ue1.app.chime.aws
 0.0.0.0 mobileanalytics.web.ue1.b.app.chime.aws
+0.0.0.0 mobileanalytics.web.ue1.g.app.chime.aws
 0.0.0.0 chinese-amezon.com
 0.0.0.0 www.chinesehollywood.com
 0.0.0.0 chinougoo.cfd
