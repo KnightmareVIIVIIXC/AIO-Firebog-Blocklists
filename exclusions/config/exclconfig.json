@@ -106,6 +106,9 @@
 			"source": "https://github.com/privacy-protection-tools/dead-horse/raw/master/anti-ad-white-list.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
+			"source": "https://github.com/raghavdua1995/DNSlock-PiHole-whitelist/raw/master/whitelist.list",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
 			"source": "https://github.com/smed79/easylist-hosts/raw/main/whitelist",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
