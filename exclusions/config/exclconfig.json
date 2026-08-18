@@ -43,9 +43,6 @@
 			"source": "https://github.com/KnightmareVIIVIIXC/notracking-blocklists-scripts/raw/master/hostnames.whitelist.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
-			"source": "https://github.com/pengelana/blocklist/raw/master/src/whitelist/local_oisd_nl_commonly_whitelisted.txt",
-			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
-		}, {
 			"source": "https://github.com/amieiro/disposable-email-domains/raw/master/allowDomains.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
@@ -164,6 +161,9 @@
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
 			"source": "togofire_whitelist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "oisd_commonly_whitelisted.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
 			"source": "oisd_excludes.txt",
