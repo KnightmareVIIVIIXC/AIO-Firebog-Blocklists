@@ -1,8 +1,8 @@
 #
 # Title: Blocklist
-# Last modified: 2026-08-25T08:12:09.415Z
+# Last modified: 2026-08-25T20:30:18.778Z
 #
-# Rules: 111757
+# Rules: 111759
 #
 # 127.0.0.1 localhost
 # 127.0.0.1 localhost.localdomain
@@ -7162,7 +7162,6 @@
 0.0.0.0 anonads.net
 0.0.0.0 anonymised.io
 0.0.0.0 anonymizer.com
-0.0.0.0 anonymous-media.com
 0.0.0.0 anonymous-net.com
 0.0.0.0 www.anonymousads.com
 0.0.0.0 anonymousdemographics.com
@@ -9150,7 +9149,7 @@
 0.0.0.0 app-mobile-solutions.com
 0.0.0.0 app-premiado.com
 0.0.0.0 app-promo.com
-0.0.0.0 app-us1.com
+0.0.0.0 diffuser-cdn.app-us1.com
 0.0.0.0 sp.app.com
 0.0.0.0 app11ee.com
 0.0.0.0 app.app1ecdn.com
@@ -27869,7 +27868,8 @@
 0.0.0.0 contentsitesrv.com
 0.0.0.0 analytics.contentspots.com
 0.0.0.0 contentspread.net
-0.0.0.0 contentsquare.com
+0.0.0.0 app.contentsquare.com
+0.0.0.0 test.contentsquare.com
 0.0.0.0 contentsquare.net
 0.0.0.0 contentstream.pl
 0.0.0.0 um.contentstudio.io
@@ -35926,7 +35926,6 @@
 0.0.0.0 ernments.xyz
 0.0.0.0 ernorvious.com
 0.0.0.0 ero-advertising.com
-0.0.0.0 ero-analytics.com
 0.0.0.0 ero-mangacafe.com
 0.0.0.0 go.eroad.com
 0.0.0.0 eroadvertising.com
@@ -41625,7 +41624,8 @@
 0.0.0.0 geniusdexchange.com
 0.0.0.0 geniusdisplay.com
 0.0.0.0 geniuslinkcdn.com
-0.0.0.0 geniusmonkey.com
+0.0.0.0 pm.geniusmonkey.com
+0.0.0.0 tc.geniusmonkey.com
 0.0.0.0 geniusonclick.com
 0.0.0.0 pixel.geniusplus.ai
 0.0.0.0 geniusreporter.com
@@ -42092,7 +42092,6 @@
 0.0.0.0 d.gfan.com
 0.0.0.0 gfcad.com
 0.0.0.0 go.gfi.org
-0.0.0.0 gfk.com
 0.0.0.0 smart.gflesch.com
 0.0.0.0 gforanythingam.com
 0.0.0.0 gfrevenge.com
@@ -42454,7 +42453,6 @@
 0.0.0.0 gleamingcow.com
 0.0.0.0 gleamingtrade.com
 0.0.0.0 tracker.gleanview.com
-0.0.0.0 gleap.io
 0.0.0.0 gleefulsincerely.com
 0.0.0.0 gleemsub.com
 0.0.0.0 lnk.gleeph.net
@@ -54692,6 +54690,7 @@
 0.0.0.0 popup2.lifterapps.com
 0.0.0.0 lifterpopup.com
 0.0.0.0 liftoff-creatives.io
+0.0.0.0 liftoff.ai
 0.0.0.0 tracks.liftyad.xyz
 0.0.0.0 partnergateway.liga-stavok.com
 0.0.0.0 ligadom.com
@@ -72410,7 +72409,6 @@
 0.0.0.0 muvmobile.com
 0.0.0.0 muwifiext.net
 0.0.0.0 muwmedia.com
-0.0.0.0 muxanalytics.com
 0.0.0.0 muxy.io
 0.0.0.0 banner.muzikus.cz
 0.0.0.0 muzotur.info
@@ -79979,6 +79977,7 @@
 0.0.0.0 pangle-ads.com
 0.0.0.0 pangle-b.io
 0.0.0.0 pangle.io
+0.0.0.0 pangleglobal.com
 0.0.0.0 geoip.pango-paas.co
 0.0.0.0 pangolin-dsp-toutiao.com
 0.0.0.0 pangolin-sdk-toutiao-b.com
@@ -84003,6 +84002,7 @@
 0.0.0.0 propeller-tracking.com
 0.0.0.0 propellerads.com
 0.0.0.0 propellerads.tech
+0.0.0.0 propellerclick.com
 0.0.0.0 propellerpops.com
 0.0.0.0 propelmedia.com
 0.0.0.0 propeltuition.com
@@ -92903,6 +92903,7 @@
 0.0.0.0 client-telemetry.snowflakecomputing.com
 0.0.0.0 snowmiracles.com
 0.0.0.0 snowplow.io
+0.0.0.0 snowplowanalytics.com
 0.0.0.0 aolsvc.snowqueen.ru
 0.0.0.0 sno1.snowrental.com
 0.0.0.0 piwik.snowsat.com
@@ -93182,7 +93183,9 @@
 0.0.0.0 solaropno.co
 0.0.0.0 solartia.com
 0.0.0.0 solarvip.info
-0.0.0.0 solarwinds.com
+0.0.0.0 logs.collector.solarwinds.com
+0.0.0.0 metrics.solarwinds.com
+0.0.0.0 smetrics.solarwinds.com
 0.0.0.0 keyserver.solarwinds.net
 0.0.0.0 smetrics.solaseedair.jp
 0.0.0.0 ads.solatube.com
@@ -94501,7 +94504,6 @@
 0.0.0.0 mailer2.stationcasinos.com
 0.0.0.0 promotions.stationcasinos.com
 0.0.0.0 stationeryart.com
-0.0.0.0 statisfy.net
 0.0.0.0 content.pendo.statista.com
 0.0.0.0 data.statista.com
 0.0.0.0 statistic-data.com
