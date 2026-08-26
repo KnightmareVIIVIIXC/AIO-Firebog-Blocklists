@@ -76,9 +76,6 @@
 			"source": "https://github.com/GoodnessJSON/PiHole-Whitelist/raw/master/lists/referral-sites.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
-			"source": "https://github.com/hemiipatu/PiHoleBlocklists/raw/master/whitelists/whitelist.txt",
-			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
-		}, {
 			"source": "https://github.com/HydraDragonAntivirus/HydraDragonPlatform/raw/development-version/hydradragon/hosts/antivirus_list.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
