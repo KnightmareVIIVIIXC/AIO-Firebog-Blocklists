@@ -1,0 +1,12 @@
+{
+	"name": "AIO Exclusion Request List",
+	"description": "Exclusions for all lists with wildcards",
+	"sources": [{
+			"source": "exclude_mod.txt"
+		}, {
+			"source": "exclude_requests.txt"
+		}, {
+			"source": "exclude_requests_wild.txt"
+		}],
+	"transformations": ["Deduplicate", "RemoveComments", "RemoveEmptyLines"]
+}
