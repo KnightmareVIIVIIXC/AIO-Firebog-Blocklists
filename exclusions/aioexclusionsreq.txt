@@ -1,7 +1,7 @@
 !
 ! Title: AIO Exclusion Request List
 ! Description: Exclusions for all lists with wildcards
-! Last modified: 2026-09-12T17:20:49.707Z
+! Last modified: 2026-09-13T05:28:50.392Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -54,10 +54,11 @@ $denyallow
 ||python.org^
 ||pythonhosted.org^
 ||s.shopify.com^
+||seal.digicert.com^
 ||secure.chase.com^
 ||shifen.com^
-||singular.net^
 ||sina.com.cn^
+||singular.net^
 ||spamhaus.org^
 ||split.io^
 ||sysinternals.com^
