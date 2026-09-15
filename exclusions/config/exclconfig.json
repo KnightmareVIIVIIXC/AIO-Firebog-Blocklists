@@ -91,9 +91,6 @@
 			"source": "https://github.com/neodevpro/neodevhost/raw/master/allow",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
-			"source": "https://github.com/nextdns/click-tracking-domains/raw/main/domains",
-			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
-		}, {
 			"source": "https://github.com/Potterli20/file/raw/main/file-hosts/allow/Domains",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
