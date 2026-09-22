@@ -1,8 +1,8 @@
 #
 # Title: Blocklist
-# Last modified: 2026-09-21T19:32:30.443Z
+# Last modified: 2026-09-22T07:33:03.841Z
 #
-# Rules: 111910
+# Rules: 111974
 #
 # 127.0.0.1 localhost
 # 127.0.0.1 localhost.localdomain
@@ -424,6 +424,7 @@
 0.0.0.0 link.1fo.vin
 0.0.0.0 1freecounter.com
 0.0.0.0 1ggbeto.com
+0.0.0.0 1girl1pitcher.com
 0.0.0.0 1hkmr7jb0.de
 0.0.0.0 1hwy.com
 0.0.0.0 1ink.com
@@ -1023,6 +1024,7 @@
 0.0.0.0 ads.360stepeni.mk
 0.0.0.0 360switch.net
 0.0.0.0 www.360tag.com
+0.0.0.0 display.360totalsecurity.com
 0.0.0.0 hot.m.shouji.360tpcdn.com
 0.0.0.0 track.360tracking.fr
 0.0.0.0 www2.360visualizer.com
@@ -2945,6 +2947,12 @@
 0.0.0.0 vcgw2.ocn.ad.jp
 0.0.0.0 ad.mg
 0.0.0.0 ad.net
+0.0.0.0 ims.ad.nl
+0.0.0.0 kortingscodes.ad.nl
+0.0.0.0 t.ad.nl
+0.0.0.0 temptation.ad.nl
+0.0.0.0 valtaf.ad.nl
+0.0.0.0 voordeel.ad.nl
 0.0.0.0 ad.nu
 0.0.0.0 ad.plus
 0.0.0.0 c.ad.ru
@@ -5619,6 +5627,10 @@
 0.0.0.0 banner.aitcom.net
 0.0.0.0 bannerads.aitcom.net
 0.0.0.0 ads.aitype.net
+0.0.0.0 pop-iad-2.cf.dash.row.aiv-cdn.net
+0.0.0.0 api.eu-west-1.aiv-delivery.net
+0.0.0.0 api.us-east-1.aiv-delivery.net
+0.0.0.0 api.us-west-2.aiv-delivery.net
 0.0.0.0 aivalabs.com
 0.0.0.0 pixel.aivideofeed.com
 0.0.0.0 ro.aiwan4399.com
@@ -7323,6 +7335,9 @@
 0.0.0.0 anxiousapples.com
 0.0.0.0 anxiouslywonderexcitement.com
 0.0.0.0 www.any.gs
+0.0.0.0 analytics.any.run
+0.0.0.0 cllctr.any.run
+0.0.0.0 counter.any.run
 0.0.0.0 anybodyproper.com
 0.0.0.0 cio.anychart.com
 0.0.0.0 ssp.anyclip-media.com
@@ -9243,6 +9258,7 @@
 0.0.0.0 assets-secure.applicaster.com
 0.0.0.0 stars.applicaster.com
 0.0.0.0 track.applicaster.com
+0.0.0.0 applicationinsights.io
 0.0.0.0 applicationmoleculepersonal.com
 0.0.0.0 applicationsattaindevastated.com
 0.0.0.0 applicationstat.com
@@ -10836,6 +10852,12 @@
 0.0.0.0 go.avetta.com
 0.0.0.0 smetrics.aveva.com
 0.0.0.0 avfay.com
+0.0.0.0 mysearch.avg.com
+0.0.0.0 omni.avg.com
+0.0.0.0 rew3dhgd.avg.com
+0.0.0.0 stats.avg.com
+0.0.0.0 toolbar.avg.com
+0.0.0.0 webtuneup.avg.com
 0.0.0.0 engagement.avgbrowser.com
 0.0.0.0 stats.avgbrowser.com
 0.0.0.0 sub2.avgle.com
@@ -10865,6 +10887,8 @@
 0.0.0.0 avidtrak.com
 0.0.0.0 aviewrodlet.com
 0.0.0.0 avilagtitkai.com
+0.0.0.0 notifier.avira.com
+0.0.0.0 redirect.avira.com
 0.0.0.0 secureanalytics.avis.at
 0.0.0.0 secureanalytics.avis.be
 0.0.0.0 img3.avis.com
@@ -16869,6 +16893,8 @@
 0.0.0.0 nst.broadcast.pm
 0.0.0.0 broadcastbed.com
 0.0.0.0 www.broadcaster.com
+0.0.0.0 dxc.dxi-na1.saas.broadcom.com
+0.0.0.0 sw.broadcom.com
 0.0.0.0 broaddoor.com
 0.0.0.0 ads.broadjam.com
 0.0.0.0 link.broadly.com
@@ -17242,6 +17268,10 @@
 0.0.0.0 smart.bulley.com
 0.0.0.0 ads.bullfrogapp.com
 0.0.0.0 bullgame.net
+0.0.0.0 ad.bullguard.com
+0.0.0.0 adv.bullguard.com
+0.0.0.0 deals.bullguard.com
+0.0.0.0 www.bullguard.com
 0.0.0.0 bullion.media
 0.0.0.0 bullionyield.com
 0.0.0.0 bullleather.com
@@ -17689,6 +17719,7 @@
 0.0.0.0 xnbwsp.c-and-a.com
 0.0.0.0 c-c-c-inc.com
 0.0.0.0 c-cf.com
+0.0.0.0 c-ctrip.com
 0.0.0.0 c-date.se
 0.0.0.0 c-i.as
 0.0.0.0 api.c-launcher.com
@@ -17754,6 +17785,7 @@
 0.0.0.0 ad.doubleclick.net.proxy.c9wm.com
 0.0.0.0 ca-conv.jp
 0.0.0.0 a8cv.ca-rent.jp
+0.0.0.0 ca.com
 0.0.0.0 ca4psell23a4bur.com
 0.0.0.0 smetrics.atlantic.caa.ca
 0.0.0.0 caanalytics.com
@@ -20320,7 +20352,6 @@
 0.0.0.0 cite4me.org
 0.0.0.0 smetrics.citeline.com
 0.0.0.0 citi-groupglobal-markets.com
-0.0.0.0 content22.citi.eu
 0.0.0.0 content22.citibank.pl
 0.0.0.0 smetrics.citibank.pl
 0.0.0.0 tracker.citicsinfo.com
@@ -34817,6 +34848,7 @@
 0.0.0.0 stats.ekomenyong.com
 0.0.0.0 ekomi-pl.com
 0.0.0.0 ekomi-us.com
+0.0.0.0 ekomi.com
 0.0.0.0 ekomi.de
 0.0.0.0 ekomi.fr
 0.0.0.0 smart-widget-assets.ekomiapps.de
@@ -35953,6 +35985,13 @@
 0.0.0.0 esendra.fi
 0.0.0.0 mdr.esentire.com
 0.0.0.0 eset-affiliate.de
+0.0.0.0 gallup.eset.com
+0.0.0.0 images.protect-us.eset.com
+0.0.0.0 kjxmcn.eset.com
+0.0.0.0 notify.eset.com
+0.0.0.0 parentalcontrol.eset.com
+0.0.0.0 sitecat.eset.com
+0.0.0.0 ssitecat.eset.com
 0.0.0.0 eshauroo.net
 0.0.0.0 eshield.com
 0.0.0.0 eshkol.one
@@ -39231,6 +39270,7 @@
 0.0.0.0 10079290.fluz.app
 0.0.0.0 flv3mp3.com
 0.0.0.0 go.flvs.net
+0.0.0.0 www.flvto.biz
 0.0.0.0 flvya.com
 0.0.0.0 data.flw.li
 0.0.0.0 flwapp.com
@@ -42260,6 +42300,8 @@
 0.0.0.0 tackchen.gitee.io
 0.0.0.0 retarget.gites-de-france.com
 0.0.0.0 oas.gitextimes.com
+0.0.0.0 analytics.githubassets.com
+0.0.0.0 opengraph.githubassets.com
 0.0.0.0 campaign.gitiho.com
 0.0.0.0 p.gitjournal.io
 0.0.0.0 new-sentry.gitlab.net
@@ -49498,6 +49540,9 @@
 0.0.0.0 ip2c.org
 0.0.0.0 ip2map.com
 0.0.0.0 ip2phrase.com
+0.0.0.0 c.ipaddress.com
+0.0.0.0 trk.ipaddress.com
+0.0.0.0 wh.ipaddress.com
 0.0.0.0 ipamokos.lt
 0.0.0.0 ipanelonline.com
 0.0.0.0 api.ipapi.com
@@ -49760,7 +49805,6 @@
 0.0.0.0 m.ishangtong.com
 0.0.0.0 ishedtotigai.info
 0.0.0.0 analytics.ishopchangi.com
-0.0.0.0 ishortify.com
 0.0.0.0 ishousumo.com
 0.0.0.0 ishumei.com
 0.0.0.0 ishvara-yoga.com
@@ -50067,6 +50111,7 @@
 0.0.0.0 iws.ro
 0.0.0.0 iwstats.com
 0.0.0.0 ix-orp.net
+0.0.0.0 1.f.ix.de
 0.0.0.0 cvhefd.ixbt.com
 0.0.0.0 rose.ixbt.com
 0.0.0.0 jitsu.ixbt.games
@@ -56621,6 +56666,7 @@
 0.0.0.0 mailedit.fr
 0.0.0.0 analytics.maileon.com
 0.0.0.0 mailerapi.com
+0.0.0.0 mailerlite.com
 0.0.0.0 click.ml.mailersend.com
 0.0.0.0 click.mailersend.net
 0.0.0.0 marketing.mailersusa.com
@@ -56798,6 +56844,10 @@
 0.0.0.0 maltablockchainsummit.com
 0.0.0.0 maltawolkowyska.pl
 0.0.0.0 wapster.malutki.pl
+0.0.0.0 genesis.malwarebytes.com
+0.0.0.0 legacy-telemetry.malwarebytes.com
+0.0.0.0 telemetry.malwarebytes.com
+0.0.0.0 udgrbq.malwarebytes.com
 0.0.0.0 malwarebytesrf.ru
 0.0.0.0 malwarecrusher.com
 0.0.0.0 malychanieruchomoscipremium.com
@@ -77009,6 +77059,7 @@
 0.0.0.0 t.nusports.com
 0.0.0.0 accounts-dept-uk.nut.cc
 0.0.0.0 static-net.nut.cc
+0.0.0.0 network.nutaku.net
 0.0.0.0 tr.n.nutella.fr
 0.0.0.0 rb.nutrafol.com
 0.0.0.0 tcpts.nutrafol.com
@@ -80095,6 +80146,7 @@
 0.0.0.0 www.pandamovies.com
 0.0.0.0 pandanetwork.club
 0.0.0.0 a.pandaporner.com
+0.0.0.0 target.pandasecurity.com
 0.0.0.0 102d.pandasuite.io
 0.0.0.0 1e90.pandasuite.io
 0.0.0.0 20bd.pandasuite.io
@@ -80432,6 +80484,7 @@
 0.0.0.0 ads.pastemagazine.com
 0.0.0.0 pastesbin.com
 0.0.0.0 pasticcerialonghitano.it
+0.0.0.0 pastie.org
 0.0.0.0 pastoralroad.com
 0.0.0.0 pastorstudy.org
 0.0.0.0 stats.pastorwagner.com
@@ -80592,6 +80645,7 @@
 0.0.0.0 pcae.de
 0.0.0.0 pcangel.com
 0.0.0.0 pcanywhere.net
+0.0.0.0 pcapredict.com
 0.0.0.0 pcb.com
 0.0.0.0 pcbasicstrength.com
 0.0.0.0 pccasia.xyz
@@ -84600,6 +84654,7 @@
 0.0.0.0 publisherlink.co
 0.0.0.0 publisherride.com
 0.0.0.0 www.publishyourarticles.net
+0.0.0.0 publitas.com
 0.0.0.0 publiweb.it
 0.0.0.0 publixweeklyad.org
 0.0.0.0 publophinik.com
@@ -84970,6 +85025,7 @@
 0.0.0.0 puzzleweb.ru
 0.0.0.0 puzzlingfall.com
 0.0.0.0 puzztake.com
+0.0.0.0 cf-us-popular.dash.pv-cdn.net
 0.0.0.0 pv4u.com
 0.0.0.0 pvclouds.com
 0.0.0.0 pvd.to
@@ -89398,6 +89454,8 @@
 0.0.0.0 savantmedia.com
 0.0.0.0 s.save.ca
 0.0.0.0 www.save.com
+0.0.0.0 newsticker.save.tv
+0.0.0.0 www.save.tv
 0.0.0.0 savecart.pl
 0.0.0.0 rek5.savefrom.net
 0.0.0.0 saveli.com
@@ -89537,6 +89595,7 @@
 0.0.0.0 smetrics.scandichotels.no
 0.0.0.0 smetrics.scandichotels.se
 0.0.0.0 scandicpartners.se
+0.0.0.0 scanguard.com
 0.0.0.0 www.scanjunction.com
 0.0.0.0 scanmonkies.net
 0.0.0.0 scanner-processing.com
@@ -95326,6 +95385,7 @@
 0.0.0.0 stats.production.ps.stylight.net
 0.0.0.0 stats.ps.stylight.net
 0.0.0.0 stylish-airport.com
+0.0.0.0 stylitics.com
 0.0.0.0 stylovemeble.pl
 0.0.0.0 stylowoimodnie.pl
 0.0.0.0 stylux.io
@@ -101240,6 +101300,7 @@
 0.0.0.0 amzn.trendhure.com
 0.0.0.0 trendmd.co
 0.0.0.0 trendmd.com
+0.0.0.0 trendmicro.com
 0.0.0.0 trendmicronano.com
 0.0.0.0 trendnews.com
 0.0.0.0 ads.trendolend.mk
@@ -102193,6 +102254,7 @@
 0.0.0.0 twrank.com
 0.0.0.0 twrencesprin.info
 0.0.0.0 analytics.twtter.com
+0.0.0.0 twttr.com
 0.0.0.0 twyn.com
 0.0.0.0 twyne.io
 0.0.0.0 tb.code.twyxi.com
@@ -107149,6 +107211,8 @@
 0.0.0.0 stats.webriq.com
 0.0.0.0 webrivage.com
 0.0.0.0 webrobi.pl
+0.0.0.0 mysite.webroot.com
+0.0.0.0 sdc.webroot.com
 0.0.0.0 analitica.webrpp.com
 0.0.0.0 osusume.at.webry.info
 0.0.0.0 keikashi.webs.com
