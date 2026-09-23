@@ -82,6 +82,9 @@
 			"source": "https://github.com/Jakearroo/UltimatePiHoleBlockList/raw/master/whitelist.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
+			"source": "https://github.com/KnightmareVIIVIIXC/click-tracking-domains/raw/main/domains",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
 			"source": "https://github.com/KnightmareVIIVIIXC/energizedprotection-unblock/raw/master/basic/formats/domains.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
