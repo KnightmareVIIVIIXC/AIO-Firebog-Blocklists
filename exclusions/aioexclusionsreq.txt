@@ -1,12 +1,10 @@
 !
 ! Title: AIO Exclusion Request List
 ! Description: Exclusions for all lists with wildcards
-! Last modified: 2026-09-25T17:03:36.916Z
+! Last modified: 2026-09-26T05:07:15.688Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
-$badfilter
-$denyallow
 ||abuse.ch^
 ||adaway.org^
 ||adguard-dns.com^
