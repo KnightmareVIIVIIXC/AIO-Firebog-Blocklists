@@ -2,9 +2,9 @@
 # Title: The Tracking List
 # Version: Blue + Green
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/
-# Last modified: 2026-09-30T20:04:59.698Z
+# Last modified: 2026-10-01T08:20:27.822Z
 #
-# Rules: 55911
+# Rules: 55924
 #
 # 127.0.0.1 localhost
 # 127.0.0.1 localhost.localdomain
@@ -76,6 +76,7 @@
 0.0.0.0 123stat.com
 0.0.0.0 h5.analytics.126.net
 0.0.0.0 stat.ws.126.net
+0.0.0.0 webstat.ws.126.net
 0.0.0.0 ads.128b.com
 0.0.0.0 go.128technology.com
 0.0.0.0 ywrcqa.12news.com
@@ -6577,6 +6578,7 @@
 0.0.0.0 gsp1.baidu.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 imgstat.baidu.com
+0.0.0.0 log.news.baidu.com
 0.0.0.0 pos.baidu.com
 0.0.0.0 sfp.safe.baidu.com
 0.0.0.0 wkctj.baidu.com
@@ -14641,6 +14643,7 @@
 0.0.0.0 target.vwfs.co.uk
 0.0.0.0 tdep.suncamp.co.uk
 0.0.0.0 tdf1.easyvoyage.co.uk
+0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 telemetry.boxt.co.uk
 0.0.0.0 tk.airfrance.co.uk
 0.0.0.0 tk.hypnia.co.uk
@@ -17023,6 +17026,7 @@
 0.0.0.0 convertbatch.com
 0.0.0.0 convertcart.com
 0.0.0.0 convertexperiments.com
+0.0.0.0 track.convertfox.com
 0.0.0.0 convertglobal.com
 0.0.0.0 converti.se
 0.0.0.0 convertiblehealth.com
@@ -17955,6 +17959,7 @@
 0.0.0.0 ut.dailyfx.com
 0.0.0.0 tracking.dailyglow.com
 0.0.0.0 pm.dailykos.com
+0.0.0.0 crta.dailymail.com
 0.0.0.0 links.dailypay.com
 0.0.0.0 share.dailypay.com
 0.0.0.0 stats.dailyposter.com
@@ -25111,6 +25116,7 @@
 0.0.0.0 link.gokimboo.com
 0.0.0.0 ebis.gokusen-ichiba.com
 0.0.0.0 analytics.gokwik.co
+0.0.0.0 gkx.gokwik.co
 0.0.0.0 hits.gokwik.co
 0.0.0.0 clnbze.gol24.pl
 0.0.0.0 plausible.goldanger.de
@@ -27632,6 +27638,7 @@
 0.0.0.0 adbmetrics.ideal.es
 0.0.0.0 sadbmetrics.ideal.es
 0.0.0.0 utiq.ideal.es
+0.0.0.0 pulsepoint.ideal.house
 0.0.0.0 col.idealista.com
 0.0.0.0 col.idealista.it
 0.0.0.0 col.idealista.pt
@@ -30577,6 +30584,7 @@
 0.0.0.0 lpfirw.kooding.com
 0.0.0.0 a.koodomobile.com
 0.0.0.0 b.koodomobile.com
+0.0.0.0 trafik.koopit.ist
 0.0.0.0 adat.koponyeg.hu
 0.0.0.0 kopsil.com
 0.0.0.0 app.kora.money
@@ -40973,7 +40981,9 @@
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.cdn.qq.com
 0.0.0.0 beaconcdn.qq.com
+0.0.0.0 browsertdidticket.m.qq.com
 0.0.0.0 dmplog.qq.com
+0.0.0.0 gatherer.m.qq.com
 0.0.0.0 gdt.qq.com
 0.0.0.0 logs.game.qq.com
 0.0.0.0 monitor.music.qq.com
@@ -43122,6 +43132,7 @@
 0.0.0.0 www.s5network1.com
 0.0.0.0 s7ven.com
 0.0.0.0 stats.sa-as.com
+0.0.0.0 p.sa7eer.com
 0.0.0.0 marketing.saa.com
 0.0.0.0 rpfkgf.saarbruecker-zeitung.de
 0.0.0.0 www.saas-eue-1.com
@@ -43775,6 +43786,7 @@
 0.0.0.0 searchplow.com
 0.0.0.0 searchramp.com
 0.0.0.0 beacon.searchspring.io
+0.0.0.0 events.searchtap.net
 0.0.0.0 searedtoast.com
 0.0.0.0 som.sears.com
 0.0.0.0 smetrics.seasearcher.com
@@ -55242,6 +55254,7 @@
 0.0.0.0 t.yesware.com
 0.0.0.0 yext-pixel.com
 0.0.0.0 analytics.yext-static.com
+0.0.0.0 realtimeanalytics.yext.com
 0.0.0.0 yextevents.com
 0.0.0.0 track.yfret.com
 0.0.0.0 ygsm.com
