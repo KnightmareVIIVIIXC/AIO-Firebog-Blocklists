@@ -1,0 +1,10 @@
+{
+	"name": "AIO Exclusion List",
+	"description": "Exclusions for 'Malware' lists, and 'Cross' list with wildcards",
+	"sources": [{
+			"source": "exclusions.txt"
+		}, {
+			"source": "exclusions_wild.txt"
+		}],
+	"transformations": ["Deduplicate", "RemoveComments", "RemoveEmptyLines"]
+}
