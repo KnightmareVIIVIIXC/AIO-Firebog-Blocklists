@@ -40,6 +40,9 @@
 			"source": "https://github.com/KnightmareVIIVIIXC/allowlist/raw/master/aioallowdomlist.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
+			"source": "https://github.com/KnightmareVIIVIIXC/hosts.whitelists/raw/master/whitelist.ookangzheng.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
 			"source": "https://github.com/KnightmareVIIVIIXC/notracking-blocklists-scripts/raw/master/hostnames.whitelist.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
@@ -67,9 +70,6 @@
 			"source": "https://github.com/fabriziosalmi/blacklists/raw/main/whitelist.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
-			"source": "https://github.com/FadeMind/hosts.whitelists/raw/master/whitelist.FadeMind.txt",
-			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
-		}, {
 			"source": "https://github.com/GoodnessJSON/PiHole-Whitelist/raw/master/lists/whitelist.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
@@ -86,6 +86,9 @@
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
 			"source": "https://github.com/KnightmareVIIVIIXC/energizedprotection-unblock/raw/master/basic/formats/domains.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/KnightmareVIIVIIXC/hosts.whitelists/raw/master/whitelist.FadeMind.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
 			"source": "https://github.com/neodevpro/neodevhost/raw/master/allow",
