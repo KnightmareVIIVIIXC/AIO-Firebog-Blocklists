@@ -28,9 +28,6 @@
 			"source": "https://github.com/Dogino/Discord-Phishing-URLs/raw/main/official-domains.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
-			"source": "https://github.com/Freekers/whitelist/raw/master/domains/whitelist.txt",
-			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
-		}, {
 			"source": "https://github.com/hagezi/dns-blocklists/raw/main/wildcard/whitelist-referral-onlydomains.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
@@ -40,10 +37,13 @@
 			"source": "https://github.com/KnightmareVIIVIIXC/allowlist/raw/master/aioallowdomlist.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
-			"source": "https://github.com/KnightmareVIIVIIXC/hosts.whitelists/raw/master/whitelist.ookangzheng.txt",
+			"source": "https://github.com/KnightmareVIIVIIXC/hosts.whitelists/raw/master/whitelist.Freekers.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
-			"source": "https://github.com/KnightmareVIIVIIXC/notracking-blocklists-scripts/raw/master/hostnames.whitelist.txt",
+			"source": "https://github.com/KnightmareVIIVIIXC/hosts.whitelists/raw/master/whitelist.notracking.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/KnightmareVIIVIIXC/hosts.whitelists/raw/master/whitelist.ookangzheng.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
 			"source": "https://github.com/pengelana/blocklist/raw/master/src/whitelist/local_oisd_nl_commonly_whitelisted.txt",
@@ -85,7 +85,7 @@
 			"source": "https://github.com/KnightmareVIIVIIXC/click-tracking-domains/raw/main/domains",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
-			"source": "https://github.com/KnightmareVIIVIIXC/energizedprotection-unblock/raw/master/basic/formats/domains.txt",
+			"source": "https://github.com/KnightmareVIIVIIXC/hosts.whitelists/raw/master/whitelist.EnergizedProtection.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
 			"source": "https://github.com/KnightmareVIIVIIXC/hosts.whitelists/raw/master/whitelist.FadeMind.txt",
