@@ -52,7 +52,7 @@
 
 | ⬜ | `Malicious` |
 |:---:|:---|
-| 🟩 | [abuse.ch URLhaus Host file](https://urlhaus.abuse.ch/downloads/hostfile/) |
+| 🟩 | [abuse.ch URLhaus Host file](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt) |
 | 🟩 | [AssoEchap Stalkerware Indicators](https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts) |
 | 🟩 | [CyberHost.uk Malware Domains](https://lists.cyberhost.uk/malware.txt) |
 | 🟩 | [DandelionSprout Anti-Malware Filter](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt) |
