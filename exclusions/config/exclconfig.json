@@ -85,22 +85,22 @@
 			"source": "https://github.com/KnightmareVIIVIIXC/click-tracking-domains/raw/main/domains",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
+			"source": "https://github.com/KnightmareVIIVIIXC/hosts.whitelists/raw/master/whitelist.anti-ad.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
 			"source": "https://github.com/KnightmareVIIVIIXC/hosts.whitelists/raw/master/whitelist.EnergizedProtection.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
 			"source": "https://github.com/KnightmareVIIVIIXC/hosts.whitelists/raw/master/whitelist.FadeMind.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
+			"source": "https://github.com/KnightmareVIIVIIXC/hosts.whitelists/raw/master/whitelist.raghavdua1995.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
 			"source": "https://github.com/neodevpro/neodevhost/raw/master/allow",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
 			"source": "https://github.com/Potterli20/file/raw/main/file-hosts/allow/Domains",
-			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
-		}, {
-			"source": "https://github.com/privacy-protection-tools/dead-horse/raw/master/anti-ad-white-list.txt",
-			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
-		}, {
-			"source": "https://github.com/raghavdua1995/DNSlock-PiHole-whitelist/raw/master/whitelist.list",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
 			"source": "https://github.com/smed79/easylist-hosts/raw/main/whitelist",
