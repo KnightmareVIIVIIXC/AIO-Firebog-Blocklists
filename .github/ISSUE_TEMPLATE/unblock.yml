@@ -1,6 +1,6 @@
 
-name: Unblock Request
-description: Request the removal of domains.
+name: False Positive Report
+description: Report legitimate domains that are incorrectly blocked.
 title: "Unblock: "
 labels: ["unblock"]
 assignees:
@@ -34,7 +34,7 @@ body:
     id: sources
     attributes:
       label: Which sources are unified in the list?
-      description: Skip this section if using B.O.G. Check all that apply.
+      description: Check all that apply. Skip this section if using the B.O.G. list.
       options:
         - label: Suspicious
         - label: Advertising
