@@ -148,6 +148,12 @@
 			"source": "https://github.com/SystemJargon/filters/raw/main/allowlist/allowlist-request.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
+			"source": "https://github.com/theouterspaced/domains-whitelist/raw/main/allow.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/theouterspaced/domains-whitelist/raw/main/eclectic.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
 			"source": "https://github.com/Ultimate-Hosts-Blacklist/whitelist/raw/master/domains.list",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
