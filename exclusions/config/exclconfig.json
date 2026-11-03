@@ -139,6 +139,21 @@
 			"source": "https://github.com/SystemJargon/allowlists/raw/main/lists/microsoft/microsoft-teams.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
+			"source": "https://github.com/SystemJargon/allowlists/raw/main/lists/streaming/disney-plus.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/allowlists/raw/main/lists/streaming/netflix.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/allowlists/raw/main/lists/streaming/plex.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/allowlists/raw/main/lists/streaming/spotify.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/SystemJargon/allowlists/raw/main/lists/streaming/youtube.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
 			"source": "https://github.com/SystemJargon/filters/raw/main/allowlist/allowlist.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
