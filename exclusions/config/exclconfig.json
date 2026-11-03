@@ -154,6 +154,9 @@
 			"source": "https://github.com/theouterspaced/domains-whitelist/raw/main/eclectic.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
+			"source": "https://github.com/theouterspaced/domains-whitelist/raw/main/other/others.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
 			"source": "https://github.com/Ultimate-Hosts-Blacklist/whitelist/raw/master/domains.list",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
