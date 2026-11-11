@@ -73,6 +73,9 @@
 			"source": "https://github.com/fabriziosalmi/blacklists/raw/main/whitelist.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
+			"source": "https://github.com/fun-ed/blahdns/raw/master/hosts/whitelist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
 			"source": "https://github.com/GoodnessJSON/PiHole-Whitelist/raw/master/lists/whitelist.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
