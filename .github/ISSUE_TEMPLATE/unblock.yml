@@ -1,0 +1,62 @@
+
+name: False Positive Report
+description: Report legitimate domains that are incorrectly blocked.
+title: "Unblock: "
+labels: ["unblock"]
+assignees:
+  - KnightmareVIIVIIXC
+
+body:
+  - type: textarea
+    id: domains
+    attributes:
+      label: Which domains need to be unblocked?
+      description: List all domains you believe should be excluded.
+      placeholder: |
+        example.com
+        subdomain.example.com
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: lists
+    attributes:
+      label: Which list are you using?
+      description: Check all that apply.
+      options:
+        - label: B.O.G.
+        - label: Blue
+        - label: Green
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: sources
+    attributes:
+      label: Which sources are unified in the list?
+      description: Check all that apply. Skip this section if using the B.O.G. list.
+      options:
+        - label: Suspicious
+        - label: Advertising
+        - label: Tracking
+        - label: Malicious
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information
+      description: Provide any additional details that might help investigate this request.
+      placeholder: Optional additional information.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      description: Before submitting this issue, make sure you have completed the following.
+      options:
+        - label: I searched for existing issues related to this domain unblocking request.
+          required: true
+        - label: I confirm that I am human because I can check boxes.
+          required: true
