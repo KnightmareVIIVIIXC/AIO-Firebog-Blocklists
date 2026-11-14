@@ -2,9 +2,9 @@
 # Title: The Tracking List
 # Version: Blue + Green
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/
-# Last modified: 2026-11-13T19:48:57.810Z
+# Last modified: 2026-11-14T07:34:29.603Z
 #
-# Rules: 52951
+# Rules: 52966
 #
 # 127.0.0.1 localhost
 # 127.0.0.1 localhost.localdomain
@@ -4578,6 +4578,7 @@
 0.0.0.0 adnotch.com
 0.0.0.0 smetrics.adnradio.cl
 0.0.0.0 adnxs.com
+0.0.0.0 adnz.co
 0.0.0.0 stat.ado.hu
 0.0.0.0 aepxlg.adobe.com
 0.0.0.0 anapp.adobe.com
@@ -5943,6 +5944,7 @@
 0.0.0.0 elink.altru.org
 0.0.0.0 learn.altsourcesoftware.com
 0.0.0.0 pages.alvarezandmarsal.com
+0.0.0.0 analytics.alvarezrosa.com
 0.0.0.0 alvenda.com
 0.0.0.0 zcjemo.alwaysfashion.com
 0.0.0.0 logapi.alza.cz
@@ -9475,6 +9477,8 @@
 0.0.0.0 share.bookey.app
 0.0.0.0 sstats.bookhostels.com
 0.0.0.0 asanalytics.booking.com
+0.0.0.0 otel-gw.booking.com
+0.0.0.0 sink.gw.booking.com
 0.0.0.0 web-perf.booking.com
 0.0.0.0 sstats.bookingbuddy.com
 0.0.0.0 stats.bookingbuddy.com
@@ -17599,6 +17603,7 @@
 0.0.0.0 hcsmec.decathlon.pt
 0.0.0.0 seyfwl.deccoria.pl
 0.0.0.0 decdna.net
+0.0.0.0 tag.decentriq.com
 0.0.0.0 experience.deceuninck.be
 0.0.0.0 tr.lettre.dechets-infos.com
 0.0.0.0 go.dechra-us.com
@@ -18751,6 +18756,7 @@
 0.0.0.0 m.dq.ca
 0.0.0.0 m.dq.com
 0.0.0.0 dq95d35.com
+0.0.0.0 cdn.visits.dqapis.com
 0.0.0.0 dialog.dqs.de
 0.0.0.0 a8clk.dr-10.com
 0.0.0.0 tracking.dr-10.com
@@ -21951,6 +21957,7 @@
 0.0.0.0 smetrics.fireballwhisky.com
 0.0.0.0 firecatfilms.com
 0.0.0.0 links.firecracker.me
+0.0.0.0 nexus.firecrown.com
 0.0.0.0 cs-notices.fireeye.com
 0.0.0.0 content.firemon.com
 0.0.0.0 fpc.firemountaingems.com
@@ -25351,6 +25358,7 @@
 0.0.0.0 tr.lettre.helianthal.fr
 0.0.0.0 smetrics.helios-gesundheit.de
 0.0.0.0 go.helixlinear.com
+0.0.0.0 analytics.bucks.helixo.co
 0.0.0.0 te.helline.fr
 0.0.0.0 udxsuy.helline.fr
 0.0.0.0 listing-a8-itp.hello-storage.com
@@ -30781,6 +30789,7 @@
 0.0.0.0 liveadexchanger.com
 0.0.0.0 seniorliving.liveatwhitestone.org
 0.0.0.0 livecounter.dk
+0.0.0.0 rybbit-analytics.livecounts.io
 0.0.0.0 a8clk.ap.livede55.com
 0.0.0.0 clkcv.livede55.com
 0.0.0.0 adv.livedoor.com
@@ -41407,6 +41416,7 @@
 0.0.0.0 somni.rocketmortgagesquares.com
 0.0.0.0 somni.rocketpro.com
 0.0.0.0 somni.rocketprotpo.com
+0.0.0.0 rocketserver.net
 0.0.0.0 smetrics.rockettes.com
 0.0.0.0 stats.rocketvalidator.com
 0.0.0.0 rockincontent.net
@@ -46088,6 +46098,7 @@
 0.0.0.0 metrics.taxi.com
 0.0.0.0 branchio.taxibeat.com
 0.0.0.0 taxisubsea.com
+0.0.0.0 taxiwear.com
 0.0.0.0 11b6n4ty2x3.taxliencode.com
 0.0.0.0 stat.taxlive.nl
 0.0.0.0 ta.taxslayer.com
@@ -46754,6 +46765,7 @@
 0.0.0.0 marketing.theinovogroup.com
 0.0.0.0 analytics.theinstitutes.org
 0.0.0.0 customerrelations.theinstitutes.org
+0.0.0.0 fpa-events.theintercept.com
 0.0.0.0 thejavalane.com
 0.0.0.0 link.thejetjournal.com
 0.0.0.0 rgmseo.thejewellershop.com
@@ -48104,7 +48116,9 @@
 0.0.0.0 t-pan.triodos.com
 0.0.0.0 admissions.trios.com
 0.0.0.0 aa-metrics.trip-ai.jp
+0.0.0.0 cdid.trip.com
 0.0.0.0 chloro.trip.com
+0.0.0.0 riskpoc.trip.com
 0.0.0.0 say.hello.tripactions.com
 0.0.0.0 wepany.tripbeat.com
 0.0.0.0 bnc.tripcody.com
@@ -51515,6 +51529,7 @@
 0.0.0.0 smetrics.winfieldunited.com
 0.0.0.0 branch.release.winfooz.com
 0.0.0.0 metrics.wingatehotels.com
+0.0.0.0 edge.wingify.net
 0.0.0.0 iopxiu.wingly.io
 0.0.0.0 email.wingocard.com
 0.0.0.0 wingstowheels.com
