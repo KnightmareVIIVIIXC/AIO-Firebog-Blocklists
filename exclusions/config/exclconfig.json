@@ -70,6 +70,9 @@
 			"source": "https://github.com/dnswarden/blocklist-staging/raw/main/whitelist/whitelistcommon.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
+			"source": "https://github.com/Ellis-808/PiHole-WhitelistURLs/raw/master/urls.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
 			"source": "https://github.com/fabriziosalmi/blacklists/raw/main/whitelist.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
@@ -85,7 +88,13 @@
 			"source": "https://github.com/GoodnessJSON/PiHole-Whitelist/raw/master/lists/referral-sites.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
+			"source": "https://github.com/individual6891/whitelist/raw/main/list.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
 			"source": "https://github.com/Jakearroo/UltimatePiHoleBlockList/raw/master/whitelist.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/KEINOS/BlockList/raw/main/whitelist.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
 			"source": "https://github.com/KnightmareVIIVIIXC/hosts.whitelists/raw/master/whitelist.anti-ad.txt",
@@ -104,6 +113,9 @@
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
 			"source": "https://github.com/lingeringsound/10007_auto/raw/master/Adaway_white_list.prop",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
+			"source": "https://github.com/marcel-westhoff/allowlist_pihole/raw/main/whitelist.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
 			"source": "https://github.com/neodevpro/neodevhost/raw/master/ownallowlist",
