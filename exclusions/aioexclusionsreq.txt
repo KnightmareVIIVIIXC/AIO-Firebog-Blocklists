@@ -1,7 +1,7 @@
 !
 ! Title: AIO Exclusion Request List
 ! Description: Exclusions for all lists with wildcards
-! Last modified: 2026-11-15T17:16:16.047Z
+! Last modified: 2026-11-16T05:20:31.571Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -28,6 +28,7 @@
 ||example.com^
 ||example.org^
 ||firebog.net^
+||fixtures.onet.pl^
 ||giphy.com^
 ||gitforwindows.org^
 ||github.com^
@@ -43,11 +44,13 @@
 ||hyros.com^
 ||ipthreat.net^
 ||jnn-pa.googleapis.com^
+||linksprf.com^
 ||live.com^
 ||localhost.localdomain^
 ||msedge.net^
 ||nextdns.io^
 ||ow.ly^
+||pl.ua^
 ||pypi.org^
 ||python.org^
 ||pythonhosted.org^
@@ -63,6 +66,7 @@
 ||t.co^
 ||t.ly^
 ||tinyurl.com^
+||tn.porngo.xxx^
 ||urbandictionary.com^
 ||vattenfall.nl^
 ||weibo.com^
