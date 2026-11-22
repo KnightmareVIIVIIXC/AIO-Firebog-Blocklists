@@ -27,20 +27,20 @@
 | 🟩 | [AdAway](https://github.com/AdAway/adaway.github.io/raw/master/hosts.txt) |
 | 🟩 | [AdGuard DNS Filter](https://v.firebog.net/hosts/AdguardDNS.txt) |
 | 🟩 | [anudeepND Ad Servers](https://github.com/anudeepND/blacklist/raw/master/adservers.txt) |
-| 🟩 | [Easylist](https://v.firebog.net/hosts/Easylist.txt) |
 | 🟩 | [hostsVN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) |
 | 🟩 | [LanikSJ Admiral](https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt) |
 | 🟩 | [Peter Lowe Adservers](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0&mimetype=plaintext) |
 | 🟧 | [Disconnect Ads](https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt) |
 | 🟧 | [FadeMind Unchecky Ads](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) |
 | 🟧 | [Jdlingyu Ad-wars](https://github.com/KnightmareVIIVIIXC/ad-wars/raw/master/hosts) |
+| 🟦 | [Easylist](https://v.firebog.net/hosts/Easylist.txt) |
 
 | ⬜ | `Tracking` |
 |:---:|:---|
-| 🟩 | [EasyPrivacy](https://v.firebog.net/hosts/Easyprivacy.txt) |
 | 🟩 | [Geoffrey Frogeye First-Party Trackers](https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt) |
 | 🟩 | [UT-Capitole Publicite](https://v.firebog.net/hosts/Prigent-Ads.txt) |
 | 🟩 | [Windows Spy Blocker Hosts](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) |
+| 🟦 | [EasyPrivacy](https://v.firebog.net/hosts/Easyprivacy.txt) |
 | 🟧 | [Developer Dan Ads & Tracking](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) |
 | 🟧 | [FadeMind 2o7 Trackers](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts) |
 | 🟧 | [Geoffrey Frogeye Multi-Party Trackers](https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt) |
