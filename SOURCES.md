@@ -30,10 +30,10 @@
 | 🟩 | [hostsVN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) |
 | 🟩 | [LanikSJ Admiral](https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt) |
 | 🟩 | [Peter Lowe Adservers](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0&mimetype=plaintext) |
+| 🟦 | [Easylist](https://v.firebog.net/hosts/Easylist.txt) |
 | 🟧 | [Disconnect Ads](https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt) |
 | 🟧 | [FadeMind Unchecky Ads](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) |
 | 🟧 | [Jdlingyu Ad-wars](https://github.com/KnightmareVIIVIIXC/ad-wars/raw/master/hosts) |
-| 🟦 | [Easylist](https://v.firebog.net/hosts/Easylist.txt) |
 
 | ⬜ | `Tracking` |
 |:---:|:---|
