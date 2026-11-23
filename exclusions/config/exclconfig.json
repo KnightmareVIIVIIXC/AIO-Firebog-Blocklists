@@ -46,6 +46,9 @@
 			"source": "https://github.com/KnightmareVIIVIIXC/hosts.whitelists/raw/master/whitelist.ookangzheng.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
+			"source": "https://github.com/KnightmareVIIVIIXC/hosts.whitelists/raw/master/whitelist.togofire.txt",
+			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
+		}, {
 			"source": "https://github.com/pengelana/blocklist/raw/master/src/whitelist/local_oisd_nl_commonly_whitelisted.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
@@ -200,9 +203,6 @@
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
 			"source": "https://github.com/ZG089/Re-Malwack/raw/main/whitelist.txt",
-			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
-		}, {
-			"source": "togofire_whitelist.txt",
 			"transformations": ["ConvertToAscii", "Compress", "RemoveModifiers", "TrimLines"]
 		}, {
 			"source": "oisd_excludes.txt",
